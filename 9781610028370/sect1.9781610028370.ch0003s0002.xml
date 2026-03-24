@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0001</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>The Basics of Coding</title>
+   <itemizedlist>
+      <listitem>
+         <para>The 4 code sets primarily used by physicians and other qualified health care professionals (QHPs) to report professional services</para>
+      </listitem>
+      <listitem>
+         <para>Codes for conveying information to a payer in lieu of submitting actual documentation of an encounter or a service</para>
+      </listitem>
+      <listitem>
+         <para>The structure and general conventions of each code set</para>
+      </listitem>
+      <listitem>
+         <para>Important considerations for selecting and transferring codes to claims</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0003s0002s0001">
+      <title>Table 1-1. Health Insurance Portability and Accountability Act of 1996 Code Sets</title>
+      <para>This chapter introduces the official code sets used for reporting pediatric professional services and briefly discusses the guidelines and conventions of each code set. Refer to <emphasis role="italics">Pediatric Coding Basics: An Introduction to Medical Coding</emphasis> for more information on each code set.</para>
+      <para>In the United States, the Health Insurance Portability and Accountability Act (HIPAA) of 1996 requires the use of 5 specific code sets for the purpose of health care transactions. The 4 code sets primarily used by physicians and other QHPs are listed inTable 1-1. The fifth designated code set, <emphasis role="italics">Code on Dental Procedures and Nomenclature</emphasis>, is primarily used to report dental procedures to dental insurance plans.</para>
+      <table frame="all" id="ch0003s0002ta0001">
+         <title>An Introduction to the Official Code Sets</title>
+         <tgroup cols="3">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <thead>
+               <row>
+                  <entry>Code Set and Reporting Purpose</entry>
+                  <entry>Examples</entry>
+                  <entry>Code Set Implementation Schedule</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>ICD-10-CMDiagnoses and other reasons for encounters</entry>
+                  <entry>E66.811 Obesity, class 1Z68.54 Body mass index [BMI] pediatric, ≥95th percentile for age to less than 120% of the 95th percentile for age</entry>
+                  <entry>Semiannually, April 1 and October 1</entry>
+               </row>
+               <row>
+                  <entry>CPTMost professional services, immunization products, and performance measurement tracking</entry>
+                  <entry>99470 Remote physiologic monitoring treatment management services, clinical staff/physician/other QHP time in a calendar month requiring 1 real-time interactive communication with the patient/caregiver during the calendar month; first 10 minutes99457 first 20 minutes99458 each additional 20 minutes90382 RSV, monoclonal antibody, seasonal dose, 0.7 mL, for intramuscular use3044F Most recent hemoglobin A1c (HbA1c) level less than 7% (DM)</entry>
+                  <entry>Category I—Annually January 1 except• Immunization—January 1, July 1, and October 1, or codes designated for rapid or immediate implementation• Proprietary laboratory analyses—January 1, April 1, and July 1• Molecular pathology tier 2 and administrative multianalyte assays with algorithmic analyses—January 1, July 1, and October 1Category II—January 1Category III—January 1, July 1</entry>
+               </row>
+               <row>
+                  <entry>HCPCSaSupplies, medications, some services and quality measures</entry>
+                  <entry>Q4010 Cast supplies, short arm cast, adult (11 years +), fiberglassJ0165 Injection, epinephrine, not otherwise specified, 0.1 mg</entry>
+                  <entry>Annually—January 1—and quarterly for temporary codes January 1, April 1, July 1, and October 1</entry>
+               </row>
+               <row>
+                  <entry>NDCSpecific prescription drug, vaccine, and insulin products and dosages</entry>
+                  <entry>49281-0575-00 Respiratory syncytial virus (RSV) monoclonal antibody, IgG1κ, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months (Beyfortus, Sanofi Pasteur)</entry>
+                  <entry>Required with any change to the product (eg, product name, dosage, composition, packaging)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <superscript>a</superscript> Also known as Level I of the HCPCS code set.</para>
+      <para>
+         <superscript>b</superscript> Refers to Level II HCPCS codes assigned by the CMS. HCPCS codes are reported for services only when a CPT code does not describe the service as covered by health plan benefits.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Code sets facilitate communication of standardized health information for purposes such as prior authorization of medical care and submission of health care claims in pediatric practice. Understanding the purpose and constructs of the 4 code sets used by physicians is important for successful interactions with health plans and supports accurate health care statistics.</para>
+      <para>New and revised codes are listed as quick references on pages XIII to XVI and in <emphasis role="bold">Appendix I</emphasis>.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Quick Reference to 2026 <emphasis role="italics">CPT</emphasis> Pediatric Code Changes (effective with services provided on or after January 1, 2026)</para>
+         </listitem>
+         <listitem>
+            <para>Quick Reference to 2026 <emphasis role="italics">ICD-10-CM</emphasis> Pediatric Code Changes (effective with services provided on or after October 1, 2025)</para>
+         </listitem>
+      </itemizedlist>
+      <para>The place of service (POS) code set, maintained by the Centers for Medicare &amp; Medicaid Services (CMS), is an additional code set that is required on claims. POS codes are 2-digit codes that identify the setting (eg, 11 office) in which a service was provided such that a claims system can differentiate sites of service to apply payer policies and payment differentials (eg, facility or non-facility relative value units [RVUs]). Practice management and billing systems often automatically assign POS codes based on the site of service selected during charge entry. Refer to <emphasis role="bold">Chapter 4</emphasis> for more information on POS codes.</para>
+      <sect3 id="ch0003s0002s30001">
+         <title>An Introduction to the Official Code Sets</title>
+         <sect4 id="ch0003s0002s0001s01s01">
+            <title>Telling the Encounter Story</title>
+            <para>Because physicians do not submit full documentation, various code sets and other supportive information (eg, procedure code modifiers) tell payers what happened and what is represented by the fees listed on each claim line (Table 1-2).</para>
+            <para>Codes submitted on a claim tell the story of what happened during a patient encounter. Yet documentation of an encounter must support the codes assigned for each diagnosis and service and may be requested by a payer to support the accuracy of code assignment. The following 7 general principles of documentation apply to all services:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>The medical record should be complete and legible.</para>
+               </listitem>
+               <listitem>
+                  <para>The documentation of each patient encounter should include</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Reason for the encounter and relevant history, physical examination findings, and prior diagnostic test results</para>
+                     </listitem>
+                     <listitem>
+                        <para>Assessment, clinical impression, or diagnosis</para>
+                     </listitem>
+                     <listitem>
+                        <para>Plan for care</para>
+                     </listitem>
+                     <listitem>
+                        <para>Date and legible identity of the observer</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>If not documented, the rationale for ordering diagnostic and other ancillary services should be easily inferred.</para>
+               </listitem>
+               <listitem>
+                  <para>Past and present diagnoses should be accessible to the treating and/or consulting physician.</para>
+               </listitem>
+               <listitem>
+                  <para>Appropriate health risk factors should be identified. Social determinants of health (SDoH) should be documented.</para>
+               </listitem>
+               <listitem>
+                  <para>The patient's progress, response to and changes in treatment, and revision of diagnosis should be documented.</para>
+               </listitem>
+               <listitem>
+                  <para>The <emphasis role="italics">Current Procedural Terminology</emphasis> (CPT) and <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) codes reported on the health insurance claim form or billing statement should be supported by the documentation in the medical record.</para>
+               </listitem>
+            </orderedlist>
+            <table frame="all" id="ch0003s0002ta0002">
+               <title>Telling the Encounter Story</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Code or Modifier</entry>
+                        <entry>Information Provided</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>Why were services rendered?</entry>
+                     </row>
+                     <row>
+                        <entry>CPT/HCPCS</entry>
+                        <entry>What services or supplies were provided?</entry>
+                     </row>
+                     <row>
+                        <entry>Modifier</entry>
+                        <entry>Was something about the service altered or not routine?</entry>
+                     </row>
+                     <row>
+                        <entry>NDC</entry>
+                        <entry>Which medicine or immunization product and dosage were administered?</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0003s0002s0002">
+      <title>International Classification of Diseases, 10th Revision, Clinical Modification</title>
+      <para>
+         <emphasis role="italics">ICD-10-CM</emphasis> codes, which physicians use to assign diagnoses and other reasons for encounters, are used in payment and public health data.</para>
+      <para>Updates to <emphasis role="italics">ICD-10-CM</emphasis> are implemented each April 1 and October 1. New codes are published a few months before implementation.</para>
+      <sect3 id="ch0003s0002s30002">
+         <title>International Classification of Diseases, 10th Revision, Clinical Modification</title>
+         <sect4 id="ch0003s0002s0002s01s01">
+            <title>Effect of Diagnosis Codes on Payment and Patient Access to Care</title>
+            <para>Although the values assigned to procedure codes are generally the basis for amounts paid for services, payers are increasingly using <emphasis role="italics">ICD-10-CM</emphasis> codes when determining the appropriateness of services submitted on a claim (eg, level of evaluation and management [E/M] service). <emphasis role="italics">ICD-10-CM</emphasis> codes are also used in prior authorization of services. Use of the most specific code for the diagnosis known at the time of an encounter may facilitate both payment and approval of additional health care services. Diagnosis codes are also used to inform and measure the effectiveness of population health efforts.</para>
+            <para>Importantly, many payers now use automated prepayment claims analysis that compares the <emphasis role="italics">ICD-10-CM</emphasis> and procedure codes reported to determine whether certain services (eg, E/M services) will be paid at the level reported. Correct use of <emphasis role="italics">ICD-10-CM</emphasis> codes may prevent delayed payment.</para>
+            <para>Complete documentation of diagnoses and correct assignment of <emphasis role="italics">ICD-10-CM</emphasis> codes also support payment methods other than fee for service. These include value-based purchasing methodologies and payment for meeting quality and performance measures.</para>
+            <para>Correct and complete diagnosing is necessary to communicate to the health plan the disease burden of your patients, because the assigned diagnoses drive risk adjustment. Risk adjustment is used to set the expected cost of care for a patient panel. Failure to show the true nature of each patient's health status may have a short-term effect on rates paid per visit and long-term implications in contracting with health plans.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Refer to Chapters 3 and 4 for more information on coding to demonstrate quality, risk adjustment, and value-based payment methodologies.</emphasis>
+               </para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0003s0002s0002s01s02">
+            <title>ICD-10-CM Guidelines</title>
+            <para>The official conventions found in the <emphasis role="italics">ICD-10-CM Official Guidelines for Coding and Reporting</emphasis> are outlined in sections that include descriptions of symbols, abbreviations, and other instructional notes. The guidelines are organized in to 4 sections. Only Sections I and IV pertain to reporting physician services. Sections II and III relate to hospital or facility technical services and are not discussed here. <emphasis role="italics">ICD-10-CM</emphasis> guidelines can be found in <emphasis role="italics">ICD-10-CM</emphasis> manuals or at www.cdc.gov/nchs/icd/icd-10-cm/files.html.</para>
+            <para>The following excerpts from <emphasis role="italics">ICD-10-CM</emphasis> guidelines provide an overview of the information pertinent to pediatric care as provided in each section of the guidelines.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ◆, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
