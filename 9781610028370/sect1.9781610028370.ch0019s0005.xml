@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0019s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0019s0005</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>15. Hospital Care of the Newborn</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 15. HOSPITAL CARE OF THE NEWBORN</title>
+   <table frame="all" id="ch0019s0005ta0001">
+      <title>CHAPTER 15. HOSPITAL CARE OF THE NEWBORN</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>Z38.00 (single liveborn, delivered vaginally)</entry>
+               <entry>99223 (initial hospital inpatient or observation care with moderate level MDM or ≥70 minutes of total time)</entry>
+            </row>
+            <row>
+               <entry>P22.1 (transient tachypnea of the newborn)</entry>
+               <entry>99418 (prolonged inpatient/observation E/M service[s] time with or without direct patient contact beyond the required time of the primary service when the primary service level has been selected using total time, each 15 minutes of total time)</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc>
+   <tocinfo>
+      <risinfo>
+         <isbn>9781610028370</isbn>
+      </risinfo>
+   </tocinfo>
+   <title>Coding for Pediatrics 2026</title>
+
+   <tocfront linkend="ch0001s0008">Foreword</tocfront>
+   <tocfront linkend="ch0001s0008s0001">Acknowledgments</tocfront>
+   <tocfront linkend="ch0001s0008s0002">Quick Reference to 2026 CPT&#xAE; Pediatric Code Changes</tocfront>
+   <tocfront linkend="ch0001s0008s0003">How to Use This Manual</tocfront>
+   <tocfront linkend="ch0001s0008s0004">Coding for Pediatrics 2026 Road Map</tocfront>
+
+   <tocpart>
+      <tocentry linkend="pt0001">Part 1. Coding Basics and Business Essentials</tocentry>
+      <tocchap>
+         <tocentry linkend="ch0003">Chapter 1</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0003s0002">The Basics of Coding</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0004">Chapter 2</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0004s0002">Coding Edits and Modifiers</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0005">Chapter 3</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0005s0002">Coding to Demonstrate Quality and Value</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0006">Chapter 4</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0006s0002">The Business of Medicine: Working With Current and Emerging Payment Systems</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0007">Chapter 5</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0007s0002">Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0008">Chapter 6</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0008s0002">Evaluation and Management Documentation Guidelines</tocentry>
+         </toclevel1>
+      </tocchap>
+   </tocpart>
+
+   <tocpart>
+      <tocentry linkend="pt0002">Part 2. Primarily for the Office and Other Outpatient Settings</tocentry>
+      <tocchap>
+         <tocentry linkend="ch0010">Chapter 7</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0010s0002">Non-Preventive Evaluation and Management Services in Outpatient Settings</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0011">Chapter 8</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0011s0002">Preventive Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0012">Chapter 9</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0012s0002">Indirect Management of Chronic and Complex Conditions</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0013">Chapter 10</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0013s0002">Mental and Behavioral Health Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0014">Chapter 11</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0014s0002">Common Testing and Therapeutic Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0015">Chapter 12</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0015s0002">Nonphysician Qualified Health Care Professional Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0016">Chapter 13</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0016s0002">Surgery, Infusion, and Sedation in the Outpatient Setting</tocentry>
+         </toclevel1>
+      </tocchap>
+   </tocpart>
+
+   <tocpart>
+      <tocentry linkend="pt0003">Part 3. Primarily for Hospital Settings</tocentry>
+      <tocchap>
+         <tocentry linkend="ch0018">Chapter 14</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0018s0002">Emergency Department Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0019">Chapter 15</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0019s0002">Hospital Care of the Newborn</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0020">Chapter 16</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0020s0002">Noncritical Hospital Evaluation and Management Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0021">Chapter 17</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0021s0002">Critical and Intensive Care</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0022">Chapter 18</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0022s0002">Common Surgical Procedures and Sedation in Facility Settings</tocentry>
+         </toclevel1>
+      </tocchap>
+   </tocpart>
+
+   <tocpart>
+      <tocentry linkend="pt0004">Part 4. Digital Medicine Services</tocentry>
+      <tocchap>
+         <tocentry linkend="ch0024">Chapter 19</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0024s0002">General Telemedicine Coding and Documentation Concepts</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0025">Chapter 20</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0025s0002">Outpatient Telemedicine and Online Digital Services</tocentry>
+         </toclevel1>
+      </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0026">Chapter 21</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0026s0002">Remote Data Collection and Monitoring Services</tocentry>
+         </toclevel1>
+      </tocchap>
+   </tocpart>
+
+   <tocchap>
+      <tocentry linkend="ch0027">Appendixes</tocentry>
+      <toclevel1>
+         <tocentry linkend="ch0028s0001">Appendix I. Quick Reference to 2026 ICD-10-CM Pediatric Code Changes</tocentry>
+      </toclevel1>
+      <toclevel1>
+         <tocentry linkend="ch0029s0001">Appendix II. Test Your Knowledge! Answer Key</tocentry>
+      </toclevel1>
+   </tocchap>
+
+   <tocchap>
+      <tocentry linkend="ch0030">Indexes</tocentry>
+      <toclevel1>
+         <tocentry linkend="ch0030">Subject Index</tocentry>
+      </toclevel1>
+   </tocchap>
+</toc>
