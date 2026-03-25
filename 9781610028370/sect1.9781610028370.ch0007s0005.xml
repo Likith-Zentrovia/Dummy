@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0007s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0007s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0007s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0007s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>7</chapternumber>
+         <chapterid>ch0007</chapterid>
+         <chaptertitle>5. Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Topics to Address in a Compliance Program</title>
+   <sect2 id="ch0007s0005s20003">
+      <title/>
+      <sect3 id="ch0007s0005s30005">
+         <title/>
+         <sect4 id="ch0007s0005s0001s01s01">
+            <title>Coding and Billing</title>
+            <para>The following billing risk areas are frequent areas of investigations and audits by the HHS OIG and should be addressed in a good compliance program:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Billing for items or services not provided or not provided asclaimed</para>
+               </listitem>
+               <listitem>
+                  <para>Submitting claims for equipment, medical supplies, and services that are not reasonable and necessary</para>
+               </listitem>
+               <listitem>
+                  <para>Double billing or billing separately for bundled services</para>
+               </listitem>
+               <listitem>
+                  <para>Billing for noncovered services as if covered</para>
+               </listitem>
+               <listitem>
+                  <para>Known misuse of NPIs, which results in improper billing</para>
+               </listitem>
+               <listitem>
+                  <para>Misuse of modifiers</para>
+               </listitem>
+               <listitem>
+                  <para>Consistently under- or over-coding services (eg, using only 1 E/M service code within a category of service)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Other areas that may trigger an audit include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Profile of services reported differs from payer profiles of physicians of your specialty whose patient population has similar health care coexisting conditions.</para>
+               </listitem>
+               <listitem>
+                  <para>Repeated inappropriate use of unspecified diagnosis codes or use of codes that are not consistent with the service or your specialty.</para>
+               </listitem>
+               <listitem>
+                  <para>Surgical services not consistent with claims submitted by a facility.</para>
+               </listitem>
+               <listitem>
+                  <para>Number of procedures or services reported exceeds the hours in a day.</para>
+               </listitem>
+               <listitem>
+                  <para>High numbers of denials.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0007s0005s0001s01s02">
+            <title>Medical Record Documentation</title>
+            <para>One of the most important physician practice compliance issues is the appropriate documentation of diagnosis and treatment. Patients and other providers must beable to trust that information within shared records is accurate and actionable for the care of the patient.</para>
+            <para>Compliant documentation must encompass not only what should be documented but also what must besafeguarded from inaccuracies and potential noncompliant access to or disclosure of information.</para>
+            <para>The written compliance plan should specify that medical record documentation should comply with the following documentation principles and guidelines:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The medical record should be complete (and legible, when handwritten) and individualized for each patient encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not allow <emphasis role="italics">cut-and-paste</emphasis> functionality in the EHR. (Cutting information from a prior entry is not an acceptable practice.) Any form of copying and pasting, copying forward, macros, or auto-population should beregulated by office policies that address maintenance of record integrity and supplementation via free text, where indicated.</para>
+               </listitem>
+               <listitem>
+                  <para>Retain all signatures when there are multiple authors or contributors to a document so individual contributions are unambiguously identified. For additional information about documentation by multiple authors, refer to the "Coding Conundrum: Pitfalls of Electronic Health Record Coding" box.</para>
+               </listitem>
+               <listitem>
+                  <para>All clinical staff should receive initial and periodic education on compliant medical record documentation, including use of EHR functionality, use of individual sign-on, and appropriate access to records as applicable.</para>
+               </listitem>
+               <listitem>
+                  <para>Documentation should be completed at the time of service or as soon as possible afterward. State regulations or payer policy may limit the time for record completion, including authentication (signature and date application).</para>
+               </listitem>
+               <listitem>
+                  <para>The documentation of each patient encounter should include the reason for the encounter; any relevant history; physical examination findings; prior diagnostic test results, when pertinent; assessment, clinical impression, or diagnosis; plan of care; and date and legible identity of the observer.</para>
+               </listitem>
+               <listitem>
+                  <para>If not documented, the rationale for ordering diagnostic and other ancillary services should be easily inferred by an independent reviewer or third party.</para>
+               </listitem>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊗, telemedicine; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0007s0005s0001s01s03">
+            <title>Coding Conundrum: Pitfalls of Electronic Health Record Coding</title>
+            <para>One advantage to using EHRs is enhanced documentation of services. Documentation of an E/M service may be easier when templates or drop-down options are used and legibility is not an issue. But there are disadvantages to documenting in an EHR. When completing an audit, be aware of the following pitfalls:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Templates may not accurately describe pertinent patient history or abnormal findings on examination. Some EHRs do not allow free texting, thereby prohibiting more detailed, appropriate documentation. If a system does not allow free texting, work with the vendor to add this capability, or add all abnormal findings that might be pertinent to the template so documentation can be complete and accurate.</para>
+               </listitem>
+               <listitem>
+                  <para>Avoid templates and documentation tools that feature predefined text that may include information not relevant to the patient presentation and/or services rendered. Review and edit all default data to ensure that only patient-specific data are recorded for that visit, while removing all other irrelevant data pulled in by the default template.</para>
+               </listitem>
+               <listitem>
+                  <para>Become familiar with the way the EHR constructs a note from the data entered in each field and how the system may be customized to enhance the final note.</para>
+               </listitem>
+               <listitem>
+                  <para>Include only the problems that are evaluated and managed in determining the level of medical decision-making (MDM). Diagnostic tests and treatment options that are discussed but not selected after discussion with the patient; however, do count toward amount and/or complexity of data to be reviewed and analyzed or the risk of management that contributes to the level of MDM. Therefore, physicians should document those options considered and discussed but not selected.</para>
+               </listitem>
+               <listitem>
+                  <para>The EHR usually captures documentation, whether performed by ancillary staff or the provider. Make certain it is clear who documented each portion of a service. For example, when a nurse, a pediatrician, and an obstetrician each enter portions of a delivery summary, the work of each individual may not be clearly identifiable. (EHR systems include audit trails that may be used to prove who entered specific elements of documentation. It is important to understand how the practice's EHR system creates and produces an audit trail.)</para>
+               </listitem>
+               <listitem>
+                  <para>The EHR audit log should always beenabled to ensure it creates an accurate chronological history of changes to the EHR. Practice procedures should describe any exceptions, including who can disable the log and when this may be appropriate.</para>
+               </listitem>
+               <listitem>
+                  <para>Scribes are not providers of items and services. When a scribe documents an encounter, the CMS does not require the scribe to sign and date the documentation. The treating physician's or QHP's signature on a note indicates affirmation from the physician/QHP that the note adequately documents the care provided. Private payers may have different documentation requirements.</para>
+               </listitem>
+               <listitem>
+                  <para>Review any information that is automatically carried forward by an EHR (eg, previous problems, medication lists) to verify it is still accurate, and document the review of the pertinent information.</para>
+               </listitem>
+               <listitem>
+                  <para>List the diagnosis chiefly responsible for the services provided first. The EHR should capture the diagnoses in the order in which they are documented (ie, not reorder alphabetically or otherwise).</para>
+               </listitem>
+               <listitem>
+                  <para>To support management options, it may be necessary to document the diagnoses being considered. These suspected or rule-out diagnoses should not be reported on claims for services provided in the outpatient setting.</para>
+               </listitem>
+               <listitem>
+                  <para>Make certain that any separately reportable procedure or service has documentation to support that it was performed.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Each physician/QHP should document their total time and the problems and activities that support the necessity of time spent providing an E/M service.</emphasis> (This documentation is especially important in facility settings in which split or shared E/M services may be provided.)</para>
+               </listitem>
+               <listitem>
+                  <para>Do not depend on the software vendor to add codes to the system. Review all new, deleted, and revised codes with each code set update. Notify the vendor if codes have not been revised, and educate physicians and staff on the appropriate use of codes.</para>
+               </listitem>
+               <listitem>
+                  <para>Past and present diagnoses and history should be accessible to the treating and/or consulting physician.</para>
+               </listitem>
+               <listitem>
+                  <para>Identify appropriate health risk factors. The patient's progress, their response to and any changes in treatment, and any revision to the diagnosis should be documented.</para>
+               </listitem>
+               <listitem>
+                  <para>All pages in the medical record should include the patient's name and an identifying number or birth date.</para>
+               </listitem>
+               <listitem>
+                  <para>Prescription drug management should include the name of the medication, dosage, and instructions.</para>
+               </listitem>
+               <listitem>
+                  <para>A diagnosis code may be assigned for any documented social determinant of health (SDoH). It should be explicitly documented when an SDoH increases the risk of patient management or treatment decisions in the course of an E/M service.</para>
+               </listitem>
+               <listitem>
+                  <para>Clinically important telephone calls should be documented, including date, time, instructions, patient/parent understanding of and agreement with those instructions, and plan for follow-up.</para>
+               </listitem>
+               <listitem>
+                  <para>Anticipatory guidance, patient education, and counseling are best documented when performed.</para>
+               </listitem>
+               <listitem>
+                  <para>Any addenda should be identifiable with the author's signature and labeled with the date the addendum was made.</para>
+               </listitem>
+               <listitem>
+                  <para>The compliance plan should address what circumstances justify making changes to the EHR and identify who can make changes, requirements for amendments and corrections to an EHR, and what information cannot be changed (ie, author, date, and time of original note).</para>
+               </listitem>
+               <listitem>
+                  <para>Consent forms should be dated. The procedure should be documented, and the form should be signed by the patient or their legal representative. Documentation should include a summary of the discussion of the procedure and risks.</para>
+               </listitem>
+               <listitem>
+                  <para>All abbreviations used should be commonly understood and standardized in a document developed by the practice or a listing obtained from a published source.</para>
+               </listitem>
+               <listitem>
+                  <para>Patient nonadherence, including immunization refusal, should be documented, as well as discussion of the risks and adverse consequences of nonadherence.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

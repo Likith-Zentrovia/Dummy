@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0006s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0006s0005</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>4. The Business of Medicine: Working With Current and Emerging Payment Systems</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Contract Transparency and Network Tiering</title>
+   <itemizedlist>
+      <listitem>
+         <para>Fully read and ask questions, as necessary, about the terms of the contract.</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Initial term and any automatic renewal (evergreen) clause — Time frame and notice required for termination with/without cause</para>
+      </listitem>
+      <listitem>
+         <para>Payment methodology, annual conversion factor, and any automatic increases or updates (eg, whether payment updates align with Medicare updates or are tied to a specific year of the Medicare fee schedule) — Time frame for payer recoupment and claim appeals</para>
+      </listitem>
+      <listitem>
+         <para>Notice and consent required for amendments and material changes — Types of products (eg, health maintenance organization [HMO], preferred provider organization [PPO]) and health plans included and whether there is a requirement to accept all products</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Be aware of any accountability (eg, penalties or other effect on shared savings) that a plan attributes to the practice when patients receive care outside their plan's network without referral by physicians within the practice.</para>
+      </listitem>
+      <listitem>
+         <para>Ask whether there is any tiering of network providers based on quality or cost-efficiency rankings and, if so,</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Whether tiering is done at the provider or practice/group level — Whether newly added providers will carry over their previous ranking</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>How tiering affects provider payment and/or patient cost sharing</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+   </itemizedlist>
+   <blockquote>
+      <para>
+         <emphasis role="bold">Why Health Plan Tiering Matters</emphasis>
+      </para>
+      <para>Many health plans assign in-network physicians to tiers based on the cost and value of care provided by the individual physician or the group practice.</para>
+      <para>Tiering is often tied to patient cost sharing (eg, deductible, co-payments, and coinsurance), with patients being responsible for the highest cost sharing if they see providers in the non-preferred tier. This may affect how and whether a patient receives health care services.</para>
+      <para>Tiering may also affect both the number of patients who select a particular health plan (eg, a tiered plan in which their current physician is in a high tier) and how the health plan negotiates with a physician or group practice (eg, by offering a lower fee schedule as a larger number of patients enroll in the tiered health plan).</para>
+      <para>Becoming a contracted network provider might not place you into the preferred tier, as this depends on how tiering is determined. Language on tiering may or may not be in the contract, so there is value in requesting information about the payer's use of tiering and tier assignment methodology.</para>
+   </blockquote>
+   <itemizedlist>
+      <listitem>
+         <para>When adding new physicians to your practice, be aware of each payer's fee schedule policies. Do not assume that the same fee schedule will be applied across all physicians in the practice (eg, a payer may assign a reduced fee schedule to new physicians or carry forward a physician's contract from a previous practice).</para>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>When this occurs, discussion with a health plan should include the potential effect of delayed care when the patient/family opts to wait to see a provider for whom the out-of-pocket costs are lower because of differing fee schedules (eg, a new physician's fee schedule is carried forward from their prior practice).</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0006s0005s20002">
+      <title/>
+      <sect3 id="ch0006s0005s30003">
+         <title/>
+         <sect4 id="ch0006s0005s0001s01s01">
+            <title>Payment Policies and Code Edits</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Know a health plan's policies and procedures and their effect on pediatric services. Develop a system to monitor all policy and procedure updates and to receive and review in detail any communications from the payer on changes to the physician contract. The payer may automatically amend the contract if no response is received to a notice of proposed amendment in the specified time frame. Be aware of updates to the provider manual, updates provided via periodic email bulletins, and information posted on a payer website that practices have been instructed to review periodically. Practices must be aware that these alternative ways of disseminating payment information are often considered legal and binding.</para>
+               </listitem>
+               <listitem>
+                  <para>Know a health plan's processes and time frame for adding new <emphasis role="italics">CPT</emphasis> codes/services and how each plan pays for new services reported before developing and updating their systems with payment policy and fee schedule amounts. This preparation is especially important for new immunizations to make sure you will get paid. (New codes are often paid at a low rate or a percentage of charges, if covered atall.)</para>
+               </listitem>
+               <listitem>
+                  <para>Verify payer rules about modifier use, because this may affect payment. For example, when preventive and problem-oriented E/M services are provided on the same date, modifier 25 (significant, separately identifiable E/M service) is appended to the code for the problem-oriented E/M service (eg, 99213 25). Some payers reduce the payment to 50% of the fee schedule amount for that code.</para>
+               </listitem>
+               <listitem>
+                  <para>Know how the payer adopts and discloses code edits used in claims adjudication (eg, Medicare and Medicaid National Correct Coding Initiative [NCCI] as discussed in Chapter 2). Often, access to code edits is limited to the payer's provider portal.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0001s01s02">
+            <title>Interacting and Negotiating With Payers and Employers</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Know <emphasis role="italics">CPT</emphasis> codes and modifiers and the guidelines for their use.</para>
+               </listitem>
+               <listitem>
+                  <para>Understand and beable to communicate the scope of services provided and the time requirements for the service.</para>
+               </listitem>
+               <listitem>
+                  <para>Be prepared to demonstrate the cost savings that may be recognized by the plan as well as the value the practice brings to the plan in savings, quality of care, and/or patient satisfaction. <emphasis role="italics">This is your leverage.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Monitor and know the use (distribution) of codes by each physician and, if in a group practice, for the practice as a whole.</para>
+               </listitem>
+               <listitem>
+                  <para>Know and understand the payment basis and process.</para>
+               </listitem>
+               <listitem>
+                  <para>Have specific codes or issues to discuss, not generalities (agreement with general ideas may not address specific issues).</para>
+               </listitem>
+            </itemizedlist>
+            <para>In negotiations,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Try to negotiate for coverage and adequate payment of services.</para>
+               </listitem>
+               <listitem>
+                  <para>If the plan does agree to cover a particular service, make certain you understand how the carrier will cover and pay for the service and if there will beany restrictions or limitations. When payers refuse to cover services, ensure there is language in your contract stating that you can bill the patient for noncovered services. If the plan allows billing the patient for noncovered services, you must advise your patients of this policy (a service-specific written notification is usually required before rendering the service). In addition, claim submission may be required with the appropriate modifier appended to the procedure (eg, GA, waiver of liability statement issued as required by payer policy, individual case).</para>
+               </listitem>
+               <listitem>
+                  <para>Keep notes during the discussion and be certain you understand answers to any of your questions. Any specific agreements should be in writing and signed by both parties with the effective date clearly stated.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0001s01s03">
+            <title>Seeking Assistance in Negotiations</title>
+            <para>When seeking assistance in negotiations,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Engage parents or employers to work inpartnership to help you negotiate with a plan. Encourage parents to work through their human resources department to communicate and appeal with payers. Petitions from parents can be very effective. For health insurance education resources from HealthyChildren.org, refer to www.healthychildren.org/English/family-life/health-management/health-insurance/Pages/default.aspx.</para>
+               </listitem>
+            </itemizedlist>
+            <para>It is important to recognize that the employers in your area may offer their employees a self-funded health plan and that it is the employer that may be in control of the plan's network, payment rates, and policies for coverage and payment of specific services, although a third party (eg, health insurance company) receives and determines payment of claims. In 2024, 63% of workers were covered under their employer's self-funded health plan.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Many AAP chapters have developed pediatric councils that meet with payers to address pediatric issues. Advise your chapter pediatric council of specific issues you have experienced to see how it can work with the plan. (The AAP chapter pediatric councils are not forums for negotiating contracts, setting fees, or discussing payments.)</para>
+               </listitem>
+               <listitem>
+                  <para>If your chapter does not have a pediatric council, this may be the right time to begin developing one. For more information, visit www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0001s01s04">
+            <title>When Negotiations Fail</title>
+            <para>If the insurance company is not addressing your concerns satisfactorily, you should bewilling to provide notice of intent to terminate your contract if unable to reach an agreement after negotiating in good faith. Check your contract for specifications on the days of notice and notification process required for termination of your provider contract with or without cause. Inform the payer and patients' families and even the state insurance commission why continued participation is not possible.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Some reasons for withdrawal might be slow payment, excessive documentation requirements, and substandard payment compared with those of other plans.</para>
+               </listitem>
+               <listitem>
+                  <para>Many times, negotiation begins when you walk away from the table.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0006s0005s0002">
+      <title>Steps to Getting Paid: Clean Claims to Correct Payment</title>
+      <para>Getting paid for services provided requires a practice-wide team effort. Even salaried physicians are affected by lost revenue and should take interest in the effectiveness of the practice's billing processes. Opportunities for lost revenue can occur anywhere between patient scheduling and posting of health plan payments (or denials). Figure 4-1 shows steps in the revenue cycle.</para>
+      <para>An effective charge accumulation system, accurate billing of procedure codes, and an efficient claims filing system are necessary but not sufficient to achieve clean claim submissions. Although the physician is ultimately responsible for the accuracy of codes selected and claims submitted, it typically takes a team effort to create and maintain an effective accounts receivable system, including</para>
+      <itemizedlist>
+         <listitem>
+            <para>Regular review and updating of fees for services and supplies to avoid charging lower rates than the practice is eligible to be paid. For example, vaccine prices increase regularly, so fees must be increased to support adequate payment.</para>
+         </listitem>
+         <listitem>
+            <para>Development and use of management tools.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Incorporation of claims-processing tools for analysis of your claims-processing procedures.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>EHR and/or billing systems may include automated tools to help identify errors before billing, alert you to payments that do not align with contracted fees, and provide data for monitoring the time lapse from provision of service to payment.</para>
+               </listitem>
+            </itemizedlist>
+            <figure float="0" id="ch0006s0005fg0001">
+               <title/>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="ch0006f01.jpg" scalefit="1" width="100%"/>
+                  </imageobject>
+               </mediaobject>
+            </figure>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0006s0005s30004">
+         <title/>
+         <sect4 id="ch0006s0005s0002s01s01">
+            <title>Figure 4-1. Revenue Cycle</title>
+            <table frame="all" id="ch0006s0005ta0001">
+               <title/>
+               <tgroup cols="7">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <colspec colname="c6"/>
+                  <colspec colname="c7"/>
+                  <tbody>
+                     <row>
+                        <entry>Preservice insurance verification*</entry>
+                        <entry>→</entry>
+                        <entry>Service rendered and documented</entry>
+                        <entry>→</entry>
+                        <entry>Collect patient out-of-pocket costs (eg, co-payment)</entry>
+                        <entry>→</entry>
+                        <entry>Codes assigned/ reviewed</entry>
+                     </row>
+                     <row>
+                        <entry>↓</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>↓</entry>
+                     </row>
+                     <row>
+                        <entry>Charge entry (as applicable)</entry>
+                        <entry>→</entry>
+                        <entry>Claim submission or resubmission</entry>
+                        <entry>→</entry>
+                        <entry>Claim acceptance verified</entry>
+                        <entry>→</entry>
+                        <entry>Receipt of explanation of benefits</entry>
+                     </row>
+                     <row>
+                        <entry>↓</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>↓</entry>
+                     </row>
+                     <row>
+                        <entry>Entry of payments and adjustments</entry>
+                        <entry>→</entry>
+                        <entry>Work denials/ underpayments (as applicable)</entry>
+                        <entry>→</entry>
+                        <entry>Bill patient (uncollected out-of-pocket costs)</entry>
+                        <entry>→</entry>
+                        <entry>Post final payments and adjustments</entry>
+                     </row>
+                     <row>
+                        <entry>↓</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Transaction closed</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>*Obtain prior authorization when required.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, modifier 51 exempt; ⊕, telemedicine; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Provide access to and create policy for using payer resources such as online code-checking tools that alert to coverage limitations such as bundled services or services covered only in conjunction with specific diagnoses.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Continuing provider and staff education with constant oversight and communication with staff, payers, and patients.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Policies and procedures support continual monitoring of payer communications and dissemination of information on benefit policy changes and after coding and payment.</para>
+               </listitem>
+               <listitem>
+                  <para>Assurance that staff assigned responsibilities related to correct coding and billing have access to current and authoritative resources on coding and documentation (eg, health plan provider portals, official coding guidelines).</para>
+               </listitem>
+               <listitem>
+                  <para>Refer to Chapters 2 and 5 for more information on code edits and compliance coding and billing.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Regularly performing audits to identify potential corrective actions required to remain compliant with billing standards, coding guidelines, and federal rules and regulations (eg, Health Insurance Portability and Accountability Act [HIPAA] of 1996, Anti-Kickback Statute, False Claims Act). Audits benefit practice by identifying</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The number of timely and correctly submitted claims, resulting in faster and more appropriate payments and reduced practice cost of obtaining payment — The need for new or repeat physician and staff education on coding and documentation</para>
+               </listitem>
+               <listitem>
+                  <para>Issues to be addressed in payer contract negotiations — Incorrect coding and related potential risk for charges of fraud or abuse</para>
+               </listitem>
+               <listitem>
+                  <para>Areas that need written office policies and procedures (eg, preauthorization and referral processes, claims follow-up processes, control systems)</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Procedures for efficient review of payments and potentially inappropriate denials or reductions. Timely identification of payment errors is necessary to obtain redress because contracts often specify a time limit on appeals.</para>
+               </listitem>
+               <listitem>
+                  <para>Guidance for write-offs and initiation of appeals processes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s02">
+            <title>Capturing Charges in the Electronic Health Record</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Many physicians now capture encounter and billing information in the EHR. The basics of charge capture in the EHR include</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Accurate listing of diagnoses — Selection of complete codes and access to a complete list of modifiers</para>
+               </listitem>
+               <listitem>
+                  <para>Procedure code selection based on work performed and documented Although integrating charge capture into the encounter documentation should create efficiency, there are pitfalls to beavoided.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">For discussion of compliant documentation and code selection, refer to Chapter 5.</emphasis> When using an EHR, make sure that codes in the system are accurate and updated in accordance with code set updates. It is important to verify with your electronic system vendors how code updates are incorporated into the system. This might happen via scheduled upgrades that may or may not require system downtime, or it could occur via automated upgrades during night or weekend hours. It is important to make sure this information is outlined in your EHR contract.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code updates should be based on the effective date of changes (eg, deleted codes may be entered for charges with a date of service (DOS) before the effective date of deletion even after a system update has been made).</para>
+               </listitem>
+               <listitem>
+                  <para>Practice and billing managers must maintain contact with the system vendor's upgrade and support staff and verify what, if any, manual steps are required on the part of the practice in relation to code changes.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Any codes saved to favorites lists or included in templates should be reviewed and updated, as indicated, with each release of new and revised codes.</emphasis> It is also important that code descriptors displayed in code selection be adequate for accurate code selection. Truncated descriptors may omit key information that differentiates codes. For example, display of asthma codes should support selection based on severity and <emphasis role="italics">current use</emphasis> status (eg, moderate persistent asthma with exacerbation).</para>
+            <para>Documentation of the diagnoses has been problematic in some EHR systems. As with the paper record, the physician must have the ability to fully describe patient diagnoses for each encounter (ie, not to merely select a diagnosis code).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Systems should not use diagnosis codes for populating the physician's diagnostic statement or assessment.</emphasis> Code descriptors may be generalized and do not capture the physician's differential diagnoses, and many codes do not indicate when a condition is worsening or poorly managed.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="bold">Neonatal heart murmur; benign versus congenital heart disease</emphasis> (P29.89, other cardiovascular disorders originating in the perinatal period) ▶ <emphasis role="bold">Underachievement in school with grades dropping this semester</emphasis> (Z55.3, underachievement in school)</para>
+            <para>▶<emphasis role="bold">Tachycardia, frequent headaches, fatigue, and lightheadedness on standing; postural orthostatic tachycardia syndrome suspected, return visit after receipt of laboratory results</emphasis> (R00.0, tachycardia, unspecified; R51.9, headache, unspecified; R53.83, other fatigue; R42, dizziness and giddiness) ▶ <emphasis role="bold">Delayed milestone in childhood—3 years old, late language emergence in speech therapy; possibly on the autism spectrum—makes little eye contact and likes to play alone</emphasis> (R62.0, delayed milestone in childhood)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>List first the diagnosis and code most responsible for the encounter, followed by additional diagnoses, in compliance with coding guidelines.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">The EHR should not reorder diagnoses entered by the physician.</emphasis> An EHR that reorders documented diagnoses (eg, alphabetically) results in noncompliance with diagnosis coding guidelines and may fail to show support for the related services.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Sequencing instructions in <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) are important for correct coding and for prevention of claim rejections. Refer to <emphasis role="bold">Chapter 1</emphasis> for more on sequencing diagnosis codes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The patient problem list should not be pulled forward as the diagnoses for each encounter. Only those conditions addressed or that affected management or treatment of conditions addressed should be reported for that particular encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Follow payer guidelines for reporting diagnosis codes for chronic conditions that may be reported annually (eg, evaluating problems at preventive service visits) for the purpose of risk adjustment (ie, projection of future health care costs for a patient). Documentation and coding to support risk adjustment are increasingly demanded by payers. Refer to the "What Pediatricians Should Know About Coding and Risk Adjustment" box that follows for discussion of appropriate coding to support risk adjustment.</para>
+            <para>Automated code selection is problematic. An EHR may be designed to determine the level of E/M service provided by using information documented. However, physicians must base the code determination on the medically necessary services provided and documented and the code selection criteria (eg, MDM or total time).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Automatic population of records may result in documentation that overstates the level of work and intensity of the service provided.</para>
+               </listitem>
+               <listitem>
+                  <para>Failure to override suggested codes when appropriate may be considered an abusive practice.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="bold">A child is evaluated for concern of ear pain and mild fever.</emphasis> The EHR's coding algorithm selects 99214 because of the physician's documented diagnoses of acute otitis media with fever and prescription drug management, but the physician knows that the child was not very ill and that the acute, uncomplicated problem addressed, in combination with the moderate risk of prescription drug management, supports 99213, not 99214.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The physician overrides the code suggested by the EHR and instead reports 99213. Consistent failure to override incorrectly assigned codes may lead to audits and/or a request for refund of amounts paid. It may also cause the physician to appear as a high-cost provider of services, which may affect health plan rankings, as discussed in the Preparing for Negotiation section earlier in this chapter.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s03">
+            <title>What Pediatricians Should Know About Coding and Risk Adjustment</title>
+            <para>Multiple risk adjustment models are used in health care today for assessing and forecasting the costs of care for individual patients covered under a health benefit program. The primary goal of risk adjustment is to ensure that payment for providing coverage to a group of patients is based on the expected cost of care.</para>
+            <para>Risk adjustment is often accomplished through use of hierarchical condition categories or aggregated diagnosis groups (based on ICD-10-CM codes reported on claims) that are assigned weight values and used along with certain demographic and social factors, as well as claims data (eg, hospital admissions, prescription drug claims), to assign a total risk score. Physicians and QHPs play a major role in documenting and assigning codes for diagnoses that may influence a patient's risk score.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Correct and complete diagnosing is necessary to share the disease burden of your patients with the health plan. Showing the true nature of your patient's health status will have not only a short-term effect on rates paid per visit but also long-term implications in contracts with health plans.</para>
+               </listitem>
+               <listitem>
+                  <para>Code assignment should accurately reflect the condition(s) documented, including identified social determinants of health that may alter treatment or management.</para>
+               </listitem>
+               <listitem>
+                  <para>Payment to physicians and QHPs may increasingly be based on quality and cost of care. Risk adjustment is used to set the expected cost of care for a patient panel. Physicians and QHPs will be affected, especially individuals whose employers may already gain or lose revenue based on risk factor adjustment.</para>
+               </listitem>
+               <listitem>
+                  <para>Patient access to care may be affected when conditions are undocumented or documented in insufficient detail.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Risk adjustment may also be used for stratifying patients into high-risk groups that are eligible for care management.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If risk adjustment results in lower revenue for health plans, health plan coverage and benefits will undoubtedly be affected.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>It is also important to know that</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Like all health care payments, those based on risk adjustment are audited for accuracy. Medical records may be requested to validate ICD-10-CM codes supporting risk adjustment scores.</para>
+               </listitem>
+               <listitem>
+                  <para>Pediatric hierarchical condition categories, used in risk adjustment for health insurance marketplace and federally funded plans, apply to children younger than 2 years (ie, before their second birthday) or to those aged 2 through 20 years (ie, before their 21st birthday).</para>
+               </listitem>
+               <listitem>
+                  <para>Risk adjustment category values are cumulative, making documentation of all diagnoses that affect management important for accurate calculation of risk.</para>
+               </listitem>
+               <listitem>
+                  <para>Risk adjustment is also used in shared savings agreements with ACOs and value-based payment to hospitals.</para>
+               </listitem>
+            </itemizedlist>
+            <para>For more on compliant EHR documentation, refer to <emphasis role="bold">Chapter 5</emphasis>. Refer also to <emphasis role="bold">Chapter 20</emphasis> for information specific to documentation and coding for telemedicine services.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s04">
+            <title>Encounter Forms and Other Coding Tools</title>
+            <para>Encounter forms, which may be electronic or printed, are useful supplements to EHR-based code selection. They can also be used to convey codes to a billing office/system when systems are not integrated.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s05">
+            <title>Designing and Reviewing the Encounter Form or Superbill</title>
+            <para>The encounter form, whether electronic or printed, should be designed to help physicians and clinical staff quickly find all codes for diagnoses and services common to the practice. An encounter form or superbill should prompt recognition of separately reported services and use of diagnosis codes that most accurately describe the patient presentation.</para>
+            <para>When developing the encounter form,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include clinical and billing staff in development and review to ensure that the form captures all necessary information to support billing and that the intended use of the form is clear.</para>
+               </listitem>
+               <listitem>
+                  <para>Include all levels of service for each category of E/M services (eg, <emphasis role="bold">99211–99215, 99221–99223</emphasis>) and ensure that time is listed for codes based on time. List routine health examination codes by age and/or established patient.</para>
+               </listitem>
+               <listitem>
+                  <para>List procedures (eg, laboratory) in your practice's workflow. For example, group the codes in the order of your workflow (eg, visit codes followed by immunization, laboratory, respiratory, and other procedures) to maximize efficiency and your workflow. Some codes may be listed in more than one section of an encounter form because of their different uses. For example, <emphasis role="bold">96160</emphasis> (patient-focused health risk assessment instrument) might be included as a preventive service for use of general health risk assessment instruments and along with respiratory testing codes for an instrument used to assess the patient's control of asthma symptoms.</para>
+               </listitem>
+               <listitem>
+                  <para>The printed encounter form should prompt staff for specific details of a procedure when required for code verification. For example,</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">120</emphasis>__________ Simple repair: body site __________ size __________</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include the most reported diagnosis codes. Consider grouping diagnosis codes by organ system, and then alphabetically, within the system.</para>
+               </listitem>
+               <listitem>
+                  <para>Leave space on the form to allow reporting of the specific diagnosis and full <emphasis role="italics">ICD-10-CM</emphasis> codes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s06">
+            <title>Example</title>
+            <para>
+               <emphasis role="bold">J45.2</emphasis> Asthma, mild intermittent</para>
+            <para>
+               <emphasis role="bold">J45.3</emphasis> mild persistent</para>
+            <para>
+               <emphasis role="bold">J45.4</emphasis> moderate persistent</para>
+            <para>
+               <emphasis role="bold">J45.5</emphasis> severe persistent Add fifth character: <emphasis role="bold">0</emphasis>, uncomplicated; <emphasis role="bold">1</emphasis>, w/ (acute) exacerbation; <emphasis role="bold">2</emphasis>, w/ status asthmaticus.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include the most frequently used modifiers.</para>
+               </listitem>
+               <listitem>
+                  <para>Leave open fields on forms to fill inany services or diagnoses that are not included.</para>
+               </listitem>
+               <listitem>
+                  <para>Include codes for prolonged and special services. For example,</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">99358</emphasis> Prolonged E/M service before and/or after direct patient care; first hour <emphasis role="bold">99051</emphasis> Service(s) provided in the office during regularly scheduled evening, weekend, or holiday office hours, in addition to basic service</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Develop a separate encounter form for services performed in hospital or other facility settings. Make sure it includes all the services most commonly performed in the hospital setting. Access to a coding application or pocket-sized reference card with required elements of MDM and/or time of services also helps promote accurate code selection in facility settings.</para>
+               </listitem>
+               <listitem>
+                  <para>When quality initiatives depend on codes reported (eg, codes supporting HEDIS measures), be sure that these codes are clearly indicated on the encounter form, prompted by the EHR, or provided in an easily accessible quick reference.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Encounter forms and other coding tools should be reviewed periodically and updated at the time of each code set update to ensure that most of, if not all, the services and procedures commonly performed in the practice are included and the codes are accurate.</para>
+            <para>Refer to <emphasis role="bold">Chapter 1</emphasis> for the timing of updates to code sets (eg, January, April, July, October).</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s07">
+            <title>Completing the Encounter Form</title>
+            <para>Every practice should develop a written policy of the requirements needed to complete an encounter form. Some points that should be part of the policy include:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The form is <emphasis role="italics">not</emphasis> part of the medical record. Information such as the need for follow-up care, diagnostic tests, or referrals must always be documented in the medical record even if written on the encounter form.</para>
+               </listitem>
+               <listitem>
+                  <para>If you are using a printed form, services must be clearly identified (eg, circle the procedure, use a check mark). Procedures or diagnoses must be written on a form if the form is not preprinted.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The person providing the service (eg, physician, laboratory technologist, medical assistant) should enter procedure codes or document that service on the encounter form to ensure that only the procedures performed are reported.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">▶</emphasis> A physician orders laboratory tests with in-office specimen collection and selects a code for venipuncture in addition to other codes for the encounter, but the parents leave the office before clinical staff can collect the specimen(s).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> If the clinical staff (under supervision of the physician) are responsible for reporting the service when performed, it is not reported. The encounter form must provide space for the physician or QHP and clinical staff to indicate that a service was fully provided (eg, both counseling for and administration of immunization took place).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The physician is ultimately responsible for the services reported and billed.</para>
+               </listitem>
+               <listitem>
+                  <para>Procedure codes must be linked to the diagnosis codes for the condition(s) or reasons the services were provided. Multiple diagnosis codes may link to one procedure code, when applicable.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A 7-year-old boy is seen for an established patient preventive E/M service (99393), and evaluation and removal of a splinter of the right foot are performed with a small incision (10120). The physician reports the following codes:</para>
+            <table frame="all" id="ch0006s0005ta0002">
+               <title>Completing the Encounter Form</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z00.121 (encounter for routine child health examination with abnormal findings) (field 21A)S90.851A (superficial foreign body, right foot, initial encounter) (field 21B)</entry>
+                        <entry>99393 25 with ICD-10-CM pointer A (Z00.121) and pointer B (S90.851A) in field 24E10120 with ICD-10-CM pointer B in field 24 E</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Modifier 25 is appended to 99393 to indicate the significant and separately identifiable E/M service provided in conjunction with the splinter removal.</para>
+            <para>Refer to <emphasis role="bold">Figure 1-1</emphasis> for an example of how the linking of diagnoses to procedures appears on a claim form. An electronic claim form contains the same data.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A system should beinstituted to monitor and ensure capture of charges for all patient encounters on each day (eg, cross-reference to the patient check-in records).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s08">
+            <title>Reviewing Assigned Codes</title>
+            <para>A staff member who understands correct coding and reporting guidelines should always review the assigned codes before the claim is submitted to ensure that all procedures and services are captured and accurate.</para>
+            <para>For example, the reviewer should check that</para>
+            <itemizedlist>
+               <listitem>
+                  <para>An administration code is reported with immunizations and/or medication injections. Also, codes for medications administered via inhalation treatment should be reported in addition to codes for the treatment.</para>
+               </listitem>
+               <listitem>
+                  <para>Payer instructions for reporting National Drug Code (NDC) codes and units are followed.</para>
+               </listitem>
+               <listitem>
+                  <para>A venipuncture or finger stick is reported with a laboratory test, when applicable. The practice's Clinical Laboratory Improvement Amendments (CLIA) certificate number is included on claims for laboratory services, when required.</para>
+               </listitem>
+            </itemizedlist>
+            <para>To learn more about requirements for in-office laboratory certification, refer to the July 2021 AAP Pediatric Coding Newsletter™ article "Coding for In-Office Laboratory Services" (https://doi.org/10.1542/pco <emphasis role="italics">book207</emphasis> document009).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A handling fee is reported when a specimen is prepared and sent to an outside laboratory.</para>
+               </listitem>
+               <listitem>
+                  <para>A modifier is appended when appropriate (eg, modifier 25 for significant, separately identifiable E/M services).</para>
+               </listitem>
+               <listitem>
+                  <para>The correct category of service (eg, new or established patient, initial or subsequent hospital observation or inpatient care) is reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 6</emphasis> for more information on categories of E/M services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The diagnoses reported as primary and secondary are appropriate and are linked to the appropriate services or procedures.</para>
+               </listitem>
+               <listitem>
+                  <para>The documentation to support each service has been completed in a timely manner with required dates and signatures.</para>
+               </listitem>
+            </itemizedlist>
+            <para>State Medicaid regulations may require completion of documentation, including written or electronic signature and date, within a specified period following completion of the reported service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Billing office staff should add or change a procedure or diagnosis code only with the agreement of the provider of the service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s09">
+            <title>Place of Service Codes</title>
+            <para>The POS is indicated on each claim by a POS code (often integrated into billing systems without need for manual entry with each charge). The POS may appear evident when reporting codes for services such as inpatient hospital care, but this is not always the case.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>It is important to report the correct POS because differences in practice expense in a facility versus a non-facility setting affect physician payment.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A physician provides an established patient office visit in a clinic that is an on-campus–outpatient hospital setting (POS code 22). In this setting, the physician bills for a professional service and the hospital bills for the practice expense portion of the service. The physician reports 99214 (established patient office visit with moderate level MDM, total time ≥30 minutes) with POS code 11 (office), payment may be based on total non-facility RVUs (3.87) rather than total facility RVUs (2.90), resulting in an overpayment.</para>
+            <para>Teaching Point: Physicians in provider-based practices (ie, the practices owned and operated as part of a hospital) should be aware that the POS code is especially important in this setting. Physician and practice expense portions of the patient's charges are often billed separately in provider-based practices.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The same services provided in a facility-based practice are often costlier than those provided in an independent (physician-owned) practice. Facility fees charged by the provider are often significantly higher than the non-facility fees charged in independent practices.</para>
+               </listitem>
+               <listitem>
+                  <para>The Medicare program created POS code 19 to define an "off-campus" hospital practice to adopt site-neutral payment for many physician services conducted at provider-based practices. The rules and payment modifications have not been universally adopted, but it is important to know how your office is classified to ensure proper billing regardless. When considering purchase by a hospital system, it is important to consider the effect of billing with a different POS code.</para>
+               </listitem>
+               <listitem>
+                  <para>The increased number of high-deductible health plans has raised awareness of the greater costs to patients when services are rendered in provider-based facilities and has prompted Medicare and some states to take action to reduce the added costs. Practices should be aware of any such restrictions that apply to billing in their locality and under payer contracts or policies.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Other POS codes that may be commonly reported for pediatric services include 02 (telehealth provided other than inpatient's home), 03 (school), 10 (telehealth provided inpatient's home), 11 (office), 12 (home), 14 (group home), 19 (off campus—outpatient hospital), 20 (urgent care facility), 21 (inpatient hospital), 22 (on campus—outpatient hospital), and 23 (emergency room—hospital).</para>
+            <para>POS codes are further discussed for certain E/M services in chapters dedicated to those sites of service. For a full list of POS codes, refer to www.cms.gov/medicare/coding-billing/place-of-service-codes/code-sets. For further discussion of POS codes for telemedicine, refer to <emphasis role="bold">Chapter 19</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s10">
+            <title>Submitting Clean Claims</title>
+            <para>Many states have enacted laws that require prompt payment of clean claims. In general, <emphasis role="italics">clean claims</emphasis> are those that contain sufficient and correct information for processing without further investigation or development by the payer (definitions may vary by state).</para>
+            <para>Although clean claims must be paid within a specified time, payer contracts also typically include a timely filing period (eg, within 90 days of the DOS). Claims submitted after the timely filing period may be denied and cannot typically be billed to the patient.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Submitted claims must be accurate and in accordance with the process outlined in the executed carrier or health plan agreement. Knowing a payer's claim requirements will decrease chances of denied claims.</para>
+               </listitem>
+               <listitem>
+                  <para>Make sure the practice understands payer rules (eg, for billing for services provided incident to a physician's or other QHP's service). Rules may vary by health plan.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapters 7</emphasis> and <emphasis role="bold">12</emphasis> for information on billing for services provided by clinical staff and health care professionals such as nutritionists, clinical psychologists, and social workers.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Be aware of any updates issued by the carrier that affect billing and claims submission.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Find claim adjustment reason code and remittance advice remark code descriptions online at https://x12.org/codes.</para>
+               </listitem>
+               <listitem>
+                  <para>Make certain that any denials or reductions in payment are not caused by practice billing errors (eg, incorrect modifiers, obsolete codes) or by an incorrectly applied NCCI edit that does not pertain to pediatrics. If errors are identified, correct them immediately and educate staff members as appropriate to ensure correct future claim submissions.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Review all payer explanations, particularly reasons for denials or down-coding. If the service provided is not a benefit covered by the plan, the patient should be billed directly (a signed waiver form obtained prior to provision of service may be required).</para>
+               </listitem>
+               <listitem>
+                  <para>Bill patients only for amounts deemed noncovered or patient responsibility by the payer and only in compliance with the health plan contract and/or policy manual.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✖ Do not bill patients for bundled services or other reduced payments resulting from the contract between your practice and the payer. Renegotiate your contract if payment is lower than the cost of providing care.</para>
+            <para>
+               <emphasis role="bold">Billing staff must be aware of unique payment policies for health plans whose claims are processed by third-party administrators. For example, health plans A and B are employer-sponsored plans administered by insurance company A, but each plan has policies that may differ from those of health plans offered directly by insurance company A.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>If your system does not provide a variance report, compare the EOBs and/or remittance advice to a spreadsheet listing your top 40 codes and their allowable payments by carrier to monitor contract compliance. Make sure that the payment is consistent with the fee schedule, write-offs, and discounts agreed to by the practice and payer. Follow up with the payer on any discrepancies.</para>
+               </listitem>
+               <listitem>
+                  <para>Health plans may enter contracted fee schedules for each physician or provider individually, resulting in inaccurate payment for one or more physicians in a practice.</para>
+               </listitem>
+               <listitem>
+                  <para>Maintain a log of all denials or payment reductions. This can be used as a basis for future negotiations or education of the payer. (Identify 1 individual who has billing and coding expertise to monitor as well as accept or reject denials.)</para>
+               </listitem>
+               <listitem>
+                  <para>Review your fee schedule to see if your practice is paid at 100% of any billed charges. This is an indication that your fees are below the maximum payment amount established by the carrier. Payers often base the amount paid on the lesser of the billed charge or the contracted fee schedule amount for the service. This excludes services that are always patient responsibility (eg, form fees, cosmetic services).</para>
+               </listitem>
+               <listitem>
+                  <para>Review your fees annually and understand the Medicare RBRVS, using it to value the services you provide, as discussed in the Values Assigned to Physician Services section earlier in this chapter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Tracking immunization product acquisition cost is very important. Costs may change during the course of the contract. Review the carrier contract for mid-contract immunization product cost changes (eg, some contracts will default to a percentage of billed charges during price transitions).</emphasis> Review your payment to ensure that it exceeds your cost of providing that service (eg, total immunization costs), including time of clinical staff, supplies, tracking systems, and charges for electronic interfaces. When applicable, any non-FFS income based on provision of recommended services (eg, immunizations provided by ages specified in Centers for Disease Control and Prevention schedules) may be considered in determining the value of services.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s11">
+            <title>Payment Options to Consider</title>
+            <para>When contracting with payers, be aware of any specified payment options (eg, paper checks, electronic fund transfers, virtual credit card payment).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>It is important to understand the pros and cons of each payment option (eg, credit card processing fees typically apply to card-based payment). Some health plans no longer offer payment by paper check and recommend electronic fund transfer.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Health plans must provide payment in compliance with HIPAA's electronic fund transfer standards rather than virtual card or wire transfer when requested by a physician.</emphasis> Agreements to accept electronic fund transfers should not allow health plans to debit an account without notification and consent. Banks may offer additional protections against unauthorized withdrawals.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s12">
+            <title>Appealing Denials</title>
+            <para>Do not assume that the carrier's denials or audits are accurate. Be prepared to challenge the carrier and request the specific policy on which the denial is based. If you are coding correctly and in compliance with coding conventions, you should appeal all inappropriately denied claims and carrier misapplication of <emphasis role="italics">CPT</emphasis> coding principles.</para>
+            <para>Knowing when to appeal a payer denial is just as important as knowing how to properly appeal. Appealing a claim denial requires confidence that the claim was correctly coded and supported by documentation. Ongoing coding education and internal compliance reviews are necessary to support compliant claim submissions. To learn more about coding compliance, refer to Chapter 5.</para>
+            <para>When claims are denied because of billing or coding errors, a corrected claim may be submitted in lieu of an appeal. To prevent potential denial of corrected claims caused by duplicate charges, a claim frequency code, placed inbox 22 of a CMS-1500 form or loop 2300 of an electronic 837 format, is used to indicate that a claim is a corrected claim (code 7) or a voided one (code 8). Correcting or voiding a previously submitted claim typically results in either a complete replacement of a previously processed claim or voiding of the original claim from the health plan's record. Refer to specific instructions from the health plan when submitting a corrected claim.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The AAP works directly with major insurance payers regarding policies that adversely affect pediatrics and pediatricians. If you receive inappropriate denials, we urge you to appeal them through the individual payer's processes and include documentation and any other coding support, such as information taken directly from the <emphasis role="italics">CPT</emphasis> or <emphasis role="italics">ICD-10-CM</emphasis> manuals.</para>
+               </listitem>
+            </itemizedlist>
+            <para>You can alert the AAP to issues with payer policies that prohibit payment for correctly reported services by electronically submitting the AAP Coding and Payment Hassle Hotline Form (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline).</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s13">
+            <title>Filing Appeals</title>
+            <para>Develop a system to monitor payer updates and any changes to the provider agreement so you are aware of the current payment policies and coding edits used by the payer.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>By accepting inappropriate claim denials, a practice may be setting itself upfor charges of abusive billing practices.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If a practice recodes claims as a result of inappropriate claim denials, the resubmitted claim may not actually reflect the treatment the patient received.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Note that some payers have multiple appeal levels, with many initial appeals denied only because of the payer's electronic claim edits. Higher levels of appeal may be necessary for a denied claim to bereconsidered according to specific details about the service provided and the payer's contract or written policy.</para>
+            <para>Here is a summary of basic guidelines and tips for appealing payment determinations.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When you contact a payer, always document the date, name, and title of the payer representative with whom you have talked and a summary of the details of the conversation.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If a payer requests that you submit a claim by using codes or modifiers that are not consistent with clean coding standards, ask for written documentation of the direction (preferably via fax or email).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Address issues with the person who has the authority to make decisions to overturn denials or reductions in payment.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Keep an updated file with names and contact information of the appropriate personnel with each of your contracted payers.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Always request a call reference number from the payer representative. This may be needed for secondary or tertiary levels of appeal.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Request an email or letter verifying the information provided, and archive written correspondence containing payer representative's advice and payer policies. If the carrier does not provide written documentation, prepare a summary and send it to your contact, stating that it constitutes documentation of the discussion.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Submit all appeals in writing.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Understand the payer's appeal process and appeal within its timeliness guidelines.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Format the letter to include the name of the patient, policy number, claim control number, and DOS(s) in question on each page of the letter.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The body of the letter should state the reason for the appeal and why you disagree with the payer's adjudication of the claim. Speak to the payer's rules/regulations regarding the decision and how your documentation supports payment.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Specify a date by which you expect the carrier to respond.</para>
+               </listitem>
+               <listitem>
+                  <para>Support your case by providing medical justification (eg, clinical guidelines) and referencing CPT coding guidelines. If necessary, consult with the AAP Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline) for clarification of correct coding. It may be helpful to hire a certified coding expert with knowledge in pediatric coding to review your claims. (When hiring a full-time certified coding expert is not practical for a small practice, part-time employment or periodic consultation may be an option for access to coding and compliance expertise.) — Consider sending correspondence to the carrier by certified mail to verify receipt. Document and retain copies of all communications with the carrier about the appeal.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Maintain an appeals-pending file.</para>
+               </listitem>
+            </itemizedlist>
+            <para>If there is no response from the payer within 4 weeks of the date of the letter, send a copy of the appeal letter stamped "Second Request."</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If there is no response within 2 weeks of the second request, or if the matter remains unresolved, contact the state department of insurance or other appropriate agency in your state) to file a complaint or engage its assistance.</para>
+               </listitem>
+               <listitem>
+                  <para>Contact your AAP chapter and pediatric council, if your chapter has one, to make them aware of the situation with the payer. AAP chapter pediatric councils meet with health plans to discuss carrier policies and practices affecting pediatrics and pediatricians.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Medical managed care payers are often required by their respective state Medicaid programs to respond to appeals within a certain time frame. Failure to adhere to payment or appeal timelines should be reported to the state Medicaid organization.</para>
+            <para>Subscribers to the AAP Pediatric Coding Newsletter can access resources for payer advocacy and appeal letters from the online AAP coding resources (https://publications.aap.org/codingnews/info-parent/27376/Coding-Resources). Refer to <emphasis role="bold">Chapter 5</emphasis> for information on preparing for a payer audit.</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s14">
+            <title>Documentation and Coding Audits</title>
+            <para>Medicare, Medicaid programs, and commercial payers will audit claims as well as monitor coding profiles, especially E/M coding. Physician practices should also adopt standards for conducting internal audits or reviews. Internal audits provide important information to inform practice policy and procedures, detect missed revenue, protect against erroneous billing and poor documentation habits, and prevent issues with payers and outside auditors. Some key benefits of internal auditing include ● Identification of negative billing and revenue trends, including</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Increased lag time between encounter and billing (eg, delays infinalization of documentation, delayed coding or billing functions, technology issues) — Denial or underpayment of new services or new or revised procedure codes</para>
+               </listitem>
+               <listitem>
+                  <para>Significant unexpected increased or decreased revenue — Inappropriate adjustments or write-offs of unpaid or underpaid claims that should be appealed</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Charge verification (eg, number of visit codes entered is equal to or greater than number of reportable encounters) ● Identification of incorrect billing and coding practices, especially overall accuracy of E/M coding based on visit documentation, which is often a focus of payer audits</para>
+               </listitem>
+               <listitem>
+                  <para>Identification of payment that does not align with a payer contract ● Identification of electronic system or workflow issues</para>
+               </listitem>
+               <listitem>
+                  <para>Identification of areas in which new or additional training is necessary Refer to <emphasis role="bold">Chapter 5</emphasis> for more detailed information on conducting internal audits and responding to payer audits.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0006s0005s0002s01s15">
+            <title>Tools for Pediatric Practices</title>
+            <para>Working with third-party payers on coding and payment issues can be a difficult task. There is little uniformity between carriers, and frequently there are great inconsistencies within the same umbrella organization of carriers (eg, differing payment policies for commercial, health exchange, and Medicaid plans). The AAP Payer Advocacy Advisory Committee is charged with enhancing systems for members and chapters to identify and respond to issues with carriers.</para>
+            <para>The AAP has several available resources to assist the pediatric practice.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>AAP members are encouraged to use the AAP Coding and Payment Hotline to report payer issues. The AAP Coding and Payment Hassle Hotline Form (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline) may be completed online to report insurance administrative and claim-processing concerns.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The information submitted is used to assist the AAP and chapters in identifying issues and facilitating public and private payer advocacy related to health plans, including discussion topics with national carriers by the AAP Payer Advocacy Advisory Committee and at chapter pediatric council meetings with regional carriers. AAP staff are also available to clarify coding issues.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The AAP policy statement "Guiding Principles for Managed Care Arrangements for the Health of Newborns, Infants, Children, Adolescents, and Young Adults" (https://doi.org/10.1542/peds.2022-058396) provides key principles that are necessary for managed care plans to minimize patient underutilization and overutilization of services, as well as to enhance quality of care for children.</para>
+               </listitem>
+               <listitem>
+                  <para>AAP members and their staff are encouraged to attend AAP coding webinars (https://publications.aap.org/codingnews/resources/27969), presented by pediatric coding experts.</para>
+               </listitem>
+               <listitem>
+                  <para>The <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis> provides articles on coding and documentation of specific services and supplies (eg, immunizations) with updates on new codes and emerging issues affecting coding and billing practices. Subscribers can access current and archived issues and coding resources at https://publications.aap.org/codingnews.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The resources on this page and the next help address issues that arise in payer contracting and payment. To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>. Add to your knowledge through the information provided in other chapters that discuss codes for specific types of service.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Chapter Takeaways</emphasis>
+               </para>
+               <para>This chapter provided information on how professional services are valued, how physicians are paid, and how charges can be captured and clean claims for payment can be reported. Following are some takeaways from this chapter:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>The underlying basis for physician payment is the RBRVS, although alternative payment models focus largely on payment for demonstrating higher quality and lower costs of care.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Physicians and QHPs should not enter into payer contracts without understanding the terms and negotiating for terms that are fair to the practice and the payer.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Receiving appropriate payment depends on correctly capturing charges, assigning correct codes, and submitting clean claims. Monitoring for and appealing identified underpayments and denials are also an important part of revenue management.</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0006s0005s0003">
+      <title>Resources</title>
+      <sect3 id="ch0006s0005s30005">
+         <title/>
+         <sect4 id="ch0006s0005s0003s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline)</para>
+            <para>AAP coding webinars (https://publications.aap.org/codingnews/resources/27969) AAP payer contract negotiations and payment resources (www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-financial-resources/payer-contract-negotiations-and-payment-resources)</para>
+            <para>AAP pediatric councils (www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils)</para>
+            <para>
+               <emphasis role="italics">Pediatric Office Superbill 2026</emphasis> (www.aap.org/Pediatric-Office-Superbill-2026)</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0003s01s02">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Beyond Codes: Electronic Claims Acknowledgment Reports," May 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book229</emphasis> document003) "Coding and Payment in Pediatrics: The A, B, Cs of Being Paid for the Care You Give," June 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book242</emphasis> document002)</para>
+            <para>"Did You Know? Getting Paid for Denied or Rejected Services," May 2022 (https://doi.org/10.1542/pcco <emphasis role="italics">book217</emphasis> document006) "Did You Know? Responding to an Untimely Filing Denial," May 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book229</emphasis> document004)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✱, add-on; ✚, modifier 51 exempt; ⚡, FDA approval pending; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>"Is Your Practice Experiencing Down-coding?" March 2023 (https://doi.org/10.1542/pccq <emphasis role="italics">book227</emphasis> document001) "Responding to Inappropriate Code Edits," April 2022 (https://doi.org/10.1542/pccq <emphasis role="italics">book216</emphasis> document005)</para>
+            <para>"Spring Cleaning: Time to Tidy Up Coding and Billing Processes," April 2023 (https://doi.org/10.1542/pccq <emphasis role="italics">book228</emphasis> document002) "Use Diagnosis Coding Conventions to Avoid Denied Claims," June 2024 (https://doi.org/10.1542/pccq <emphasis role="italics">book242</emphasis> document003)</para>
+            <para>"Using Documentation to Demonstrate the Value of Care," July 2022 (https://doi.org/10.1542/pccq <emphasis role="italics">book219</emphasis> document003)</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0006s0005s0004">
+      <title>Claims Processing</title>
+      <para>Remittance advice remark codes (https://x12.org/codes/remittance-advice-remark-codes)</para>
+      <sect3 id="ch0006s0005s30006">
+         <title/>
+         <sect4 id="ch0006s0005s0004s01s01">
+            <title>Health Insurance</title>
+            <para>Health insurance education resources from HealthyChildren.org (www.healthychildren.org/English/family-life/health-management/health-insurance/Pages/default.aspx)</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0004s01s02">
+            <title>Payment/Relative Value Units</title>
+            <para>
+               <emphasis role="italics">AAP News</emphasis>, "AAP members play key role in shaping new code values for nirsevimab," July 2024 (https://publications.aap.org/aapnews/news/29183/AAP-members-play-key-role-in-shaping-new-code) AAP policy statement, "Guiding Principles for Managed Care Arrangements for the Health of Newborns, Infants, Children, Adolescents, and Young Adults" (https://doi.org/10.1542/peds.2022-058396)</para>
+            <para>AAP policy statement, "Pediatric Application of Coding and Valuation Systems" (https://doi.org/10.1542/peds.2019-2496)</para>
+            <para>Milliman <emphasis role="italics">Commercial Reimbursement Benchmarking</emphasis> (www.milliman.com/en/insight/commercial-reimbursement-benchmarking-medicare-ffs-rates) "RBRVS: What Is It and How Does It Affect Pediatrics?" (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/code-valuation-and-payment-rbrvs)</para>
+            <para>"Understanding the RUC Survey Instrument: Physician Services without Global Period" video (www.youtube.com/watch?v=nu5unDX8VIs)</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0004s01s03">
+            <title/>
+            <para>POS code set (www.cms.gov/medicare/coding-billing/place-of-service-codes/code-sets)</para>
+         </sect4>
+         <sect4 id="ch0006s0005s0004s01s04">
+            <title>Value-Based Payment</title>
+            <para>AAP Choosing Wisely campaign toolkit (www.aap.org/en/news-room/campaigns-and-toolkits/choosing-wisely) AAP policy statement, "The Unique Value Proposition of Pediatric Health Care," January 2023 (https://doi.org/10.1542/peds.2022-060681)</para>
+            <para>"Accountable Care Organizations (ACOs): General Information" (https://innovation.cms.gov/innovation-models/aco) <emphasis role="italics">Hospital Pediatrics</emphasis>, "How Will a Shift to Value-Based Financial Models Affect Care for Hospitalized Children?" February 2024 (https://doi.org/10.1542/hpeds.2023-007400)</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">How can pediatricians recommend values for services to the CMS?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Charge more for services in an effort to increase the average rate for a service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Pediatricians cannot influence values assigned by CMS.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Complain about low payment rates to anyone who will listen.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Participate in AAP surveys conducted through the AMA/Specialty Society RUC.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of value-based payment?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Physician payments may be based on a combination of FFS and alternative payment methodologies.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Small practices cannot participate in value-based payment models.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Physicians must be part of an ACO to participate in a value-based payment model.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Value-based payment always results in reduced FFS payment.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is always true for all health plan contracts?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The same fee schedule will be applied across all physicians in the practice.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Physicians should not sign contracts without reading and considering the impact of entering into the contractual agreement.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Becoming a contracted network provider places a physician into the payer's highest (preferred) tier.</para>
+                     </listitem>
+                     <listitem>
+                        <para>If the plan does not agree to cover a particular service, a noncontracting physician can always bill the patient for the service.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following promotes accuracy in documentation and charge capture in an EHR?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The physician must have the ability to fully describe patient diagnoses for each encounter (ie, not to merely select a diagnosis code).</para>
+                     </listitem>
+                     <listitem>
+                        <para>The EHR automatically reorders the diagnosis codes entered.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Automated E/M code selection is recommended and more accurate than code selection by a physician or QHP.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Deleted codes should be immediately unavailable for selection in the EHR or billing system.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is correct regarding health plan payments?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Health plans must provide payment in compliance with HIPAA's electronic fund transfer standards rather than virtual card or wire transfer when requested by a physician.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Agreements to accept electronic fund transfers should not allow health plans to debit an account without notification and consent.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Credit card processing fees typically apply only to card-based payment.</para>
+                     </listitem>
+                     <listitem>
+                        <para>All of the above</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

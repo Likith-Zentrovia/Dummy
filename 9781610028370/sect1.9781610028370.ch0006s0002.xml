@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0006s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0006s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>4. The Business of Medicine: Working With Current and Emerging Payment Systems</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>The Business of Medicine: Working With Current and Emerging Payment Systems</title>
+   <itemizedlist>
+      <listitem>
+         <para>How physicians and their staff can respond to changing payment systems and continually refine their practice management skills to maintain a viable practice</para>
+      </listitem>
+      <listitem>
+         <para>How services are currently valued and how assigned values may be used to guide practice management and payer contract negotiations</para>
+      </listitem>
+      <listitem>
+         <para>How data are leveraged to negotiate contract terms and payment</para>
+      </listitem>
+      <listitem>
+         <para>Guidelines and tools that may be used to monitor and manage charge accumulation, claims filing, payments review, the appeals process, and the use of audits to protect against lost revenue and incorrect billing practices</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0006s0002s0001">
+      <title>Fee-for-Service Payment for Physician Services</title>
+      <sect3 id="ch0006s0002s30001">
+         <title/>
+         <sect4 id="ch0006s0002s0001s01s01">
+            <title>Values Assigned to Physician Services</title>
+            <para>A fee-for-service (FFS) payment methodology based on both the Medicare Resource-Based Relative Value Scale (RBRVS) and submission of claims reporting physician services is the basis for a large portion of payment for physician services. Although other payment methodologies are growing, they are often built on an FFS payment structure. Before a claim is generated, a physician practice must establish fees for services that are greater than the cost of providing the service. A simple fee schedule methodology involves use of the RBRVS. An understanding of how values are assigned to the codes for services and how the values relate to payment contributes to a practice's financial viability and success.</para>
+            <para>The 3 components of the RBRVS are as follows:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Physician work</emphasis>: Physician work represents approximately 51% of the total relative value units (RVUs) assigned to most services. Work RVUs are commonly used in employment contracts as a factor in physician payment.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Practice expense</emphasis>: This component is an estimate of the following items:</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Preservice, intraservice, and postservice clinical staff time</para>
+                     </listitem>
+                     <listitem>
+                        <para>Medical supplies</para>
+                     </listitem>
+                     <listitem>
+                        <para>Procedure-specific equipment and overhead</para>
+                     </listitem>
+                     <listitem>
+                        <para>Practice expense makes up approximately 45% of the total RVUs for most services. Practice expense varies by site of service (ie, facility vs non-facility). Refer to the Place of Service Codes section later in this chapter for more information about how place of service (POS) affects payment.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Professional liability</emphasis>: This smallest component (approximately 4% of the total RVUs) is based on medical malpractice premium data.</para>
+               </listitem>
+            </orderedlist>
+         </sect4>
+         <sect4 id="ch0006s0002s0001s01s02">
+            <title>Components of Physician Work</title>
+            <para>Physician work is described as time required to perform the service, mental effort and judgment, technical skill, physical effort, and psychological stress associated with concern about iatrogenic risk to the patient.</para>
+            <para>For most services, physician work is further broken down into <emphasis role="italics">preservice</emphasis>, <emphasis role="italics">intraservice</emphasis>, and <emphasis role="italics">postservice</emphasis> components. Correct coding requires understanding these components of work, because preservice and postservice components should not be separately reported (ie, a single code includes all typical preservice, intraservice, and postservice work).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Preservice work</emphasis>: For most nonsurgical services, this preparatory non–face-to-face work includes typical review of records and communicating with other professionals. (Prolonged preservice work, such as extensive record review, may be separately reportable.) For surgical services, this includes physician work from the day before to the beginning of the procedure but excludes the encounter that resulted in the decision for surgery or unrelated evaluation and management (E/M) services.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Intraservice work</emphasis>: For most nonsurgical services, this includes time spent by the physician or other qualified health care professional (QHP) indirect patient care activities. Surgical intraservice work begins with incision or introduction of instruments (eg, needle, scope) and ends with closure of the incision or removal of instruments.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>A physician's intraservice time on the date of an E/M service for which the level of service is selected according to total time or medical decision making (MDM) includes all time spent on the date of the encounter. Pre-visit planning and post-visit work, such as documenting the service provided, are included in intraservice time when performed on the date of the encounter.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Certain services (eg, chronic care management [CCM] <emphasis role="bold">99487, 99489, 99490, 99439, 99491, 99437</emphasis>) are inclusive only of intraservice time of physicians and/or clinical staff and are not valued to include preservice and postservice work.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Postservice work:</emphasis> Documentation of services provided is included in the postservice work of most services.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>For nonsurgical services, postservice work includes arranging for further services, reviewing and communicating test results, preparing written reports, and/or communicating with other health care professionals or secure electronic means. Separately reported services, such as CCM or care plan oversight, are not part of the postservice work of other services.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>For surgical services, postservice work includes typical work in the operating/procedure room after the procedure has ended, stabilization of the patient in the recovery area, communications with family or other health care professionals, and visits on the day of surgery. Surgical services are also valued to include typical follow-up care for the presenting problem during a defined global period (eg, 10 or 90 days after the service).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>For more on the global period for surgery, refer to <emphasis role="bold">Chapters 13 and 18</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0006s0002s0001s01s03">
+            <title>Participation in Relative Value Scale Update Committee Surveys</title>
+            <para>Pediatricians can recommend values for services to the Centers for Medicare &amp; Medicaid Services (CMS) by participation in American Academy of Pediatrics (AAP) surveys conducted through the American Medical Association/Specialty Society Relative Value Scale Update Committee (RUC). These surveys are conducted to estimate the time and complexity of performing a service in comparison with another service. AAP staff sends out requests for participation to AAP section members to allow completion by physicians who most typically perform the service being surveyed. To learn more about participation in RUC surveys, watch the "Understanding the RUC Survey Instrument: Physician Services without Global Period" video at www.ama-assn.org/watch?v=nu5unDX8Yls; for information on code valuation, RBRVS, and payment, visit www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/code-valuation-and-payment-rbrvs.</para>
+            <para>Refer also to the July 2024 <emphasis role="italics">AAP News</emphasis> article "AAP Members Play Key Role in Shaping New Code Values for Nirsevimab" (https://publications.aap.org/aapnews/news/29183/AAP-members-play-key-role-in-shaping-new-code) for an example of how pediatric participation in RUC surveys supports appropriate assignment of RVUs.</para>
+         </sect4>
+         <sect4 id="ch0006s0002s0001s01s04">
+            <title>Fee Schedules and Calculations</title>
+            <blockquote>
+               <para>Some codes are valued only for practice expense and professional liability because the service described by the code does not include physician work. For example, in 2025, <emphasis role="bold">96110</emphasis> (developmental screening with scoring and documentation, per standardized instrument) was assigned no work RVUs, 0.34 practice expense RVUs, and 0.01 professional liability RVUs. The physician work associated with interpretation of the test scores and related E/M are part of an E/M service (eg, preventive or problem-oriented).</para>
+            </blockquote>
+            <para>Each RVU component may be independently adjusted slightly upward or downward as a function of geographic area. The CMS calculates Medicare payment for a procedure code by multiplying total adjusted RVUs by a dollar conversion factor that is set annually. Physician practices and health systems may agree to differing fee schedules when contracting with payers. Contracts may list a specific year of the Medicare Physician Fee Schedule (MPFS) and a set monetary rate/conversion factor that is multiplied times the RVUs assigned to a code.</para>
+         </sect4>
+         <sect4 id="ch0006s0002s0001s01s05">
+            <title>Example</title>
+            <itemizedlist>
+               <listitem>
+                  <para>A payer uses the 2025 MPFS as a basis for physician payment with a conversion factor or contracted fee schedule amount of $40 per RVU. A physician submits established patient office visit code <emphasis role="bold">99214</emphasis> to the payer.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The total MPFS non-facility RVUs (3.87) assigned to <emphasis role="bold">99214</emphasis> are a combination of RVUs for physician work (1.92), non-facility practice expense (1.80), and professional liability (0.15). The total non-facility RVUs (3.87) are multiplied by the $40 conversion factor to determine the allowed amount for the service.</para>
+            <para>(Total Medicare RVUs) × (Payer conversion factor) = Allowed amount</para>
+            <para>(3.87) × ($40) = $154.80 Actual benefit payment may vary depending on the patient's out-of-pocket obligation. For example, if the patient's plan requires a $20 co-payment, the plan might pay the balance of $134.80. Alternatively, if a patient has a high-deductible health plan, they may be responsible for the full amount of $154.80.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

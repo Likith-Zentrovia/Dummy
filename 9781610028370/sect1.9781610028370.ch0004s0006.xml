@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0006</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0007</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>82—Assistant Surgeon (When Qualified Resident Surgeon Not Available)</title>
+   <itemizedlist>
+      <listitem>
+         <para>Modifier 82 is used to report an assistant surgeon's work in a teaching hospital when a resident surgeon is not available to assist the primary surgeon during a procedure for which assistance is indicated.</para>
+      </listitem>
+      <listitem>
+         <para>The unavailability of a qualified resident surgeon is a prerequisite for the use of modifier 82 appended to the usual procedure code number(s).</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">Modifiers 80, 81, and 82</emphasis> The MPFS includes in column AA (ASST SURG) indicators identifying procedures that may or may not be billed by an assistant surgeon. Indicator 1 is assigned to procedures for which an assistant surgeon is allowed to bill under the Medicare program. Other payers may adopt the same or different policies.</para>
+   <sect2 id="ch0004s0006s20003">
+      <title/>
+      <sect3 id="ch0004s0006s30007">
+         <title/>
+         <sect4 id="ch0004s0006s0001s01s01">
+            <title>90—Reference (Outside) Laboratory</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 90 is used to indicate that a laboratory service is being billed by the physician but performed at an outside laboratory.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier 90 indicates pass-through billing in that the payer will pay the physician for the laboratory service and the laboratory will charge the physician.</para>
+               </listitem>
+               <listitem>
+                  <para>Many payers do not accept modifier 90 and require that the laboratory performing the service bill the health plan directly for the services. Check with your payers before using modifier 90.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0006s0001s01s02">
+            <title>91—Repeat Clinical Diagnostic Laboratory Test</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 91</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Is used to indicate that it is necessary to repeat the same laboratory test on the same day to obtain subsequent test results — Is reported only when the laboratory test is performed more than once for the same patient on the same day</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Cannot be reported when tests are repeated to confirm initial results, when testing problems occur with the specimen or equipment, or, for any reason, when a single reportable result is all that is required</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Do not substitute modifier 59 (distinct service) for modifier 91.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example—Modifier 91</emphasis> ▶ In the course of treatment of hypoglycemia by administration of oral carbohydrate, a patient underwent 3 blood glucose determinations (<emphasis role="bold">82947</emphasis>) on the same day in the same office.</para>
+            <para>
+               <emphasis role="bold">82947 91</emphasis> × 3 units of service.</para>
+            <para>Some payers will require separate claim lines for each test performed, with modifier 91 appended to the codes for repeat services. Refer to <emphasis role="italics">ICD-10-CM</emphasis> codes <emphasis role="bold">E16.A1–E16.A3</emphasis> to report levels of hypoglycemia.</para>
+         </sect4>
+         <sect4 id="ch0004s0006s0001s01s03">
+            <title>92—Alternative Laboratory Platform Testing</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 92 is used to indicate that laboratory testing was performed with a kit or transportable instrument that wholly or partially consists of a single-use, disposable analytic chamber.</para>
+               </listitem>
+               <listitem>
+                  <para>This modifier is not required or acknowledged by all payers.</para>
+               </listitem>
+               <listitem>
+                  <para>CPT instructs to report this modifier with HIV test codes <emphasis role="bold">86701–86703</emphasis> and <emphasis role="bold">87389</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

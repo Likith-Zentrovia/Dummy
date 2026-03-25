@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0006s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0006s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0006s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>4. The Business of Medicine: Working With Current and Emerging Payment Systems</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 4. THE BUSINESS OF MEDICINE: WORKING WITH CURRENT AND EMERGING PAYMENT SYSTEMS</title>
+   <para>Medicaid fee schedules vary by state, and although they are often based on RVUs or the MPFS, state regulations may also designate amounts paid for specific services. Commercial plan payments for many procedure codes are often linked to a percentage of Medicare payment (eg, 140% of MPFS rate). In 2024, the estimated national commercial payment by private health plans for professional services was 143% of the Medicare MPFS rates (www.milliman.com/en/insight/ commercial-reimbursing-medicare-ffs-rates), although this may vary significantly across specialties and geographic areas. Alternatively, payers may offer their own fee schedule (eg, a particular year's MPFS) for a practice's most used procedure codes.</para>
+   <blockquote>
+      <para>
+         <emphasis role="bold">If a health plan contract states that payment is based on the MPFS, it is important to verify the year of the MPFS used by the health plan because the schedule is not always current or may not be updated annually. Resetting payment according to the MPFS for the year of service may result in higher or lower payments.</emphasis> Understanding how health plan rates in your area compare with the current MPFS rates can help inform contract negotiations.</para>
+   </blockquote>
+   <itemizedlist>
+      <listitem>
+         <para>It is important to obtain the payer's fee schedule for all codes used or likely to be used by a practice, including codes for immunization products and administration, and to compare these with the current year's MPFS and other published fee schedules. Although Medicare assigns a status of N (nonconvered) to <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> preventive medicine E/M codes 99381–99385 and 99391–99395 in the MPFS, component RVUs are published in the MPFS, allowing calculation of Medicare equivalent payments.</para>
+      </listitem>
+   </itemizedlist>
+   <para>When reviewing a payer's fee schedule, make sure the payer also fully discloses its policies for paying for services that it considers to be <emphasis role="italics">bundled</emphasis> (ie, payment for ≥2 codes during the same encounter may beless than the sum of the individual payments) and policies that shift cost to the patient/family.</para>
+   <para>Inclusion of codes in a payer's fee schedule should not be assumed to indicate that all codes qualify for payment as covered services. Payers often outline coverage guidelines in policies separate from a fee schedule listing, including clinical policies, reimbursement policies, and administrative policies. There are, however, alternative ways to ensure coverage of commonly provided noncovered services, such as requesting a "carve-out" for specific codes, with a relevant payment rate.</para>
+   <itemizedlist>
+      <listitem>
+         <para>The same payer may be the administrator of multiple plans with differing contractual terms regarding what may or may not be billed to the patient/caregiver.</para>
+      </listitem>
+      <listitem>
+         <para>Learn payer policies and, in particular, whether the practice must obtain a patient's/caregiver's written agreement to an advance notice of potential noncoverage prior to billing the patient/caregiver for a noncovered service.</para>
+      </listitem>
+      <listitem>
+         <para>Practices must develop policies and procedures to effectively collect amounts owed by the patient/caregiver to avoid lost revenue.</para>
+      </listitem>
+   </itemizedlist>
+   <para>The RBRVS payment methodology may be used with practice- and physician-specific data generated from a practice's accounting and practice management systems to estimate anapproximate cost of providing each service. This should result in a list of services that are each assigned a share of the practice's overhead costs as well as the margin and actual cost of providing the service.</para>
+   <itemizedlist>
+      <listitem>
+         <para>From the accounting system, an administrator may calculate the total practice expenses for a period, subtracting billable services that are not paid by RVUs, such as immunization products and medications.</para>
+      </listitem>
+      <listitem>
+         <para>From the practice management system, reports may be generated to provide a total number of services billed by code, RVUs for each service, and total RVUs billed by the practice for the same period.</para>
+      </listitem>
+      <listitem>
+         <para>By dividing total practice expenses by total RVUs, an administrator can calculate the practice cost per RVU.</para>
+      </listitem>
+      <listitem>
+         <para>Additional calculations may be used to compare payment per RVU or per service among contracted payers. (Calculations should beviewed in context of other factors, such as history of timely and correct payment.)</para>
+      </listitem>
+   </itemizedlist>
+   <blockquote>
+      <para>
+         <emphasis role="bold">It may be important to consider several years of data to account for seasonal, year-to-year, or unusual circumstance (eg, natural disaster, limited availability of an immunization product) effects, which may significantly limit the accuracy of data to predict future service costs and volume.</emphasis> Such calculations should be used to inform decisions regarding acceptance of contractual fee schedules, number of services necessary to break even or profit from provision of services, and return on investment potential for new equipment or services.</para>
+   </blockquote>
+   <para>Keep in mind that some accountable care organizations (ACOs) have financial agreements that require certain services be paid at a single lump sum that is then distributed among all providers of the service. (For discussion of ACOs, refer to the Organizational Support for Entering Value-Based Payment Contracts section later in this chapter.) To negotiate</para>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ◆, synchronous interactive audio.</para>
+      </listitem>
+   </itemizedlist>
+   <para>a fair portion of that lump payment, you need to know the cost of providing the service. More accurate cost estimates may be determined on an actual cost basis. RVU calculations, however, are straightforward and typically provide a reasonably reliable result.</para>
+   <sect2 id="ch0006s0003s0001">
+      <title>Alternative Payment Models</title>
+      <para>The movement away from traditional FFS payment and toward value-based care through the implementation of alternative payment models has been offered and reimagined many times over the years. Yet many alternative payment models are still built on an FFS payment structure.</para>
+      <para>Capitation is one payment model that varies from the FFS structure. In capitation arrangements, the health plan will pay a fixed amount per health plan member assigned to the physician or practice on a per-member-per-month basis. Amounts may vary by patient age, patient sex, patient clinical risk, and plan design. Under capitation plans, physicians and other QHPs provide sick- and well-child services that are included in the per-member-per-month payment. In addition to per-member-per-month payments, plans may pay separately for provision of immunization products and other specified services. Capitation arrangements may also include elements of other alternative payment models that are focused on value-based payment.</para>
+      <para>Value-based payment models offer physicians and other providers (eg, QHPs and other nonphysician qualified health care professionals [NQHCPs]) incentive payments based on the quality of care, outcomes, and cost containment attributable to their practices. The intent is to promote patient value and efficiency, but some risk is shifted to physician practices, and there could be a lack of clarity about how payments are calculated. Value-based payment models are widely variable in regional implementation but are growing in national importance and impact.</para>
+      <para>Although value-based payment models focus on high-value and reduced costs of care, achieving these goals may depend on recognizing and addressing provision of care that is of low value and increases cost. Some examples of potential low-value care are provided in the AAP Choosing Wisely campaign toolkit (www.aap.org/en/news-room/campaigns-and-toolkits/choosing-wisely) and in some quality measures (eg, avoidance of antibiotic treatment for acute bronchitis/bronchiolitis) as discussed in <emphasis role="bold">Chapter 3</emphasis>.</para>
+      <para>Under value-based payment models, practice viability depends on how well quality, cost, and efficiency are managed. Examples of some of these value-based payment models include bundled payments, shared savings/risk, and pay for performance. Physician payments may be based on a combination of FFS and alternative payment methodologies.</para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="italics">Bundled payments</emphasis>: These are a type of prospective payment in which health care providers (eg, hospitals, urgent care clinics, physicians, and other health care professionals) share 1 payment that covers all services involved in a patient's episode of care, as opposed to each provider's being paid individually. The intent of bundled payments is to foster collaboration and accountability among multiple providers to coordinate services and control costs, thereby reducing unnecessary utilization.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">Shared savings/risk</emphasis>: Shared savings/risk models may include upside reward or both upside reward and downside risk. In an upside-reward-only arrangement, the provider shares only inany savings and does not experience risk for financial losses. Under reward-and-risk arrangements, the practice shares not only a reward if costs are less than budgeted but also the loss should actual total costs exceed budgeted costs.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>The contractual arrangement among the payer(s) and provider(s) specifies how savings and/or risk is to be calculated and distributed.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Shared savings should include an up-front agreement to additional payments for support of infrastructure atall stages, including future years when the payer may want to cut back on the shared savings margin as savings plateau.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>The target or expected budgeted amount should be reviewed periodically and renegotiated to account for the current savings opportunity. After implementing many initiatives and achieving significant cost savings early in a contract, providers may then target maintaining cost performance and limiting increases in total cost of care.</para>
+      <itemizedlist>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Quality metrics are typically tied to payment of shared savings, with physicians not receiving a portion of savings when not meeting established quality benchmarks.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>Refer to <emphasis role="bold">Chapter 3</emphasis> for more information on coding to support quality and performance measurement.</para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="italics">Pay for performance</emphasis>: In this arrangement, physician payments are based on a prospectively determined comparison of the provider's performance against acknowledged benchmarks. If the provider meets or exceeds those benchmarks, an enhanced payment or bonus is provided.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+</sect1>
