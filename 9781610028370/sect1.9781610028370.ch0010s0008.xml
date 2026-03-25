@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0008">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0007</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0008</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0009</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CPT</title>
+   <para>
+      <emphasis role="bold">99245</emphasis> is supported.</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> The physician's total time supports <emphasis role="bold">99245</emphasis>, although the MDM for the encounter is moderate.</para>
+   <sect2 id="ch0010s0008s20002">
+      <title/>
+      <sect3 id="ch0010s0008s30008">
+         <title/>
+         <sect4 id="ch0010s0008s0001s01s01">
+            <title>Home or Residence Services (99341–99350)</title>
+            <para>A home or residence may include the following sites for the purpose of reporting home or residence services. Each site is followed by the applicable POS code in parentheses.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Private residence (12)</para>
+               </listitem>
+               <listitem>
+                  <para>Temporary lodging or short-term accommodation <emphasis role="bold">(16</emphasis> [eg, hotel, campground, hostel, cruiseship])</para>
+               </listitem>
+               <listitem>
+                  <para>Assisted living facility <emphasis role="bold">(13)</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Group home that is not licensed as an intermediate care facility for individuals with intellectual disabilities <emphasis role="bold">(14)</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Custodial care facility <emphasis role="bold">(33)</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Residential substance abuse treatment facility <emphasis role="bold">(55)</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>To report services provided in an intermediate care facility for individuals with intellectual disabilities and services provided in a psychiatric residential treatment center, refer to "Evaluation and Management Service Coding in Nursing and Residential Treatment Facilities" atama-assn.org/cpt2026.</para>
+            <para>Medicaid plans may vary in sites of service reported as home visits. Verify payer policies for E/M services provided in a patient's home or residence before provision of services.</para>
+            <para>E/M services provided in a patient's home by a nonphysician provider who does not have their own NPI may not be billable unless the physician provides direct supervision. Refer to Chapter 12 for information on reporting services by professionals such as therapists, clinical social workers, and nutritionists.</para>
+            <para>Any procedures performed by the physician may be separately reported.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0008s0002">
+      <title>Home or Residence E/M Service Examples</title>
+      <para>Refer to Table 7-1 for an at-a-glance guide to the levels of MDM or time required for each level of outpatient E/M service.</para>
+      <para>
+         <emphasis role="bold">99341</emphasis> Home or residence visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 15 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="bold">99347</emphasis> Home or residence visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 20 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis>▶ <emphasis role="bold">A physician or QHP visits the home of a newborn whose parents are concerned that the newborn is not breathing normally.</emphasis> On examination, the newborn is breathing normally and is free of any signs or symptoms of illness. The parents are reassured. The total time directed to care of this patient on this date is 10 minutes.</para>
+      <para>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Minimal</emphasis> (1 self-limited problem) <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Limited</emphasis> (independent historians required)</para>
+      <para>
+         <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="bold">Minimal</emphasis> (home care)</para>
+      <table frame="all" id="ch0010s0008ta0001">
+         <title>Home or Residence E/M Service Examples</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Z05.3 (observation and evaluation of newborn for suspected respiratory condition ruled out)</entry>
+                  <entry>99341 if the patient is new or 99347 if the patient is established</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <emphasis role="bold">If an E/M service includes history from an independent historian and more than one self-limited or minor problem, documentation should typically support low MDM, at a minimum.</emphasis>
+         <emphasis role="bold">99342</emphasis> Home or residence visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and low level of medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="bold">99348</emphasis> Home or residence visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and low level of medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, FDA approval pending; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶ A physician or OHP visits the home of anautistic 5-year-old whose parents fear he has anear infection. The parents note that the child has been holding his right ear frequently for the past week. They have not seen him pulling at or trying to insert anything into his ear. The physician's examination of the patient takes 15 minutes because of extensive coaching to gain the child's cooperation. The child's ears are free of signs of infection and foreign bodies. The parents are counseled that this may be a self-comfort mechanism or habit and they are not to use cotton swabs to clean the ear canals and should try to limit the ear canal after showers. Diagnosis is suspected ear infection, ruled out; the behavior is likely a self-comfort measure, but the patient does not respond to questions about his ears. <emphasis role="italics">Plan:</emphasis> The parents will call if any fever or other concerns develop. The physician's total time on the date of the encounter is 30 minutes.</para>
+      <para>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Minimal</emphasis> (1 self-limited problem) <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Limited</emphasis> (independent historians)</para>
+      <para>
+         <emphasis role="italics">Risk of patient/patient management</emphasis> ➤ <emphasis role="bold">home care</emphasis>
+      </para>
+      <table frame="all" id="ch0010s0008ta0002">
+         <title>Home or Residence E/M Service Examples</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Z03.89 (encounter for observation for other suspected diseases and conditions ruled out)F84.0 (autistic disorder)</entry>
+                  <entry>99342 if the patient is new or 99348 if the patient is established (based on a total time of 30 minutes)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> The problem addressed and level of data to be reviewed support low MDM.</para>
+      <para>
+         <emphasis role="bold">99344</emphasis> Home or residence visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 60 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="bold">99349</emphasis> Home or residence visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+      <para>When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+      <para>▶ A pediatrician agrees to provide medically necessary services at the infirmary of a youth ranch where an established 16-year-old patient lives. The patient presents with concern of increased asthma symptoms. The patient-provided history and an examination are documented in addition to a decision to change the patient's control medication and update the patient's asthma control plan. Diagnosis is moderate persistent asthma with exacerbation.</para>
+      <para>
+         <emphasis role="bold">Problem(s) addressed</emphasis> ⟹ <emphasis role="bold">Moderate</emphasis> (1 chronic condition with exacerbation)</para>
+      <para>
+         <emphasis role="bold">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="bold">Minimal</emphasis>
+         <emphasis role="bold">Risk of patient management</emphasis> ⟹ <emphasis role="bold">Moderate</emphasis> (prescription drug management)</para>
+      <table frame="all" id="ch0010s0008ta0003">
+         <title>Home or Residence E/M Service Examples</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>J45.41 (moderate persistent asthma with [acute] exacerbation)</entry>
+                  <entry>99349 (established patient)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>&lt;/table&gt; Teaching Point: The MDM is high, given an illness that poses a threat to life or bodily function and the decision to hospitalize. A decision to hospitalize and a decision to not hospitalize but to closely monitor would each support high risk in this scenario.</para>
+   </sect2>
+   <sect2 id="ch0010s0008s0003">
+      <title>Prolonged Office E/M Service</title>
+      <sect3 id="ch0010s0008s30009">
+         <title/>
+         <sect4 id="ch0010s0008s0003s01s01">
+            <title>Prolonged Outpatient E/M Service, Physician or Other Qualified Health Care Professional</title>
+            <para>
+               <emphasis role="bold">★★99417</emphasis> Prolonged outpatient E/M service(s) time with or without direct patient contact beyond the required time of the primary service when the primary service level has been selected using total time, each 15 minutes of total time Code 99417 is reported only when the code for the primary service was selected according to time. The time requirement for the highest-level code for the primary service must bemet and exceeded by at least 15 minutes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ★, add-on; ★, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">99417</emphasis> is used to report prolonged total time (ie, combined time with and without direct patient contact) provided by the physician or QHP on the same date asone of the following outpatient E/M services. Prolonged total time is time that is 15 minutes beyond the time required to report the highest-level primary service (eg, level 5 office E/M service).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Office or other outpatient services reported with <emphasis role="bold">99205</emphasis> or <emphasis role="bold">99215</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-video services reported with <emphasis role="bold">99203</emphasis> or <emphasis role="bold">99007</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-only services reported with <emphasis role="bold">98011</emphasis> or <emphasis role="bold">98015</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Office or other outpatient consultation reported with <emphasis role="bold">99245</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Home or residence services reported with <emphasis role="bold">99345</emphasis> or <emphasis role="bold">99350</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Assessment of and care planning for a patient with cognitive impairment reported with <emphasis role="bold">99483</emphasis> (not typically a pediatric service)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to Chapter 20 for information on reporting <emphasis role="bold">99417</emphasis> in conjunction with codes for synchronous audio-video or audio-only E/M services.</para>
+            <para>For prolonged services on a date other than the date of a face-to-face E/M encounter with the patient and/or family/caregiver, report <emphasis role="bold">99358</emphasis> or <emphasis role="bold">99359</emphasis>, discussed later in this chapter. For E/M services that require prolonged clinical staff time and may not include face-to-face services by the physician or QHP, report <emphasis role="bold">99415</emphasis> or <emphasis role="bold">99416</emphasis>. Do not report <emphasis role="bold">99417</emphasis> in conjunction with other codes for prolonged service (eg, <emphasis role="bold">99358</emphasis>, <emphasis role="bold">99359</emphasis>; <emphasis role="bold">99415</emphasis>, <emphasis role="bold">99416</emphasis>; <emphasis role="bold">99418</emphasis>).</para>
+            <para>There is no limit on the number of units of <emphasis role="bold">99417</emphasis> reported per encounter. However, each unit must represent a full 15-minute period beyond the time included in a previous unit of time reported with <emphasis role="bold">99417</emphasis> (Table 7-3).</para>
+            <table frame="all" id="ch0010s0008ta0004">
+               <title>Prolonged Outpatient E/M Service, Physician or Other Qualified Health Care Professional</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Type of Service and Code</entry>
+                        <entry>Assigned Time (min)</entry>
+                        <entry>Minimum Time (min) Required for Reporting 99417</entry>
+                        <entry>Minimum Time (min) Required for Reporting Additional Units of 99417a</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Office E/M new patient 99205b</entry>
+                        <entry>≥60</entry>
+                        <entry>75–8999205 × 1 and 99417 × 1</entry>
+                        <entry>90–10499205 × 1 and 99417 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>Office E/M established patientc 99215</entry>
+                        <entry>≥40</entry>
+                        <entry>55–6999215 × 1 and 99417 × 1</entry>
+                        <entry>70–8499215 × 1 and 99417 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>Outpatient consultation 99245</entry>
+                        <entry>≥55</entry>
+                        <entry>70–8499245 × 1 and 99417 × 1</entry>
+                        <entry>85–9999245 × 1 and 99417 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>Home or residence, new patient 99345</entry>
+                        <entry>≥75</entry>
+                        <entry>90–10499345 × 1 and 99417 × 1</entry>
+                        <entry>105–11999345 × 1 and 99417 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>Home or residence, established patient 99350</entry>
+                        <entry>≥60</entry>
+                        <entry>75–8999350 × 1 and 99417 × 1</entry>
+                        <entry>90–10499350 × 1 and 99417 × 2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <superscript>a</superscript> Each unit of service for <emphasis role="bold">99417</emphasis> is reported only for a full 15-minute period beyond the most recent unit reported. Although times for up to only 2 units are shown in this table, there is no limit on the number of units reported.</para>
+            <para>
+               <superscript>b</superscript> Times in this row are also applicable to audio-video E/M new patient code <emphasis role="bold">98003</emphasis> and audio-only E/M new patient code <emphasis role="bold">98011</emphasis>.</para>
+            <para>
+               <superscript>c</superscript> Times in this row are also applicable to audio-video E/M established patient code <emphasis role="bold">98007</emphasis> and audio-only E/M established patient code <emphasis role="bold">98015</emphasis>.</para>
+            <para>Do not report <emphasis role="bold">99417</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>For prolonged service of less than 15 minutes on the date of the office E/M service</para>
+               </listitem>
+               <listitem>
+                  <para>For any additional increment of time that is less than 15 minutes from the last full 15-minute period</para>
+               </listitem>
+               <listitem>
+                  <para>For time spent performing separately reported services other than the E/M service</para>
+               </listitem>
+               <listitem>
+                  <para>In addition to codes for less than the highest-level service in a code category (eg, do not report with <emphasis role="bold">99211</emphasis>–<emphasis role="bold">99214</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0010s0008s0003s01s02">
+            <title>Coding Conundrum: Healthcare Common Procedure Coding System Versus Current Procedural Terminology</title>
+            <para>Some payers may not accept <emphasis role="bold">99417</emphasis> for prolonged E/M services. The CMS developed HCPCS codes <emphasis role="bold">G2212</emphasis> and <emphasis role="bold">G0318</emphasis> (as follows) to require that the time for prolonged outpatient E/M services begin when all time included in the value of each E/M service is exceeded. For <emphasis role="bold">G0318</emphasis>, the CMS does not limit the time attributed to prolonged service to the time on the date of the encounter. Whereas <emphasis role="bold">99417</emphasis> is always based on total time on the date of the visit, the HCPCS codes vary depending on the duration of time included in the value of each service.</para>
+            <para>
+               <emphasis role="bold">G2212</emphasis> Prolonged office or other outpatient E/M service(s) beyond the maximum required time of the primary procedure, which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or QHP, with or without direct patient contact <emphasis role="bold">G2212</emphasis> is reported only in conjunction with <emphasis role="bold">99205</emphasis> (add <emphasis role="bold">G2212</emphasis> for total time ≥89 minutes) or <emphasis role="bold">99215</emphasis> (add <emphasis role="bold">G2212</emphasis> for total time ≥69 minutes) when the time requirement is met. The time included in prolonged service is only the total time on the date of the encounter.</para>
+            <para>
+               <emphasis role="bold">G0318</emphasis> Prolonged home or residence E/M service(s) beyond the total time for the primary service (when the primary service has been selected using total time on the date of the primary service); each additional 15 minutes by the physician or QHP, with or without direct patient contact <emphasis role="bold">G0318</emphasis> is reported only in conjunction with <emphasis role="bold">99345</emphasis> (add <emphasis role="bold">G0318</emphasis> for total time ≥140 min) or <emphasis role="bold">99350</emphasis> (add <emphasis role="bold">G0318</emphasis> for total time ≥110 min). The total time for <emphasis role="bold">G0318</emphasis> includes time on the date of the visit and on 3 days before and 7 days after.</para>
+            <para>In the absence of a contractual requirement to follow a payer's policy to report a HCPCS code in lieu of <emphasis role="bold">99417</emphasis>, physicians should assign <emphasis role="bold">99417</emphasis> and follow CPT guidelines. Refer to the April 2023 AAP Pediatric Coding Newsletter™ article "Prolonged Services: CPT Guidelines and Medicare/Medicaid Policy" (https://doi.org/10.1542/pccn <emphasis role="italics">book228</emphasis> document003).</para>
+            <para>▶ A new patient is referred following discharge from observation care for asthma. The patient has no usual source of care and has been seen in 3 EDs for a total of 4 visits in the past year. The pediatrician spends 20 minutes before the face-to-face visit, on the same date, reviewing observation and ED records for the child. At the visit, the pediatrician spends 45 minutes evaluating the patient, who also has behavioral issues in school; developing a plan of care; and counseling the patient and caregivers on the plan. After the visit, the pediatrician spends 20 minutes on the same date providing instructions to the school nurse about the patient's use of a rescue inhaler and arranging for teachers to complete rating scales for ADHD. Another 10 minutes is spent in documentation. The pediatrician reports <emphasis role="bold">99205</emphasis> and <emphasis role="bold">99417</emphasis> × 2 for the 95 minutes devoted to the patient's care on the date of the encounter.</para>
+            <para>▶ An adolescent patient and her parents are scheduled for an outpatient consultation to evaluate the patient's treatment options for newly diagnosed Crohn disease. The physician documentation of the consultation supports moderate-level MDM. Time is not documented. Later, on that same date, the physician receives a call from the patient's parents with additional questions and concerns and spends 30 minutes communicating on the call and completing the documentation. The outpatient consultation is reported with <emphasis role="bold">99244</emphasis>.</para>
+            <para>Teaching Point: Total time on the date of the encounter might have supported <emphasis role="bold">99245</emphasis> and possibly prolonged service, but the total time was not documented and the consultation code was selected according to MDM.</para>
+         </sect4>
+         <sect4 id="ch0010s0008s0003s01s03">
+            <title>Prolonged Service Without Direct Patient Contact (99358, 99359)</title>
+            <para>
+               <emphasis role="bold">99358</emphasis> Prolonged E/M service before and/or after direct patient care; first hour <emphasis role="bold">+99359</emphasis> each additional 30 minutes (Use in conjunction with <emphasis role="bold">99358</emphasis>.)</para>
+            <para>Prolonged service without direct patient contact (ie, non–face-to-face) is reported when a physician provides prolonged service on a date when no face-to-face E/M service has been or will be provided. The prolonged service must relate to a service to a patient for whom direct (face-to-face) patient care has occurred or will occur and to ongoing patient management. Refer to <emphasis role="bold">99417</emphasis> and <emphasis role="bold">99418</emphasis> for prolonged service on the date of a face-to-face E/M service.</para>
+            <para>Only time spent by a physician or other QHP may be counted toward the time of prolonged service. Prolonged service of less than 30 minutes on a given date is not separately reported. Report <emphasis role="bold">99359</emphasis> for 15 or more minutes beyond the first hour or the last full 30-minute period of prolonged service.</para>
+            <para>Codes <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis> are not limited to specific sites of service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; +, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A physician provides an office or other outpatient consultation to a patient to evaluate whether surgery is indicated. After the consultation, the physician requests records from a prior surgery. The following day (next date), the physician spends 30 minutes to review the old records, plans a surgical approach, and speaks with the referring physician about perioperative management. The total time of service is 45 minutes. The physician reports <emphasis role="bold">99358</emphasis> for the first hour of prolonged service (reported for services of ≥30 minutes).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Payers may or may not allow payment for <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis>. Code <emphasis role="bold">99359</emphasis> may be reported for the first and each additional 30 minutes of service time, including a period of 15 minutes or more beyond the first hour or beyond the last 30-minute period.</para>
+         </sect4>
+         <sect4 id="ch0010s0008s0003s01s04">
+            <title>Prolonged Clinical Staff Service (99415, 99416)</title>
+            <para>♦<emphasis role="bold">99415</emphasis> Prolonged clinical staff service (the service beyond the typical service time) during an E/M service in the office or outpatient setting, direct patient contact with physician supervision; first hour (List separately in addition to code for outpatient E/M service.)</para>
+            <para>♦<emphasis role="bold">99416</emphasis> each additional 30 minutes Codes <emphasis role="bold">99415</emphasis> and <emphasis role="bold">99416</emphasis> are used for 30 minutes or more of prolonged clinical staff time spent face-to-face providing care to a patient and/or parent or caregiver under the direct supervision of a physician or other QHP who has provided an office or other outpatient E/M service at the same session.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report prolonged clinical staff service <emphasis role="bold">99415</emphasis> and <emphasis role="bold">99416</emphasis> only in addition to office or other outpatient E/M codes <emphasis role="bold">99202</emphasis>–<emphasis role="bold">99205</emphasis> or <emphasis role="bold">99211</emphasis>–<emphasis role="bold">99215</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>The starting point for <emphasis role="bold">99415</emphasis> is 30 minutes beyond the typical clinical staff time that is included in the value assigned to the office or other outpatient E/M code reported for the encounter. This time is not included in the code descriptors in <emphasis role="italics">CPT</emphasis> but, rather, in a table like Table 7-4.</para>
+               </listitem>
+            </itemizedlist>
+            <para>While <emphasis role="bold">99417</emphasis> is reported for prolonged physician or QHP service only when the base E/M code is selected based on total time, base E/M codes <emphasis role="bold">99202</emphasis>–<emphasis role="bold">99205</emphasis> or <emphasis role="bold">99212</emphasis>–<emphasis role="bold">99215</emphasis> may be selected on the basis of either MDM or total time when reporting <emphasis role="bold">99415</emphasis> or <emphasis role="bold">99416</emphasis>.</para>
+            <table frame="all" id="ch0010s0008ta0005">
+               <title>Prolonged Clinical Staff Service (99415, 99416)</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Office E/M Code</entry>
+                        <entry>Typical Clinical Staff Time (min)</entry>
+                        <entry>Time Range (min) for ♦99415</entry>
+                        <entry>Time Range (min) for ♦99416 (1st Unit)*</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99202</entry>
+                        <entry>29</entry>
+                        <entry>59–103</entry>
+                        <entry>104–133</entry>
+                     </row>
+                     <row>
+                        <entry>99203</entry>
+                        <entry>34</entry>
+                        <entry>64–108</entry>
+                        <entry>109–138</entry>
+                     </row>
+                     <row>
+                        <entry>99204</entry>
+                        <entry>41</entry>
+                        <entry>71–115</entry>
+                        <entry>116–145</entry>
+                     </row>
+                     <row>
+                        <entry>99205</entry>
+                        <entry>46</entry>
+                        <entry>76–120</entry>
+                        <entry>121–150</entry>
+                     </row>
+                     <row>
+                        <entry>99211</entry>
+                        <entry>16</entry>
+                        <entry>46–90</entry>
+                        <entry>91–120</entry>
+                     </row>
+                     <row>
+                        <entry>99212</entry>
+                        <entry>24</entry>
+                        <entry>54–98</entry>
+                        <entry>99–128</entry>
+                     </row>
+                     <row>
+                        <entry>99213</entry>
+                        <entry>27</entry>
+                        <entry>57–101</entry>
+                        <entry>102–131</entry>
+                     </row>
+                     <row>
+                        <entry>99214</entry>
+                        <entry>40</entry>
+                        <entry>70–114</entry>
+                        <entry>115–144</entry>
+                     </row>
+                     <row>
+                        <entry>99215</entry>
+                        <entry>45</entry>
+                        <entry>75–119</entry>
+                        <entry>120–149</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>*Each unit of service for 99416 is reported only when the time included in 99415 or the prior unit of 99416 is exceeded by at least 15 minutes. There is no limit on the number of units reported, but documentation must support the time spent and the clinical indication for prolonged clinical staff service.</para>
+            <para>Only time spent by a physician or QHP in providing care directed to the individual patient is included in total time on the date of the encounter.</para>
+            <para>▶ A physician documents an office E/M service with moderate MDM supporting <emphasis role="bold">99214</emphasis>. At the same visit, clinical staff spent a total of 75 minutes monitoring the patient (face-to-face), under the physician's supervision, following administration of a medication that was previously associated with an allergic reaction. The physician reports <emphasis role="bold">99214</emphasis> for the office E/M service and <emphasis role="bold">99415</emphasis>.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The time requirement for <emphasis role="bold">99415</emphasis> is 30 minutes or more beyond the typical clinical staff time of the related office E/M service. The typical clinical staff time for <emphasis role="bold">99214</emphasis> is 40 minutes. The total clinical staff time of 75 minutes exceeds the 40-minute typical time by 35 minutes, supporting <emphasis role="bold">99415</emphasis>. Although the office E/M code was selected based on MDM, rather than total time, the clinical staff time supports reporting <emphasis role="bold">99415</emphasis>.</para>
+            <para>Documentation should support the clinical indication(s) for the prolonged service and the specific amount of time spent by clinical staff providing face-to-face services to the individual patient. If face-to-face time is discontinuous, each segment of time should be added together to support <emphasis role="bold">99415</emphasis> and, when applicable, <emphasis role="bold">99416</emphasis>.</para>
+            <para>✖ Never report both prolonged office E/M service by a physician or other QHP (<emphasis role="bold">99417</emphasis>) and prolonged clinical staff services together.</para>
+            <para>✖ Do not include time spent providing separately reported services, such as intravenous medication administration or inhalation treatment, in the time of prolonged service.</para>
+            <para>✖ Do not include any time that is not face-to-face with the patient and/or family/caregiver.</para>
+            <para>✖ Do not report more than one unit of <emphasis role="bold">99415</emphasis> for services to the same patient on the same date. Report <emphasis role="bold">99415</emphasis> and <emphasis role="bold">99416</emphasis> for a cumulative time of 75 minutes or more beyond the typical clinical staff time.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">99415</emphasis> and <emphasis role="bold">99416</emphasis> may be reported for no more than 2 simultaneous patients, and the time reported is the time devoted to only a single patient.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">99415</emphasis> and <emphasis role="bold">99416</emphasis> were assigned RVUs (2025, 0.69 and 0.29, not geographically adjusted) based only on clinical staff's intraservice time, as the preservice and postservice times were included in the value of the related E/M service. RVUs for 2026 services were unavailable at the time of this publication.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The following guidelines apply to reporting of prolonged clinical staff services: ● A physician or other QHP must supervise the duration of prolonged clinical staff service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The total clinical staff time (whether continuous or segmented) and clinical indication(s) for the services must be documented.</para>
+               </listitem>
+               <listitem>
+                  <para>When not continuous, document and include the face-to-face time of each episode of clinical staff time.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">99416</emphasis> for each additional 30 minutes of clinical staff time beyond the first hour and for the last 15 to 30 minutes of prolonged clinical staff service. Do not report <emphasis role="bold">99416</emphasis> for a period of less than 15 minutes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0008s0004">
+      <title>Outpatient Critical Care (99291, 99292)</title>
+      <para>Regardless of the patient's age, critical care services provided in outpatient settings are reported with hourly critical care codes (<emphasis role="bold">99291</emphasis>, <emphasis role="bold">99292</emphasis>).</para>
+      <para>
+         <emphasis role="bold">99291</emphasis> Critical care, E/M of the critically ill or critically injured patient; first 30–74 minutes</para>
+      <para>
+         <emphasis role="bold">♦99292</emphasis> each additional 30 minutes Refer to <emphasis role="bold">Chapter 17</emphasis> for further discussion of guidelines for critical care services and a listing of services included in critical care (ie, not separately reported).</para>
+      <para>A full 30 minutes of critical care service is required to support reporting <emphasis role="bold">99291</emphasis>. For critical care services of less than 30 minutes, report the appropriate outpatient E/M code (eg, <emphasis role="bold">99215</emphasis>).</para>
+      <para>If the same patient required outpatient and inpatient critical care services on the same day, the physician or a physician of the same group and specialty would report their services according to where the services were provided and the patient's age. Refer to "Critical Care Reporting in Outpatient Settings" at www.aap.org/cfp2026 for a decision tree for selecting codes for critical care provided in the outpatient setting.</para>
+      <para>▶ A patient presents to an urgent care clinic with a respiratory illness and has become increasingly short of breath following coughing spells. During the examination, the patient goes into respiratory failure with hypoxia, and her vital signs deteriorate. The physician provides critical care. An ambulance is called, and the physician continues critical care services until the transport team accepts care of the patient. The total time for critical care services provided by the physician is 40 minutes. The physician provides no further care to the patient and reports outpatient critical care services with a diagnosis of acute respiratory failure with hypoxia. Documentation includes the critical nature of the patient's condition, the care provided, and the total time spent in critical care dedicated to this patient.</para>
+      <table frame="all" id="ch0010s0008ta0006">
+         <title>Outpatient Critical Care (99291, 99292)</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>J96.01 (acute respiratory failure with hypoxia)</entry>
+                  <entry>99291 (critical care, first 30–74 minutes)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Although the physician provided outpatient critical care services, the 30-minute minimum time for reporting 99291 (critical care, first 30–74 minutes) was not met. The office encounter is separately reported in addition to initial hospital care when a physician or QHP of the same specialty and same group practice provides both services on the same date. Modifier 25 is appended to the code for the office E/M service. For discussion of 99058, refer to the Codes for Reporting Special Circumstances section that follows.</para>
+   </sect2>
+   <sect2 id="ch0010s0008s0005">
+      <title>Codes for Reporting Special Circumstances</title>
+      <para>The codes discussed in this section are reported in addition to the code(s) for an E/M service when there are special circumstances such as a service provided after hours or on an emergency basis to allow care in the practice as opposed to an urgent care clinic or ED.</para>
+      <sect3 id="ch0010s0008s30010">
+         <title/>
+         <sect4 id="ch0010s0008s0005s01s01">
+            <title>After-Hours Services (99050–99058)</title>
+            <para>After-hours codes are used to report services that are provided after hours or on an emergency basis and are always reported in addition to the primary service (eg, E/M service).</para>
+            <para>After-hours service codes 99050–99058 are used by physicians or other QHPs (under their state scope of practice when billing with their own NPI) to identify the services that are adjunct to the basic services rendered. These codes</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Describe the special circumstances under which a basic service is provided</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported only in addition to an associated basic service (eg, E/M, fracture care)</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported without a modifier appended to the basic service because they only further describe the services provided</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

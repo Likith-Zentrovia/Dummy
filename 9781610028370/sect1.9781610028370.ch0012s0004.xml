@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0012s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0012s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0012s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0012s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>12</chapternumber>
+         <chapterid>ch0012</chapterid>
+         <chaptertitle>9. Indirect Management of Chronic and Complex Conditions</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Care Plan Oversight Billing Worksheet Template <superscript>a</superscript>
+   </title>
+   <para>
+      <emphasis role="bold">Physician:</emphasis> Dr J    <emphasis role="bold">Patient Name:</emphasis> Patient A    <emphasis role="bold">Month:</emphasis> February 2026 Supporting documentation is found inpatient's medical record. Patient A is receiving home health care at home under a wound care plan approved by Dr J.</para>
+   <table frame="all" id="ch0012s0004ta0001">
+      <title>Care Plan Oversight Billing Worksheet Template</title>
+      <tgroup cols="4">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <colspec colname="c3"/>
+         <colspec colname="c4"/>
+         <thead>
+            <row>
+               <entry>Date of Service</entry>
+               <entry>Documented Service</entry>
+               <entry>Total Minutes</entry>
+               <entry>Monthly Subtotal</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>02/04/2025</entry>
+               <entry>Development of wound care plan and order for home health</entry>
+               <entry>20</entry>
+               <entry>20</entry>
+            </row>
+            <row>
+               <entry>02/04/2025</entry>
+               <entry>Discussion with wound care nurse concerned about drainage from wound</entry>
+               <entry>6</entry>
+               <entry>26</entry>
+            </row>
+            <row>
+               <entry>02/15/2025</entry>
+               <entry>Discussion with pain management physician</entry>
+               <entry>10</entry>
+               <entry>36</entry>
+            </row>
+            <row>
+               <entry>02/16/2025</entry>
+               <entry>Review of report from wound care nurse</entry>
+               <entry>5</entry>
+               <entry>41</entry>
+            </row>
+            <row>
+               <entry nameend="c2" namest="c1">Total time in the calendar month</entry>
+               <entry/>
+               <entry>41</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <table frame="all" id="ch0012s0004ta0002">
+      <title>Care Plan Oversight Billing Worksheet Template</title>
+      <tgroup cols="3">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <colspec colname="c3"/>
+         <thead>
+            <row>
+               <entry>Time Requirements (min) per Calendar Month</entry>
+               <entry>Patient Under the Care of a Home Health Care Agency</entry>
+               <entry>Hospice Patient</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>15–29</entry>
+               <entry>99374</entry>
+               <entry>99377</entry>
+            </row>
+            <row>
+               <entry>≥30</entry>
+               <entry>99375</entry>
+               <entry>99378</entry>
+            </row>
+            <row>
+               <entry>≥30 Medicare code</entry>
+               <entry>G0181</entry>
+               <entry>G0182</entry>
+            </row>
+            <row>
+               <entry nameend="c3" namest="c1">Code Supported: 99375 or G0181, depending on payer</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>
+      <superscript>a</superscript> Abbreviation: CPO, care plan oversight.</para>
+   <para>*Follow individual payer guidelines for reporting CPO for a pediatric-prescribed extended care facility. Codes 99374 and 99375 (home health CPO) are required by some plans.</para>
+   <sect2 id="ch0012s0004s0001">
+      <title>Coding for Episodes of Care</title>
+      <para>CPT instructions explain requirements and guide which activities are included in each service and which are separately reported. Many inclusion and exclusion rules are applied to the services discussed in this chapter.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Certain niche services (eg, management of end-stage renal disease) may be considered components of or an alternative to PCM or CCM.</para>
+         </listitem>
+         <listitem>
+            <para>The same time and activity are never used to support multiple codes (eg, time used to support reporting of an online digital E/M service code is not included in time of CCM).</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0012s0004s30004">
+         <title/>
+         <sect4 id="ch0012s0004s0001s01s01">
+            <title>Transitional Care Management Services</title>
+            <para>TCM (<emphasis role="bold">99495</emphasis> and <emphasis role="bold">99496</emphasis>) includes services provided to a new or established patient whose medical and/or psychosocial problems require moderate- or high-level MDM during the transition to the patient's community setting (eg, home, domiciliary, rest home, or assisted living facility) from the following settings:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Inpatient hospital including partial, acute, rehabilitation, and long-term acute stays</para>
+               </listitem>
+               <listitem>
+                  <para>Observation care</para>
+               </listitem>
+               <listitem>
+                  <para>Skilled nursing or nursing facility</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Box 9-4</emphasis> includes code descriptors for TCM services. TCM commences on the date of discharge and continues for the next 29 days. <emphasis role="italics">There are no specific requirements for time spent in TCM services</emphasis>, but TCM activities still should be documented on the dates provided in <emphasis role="bold">Table 6-4</emphasis> to determine the level of MDM.</para>
+            <para>TCM services are valued significantly higher than other care management services. If the dates and/or time for TCM and other care management services overlap, it is advantageous to report TCM, provided all required elements of service have been met. Total non-facility work RVUs for TCM are included in <emphasis role="bold">Box 9-4</emphasis>. Using a hypothetical conversion factor of $40 per RVU, an average allowed amount for TCM services would be approximately $248.80 for <emphasis role="bold">99495</emphasis> (total non-facility RVUs: 6.22 × 40) and $337.20 for <emphasis role="bold">99496</emphasis> (total non-facility RVUs: 8.43 × 40). Payment allowance will vary by contracted conversion factors and the fee schedule used by a payer (eg, prior year's Medicare Physician Fee Schedule).</para>
+         </sect4>
+         <sect4 id="ch0012s0004s0001s01s02">
+            <title>Box 9-4. Transitional Care Management at a Glance</title>
+            <para>
+               <emphasis role="bold">Patient Population</emphasis> New or established patients whose medical and/or psychosocial problems require moderate- or high-level MDM during a 30-day transition period beginning with the date of discharge from a facility setting to the patient's home, domiciliary, rest home, or assisted living facility</para>
+            <para>
+               <emphasis role="bold">★99495</emphasis> TCM services with the following required elements:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days after the date of discharge</para>
+               </listitem>
+               <listitem>
+                  <para>At least moderate level of MDM during the service period</para>
+               </listitem>
+               <listitem>
+                  <para>Face-to-face or telemedicine visit within 14 calendar days, starting on the date of discharge <superscript>a</superscript>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>Total non-facility RVUs: 6.22 <superscript>b</superscript>
+            </para>
+            <para>Work RVUs: 2.78 <superscript>b</superscript>
+               <emphasis role="bold">★99496</emphasis> TCM services with the following required elements:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days after the date of discharge</para>
+               </listitem>
+               <listitem>
+                  <para>High level of MDM during the service period</para>
+               </listitem>
+               <listitem>
+                  <para>Face-to-face or telemedicine visit within 7 calendar days, starting on the date of discharge <superscript>a</superscript>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>Total non-facility RVUs: 8.43 <superscript>b</superscript>
+            </para>
+            <para>Work RVUs: 3.79 <superscript>b</superscript> Abbreviations: MDM, medical decision-making; RVUs, relative value units; TCM, transitional care management.</para>
+            <para>
+               <superscript>a</superscript> Medication reconciliation and management must occur no later than the date of the face-to-face visit.</para>
+            <para>
+               <superscript>b</superscript>2025 National Physician Fee Schedule Relative Value File; total non-facility and work RVUs, not geographically adjusted. 2026 RVUs were not available at the time of this publication. Individual payers may use different relative value files (eg, from previous years).</para>
+            <para>One face-to-face visit (in person or by telemedicine) with the reporting physician or QHP is included in addition to indirect services performed by the physician/QHP and/or licensed clinical staff under the direction of the physician/QHP. Any additional face-to-face visits made during the service period are separately reported.</para>
+            <para>Moderate to high MDM (as defined in the E/M service guidelines) is a requirement for TCM. Follow-up care that includes low-intensity services such as discussion of improvement or normal laboratory results, which require only straightforward or low MDM, are not reported with codes for TCM.</para>
+            <para>A combination of patient care activities by a physician or other QHP and clinical staff working under supervision of a physician or other QHP are included in TCM.</para>
+            <para>Non–face-to-face services provided by the physician or other QHP may include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Obtaining and reviewing the discharge information</para>
+               </listitem>
+               <listitem>
+                  <para>Reviewing, ordering, or following up on pending diagnostic tests and treatments</para>
+               </listitem>
+               <listitem>
+                  <para>Communicating with or educating the family and/or other caregivers</para>
+               </listitem>
+               <listitem>
+                  <para>Interacting with other QHPs who will assume/reassume care of the patient's system-specific problems</para>
+               </listitem>
+               <listitem>
+                  <para>Scheduling assistance for necessary follow-up services</para>
+               </listitem>
+               <listitem>
+                  <para>Arranging referrals and community resources as necessary</para>
+               </listitem>
+            </itemizedlist>
+            <para>Licensed clinical staff time (under the direction of the physician or other QHP) may include face-to-face and non–face-to-face time spent</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Communicating with the patient and/or family or other caregivers about aspects of care and with other agencies and community services used by the patient</para>
+               </listitem>
+               <listitem>
+                  <para>Educating the patient and/or family or other caregivers to support self-management, independent living, and activities of daily living</para>
+               </listitem>
+               <listitem>
+                  <para>Assessing and supporting adherence to the treatment plan and medication management</para>
+               </listitem>
+               <listitem>
+                  <para>Facilitating access to care and other services needed by the patient and/or family, including identifying community and health resources</para>
+               </listitem>
+            </itemizedlist>
+            <para>TCM services are not limited to the attending provider of the related facility stay (eg, hospitalist) or to physicians of any specific specialty.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The individual reporting TCM provides or oversees the management and/or coordination of services necessary for <emphasis role="italics">all</emphasis> the patient's medical conditions, psychosocial needs, and activities of daily living.</para>
+               </listitem>
+               <listitem>
+                  <para>Only 1 individual may report TCM for each qualifying patient within 30 days of discharge. Another TCM service may not be reported by the same individual or group for any subsequent discharge(s) within those 30 days.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Other physicians and QHPs (eg, covering physician) may contribute to the TCM service, but only the physician who provides the initial face-to-face service after discharge reports the service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Hospital or observation discharge services (eg, <emphasis role="bold">99238</emphasis>, <emphasis role="bold">99239</emphasis>) may be reported by the same individual reporting TCM services. Discharge services do not qualify as the required face-to-face visit for TCM.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

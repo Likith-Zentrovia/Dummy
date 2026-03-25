@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0009">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0008</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0009</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 7. NON-PREVENTIVE EVALUATION AND MANAGEMENT SERVICES IN OUTPATIENT SETTINGS</title>
+   <para>Third-party payers will have specific policies for coverage and payment.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Some carriers pay practices for extended hours because they recognize the cost benefit realized from decreased urgent care and ED visits.</para>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Communicate with individual payers to understand their definition or interpretation of the service and their coverage and payment policies.</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>As part of this negotiation and education process, it is important to demonstrate the cost savings recognized by the payer for these adjunct services.</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <para>If appropriate, more than one adjunct code may be reported on the same day of service (eg, <emphasis role="bold">99058</emphasis> and <emphasis role="bold">99051</emphasis> for services provided on an emergency basis during regularly scheduled evening or weekend hours).</para>
+      </listitem>
+   </itemizedlist>
+   <para>Many payers will pay only for the use of a single special services code per encounter and may manually review, question, or deny payment for a claim with multiple after-hours codes.</para>
+   <para>Follow individual payer policy when reporting after-hours codes in conjunction with a service provided via telemedicine. Codes <emphasis role="bold">99050</emphasis> and <emphasis role="bold">99051</emphasis> are neither preceded by a telemedicine symbol (<emphasis role="bold">★</emphasis> or <emphasis role="bold">4</emphasis>) nor included in Appendix P or T of the American Medical Association <emphasis role="italics">CPT</emphasis> manual. Therefore, these codes are not reported with telemedicine services.</para>
+   <sect2 id="ch0010s0009s0001">
+      <title>Services Provided When the Office Is Normally Closed</title>
+      <para>
+         <emphasis role="bold">99050</emphasis> Service(s) provided in office at times other than regularly scheduled office hours, or days when the office is normally closed (eg, holidays, Saturday, Sunday), in addition to basic service</para>
+      <itemizedlist>
+         <listitem>
+            <para>Office hours must be posted. <emphasis role="italics">CPT</emphasis> does not define a holiday or posted office hours. Although most commonly applied to evening, weekend, or holiday hours, <emphasis role="bold">99050</emphasis> could be applied to services provided at the patient request on a weekday if the office is typically closed on that day.</para>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">99050</emphasis> is <emphasis role="italics">not</emphasis> reported when a physician or other QHP is behind schedule and sees patients after posted office hours.</para>
+         </listitem>
+         <listitem>
+            <para>The service must be requested by the patient, and the physician or other QHP must agree to see the patient.</para>
+         </listitem>
+         <listitem>
+            <para>Documentation must indicate the time and date of the encounter and the request to be seen outside of normal posted hours.</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0010s0009s30011">
+         <title/>
+         <sect4 id="ch0010s0009s0001s01s01">
+            <title>Services Provided During Regularly Scheduled Evening, Weekend, or Holiday Hours</title>
+            <para>
+               <emphasis role="bold">99051</emphasis> Service(s) provided in the office during regularly scheduled evening, weekend, or holiday office hours, in addition to basic service</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Regularly scheduled office hours must be posted.</para>
+               </listitem>
+               <listitem>
+                  <para>Documentation must include the time and date of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Evenings and holidays are not defined by <emphasis role="italics">CPT</emphasis>, but holidays can generally refer to national and/or state holidays, and evenings are generally 6:00 pm and later. Check with payers for coverage and/or ability to bill patients these charges under the health plan contract.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A pediatric clinic offers <emphasis role="bold">urgent care appointments</emphasis> 3 evenings a week with staffing by QHPs (eg, NPs, physician associates) working under general supervision. A patient who has been seen at the clinic by Dr A within the past year is seen in the evening clinic by an NP who documents a clinically indicated history and examination with low-level MDM with diagnosis of URI.</para>
+            <table frame="all" id="ch0010s0009ta0001">
+               <title>Services Provided During Regularly Scheduled Evening, Weekend, or Holiday Hours</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J06.9 (acute URI, unspecified)</entry>
+                        <entry>99213 (established office E/M)99051 (service provided in office during regularly scheduled weekend hours)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ★, add-on; ✚, audiovisual technology; and 4, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0010s0009s0001s01s02">
+            <title>Services Provided on an Emergency Basis in the Office</title>
+            <para>
+               <emphasis role="bold">99058</emphasis> Service(s) provided on an emergency basis in the office, which disrupts other scheduled office services, in addition to basic service</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report when an office patient's condition, in the clinical judgment of the physician, warrants the physician's interrupting care of another patient to deal with the emergency.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">99058</emphasis> may not be reported when patients are simply fit into the schedule or for walk-ins.</para>
+               </listitem>
+               <listitem>
+                  <para>Document that the patient was seen immediately and the reason for the emergent care.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A pediatric practice offers scheduled appointments on Saturday mornings from 8:00 am to noon.</emphasis> A child is scheduled for evaluation of increased symptoms of moderate persistent asthma on a Saturday at 9:00 am. The child arrives 30 minutes before the scheduled time with severe exacerbation and is immediately taken to an examination room by the triage nurse, and the physician disrupts his schedule to see the child urgently.</para>
+            <table frame="all" id="ch0010s0009ta0002">
+               <title>Services Provided on an Emergency Basis in the Office</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J45.42 (moderate persistent asthma with status asthmaticus)</entry>
+                        <entry>99202–99215 (new or established office E/M)99058 (service provided on an emergency basis in office, disrupting other scheduled services)99051 (service provided in office during regularly scheduled weekend hours)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0010s0009s0001s01s03">
+            <title>Out-of-Office Service (99056–99060)</title>
+            <para>Codes <emphasis role="bold">99056–99060</emphasis> are used to report services provided after hours or on an emergency basis and are an adjunct to the basic E/M service provided.</para>
+            <para>Third-party payers have specific policies for coverage and payment. Communicate with individual payers to understand their definition or interpretation of the service and their coverage and payment policies. As part of this negotiation and education process, it is important to demonstrate the cost savings recognized by the payer for these adjunct services. After-hour service codes are used by physicians or other QHPs (under their state scope of practice when billing with their own NPI) to identify the services that are adjunct to the basic services rendered. These codes</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Describe the special circumstances under which a basic procedure is performed</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported only in addition to an associated basic service (eg, home visit)</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported without a modifier appended to the basic service because they only further describe the services provided</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">99056</emphasis> Service(s) typically provided in the office, provided out of the office at request of patient, in addition to basic service Documentation should include the patient's request to be seen outside the office.</para>
+            <para>
+               <emphasis role="bold">99060</emphasis> Service(s) provided on an emergency basis, out of the office, which disrupts other scheduled office services, in addition to basic service Documentation should indicate that the physician was called away during scheduled office hours to attend to a patient in another location (eg, a nursing facility).</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A physician is seeing patients in the office when a parent calls and asks the physician to provide a house call for her child who would otherwise require specialized transport.</emphasis> The child has a fever and appears quite ill. The physician agrees and, later that day, arrives at the patient's home to find that the patient is more withdrawn than typical. The physician spends a total of 40 minutes providing the home visit, which includes examining the child, diagnosing streptococcal sore throat based on clinical signs and symptoms, and prescribing an antibiotic.</para>
+         </sect4>
+         <sect4 id="ch0010s0009s0001s01s04">
+            <title>| ICD-10-CM | CPT |</title>
+            <table frame="all" id="ch0010s0009ta0003">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>J02.0 (streptococcal pharyngitis) Assign codes for conditions that limit mobility.</entry>
+                        <entry>99349 (established home or residence E/M requiring moderate MDM or total time of 40 minutes or more) 99056 (service[s] typically provided in the office, provided out of the office at request of patient, in addition to basic service)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J02.0 (streptococcal pharyngitis) Assign codes for conditions that limit mobility.</entry>
+                        <entry>99349 (established home or residence E/M requiring moderate MDM or total time of 40 minutes or more) 99056 (service[s] typically provided in the office, provided out of the office at request of patient, in addition to basic service)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Payers may or may not allow payment for <emphasis role="bold">99056</emphasis> when services are rendered in a patient's home or residence or when a physician meets a patient in the ED. But it is appropriate to report <emphasis role="bold">99056</emphasis> when a service is provided at an alternative location at the request from the patient and/or caregiver. It is inappropriate to report <emphasis role="bold">99056</emphasis> when a physician instructs a patient to meet at a location other than the office. The POS on the claim should reflect where the encounter took place (eg, <emphasis role="bold">12</emphasis>, patient's home).</para>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the continuums and resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0009s0002">
+      <title>Asthma, Attention-Deficit/Hyperactivity Disorder, and Otitis Media: Coding Continuums</title>
+      <sect3 id="ch0010s0009s30012">
+         <title/>
+         <sect4 id="ch0010s0009s0002s01s01">
+            <title>Continuum Model for Asthma</title>
+            <para>Code selection atany level above 99211 may be based on the level of MDM or the total time spent on the DOS by the reporting physician or other QHP. The extent of history and examination documented does not affect code selection.</para>
+            <table frame="all" id="ch0010s0009ta0004">
+               <title>Continuum Model for Asthma</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>CPT Code and Vignette</entry>
+                        <entry nameend="c4" namest="c2">Medical Decision-Making (2 of 3 Elements Required)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99211Nurse visit for a well 10-year-old established patient</entry>
+                        <entry nameend="c4" namest="c2">Time and MDM do not apply. Must indicate continuation of physician's plan of care, medical necessity, assessment, and/or education provided. Chief complaint: Review asthma care plan as ordered at last visit with doctor. Current medications documented, peak expiratory flow measured, education topics reviewed, and questions answered</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>No. and Complexity of Problems Addressed</entry>
+                        <entry>Amount and/or Complexity of Data Reviewed and Analyzed</entry>
+                        <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+                     </row>
+                     <row>
+                        <entry>99212 (≥10 minutes)An 8-year-old with stable asthma presents with a single patch of poison ivy rash on her forearm.</entry>
+                        <entry>SF: 1 self-limited or minor problem</entry>
+                        <entry>SF: None</entry>
+                        <entry>SF: Minimal risk of morbidity resulting from treatment</entry>
+                     </row>
+                     <row>
+                        <entry>99213 (≥20 minutes)A 7-year-old with persistent asthma who is using a metered dose steroid inhaler with β-agonist as needed returns for follow-up.</entry>
+                        <entry>Low: 1 stable chronic illness</entry>
+                        <entry>Limited: Assessment requiring an independent historian(s)—Mother provides history of asthma symptoms and medication adherence since most recent visit.</entry>
+                        <entry>Moderate: Prescription drug management</entry>
+                     </row>
+                     <row>
+                        <entry>99214 (≥30 minutes)An 8-year-old with asthma is examined because of an acute exacerbation of the disease.</entry>
+                        <entry>Moderate: ≥1 chronic illnesses with exacerbation, progression, or side effects of treatment</entry>
+                        <entry>Limited: Assessment requiring an independent historian(s)—Mother provides history. Note: Spirometry and pulse oximetry provided are separately reported and not counted toward data reviewed and analyzed.</entry>
+                        <entry>Moderate: Prescription drug management</entry>
+                     </row>
+                     <row>
+                        <entry>CPT Code and Vignette</entry>
+                        <entry nameend="c4" namest="c2">Medical Decision-Making (2 of 3 Elements Required)</entry>
+                     </row>
+                     <row>
+                        <entry>CPT Code With Total Physician Time and Vignette</entry>
+                        <entry>No. and Complexity of Problems Addressed</entry>
+                        <entry>Amount and/or Complexity of Data Reviewed and Analyzed</entry>
+                        <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+                     </row>
+                     <row>
+                        <entry>99215 (≥40 minutes)An 8-year-old with unstable asthma presents with severe exacerbation of the disease and poor response to inhaler treatments at home. Oral steroids are administered with significant improvement. Hospitalization is discussed, but a decision is made for continued treatment at home with close monitoring.</entry>
+                        <entry>High: 1 chronic condition with severe exacerbation</entry>
+                        <entry>Limited: Assessment requiring an independent historian(s)</entry>
+                        <entry>High: Decision regarding hospitalization</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0010s0009s0002s01s02">
+            <title>Continuum Model for Attention-Deficit/Hyperactivity Disorder</title>
+            <para>
+               <emphasis role="italics">Code selection atany level above 99211 may be based on the level of MDM or the total time spent by the physician or other QHP on the date of the encounter.</emphasis>
+            </para>
+            <table frame="all" id="ch0010s0009ta0005">
+               <title>Continuum Model for Attention-Deficit/Hyperactivity Disorder</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>CPT Code With Total Physician Time and Vignette</entry>
+                        <entry>No. and Complexity of Problems Addressed</entry>
+                        <entry>Amount and/or Complexity of Data Reviewed and Analyzed</entry>
+                        <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99211Nurse visit to check growth or blood pressure before renewing prescription for psychoactive drugs</entry>
+                        <entry nameend="c4" namest="c2">Time and MDM do not apply. Must indicate continuation of physician's plan of care, medical necessity, assessment, and/or education provided. Chief complaint: Check growth or blood pressure as ordered at last visit with doctor. Documentation: Height, weight, and blood pressure. Existing medications and desired/undesired effects. Assessment: Doing well. Obtained physician approval for prescription refill. Advised to keep appointment with physician in 1 month.</entry>
+                     </row>
+                     <row>
+                        <entry>99212 (≥10 minutes)4-year-old whose parents are concerned about ADHD symptoms (ADHD is not diagnosed; parents are reassured.)</entry>
+                        <entry>Minimal: 1 self-limited problem</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Minimal: Parent education</entry>
+                     </row>
+                     <row>
+                        <entry>99213 (≥20 minutes)Initial follow-up after initiation of medication, patient responding well</entry>
+                        <entry>Low: 1 stable chronic illness</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Moderate: Prescription drug management</entry>
+                     </row>
+                     <row>
+                        <entry>99214 (≥30 minutes)Follow-upfor recent weight loss inpatient with established ADHD otherwise stable when taking stimulant medication</entry>
+                        <entry>Moderate: 1 chronic illness with side effects of treatment</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Moderate: Prescription drug management</entry>
+                     </row>
+                     <row>
+                        <entry>99215 (≥40 minutes)Initial evaluation of a patient with ADHD and new onset of suicidal ideation. The patient and mother decide on no hospitalization because of cost. Tip: Add 99417 if time on the DOS is ≥55 minutes. Add 99058 if service(s) are provided on an emergency basis in the office, which disrupts other scheduled office services.</entry>
+                        <entry>High: 1 acute or chronic illness or injury that poses a threat to life or bodily function</entry>
+                        <entry>Moderate: Assessment requiring an independent historian; discussion with behavioral health specialist; psychiatric testing</entry>
+                        <entry>High: Decision regarding hospitalization</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="bold">Continuum Model for Otitis Media</emphasis>
+               <emphasis role="italics">Code selection atany level above 99211 may be based on the level of MDM or the total time spent by the physician or other QHP on the date of the encounter. (Code 99211 is not included because of lack of indication for follow-up by clinical staff.)</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Medical Decision-making (2 of 3 Elements Required)</emphasis>
+            </para>
+            <table frame="all" id="ch0010s0009ta0006">
+               <title>Continuum Model for Attention-Deficit/Hyperactivity Disorder</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>CPT Code With Total Physician Time and Vignette</entry>
+                        <entry>No. and Complexity of Problems Addressed</entry>
+                        <entry>Amount and/or Complexity of Data Reviewed and Analyzed</entry>
+                        <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99212 (≥10 minutes)Follow-upfor otitis media, uncomplicated</entry>
+                        <entry>Minimal: Follow-upfor otitis media, evaluation of effusion and hearing</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Minimal: Risk associated with diagnostic testing and treatment</entry>
+                     </row>
+                     <row>
+                        <entry>99213 (≥20 minutes)2-year-old presents with tugging ather right ear. Afebrile. Mild otitis media.</entry>
+                        <entry>Low: 1 acute, uncomplicated illness or injury</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Moderate: Prescription drug management, delayed prescribing</entry>
+                     </row>
+                     <row>
+                        <entry>99214 (≥30 minutes)Infant presents with fever, lethargy, and cough and suspected third episode of otitis media within 3 months.</entry>
+                        <entry>Moderate: 1 acute illness with systemic symptoms</entry>
+                        <entry>Limited: Assessment requiring an independent historian</entry>
+                        <entry>Moderate: Prescription drug management</entry>
+                     </row>
+                     <row>
+                        <entry>99215 (≥40 minutes)6-year-old presents with fever, severe left ear pain, and protrusion consistent with mastoiditis.</entry>
+                        <entry>High: 1 acute illness that poses a threat to life or bodily function</entry>
+                        <entry>Moderate: Assessment requiring an independent historian</entry>
+                        <entry>High: Decision about hospitalization</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Chapter Takeaways</emphasis>
+               </para>
+               <para>This chapter focused on outpatient services that are reported according to either MDM or the total time by a physician or QHP on the date of the encounter. Readers of this chapter should generally understand outpatient code categories and code selection. Following are takeaways from this chapter:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Codes for outpatient E/M services are selected according to the site of service as directed by <emphasis role="italics">CPT</emphasis> guidelines.</para>
+                  </listitem>
+                  <listitem>
+                     <para>The key determinant for reporting G2211 is the intent for a long-term physician-patient relationship either as a focal point for all of a patient's health care needs or for management of a single serious or complex condition.</para>
+                  </listitem>
+                  <listitem>
+                     <para>To be considered a new patient, the patient must not have received a professional service from a physician or QHP of the same exact specialty and same group practice within the past 3 years.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Office E/M services provided solely by clinical staff may be reported with <emphasis role="bold">99211</emphasis>. Payer policy may limit reporting to services that meet an incident-to policy.</para>
+                  </listitem>
+                  <listitem>
+                     <para>For all the outpatient visits discussed in this chapter except <emphasis role="bold">99211</emphasis>, the level of service is determined by either the level of MDM alone or by the total amount of time spent by a physician or other QHP on the DOS directed to care of the patient.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Prolonged service may be reported when the time requirements are met.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Critical care provided in outpatient settings is reported with time-based codes <emphasis role="bold">99291</emphasis> and <emphasis role="bold">99292</emphasis>.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Use <emphasis role="bold">99050–99060</emphasis> in addition to the code for services provided when special circumstances apply (eg, a service provided after the practice's normal business hours to allow care in the practice as opposed to an urgent care clinic or ED).</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">● indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0009s0003">
+      <title>Resources</title>
+      <sect3 id="ch0010s0009s30013">
+         <title/>
+         <sect4 id="ch0010s0009s0003s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Initial History Questionnaire documentation form for office or outpatient visits (www.aap.org/Initial-History-Questionnaire-Documentation-Form-Pack-of-50) <emphasis role="italics">Coding for Visit Complexity for Office/Other Outpatient Services</emphasis> (https://downloads.aap.org/AAP/PDF/AAP%20Factsheet%20Complexity%20Add%20On%20G2211.pdf)</para>
+            <para>
+               <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026)</para>
+         </sect4>
+         <sect4 id="ch0010s0009s0003s01s02">
+            <title>AAP News™</title>
+            <para>"Understanding updated E/M coding guidelines can prevent underbilling, loss of revenue," August 1, 2024 (https://publications.aap.org/aapnews/news/29460)</para>
+         </sect4>
+         <sect4 id="ch0010s0009s0003s01s03">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Answers to Questions About Evaluation and Management Code Selection in 2023," January 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book225</emphasis> document002) "Compliance Corner: Incident to Services," November 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book247</emphasis> document003)</para>
+            <para>E/M 2021 and 2023 coding resources (https://publications.aap.org/codingnews/info-parent/27376/Coding-Resources)</para>
+            <para>"AAP Position on Medicare Consultation Policy"</para>
+            <para>"Critical Care Reporting in Outpatient Settings" "Evaluation and Management Service Coding in Nursing and Residential Treatment Facilities"</para>
+            <para>"Incident-to Services by Nonphysician Professionals and Clinical Staff: Medicare Requirements" ● indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which statement is true for reporting G2211 to indicate an office E/M (99202–99205, 99211–99215) was part of longitudinal care?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Do not report G2211 when reporting an office E/M service to address a problem (eg, 99213 25) and an influenza vaccine administration (eg, 90460) on the same date.</para>
+                     </listitem>
+                     <listitem>
+                        <para>G2211 is reported in addition to an office E/M code only when no other codes are reported on the same date.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Do not report G2211 in addition to code 99211.</para>
+                     </listitem>
+                     <listitem>
+                        <para>G2211 is reported in addition to an office E/M code appended with modifier 25 only when reporting certain preventive services (eg, 90460–90461, immunization administration) on the same date.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false? A service provided by clinical staff under the supervision of a physician or QHP who is immediately available via real-time audio-video telecommunications technology may be reported with 99211.</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of the total time included in an office E/M code descriptor?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The time included in the code descriptor is the maximum time reported with the code.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time included in the code descriptor must bemet or exceeded.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time included in the code descriptor includes only a physician's or QHP's face-to-face time with the patient and/or caregiver.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Total time includes all time in a 24-hour period.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Using Table 7-1 to guide code selection, which code is supported by documentation of a new patient office visit including 12 minutes, total time and straightforward MDM?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>99202</para>
+                     </listitem>
+                     <listitem>
+                        <para>99212</para>
+                     </listitem>
+                     <listitem>
+                        <para>The visit cannot be reported because the code descriptor for 99202 requires at least 15 minutes of total time.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The information in the question is insufficient for code selection.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What information is necessary to support selection of prolonged clinical staff service code 99415?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The amount of clinical staff time that is beyond the total time spent by the reporting physician or QHP</para>
+                     </listitem>
+                     <listitem>
+                        <para>Only the total time spent by the reporting physician or QHP</para>
+                     </listitem>
+                     <listitem>
+                        <para>The office E/M code selected by the physician or QHP, based on MDM or total time, and the total face-to-face clinical staff time</para>
+                     </listitem>
+                     <listitem>
+                        <para>Only the total clinical staff time including both face-to-face and non-face-to-face time</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
