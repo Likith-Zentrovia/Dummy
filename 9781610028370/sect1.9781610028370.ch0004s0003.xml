@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CPT</title>
+   <para>
+      <emphasis role="bold">99214 25</emphasis> (established patient office visit with moderate level MDM) <emphasis role="bold">51701</emphasis> (insertion of non-indwelling bladder catheter [eg, straight catheterization for residual urine])</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> Medical record documentation supports that a significant, separately identifiable E/M service was provided and is reported in addition to the catheterization procedure. Modifier 25 is appended to code 99214 to signify that it is significant and separately identifiable from the preservice and postservice work of the procedure.</para>
+   <para>▶ A physician ordered and clinical staff administered the first dose of human papillomavirus (HPV) vaccine at a preventive medicine E/M service 18 months earlier. The patient returns for the second vaccine administration. The physician reviews vital signs and a brief history of no current illness and no history of adverse reaction to the first dose of the vaccine. The physician provides appropriate counseling and obtains consent for the immunization. Clinical staff administers the vaccine. A brief history and examination were performed, and a decision to administer the second dose of the vaccine was reaffirmed. This decision does not, however, represent a significant and separately identifiable E/M service. No office E/M code is reported.</para>
+   <para>
+      <emphasis role="bold">Z23</emphasis> (encounter for immunization)</para>
+</sect1>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0001s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0001s0001</risprev>
+         <riscurrent>sect1.9781610028370.ch0001s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0001s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>1</chapternumber>
+         <chapterid>ch0001</chapterid>
+         <chaptertitle>Front Matter</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Coding for Pediatrics 2026</title>
+   <sect2 id="ch0001s0002s0001">
+      <title>A Manual for Pediatric Documentation and Payment</title>
+      <sect3 id="ch0001s0002s0001s01">
+         <title>31ST EDITION</title>
+         <figure float="0" id="ch0001s0002fg0001">
+            <title/>
+            <mediaobject>
+               <imageobject>
+                  <imagedata fileref="ch0001f02.jpg" scalefit="1" width="100%"/>
+               </imageobject>
+            </mediaobject>
+         </figure>
+         <sect4 id="ch0001s0002s0001s01s01">
+            <title>For Use With AMA CPT® 2026 and ICD-10-CM</title>
+            <para>
+               <emphasis role="bold">Author</emphasis>
+            </para>
+            <para>Committee on Coding and Nomenclature</para>
+            <para>American Academy of Pediatrics</para>
+            <para>
+               <emphasis role="bold">Editors</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Editor in Chief</emphasis>
+            </para>
+            <para>Linda D. Parsi, MD, MBA, CPEDC, FAAP</para>
+            <para>
+               <emphasis role="bold">Associate Editors</emphasis>
+            </para>
+            <para>Kathryn B. Lalor, MD, FAAP</para>
+            <para>Sheri L. Nemerofsky, MD, FAAP</para>
+            <figure float="0" id="ch0001s0002fg0002">
+               <title/>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="ch0001f03.jpg" scalefit="1" width="100%"/>
+                  </imageobject>
+               </mediaobject>
+            </figure>
+            <para>American Academy of Pediatrics</para>
+            <para>DEDICATED TO THE HEALTH OF ALL CHILDREN®</para>
+         </sect4>
+         <sect4 id="ch0001s0002s0001s01s02">
+            <title>2025–2026 Committee on Coding and Nomenclature</title>
+            <para>Sheri L. Nemerofsky, MD, FAAP, Chairperson</para>
+            <para>Margie C. Andreae, MD, FAAP</para>
+            <para>Suzanne K. Berman, MD, FAAP</para>
+            <para>Kimberly Brennan, MBA, CMPE Eileen D. Brewer, MD, FAAP, Immediate Past Chairperson</para>
+            <para>Mark Joseph, MD, FAAP</para>
+            <para>David M. Kanter, MD, MBA, CPC, FAAP</para>
+            <para>Steven E. Krug, MD, FAAP</para>
+            <para>Kathryn B. Lalor, MD, FAAP</para>
+            <para>Edward A. Liechty, MD, FAAP</para>
+            <para>Jeffrey F. Linzer Sr, MD, FAAP</para>
+            <para>Linda D. Parsi, MD, MBA, CPEDC, FAAP</para>
+            <para>Benjamin Shain, MD, PhD</para>
+            <para>Renee F. Slade, MD, FAAP</para>
+            <para>Mark C. Smith, MD, FAAP</para>
+            <para>Richard Weiss, MD, FAAP</para>
+         </sect4>
+         <sect4 id="ch0001s0002s0001s01s03">
+            <title>2025–2026 AAP Coding Publications Editorial Advisory Board</title>
+            <para>Linda D. Parsi, MD, MBA, CPEDC, FAAP, Editor in Chief</para>
+            <para>Greg Barabell, MD, CPC, FAAP</para>
+            <para>Vita Boyar, MD, FAAP</para>
+            <para>Timothy Ryan Hensley, MD, CPC, CPEDC, FAAP</para>
+            <para>David M. Kanter, MD, MBA, CPC, FAAP</para>
+            <para>Steven E. Krug, MD, FAAP</para>
+            <para>Kathryn B. Lalor, MD, FAAP, Associate Editor</para>
+            <para>Edward A. Liechty, MD, FAAP</para>
+            <para>Jeffrey F. Linzer Sr, MD, FAAP</para>
+            <para>Richard A. Molteni, MD, FAAP</para>
+            <para>Karen Nauman, MD, FAAP</para>
+            <para>Sheri L. Nemerofsky, MD, FAAP, Associate Editor</para>
+            <para>Julia M. Pillsbury, DO, FAAP</para>
+            <para>Renee F. Slade, MD, FAAP</para>
+            <para>Brian S. Snarr, MD, PhD, FAAP</para>
+            <para>Karla Nickolas Swatski, MD, FAAP</para>
+            <para>Sanjeev Y. Tuli, MD, MEd, FAAP</para>
+         </sect4>
+         <sect4 id="ch0001s0002s0001s01s04">
+            <title>AAP Staff</title>
+            <para>Stefanie Muntean-Turner, CPC, CPMA</para>
+         </sect4>
+         <sect4 id="ch0001s0002s0001s01s05">
+            <title>Consulting Editor</title>
+            <para>Cindy Hughes, CPC, CPCC</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0001s0002s0002">
+      <title>Disclaimer</title>
+      <para>Every effort has been made to include the new and revised 2026 <emphasis role="italics">Current Procedural Terminology (CPT®); International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM)</emphasis>; and Healthcare Common Procedure Coding System <emphasis role="italics">(HCPCS)</emphasis> codes, their respective guidelines, and other revisions that might have been made. Because of the publishing deadlines and the publication date of the American Medical Association <emphasis role="italics">CPT</emphasis>, additional revisions and/ or additional codes may have been published after the date of this printing. It is the responsibility of the reader to use this manual as a companion to the <emphasis role="italics">CPT, ICD-10-CM</emphasis>, and <emphasis role="italics">HCPCS</emphasis> publications. Vignettes are provided throughout this publication to highlight coding applications. They are not intended to offer medical advice or the practice of medicine. Further, it is the reader's responsibility to routinely access the American Academy of Pediatrics website (www.aap.org/cfp2026 or www.aap.org/errata) for any errata in the published version. At the time of this publication, final changes for 2026 codes and Medicare payment policies were pending. Visit www.aap.org/coding for updates.</para>
+   </sect2>
+   <sect2 id="ch0001s0002s0003">
+      <title>Copyright Acknowledgment</title>
+      <para>
+         <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> is a listing of descriptive terms and 5-digit numeric identifying codes and modifiers for reporting medical services and procedures performed by physicians. This presentation includes only the <emphasis role="italics">CPT</emphasis> descriptive terms, numeric identifying codes, and modifiers for reporting medical services and procedures that were selected by the American Academy of Pediatrics (AAP) for inclusion in this publication. The inclusion of a <emphasis role="italics">CPT</emphasis> service or procedure description and its code number in this publication does not restrict its use to a particular specialty group. Any procedure or service in this publication may be used to report the services provided by any qualified physician or, when appropriate, other qualified health care professional.</para>
+      <para>The American Medical Association (AMA) and the AAP assume no responsibility for the consequences attributable to or related to any use or interpretation of any information or views contained in or not contained in this publication.</para>
+      <para>Any 5-digit numeric <emphasis role="italics">CPT</emphasis> code, service descriptions, instructions, and/or guidelines are copyright 2025 (or such other date of publication of <emphasis role="italics">CPT</emphasis> as defined in the federal copyright laws) AMA. All rights reserved.</para>
+      <para>The most current <emphasis role="italics">CPT</emphasis> is available from the AMA.</para>
+      <para>No fee schedules, basic unit values, relative value guides, conversion factors or scales, or components thereof are included in <emphasis role="italics">CPT</emphasis>.</para>
+   </sect2>
+</sect1>

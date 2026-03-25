@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0002s0001001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0002s0001001</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>2</chapternumber>
+         <chapterid>ch0002</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title/>
+   <sect2 id="ch0002s0001s0001">
+      <title>Part 1. Coding Basics and Business Essentials</title>
+      <sect3 id="ch0002s0001s30001">
+         <title/>
+         <sect4 id="ch0002s0001s0001s01s01">
+            <title>
+            Chapter 1
+          </title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0002s0001s0001s01s02">
+            <title>
+            Chapter 2
+          </title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0002s0001s0001s01s03">
+            <title>
+            Chapter 3
+          </title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0002s0001s0001s01s04">
+            <title>
+            Chapter 4
+          </title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0002s0001s0001s01s05">
+            <title>
+            Chapter 5
+          </title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0002s0001s0001s01s06">
+            <title>
+            Chapter 6
+          </title>
+            <para/>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

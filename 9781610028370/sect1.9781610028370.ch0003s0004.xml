@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Reporting Diagnoses for Diagnostic Examinations</title>
+   <itemizedlist>
+      <listitem>
+         <para>The condition, symptoms, or other reason for a diagnostic examination or test should be linked to the service. For laboratory or radiology testing in the absence of related conditions, signs, or symptoms, report <emphasis role="bold">Z01.89</emphasis> (encounter for other specified special examinations).</para>
+      </listitem>
+      <listitem>
+         <para>When diagnostic tests have been interpreted by a physician and the final report is available at the time of coding, code any confirmed or definitive diagnosis(es) documented in the interpretation. Do not code related signs and symptoms as additional diagnoses.</para>
+      </listitem>
+      <listitem>
+         <para>The code that explains the reason for the test (ie, sign or symptom; diagnosis when known at the end of the encounter) should be reported. A screening code is reported only when a test is performed in the absence of signs or symptoms of a condition.</para>
+      </listitem>
+   </itemizedlist>
+   <para>▶ A chest radiograph is ordered because the result of purified protein derivative testing was positive. Code <emphasis role="bold">R76.11</emphasis> (nonspecific reaction to tuberculin skin test without active tuberculosis) is assigned on the order to indicate the reason for testing.</para>
+   <para>▶ A tuberculin purified protein derivative test is performed to screen for tuberculosis in a patient with no symptoms and no known exposure. Code <emphasis role="bold">Z11.1</emphasis> (encounter for screening for respiratory tuberculosis) is assigned as the reason for the test.</para>
+   <para>▶ A patient presents with symptoms suggestive of urinary tract infection (UTI). After urinalysis and evaluation, the diagnosis is UTI. Assign a code for UTI (eg, <emphasis role="bold">N39.0</emphasis>, UTI, site not specified) and link to codes for the urinalysis and the E/M service.</para>
+   <sect2 id="ch0003s0004s20001">
+      <title/>
+      <sect3 id="ch0003s0004s30004">
+         <title/>
+         <sect4 id="ch0003s0004s0001s01s01">
+            <title>Reporting Preoperative Evaluations</title>
+            <itemizedlist>
+               <listitem>
+                  <para>When the reason for an encounter is a preoperative evaluation, a code from subcategory <emphasis role="bold">Z01.81-</emphasis> (encounter for preprocedural examinations) is reported first, followed by codes for the condition that is the reason for surgery and codes for any findings of the preoperative evaluation.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 8</emphasis> for discussion of reporting routine health examinations (preventive care).</para>
+         </sect4>
+         <sect4 id="ch0003s0004s0001s01s02">
+            <title>The Pathway to ICD-10-CM Code Selection</title>
+            <para>To correctly select codes in <emphasis role="italics">ICD-10-CM</emphasis>, it is important to recognize and follow instructions found in the alphabetical index and tabular list to locate the most specific code for documented diagnoses. These are the prevailing instructions for reporting that are supplemented by the guidelines and guidance published in the AHA <emphasis role="italics">Coding Clinic</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0003s0004s0001s01s03">
+            <title>Indexes</title>
+            <para>Code selection begins in the alphabetical index, table of drugs and chemicals (eg, to report an adverse effect or poisoning), and/or table of neoplasms. The instructions (eg, instructions to see other terms) in the index will direct to the most specific code in the tabular list. An external cause of injuries index is also useful for locating codes to describe causes such asanimal bites, falls, or motor vehicle accidents.</para>
+            <para>Dashes are used in the alphabetical index to create a path from a main term to specific sub-terms.</para>
+            <para>▶ Obesity <emphasis role="bold">E66.9</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>with alveolar hypoventilation <emphasis role="bold">E66.2</emphasis>
+                  </para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>adrenal <emphasis role="bold">E27.8</emphasis>
+                        </para>
+                     </listitem>
+                     <listitem>
+                        <para>class</para>
+                     </listitem>
+                     <listitem>
+                        <para>-- 1 <emphasis role="bold">E66.811</emphasis>
+                        </para>
+                     </listitem>
+                     <listitem>
+                        <para>-- 2 <emphasis role="bold">E66.812</emphasis>
+                        </para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>-- 3 E66.8T3 The sub-term "class" is followed by entries for Class 1, Class 2, and Class 3 obesity. The initial sub-term is preceded by a single dash (-), and when applicable, additional dashes precede terms that further define the sub-term.</para>
+         </sect4>
+         <sect4 id="ch0003s0004s0001s01s04">
+            <title>Tabular List</title>
+            <para>The tabular list is the end point for code selection. It is analphanumeric list of ICD-10-CM codes structured as anindented list of 22 chapters with further divisions, including blocks, categories, subcategories, and codes.</para>
+            <blockquote>
+               <para>Look for instructional notes at each division within the tabular list (ie, chapter, block, category, or code), as these give important guidance to correct code selection.</para>
+            </blockquote>
+            <para>The indented format helps users identify complete codes (eg, Z20.822, contact with and [suspected] exposure to COVID-19) in each category (eg, Z20, contact with and [suspected] exposure to communicable diseases) or subcategory (eg, Z20.82, contact with and [suspected] exposure to other viral communicable diseases). Only complete codes are reported.</para>
+            <para>Some code categories include instruction to add a seventh character. The most required seventh characters are A, D, and S. Categories for traumatic fractures have additional seventh character values (eg, G, initial encounter for open fracture type IIIA, IIIB, or IIIC).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Assignment of the seventh character A (initial encounter) is based on whether the patient is undergoing active treatment (ie, services to establish a pattern of healing) and not on whether the physician or QHP is seeing the patient for the first time over the course of treatment of an injury or illness.</para>
+               </listitem>
+               <listitem>
+                  <para>Encounters during the routine healing phase are reported with seventh character D (subsequent encounter) even if the patient is new to the physician or QHP for this condition.</para>
+               </listitem>
+               <listitem>
+                  <para>Sequelae or late effects are reported with seventh character S.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>When selecting a seventh character to indicate the type of encounter, a helpful mnemonic for this character is A as active treatment/management, D as during healing, and S asscars and other sequelae.</para>
+            </blockquote>
+            <para>▶ A (initial encounter): A physician repairs a facial laceration (active treatment) and reports S01.81XA (laceration without foreign body of other part of head, initial encounter). This is active management.</para>
+            <para>▶ D (subsequent encounter): A pediatrician removes facial sutures placed by an emergency department physician and reports S01.81XD (laceration without foreign body of other part of head, subsequent encounter). This is care during the healing phase.</para>
+            <para>▶ S (sequela or late effect): A pediatrician evaluates a concern of scar contracture that resulted from repair of a facial laceration. Codes L90.5 (scar conditions and fibrosis of skin) and S01.81XS (laceration without foreign body of other part of head, sequela) are reported. This is care for a scar or other sequelae.</para>
+            <para>Teaching Point: A sequela (eg, scar) must always be listed before the sequela code (eg, L90.5 before S01.81XS).</para>
+            <para>Refer to Pediatric Coding Basics and Pediatric ICD-10-CM for more information on codes and code selection.</para>
+         </sect4>
+         <sect4 id="ch0003s0004s0001s01s05">
+            <title>Diagnosis Coding Tips</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Specificity in coding is important to demonstrate the reason for a service or an encounter, including the nature or severity of conditions being managed. For further discussion of this important topic, refer to the Appropriate Use of Unspecified Codes section later in this chapter.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians and other QHPs should be familiar with the documentation elements that are captured in ICD-10-CM code categories for conditions commonly seen in their practice.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When documenting care for asthma (category <emphasis role="bold">J45</emphasis>), key documentation elements include whether the condition</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is classified as intermittent (mild), mild persistent, moderate persistent, or severe persistent</para>
+               </listitem>
+               <listitem>
+                  <para>Is or is not exacerbated</para>
+               </listitem>
+               <listitem>
+                  <para>Is complicated by status asthmaticus (when applicable)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Exposure to or use of tobacco is also reported in conjunction with asthma. Eosinophilic asthma (<emphasis role="bold">J82.83</emphasis>) is reported in addition to asthma codes in category <emphasis role="bold">J45</emphasis>, when present.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Assign codes for SDoH (eg, homelessness, food insecurity, or lack of transportation) that increase the complexity and risk of management or treatment (eg, lack of transportation that increases the risk of not returning for necessary follow-up).</para>
+               </listitem>
+               <listitem>
+                  <para>Pay close attention to the terminology for nonspecific diagnoses. For example, the diagnosis "reactive airways disease" is coded as asthma per the guidelines. It may be more appropriate to report the signs or symptoms as the primary diagnosis in children treated for an asthma-like condition when they have not been diagnosed with asthma.</para>
+               </listitem>
+               <listitem>
+                  <para>After evaluation and study of a suspected condition, if there is no diagnosis or no appropriate signs or symptoms, report the codes for observation and evaluation for suspected conditions not found (eg, parent's concern regarding an injury that is not found). Codes for reporting observation and evaluation for suspected conditions not found in a neonate (<emphasis role="bold">Z05.2-Z05.3</emphasis>) are distinct from those for reporting suspected conditions not found in older children and adults (subcategory <emphasis role="bold">Z03.8-</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Use aftercare codes (<emphasis role="bold">Z42-Z49, Z51</emphasis>) for patients who are receiving care to consolidate treatment or management to address residual conditions.</para>
+               </listitem>
+               <listitem>
+                  <para>Conditions that were previously treated and no longer exist cannot be reported. Therefore, it is correct coding to report care following completed treatment with <emphasis role="bold">Z09</emphasis> (encounter for follow-up examination after completed treatment of conditions other than malignant neoplasm).</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Personal history codes (<emphasis role="bold">Z86.-, Z87.-</emphasis>) may be used to provide additional information on follow-up care.</para>
+                     </listitem>
+                     <listitem>
+                        <para>If a payer does not accept follow-up care codes as primary and requires that the service be reported with the diagnosis code that reflects the condition that was treated, report the follow-up care codes as secondary. However, get the payer's policy in writing and inquire why coding guidelines are not being followed.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>A patient is seen to follow up on otitis media with effusion, which has resolved. The physician reports <emphasis role="bold">Z09</emphasis> and <emphasis role="bold">Z86.69</emphasis> (personal history of other diseases of the nervous system and sense organs) in lieu of the code for otitis media with effusion (no longer applicable).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not select a diagnosis code that is "close to" the diagnosis or condition documented in the medical record. For example, do not report other disorders of bilirubin metabolism (hyperbilirubinemia) (<emphasis role="bold">E80.6</emphasis>) if the diagnosis is neonatal jaundice associated with preterm delivery (<emphasis role="bold">P59.0</emphasis>). Follow alphabetical index and tabular list instructions for selecting codes to ensure that the correct code is assigned.</para>
+               </listitem>
+               <listitem>
+                  <para>Pay attention toage factors within certain code descriptors. For example, report <emphasis role="bold">R10.83</emphasis> for infantile colic and <emphasis role="bold">R10.84</emphasis> for colic in a child older than 12 months. Use <emphasis role="bold">P00-P96</emphasis> to report conditions that originate in the perinatal period from birth through the first 28 days after birth (discussed further in <emphasis role="bold">Chapter 15</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>There is no limit to the number of diagnosis codes that can be documented.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Space is only allotted for up to 12 codes on the 1500 claim form, and each service line may be connected to 1 to 4 of the included codes. You may submit as many claim forms as necessary to report all current diagnoses.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Electronic claims in HIPAA version 5010 may also include up to 12 diagnosis codes.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>"Recurrent" is not defined by <emphasis role="italics">ICD-10-CM</emphasis>. Therefore, to use a recurrent code, the documentation should reflect that a physician or QHP believes the condition to be a recurrence.</para>
+               </listitem>
+               <listitem>
+                  <para>"Confirmed" influenza, COVID-19, or other conditions do not require a positive result from a laboratory or other test. What is required is that the physician or QHP, through training and experience, believes that the patient has the condition, given the clinical assessment, and documents the condition in the medical record.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report suspected or rule-out diagnoses for physician services. Code to the nearest clinical certainty, which may be signs or symptoms. Exposure to communicable disease (category <emphasis role="bold">Z20</emphasis>) may be reported when a patient has known or suspected exposure or when a disease is endemic but ruled out after evaluation.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

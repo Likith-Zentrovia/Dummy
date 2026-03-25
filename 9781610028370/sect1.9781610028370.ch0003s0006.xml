@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0006</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0007</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 1
+    </title>
+   <sect2 id="ch0003s0006s0001">
+      <title>The Basics of Coding</title>
+      <itemizedlist>
+         <listitem>
+            <para>Select the code for the procedure or service that accurately identifies the service performed.</para>
+         </listitem>
+      </itemizedlist>
+      <para>✖ Do not select a code that merely approximates the service provided.</para>
+      <itemizedlist>
+         <listitem>
+            <para>If no specific code exists, report the service with the appropriate unlisted procedure code. Unlisted procedure codes are provided in each section of CPT (eg, 99429, unlisted preventive medicine service). When reporting an unlisted procedure code, medical records need to be submitted to the health plan to identify the service rendered (attach the records to the claim to prevent delay caused by a health plan request for them).</para>
+         </listitem>
+         <listitem>
+            <para>In some cases, a modifier may be reported in conjunction with a procedure code to indicate a reduced (52), discontinued (53), or increased (22) procedural service. For more about procedure code modifiers, refer to Chapter 2.</para>
+         </listitem>
+         <listitem>
+            <para>A single code may incorporate or bundle multiple components. For example, 90710 is used to report provision of a measles, mumps, rubella, and varicella combination vaccine product. It is not appropriate to report codes for the individual components when a single code represents a specific product administered or services provided.</para>
+         </listitem>
+         <listitem>
+            <para>A code that is reported "perday" or for services "on the same date" is reported for all services on a single calendar date (ie, not for all services provided in a 24-hour period).</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0003s0006s30008">
+         <title/>
+         <sect4 id="ch0003s0006s0001s01s01">
+            <title>Example</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Hospital care of the newborn is reported once per day for all work provided by the same physician or QHP (or multiple individuals of the same group and same specialty) on that date.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>99463    Initial hospital or birthing center care, perday, for E/M of normal newborn infant admitted and discharged on the same date 99468    Initial inpatient neonatal critical care, perday, for the E/M of a critically ill neonate, 28 days of age or younger</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time is the physician's or other reporting provider's time unless otherwise stated. Time spent by clinical staff is reported only when specified in CPT or allowed under incident-to policy established by a payer.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Refer to Chapter 7 for information on reporting services that are incident to a physician's service.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>A midpoint time rule applies when codes are selected according to time <emphasis role="italics">and no specific time requirement is provided in</emphasis> the section guidelines, parenthetical instructions, or code descriptor.</para>
+               </listitem>
+               <listitem>
+                  <para>A unit of time is attained when the midpoint is passed (eg, a code described as 30 minutes may be reported when service time of 16 minutes has elapsed).</para>
+               </listitem>
+               <listitem>
+                  <para>When codes are ranked in sequential typical times and the actual time is between 2 typical times, the code with the typical time closest to the actual time is used. If the actual time of service falls exactly between the typical times of 2 codes, report the code with the lower typical time (ie, the midpoint must be passed to report the greater service).</para>
+               </listitem>
+               <listitem>
+                  <para>The midpoint rule does not apply to codes for E/M services for which a specified total time on the date of the encounter must bemet or exceeded.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0006s0001s01s02">
+            <title>Documentation of Time</title>
+            <para>
+               <emphasis role="bold">Documentation of time spent providing services should beevident in the medical record for each service reported according to time (ie, total minutes of service or start and stop times).</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Documentation of time may be automated in an EHR, but physicians should beable to demonstrate that the EHR functionality captures the correct time for code selection as specified by CPT.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">When multiple services are provided on the same date, time spent in time-based services must be clearly distinguished from time spent in provision of other services. For instance, time spent inany separately reportable procedure (eg, 31500, endotracheal intubation) is not included in the time of hourly critical care services (99291, 99292). Documentation should clearly reflect total times and activities of each service.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">In addition to documentation of total times or start and stop times of service, documentation should clearly support the service reported. For example, documentation of counseling should include discussion of diagnosis and treatment options, patient and/or caregiver questions and concerns that were addressed, shared decision-making for management, and any SDoH that affect care and were addressed (eg, advice to enroll in a prescription discount program).</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">All documentation must be signed or electronically authenticated with the name and credentials of the physician or other provider of care and date of service (DOS).</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✖, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>In addition, <emphasis role="italics">CPT</emphasis> includes not only specific guidelines that are located at the beginning of each of 6 sections but also additional prefatory instructions for subsections of codes throughout the <emphasis role="italics">CPT</emphasis> manual. Code-specific instructions often follow a code in parentheses (referred to as <emphasis role="italics">parenthetical instructions</emphasis>).</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ Parenthetical instructions following <emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis> advise of other codes that may be applicable in lieu of the hospital discharge service codes.</para>
+            <para>
+               <emphasis role="bold">99238</emphasis>        Hospital inpatient or observation discharge day management; 30 minutes or less on the date of the encounter <emphasis role="bold">99239</emphasis>        more than 30 minutes on the date of the encounter</para>
+            <para>(For hospital inpatient or observation care, including the admission and discharge of the patient on the same date, refer to <emphasis role="bold">99234—99236</emphasis>.) (For discharge services provided to newborns admitted and discharged on the same calendar date, use <emphasis role="bold">99463</emphasis>.)</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Instructions preceding <emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis> provide more description of the services and restrict reporting to the discharging physician or QHP (eg, principal or attending physician). Services by other physicians or other QHPs that may include instructions to the patient and/or family and coordination of post-discharge services may be reported with a subsequent hospital care code (ie, <emphasis role="bold">99231</emphasis>, <emphasis role="bold">99232</emphasis>, or <emphasis role="bold">99233</emphasis>).</para>
+            <para>Additional guidance can be found in <emphasis role="italics">CPT Assistant</emphasis>, a monthly newsletter published by the AMA that provides information about the intended use of codes, related guidelines, and parenthetical instructions. Although widely considered authoritative, <emphasis role="italics">CPT</emphasis> instructions, guidelines, and <emphasis role="italics">CPT Assistant</emphasis> are not part of the HIPAA standard transaction code sets.</para>
+            <para>All payers must accept <emphasis role="italics">CPT</emphasis> codes but are not required to adhere to the published <emphasis role="italics">CPT</emphasis> guidelines and instructions. When payer policy differs from <emphasis role="italics">CPT</emphasis>, payer contracts typically require adherence to payer policy.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A health plan policy does not allow separate payment for vision screening in conjunction with a routine child health examination even though <emphasis role="italics">CPT</emphasis> instructs that the screening be separately reported. Although the health plan may deny charges associated with a vision screening, the plan must not reject the claim when a vision screening code is included (eg, <emphasis role="bold">99173</emphasis>, screening test of visual acuity, quantitative, bilateral).</para>
+         </sect4>
+         <sect4 id="ch0003s0006s0001s01s03">
+            <title>Provider Terminology</title>
+            <para>Throughout the <emphasis role="italics">CPT</emphasis> code set, the use of terms such as <emphasis role="italics">physician</emphasis>, <emphasis role="italics">QHP</emphasis>, or <emphasis role="italics">individual</emphasis> is not intended to indicate that other entities may not report the service. In select instances, specific instructions may define a service as limited to certain professionals or to other entities (eg, hospital, home health agency).</para>
+            <para>Identifying the providers intended when terms such as <emphasis role="italics">physician or other QHP</emphasis> and <emphasis role="italics">nonphysician qualified health care professional</emphasis> are used in <emphasis role="italics">CPT</emphasis> and/or payer instruction is of particular importance to correct reporting of services that include clinical staff and other nonphysician providers (eg, clinical social workers, dietitians).</para>
+            <para>
+               <emphasis role="italics">CPT</emphasis> defines health care professionals as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Physician or other QHP: an individual who is qualified by education, training, licensure/regulation (when applicable), and facility privileging (when applicable) who performs a professional service within his or her scope of practice and independently reports that professional service</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Codes in the E/M section are reported only by a physician or QHP whose scope of practice includes E/M services (eg, nurse practitioner, physician associate). In contrast, assessment and management codes are found in the medicine section for reporting services by nonphysician QHPs (eg, physical therapists, occupational therapists and speech pathologists) who may independently provide and report medical services. Coding for services by nonphysician qualified health care professionals whose scope of practice does not include E/M services is discussed in Chapter 12.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Clinical staff member: a person who works under the supervision of a physician or other QHP and who is allowed by law, regulation, and facility policy to perform or assist in the performance of a specific professional service but does not individually report that professional service</para>
+               </listitem>
+            </itemizedlist>
+            <para>Services performed by clinical staff under the supervision of a physician or QHP are reported by the supervising physician or QHP.</para>
+            <para>
+               <emphasis role="italics">Note:</emphasis> CPT does not include any requirements for licensure but, rather, advises physicians to follow state regulations and the related scopes of practice defined by regulations (eg, regulations defining services that require a nursing license).</para>
+         </sect4>
+         <sect4 id="ch0003s0006s0001s01s04">
+            <title>CPT Conventions</title>
+            <para>Symbols are used throughout CPT to indicate certain code characteristics. At the beginning of a code,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A bullet indicates a new code for the current year.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▲ A triangle means the code descriptor has been revised.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A plus sign means the code is anadd-on code (AOC).</para>
+               </listitem>
+            </itemizedlist>
+            <para>⊘ A null sign means the code is a "modifier 51 exempt" code and, therefore, does not require modifier 51 (multiple procedures) even when reported with other procedures.</para>
+            <para>⚡ The lightning bolt identifies codes for vaccines and immunoglobulins pending US Food and Drug Administration (FDA) approval.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
