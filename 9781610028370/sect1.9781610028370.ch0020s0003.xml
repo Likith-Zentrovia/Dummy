@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0020s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0020s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0020s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>20</chapternumber>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>16. Noncritical Hospital Evaluation and Management Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Risk</title>
+   <para>Determine the level of risk of management decisions made at each individual encounter. Following are a few key points regarding selection of the level of risk:</para>
+   <itemizedlist>
+      <listitem>
+         <para>The element of risk of MDM is the risk of management and not the risk of the problem itself. For example, a presenting problem may have a high complexity on the basis of high-risk differential diagnoses, but a management decision to further evaluate the patient's problem with an elective procedure that occurs without identified patient or procedure risks factors represents a moderate risk.</para>
+      </listitem>
+      <listitem>
+         <para>Risk may be increased by a decision against a management option (testing, treatment, or escalation in the level of care) that was <emphasis role="italics">considered but not selected</emphasis>.</para>
+      </listitem>
+      <listitem>
+         <para>The risk associated with a decision for surgery is not determined by the global period assigned to the procedure but, rather, by how trained physicians would commonly classify the risks of the procedure, also considering the patient-specific risk factors. For example, an orthopedic heel-cord release would be a low-risk procedure, but that risk would be significantly increased if the patient had cerebral palsy with respiratory and neurological disease.</para>
+      </listitem>
+      <listitem>
+         <para>A decision regarding escalation of the level of service (eg, the decision to transfer to intensive or critical care) indicates a higher level of risk in the patient's management.</para>
+      </listitem>
+   </itemizedlist>
+   <para>For examples of code selection for initial, subsequent, and same-date hospital or observation admission and discharge services based on elements of MDM, refer to the Level of Service Selection section later in this chapter.</para>
+   <sect2 id="ch0020s0003s20001">
+      <title/>
+      <sect3 id="ch0020s0003s30002">
+         <title/>
+         <sect4 id="ch0020s0003s0001s01s01">
+            <title>Time-Based Code Selection</title>
+            <para>The time used for code selection is the physician's and/or QHP's total time directed to the individual patient's care on the date of the encounter. Refer to <emphasis role="bold">Chapter 6</emphasis> for full discussion of activities that may contribute to the total time.</para>
+            <para>Inpatient hospital or observation care code descriptors include a <emphasis role="italics">minimum amount of time that must bemet or exceeded</emphasis> to report the code based on total time.</para>
+            <para>Following are some key points regarding total time of service:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Total time is not limited to time spent on the unit/floor. Count all time in activities necessary for care of the individual patient, omitting time spent performing separately reported services.</para>
+               </listitem>
+               <listitem>
+                  <para>When time is used as the controlling factor in the selection of the code, <emphasis role="italics">the total time spent on the date of the encounter must be documented in the medical record.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Continuous service time that crosses midnight is counted as a single service on a single date. When there is no continuous episode of care crossing midnight, separately report the services provided on each calendar date.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Do not count time spent on ✖ The performance of other services that are reported separately (eg, bedside procedure)</para>
+            <para>✖ Travel ✖ Teaching that is general for any patient admitted to the hospital and not specific to the management of the patient's problem(s) presently being addressed</para>
+            <para>✖ Time spent in activities normally performed by clinical staff (eg, assisting the patient to the bathroom or changing a diaper) For examples of code selection for initial, subsequent, and same-date hospital or observation admission and discharge services based on total time, refer to the Level of Service Selection section later in this chapter, which further expands on time-based code selection.</para>
+            <para>
+               <emphasis role="bold">Table 16-2</emphasis> provides guidance for selecting a code according to the level of MDM supported by 2 of 3 elements of MDM or according to total time on the date of the encounter. This table is useful when reviewing examples of services provided in discussions of each category of hospital inpatient or observation E/M service.</para>
+            <para>For ease of reference, a printable version of <emphasis role="bold">Table 16-2</emphasis> is included at www.aap.org/cfp2026.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0002">
+      <title>Hospital or Observation Services by Multiple Physicians and QHPs</title>
+      <sect3 id="ch0020s0003s30003">
+         <title/>
+         <sect4 id="ch0020s0003s0002s01s01">
+            <title>Concurrent Care</title>
+            <para>Concurrent care is defined by <emphasis role="italics">CPT</emphasis> as the provision of similar services to the same patient by more than one physician on the same day. Concurrent care may be provided by physicians from different practices or physicians from the same practice but different specialties. When concurrent care is provided, the diagnosis code(s) reported by each physician should reflect the medical necessity for the provision of services by more than one physician on the same DOS. Although it is easier to justify concurrent care when each treating physician reports different diagnoses, if the diagnosis codes reported by each physician are for the same condition, it does not prevent billing for the services.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ➤ <emphasis role="bold">The attending physician requests that a consultant manage a patient's pulmonary care (eg, drainage of pleural effusion) while the attending physician provides ongoing treatment of complicated community-acquired pneumonia.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Both physicians report subsequent hospital care codes according to their individual total time or MDM and link the <emphasis role="italics">CPT</emphasis> codes to the appropriate diagnosis codes.</para>
+            <para>Refer to <emphasis role="bold">Figure 1-1</emphasis> for an example of linking diagnoses to procedure codes on a claim.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0002s01s02">
+            <title>Reporting Services Split or Shared by a Physician and a QHP</title>
+            <para>In general, a split/shared E/M service is one in which a physician and a QHP from the same specialty and group practice, who could otherwise independently report an E/M service, each personally perform a medically necessary portion of one or more face-to-face E/M services on the same date. Split/shared billing may allow a physician to report the combined</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0002s01s03">
+            <title>Table 16-2. Hospital or Observation Evaluation and Management Services: Code Selection Requirements</title>
+            <table frame="all" id="ch0020s0003ta0001">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Level/Codes/Total Time (min)a</entry>
+                        <entry nameend="c4" namest="c2">Medical Decision-Making (2 of 3 Required: Data,b,c Problems, Risk)</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>Problem(s) Addressed</entry>
+                        <entry>Data Reviewed and Analyzedb</entry>
+                        <entry>Risk</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>LowSame-date admission and discharge99234 (≥45)Initial service99221 (≥40)Subsequent service99231 (≥25)Consultation99253 (≥45)</entry>
+                        <entry>Low—Any 1 of• ≥2 self-limited or minor problems• 1 stable chronic illness• 1 acute, uncomplicated illness or injury• 1 stable acute illness• 1 acute, uncomplicated illness or injury requiring hospital inpatient or observation level of care</entry>
+                        <entry>Limited (Meet 1 of 2 categories)Category 1: Tests and documents (Any 2)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique testCategory 2: Assessment requiring an independent historian(s)</entry>
+                        <entry>LowExamples• Over-the-counter medication(s)• Removal of sutures• Physical, language, or occupational therapy</entry>
+                     </row>
+                     <row>
+                        <entry>ModerateSame-date admission and discharge99235 (≥70)Initial service99222 (≥55)Subsequent service99232 (≥35)Consultation99254 (≥60)</entry>
+                        <entry>Moderate—Any 1 of≥1 chronic illness with exacerbation, progression, or side effects of treatment≥2 stable chronic illnesses1 undiagnosed new problem with uncertain prognosis1 acute illness with systemic symptoms1 acute, complicated injury</entry>
+                        <entry>Moderate (Meet 1 of 3 categories)Category 1: Tests and documents (Any 3)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique test• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPCategory 3: Discussion of management or test interpretation with external physician/other QHP/appropriate source</entry>
+                        <entry>ModerateExamples• Prescription drug management or off-label use of over-the-counter medication• Decision about minor surgery with identified patient or procedure risk factors• Decision about elective major surgery without identified patient or procedure risk factors• Diagnosis or treatment significantly limited by SDoH</entry>
+                     </row>
+                     <row>
+                        <entry>HighSame-date admission and discharge99236 (≥85)Initial service99223 (≥75)Subsequent service99233 (≥50)Consultation99255 (≥80)</entry>
+                        <entry>High—Any 1 of≥1 chronic illness with severe exacerbation, progression, or side effects of treatment1 acute or chronic illness or injury that poses a threat to life or bodily function</entry>
+                        <entry>Extensive (Meet 2 of 3 categories listed in the previous row)</entry>
+                        <entry>HighExamples• Drug therapy requiring intensive monitoring for toxicity• Decision about hospitalization or escalation of hospital level of care• Decision about elective major surgery with identified patient or procedure risk factors• Decision about emergency major surgery• Decision not to resuscitate or to de-escalate care because prognosis is poor• Decision regarding parenteral controlled substances</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <superscript>a</superscript> Include only time personally spent by physicians and QHPs of the same specialty and same group practice directed to the individual patient's care on the date of the encounter.</para>
+            <para>
+               <superscript>b</superscript> Each unique test, order, or document contributes to the combination of 2 or combination of 3 in Category 1.</para>
+            <para>
+               <superscript>c</superscript> Do not count data review or communications reported with other codes (eg, test interpretation, interprofessional consultation).</para>
+            <para>work and receive payment at a higher fee schedule rate than would be paid if reported by the QHP. (Some health plans pay &lt;100% of the plan's physician fee schedule [eg, 85%] for services reported by QHPs.) Split/shared billing policy may not apply when a payer does not allow direct billing by a QHP. In this event, follow the payer's policy for reporting (eg, always bill for the combined work under the physician's NPI).</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0002s01s04">
+            <title>Current Procedural Terminology Guidelines for Split/Shared Services</title>
+            <para>CPT defines a "shared or split visit" as a visit in which a physician and QHP(s) jointly provide the face-to-face and non–face-to-face work related to a visit.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Each individual should independently document their work (eg, history, examination, and MDM) and/or time spent on the date of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>A physician cannot merely sign off on the documentation of the work by the QHP.</para>
+               </listitem>
+               <listitem>
+                  <para>Shared services are generally not permitted if the QHP is a hospital employee. (Exceptions may apply under value-based care payment arrangements.)</para>
+               </listitem>
+            </itemizedlist>
+            <para>The CPT guidelines for split/shared services address use of time for code selection as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When time is used to select the appropriate level of hospital or observation service, the time personally spent by the physician and QHP(s) assessing and treating the patient and/or counseling, educating, or communicating results to the patient or family/caregiver on the date of the encounter is summed to define total time.</para>
+               </listitem>
+               <listitem>
+                  <para>When 2 or more individuals of the same specialty and same group practice jointly meet with or discuss the patient, only the time of 1 individual should be counted.</para>
+               </listitem>
+               <listitem>
+                  <para>The combined documentation must support the total time of the combined service when selecting a code on the basis of time.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When physicians and QHPs work together to provide care that is reported with a single E/M code, the service is reported by the professional who performed the substantive portion of the service. The substantive portion of the service is defined in either of the following ways:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When code selection is based on time, the professional who spent the most time on that date in activities of an E/M service to the individual patient reports the service.</para>
+               </listitem>
+               <listitem>
+                  <para>When code selection for a split/shared visit is based on MDM, the professional who performed 2 of 3 elements of MDM has performed the substantive portion and reports the E/M service.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>When the number and complexity of problems addressed at the encounter are one of the elements supporting the level of MDM, the professional who made or approved the management plan for the problem(s) addressed and who accepts the inherent risks of the management plan has performed the substantive portion of the service.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>When the amount and/or complexity of data to be reviewed and analyzed is one of the elements on which the level of MDM is determined, the following guidance applies: ◊ Consider an assessment of the documented history from an independent historian and documented tests ordered or results/documents reviewed to have been considered by the professional in formulating the management plan. The professional reporting the service does not have to personally perform these activities.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>◊ An independent interpretation of a test or discussion of management with an external physician is used in selecting the amount and/or complexity of data to be reviewed and analyzed only when personally performed by the individual reporting the service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0020s0003s0002s01s05">
+            <title>Medicare Guidelines for Split/Shared Services</title>
+            <para>Under Medicare policy, a split/shared service must be reported with modifier FS (split or shared E/M visit) appended to the code reported for the split/shared encounter.</para>
+            <para>Payers other than Medicare may require use of modifier FS to identify that a service was provided as a split/shared service. Practices should review payer policies to determine when this modifier is required.</para>
+            <para>Per Medicare instructions, documentation must include — The identity of the physician and the QHP who perform the visit</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Who performed the substantive portion of the visit</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The reporting physician or QHP must authenticate/sign the documentation of the service per Medicare policy.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Medicare policy states that at least 1 of the individuals providing a split/shared service must have face-to-face (in-person) contact with the patient, but this individual does not necessarily have to be the physician, or the individual who performs the substantive portion and bills for the visit. The substantive portion can be entirely with or without direct patient contact, and it is determined by the proportion of total time, not whether the time involves patient contact.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A physician orders admission of a patient at 8:00 am after reviewing the patient's medical record via remote access.</emphasis> At 8:30 am, a nurse practitioner (NP) in the physician's group practice and exact same specialty provides an initial E/M service and documents 40 minutes of service. Later that day, the physician reassesses the patient and documents the visit, including references to the NP's note and that the combined total time of service on this date is 90 minutes (40 minutes by the NP and 50 minutes by the physician). The codes selected for the split/shared service are <emphasis role="bold">99223 F5</emphasis> (first 75 minutes) and <emphasis role="bold">99418 F5</emphasis> (1 unit of prolonged service for the final 15 minutes of service).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Because both health care professionals are from the same group practice and have documented and signed off on their individually provided services, the split/shared guidelines apply. Because the physician spent the majority of the total time of service, the service is billed by the physician. Some payers may not require modifier F5 to be appended to the reported codes. Refer to the Prolonged Hospital E/M Services section later in this chapter for more information on <emphasis role="bold">99418</emphasis>.</para>
+            <para>▶<emphasis role="bold">A physician associate (PA) provides a subsequent hospital visit to anuncircumcised 8-month-old patient admitted the prior afternoon for management of acute gastroenteritis with dehydration after a failed oral challenge.</emphasis> The patient is reexamined by the PA, who is concerned about possible UTI and sepsis on the basis of history from the patient's parents and examination findings. The PA orders urinalysis obtained by catheterization, basic metabolic panel, and blood and urine cultures. Later the same day, the attending physician reviews records of the patient's stay, including results of the urinalysis and basic metabolic panel. A working diagnosis of acute pyelonephritis with suspected acute kidney injury and a concern regarding congenital urinary tract abnormality are documented. Antibiotics are started, intravenous (IV) fluids are managed to avoid the risk of hyperkalemia, and renal bladder ultrasonography and a urologic consultation are ordered. Still later on the same date, the urologist and the attending physician discuss renal bladder ultrasonography findings and plan urinary catheterization to relieve obstruction and, after the patient's fever resolves, a voiding cystourethrogram. The combined total time of service is not documented.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Code selection based on total time is not an option because of lack of documentation. However, the elements of MDM that the physician may include are <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="italics">High</emphasis> (an acute illness that poses a threat to life or bodily function)</para>
+            <para>
+               <emphasis role="italics">Data reviewed and/or analyzed</emphasis> ➤ <emphasis role="italics">Extensive</emphasis> (Category 1—review/order of multiple tests and independent historian, Category 3—discussion of management with physician of another specialty) <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="italics">Moderate</emphasis> (prescription drug management) The MDM is high given the problem addressed and data reviewed and analyzed. The physician reports subsequent hospital inpatient or observation care with high-level MDM (<emphasis role="bold">99233 F5</emphasis>). Had the discussion of management with the urologist been performed by the PA, the higher level of MDM would have been attributed to the PA and the service would have been reported under the PA's name and NPI.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0003">
+      <title>Reporting Hospital Inpatient or Observation Care</title>
+      <sect3 id="ch0020s0003s30004">
+         <title/>
+         <sect4 id="ch0020s0003s0003s01s01">
+            <title>Selecting the Appropriate Code Categories</title>
+            <para>This section provides an overview of each category of hospital inpatient or observation E/M service. Code(s) reported by the physician or QHP, and same specialty/same group practice team who ordered the patient's admission, are based on the length of the patient's stay. Additional details for reporting codes in these categories are discussed later in this section. <emphasis role="bold">Table 16-3</emphasis> provides guidance for code selection based on duration of the patient's hospital stay.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s02">
+            <title>Table 16-3. Hospital Inpatient and Observation Code Categories by Length of Stay</title>
+            <para>This guidance does not apply to services provided to normal newborns admitted and discharged on the same date (99463).</para>
+            <table frame="all" id="ch0020s0003ta0002">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Stay of less than 8 hours</entry>
+                        <entry>Report only an initial hospital care code (99221–99223)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry/>
+                        <entry>This applies whether the patient is discharged on the date of admission or the next day.</entry>
+                     </row>
+                     <row>
+                        <entry>Stay of 8 hours or more with discharge on the same date</entry>
+                        <entry>Report only a same-date admission and discharge service code (99234–99236)</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>An additional requirement for 2 distinct visits by the attending physician or QHP applies.</entry>
+                     </row>
+                     <row>
+                        <entry>Stay of 8 hours or more with discharge on a subsequent date</entry>
+                        <entry>Report both initial hospital care (99221–99223) and discharge day management services (99238, 99239).</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s03">
+            <title>Level of Service Selection</title>
+            <para>Total time and MDM reporting criteria and examples of each level of service are included in discussion of each category of hospital services. Following are key points to remember in code selection:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Examples given are not clinical recommendations, and levels of service supported may vary depending on documentation and patient age and presentation (eg, ill appearance beyond what is typical for concern).</para>
+               </listitem>
+               <listitem>
+                  <para>Select a code based on either total physician/QHP time on the DOS or MDM.</para>
+               </listitem>
+               <listitem>
+                  <para>Report an initial service when the patient has not received any professional services from the physician or QHP (or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice) during the current hospital or observation stay.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s04">
+            <title>Same-Date Admission and Discharge Services</title>
+            <para>
+               <emphasis role="bold">99234</emphasis> Hospital inpatient or observation care, for the E/M of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and straightforward or low level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 45 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99235</emphasis> Hospital inpatient or observation care, for the E/M of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 70 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99236</emphasis> Hospital inpatient or observation care, for the E/M of a patient including admission and discharge on the same date, which requires a medically appropriate history and/or examination and high level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 85 minutes must bemet or exceeded.</para>
+            <para>(For services ≥100 minutes, refer to discussion of prolonged service add-on code (AOC) <emphasis role="bold">99418</emphasis> in the Prolonged Service on the Date of an E/M Service section later in this chapter.) &gt; <emphasis role="bold">Prolonged service may be reported only in addition to the highest-level code in the category of E/M service (eg, 99418 is reported in addition to 99236 but not 99234 and 99235) and only when code selection is based on total time.</emphasis>
+            </para>
+            <para>Codes <emphasis role="bold">99234–99236</emphasis> are reported when a physician or QHP provides a hospital inpatient or observation admission service during a <emphasis role="italics">stay lasting 8 hours or more</emphasis> and, <emphasis role="italics">after reevaluation later on the same date</emphasis>, provides discharge management services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Only the physician or QHP team (ie, members of the same specialty and same group practice) who ordered the admission and provided the discharge service on the same date report <emphasis role="bold">99234–99236</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Two or more encounters are required <emphasis role="italics">on the same calendar date</emphasis>. Report <emphasis role="bold">99234–99236</emphasis> only when one encounter consists of an initial admission service and another consists of a discharge management.</para>
+               </listitem>
+               <listitem>
+                  <para>For a patient admitted and discharged at a single face-to-face encounter, report only initial hospital inpatient or observation service codes <emphasis role="bold">99221–99223</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report discharge management codes <emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis> in conjunction with <emphasis role="bold">99234–99236</emphasis> or in conjunction with <emphasis role="bold">99221–99223</emphasis> for admission and discharge services performed on the same calendar date.</para>
+            <para>Report <emphasis role="bold">99463</emphasis> for admission and discharge services provided to normal newborns on the same calendar date.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When a patient receives hospital inpatient or observation care for less than 8 hours, report only an initial hospital inpatient or observation care code (<emphasis role="bold">99221–99223</emphasis>) on the date of admission. Do not report a separate code for hospital discharge (<emphasis role="bold">99238, 99239</emphasis>) for services during this admission.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report <emphasis role="bold">99234–99236</emphasis> when a patient was admitted to hospital inpatient or observation care and discharged on a different date. Instead, report either — Initial hospital care (<emphasis role="bold">99221–99223</emphasis>) for services during a stay of less than 8 hours</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Initial hospital care (<emphasis role="bold">99221–99223</emphasis>) and hospital discharge day management (<emphasis role="bold">99238, 99239</emphasis>) for services during a stay of 8 hours or more Code selection is based on <emphasis role="italics">either</emphasis> MDM <emphasis role="italics">or</emphasis> total time on the date of the encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Include the combined MDM or total time provided by the same physician or physicians of the same specialty and same group practice provided on a single DOS.</para>
+               </listitem>
+               <listitem>
+                  <para>Except where payer guidance specifies otherwise, reporting of initial observation or inpatient care is based on the date of the face-to-face assessment and not the date of admission or designation of a status by a facility (eg, when changed on physician order).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Use <emphasis role="bold">Tables 16-2</emphasis> and <emphasis role="bold">16-4</emphasis> to assign codes for the services based on MDM or total time on the date of the encounter.</para>
+            <para>For ease of reference, a printable version of <emphasis role="bold">Table 16-2</emphasis> is included at <emphasis role="bold">www.aap.org/cpt2026</emphasis>.</para>
+            <table frame="all" id="ch0020s0003ta0003">
+               <title>Same-Date Admission and Discharge Services</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Medical Decision-Making</entry>
+                        <entry>Straightforward or Low</entry>
+                        <entry>Moderate</entry>
+                        <entry>High</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Code/Total Time (min)</entry>
+                        <entry>99234≥45</entry>
+                        <entry>99235≥70</entry>
+                        <entry>99236≥85</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ A 14-year-old patient with an acute exacerbation of asthma is admitted to an observation stay. The attending physician performs the initial history and physical examination at 1:00 am and orders IV fluids, inhalation treatments every 4 hours, and continued close monitoring. Another physician from the attending physician's same specialty and group practice returns to the hospital at 12:00 pm and stops the IV fluids. At 5:00 pm that same day, after further evaluation of the child by the same physician, the patient is discharged home with new prescriptions for asthma control and emergency use medications.</para>
+            <table frame="all" id="ch0020s0003ta0004">
+               <title>Same-Date Admission and Discharge Services</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J45.41 (moderate persistent asthma with exacerbation)</entry>
+                        <entry>99235 (initial inpatient E/M service with moderate MDM)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s05">
+            <title>Data reviewed and/or analyzed ⟹ Minimal or none Risk of patient management ⟹ Moderate (prescription drug management)</title>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Because the physicians of the same specialty and same group practice provided inpatient admission and discharge services on the same date, <emphasis role="bold">99235</emphasis> is reported by one of the physicians. Determination of who reports the service may be based on the attending physician of record or practice policy. If the service were split/shared by a physician and QHP, the service would be reported by the individual who provided the substantial part of the MDM on which code selection was based.</para>
+            <para>
+               <emphasis role="bold">A 5-year-old patient is evaluated in the ED for admission to observation for treatment of diarrhea with moderate dehydration. At 5:00 pm, a hospitalist provides the initial observation encounter in the ED and documents the admission order with the date and time. The hospitalist orders include a time-based oral rehydration plan using an electrolyte solution. The patient is reevaluated by the hospitalist at 7:00 am and again at 10:00 am and determined to be sufficiently recovered for discharge home at the 10:00 am encounter. The hospitalist orders the discharge and documents all the services, including 50 minutes of total time spent directed to care of the patient. Diagnosis is viral gastroenteritis with moderate dehydration.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s06">
+            <title>| ICD-10-CM | CPT |</title>
+            <table frame="all" id="ch0020s0003ta0005">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>A08.4 (viral intestinal infection, unspecified)</entry>
+                        <entry>99222 (moderate MDM) is reported for the 5-hour stay. The</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>E86.0 (dehydration)</entry>
+                        <entry>viral gastroenteritis with moderate dehydration and a decision for observation support moderate MDM.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Although the service provided otherwise supports same-date admission and discharge (ie, the patient was evaluated at &gt;1 encounter, and both an admission and a discharge management service were provided on the same date), the patient's stay did not meet the 8-hour minimum required for reporting <emphasis role="bold">99234–99236</emphasis>.</para>
+            <para>The physician's total time on the DOS is 50 minutes, supporting <emphasis role="bold">99221</emphasis>, but the physician selects the code on the basis of the most favorable method, total time, or MDM. Here, moderate MDM supports <emphasis role="bold">99222</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s07">
+            <title>When Payers Use Medicare Policy for Observation Services</title>
+            <para>
+               <emphasis role="bold">Medicaid and private payers may adopt a Medicare policy requiring a medical observation record for the patient that contains dated and timed physician's orders for the inpatient or observation services the patient is to receive, nursing notes, and progress notes prepared by the admitting physician or QHP indicating physical presence and personal performance of services. This record must be in addition to (and not a copy and paste of) any record prepared as a result of an ED or outpatient clinic encounter before the admission.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s08">
+            <title>Initial Inpatient Hospital Care</title>
+            <para>
+               <emphasis role="bold">99221</emphasis> Initial hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and straightforward or low level medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99222</emphasis> Initial hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 55 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99223</emphasis> Initial hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 75 minutes must bemet or exceeded.</para>
+            <para>(For services ≥90 minutes, refer to discussion of prolonged service AOC <emphasis role="bold">99418</emphasis> in the Prolonged Service on the Date of an E/M Service section later in this chapter.)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Initial hospital inpatient or observation service codes are used to report initial face-to-face services provided to a patient admitted as a hospital inpatient or in observation status.</para>
+               </listitem>
+               <listitem>
+                  <para>Initial hospital encounters may be reported by more than one physician. For discussion of consultations in hospital inpatient or observation settings, refer to the Consultation Guidelines section later in this chapter.</para>
+               </listitem>
+               <listitem>
+                  <para>The code is reported on the first day that a face-to-face (physician-patient) service is provided and for the combined admission and discharge services provided during any inpatient or observation stay of less than 8 hours.</para>
+               </listitem>
+               <listitem>
+                  <para>The date of initial hospital inpatient or observation care that the physician reports does not need to correlate with the facility's date of admission.</para>
+               </listitem>
+               <listitem>
+                  <para>Only 1 initial hospital inpatient or observation care code is reported per physician or QHP team per stay. A transition from observation to inpatient does not constitute a new stay.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Use <emphasis role="bold">Tables 16-2</emphasis> and <emphasis role="bold">16-5</emphasis> to review the requirements used to select level of service in the examples that follow.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0003s01s09">
+            <title>Table 16-5. Codes for Initial Hospital Inpatient or Observation Services</title>
+            <table frame="all" id="ch0020s0003ta0006">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Medical Decision-Making</entry>
+                        <entry>Straightforward or Low</entry>
+                        <entry>Moderate</entry>
+                        <entry>High</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Code/Total Time (min)</entry>
+                        <entry>99221≥40</entry>
+                        <entry>99222≥55</entry>
+                        <entry>99223≥75</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A 60-day-old girl is admitted from the ED to Dr Admit's service.</emphasis> The patient's mother reported that the infant seemed warm to the touch and irritable, breastfed much less than normal, and had fewer wet diapers and 1 normal stool in the past 24 hours.</para>
+            <para>
+               <emphasis role="italics">Laboratory evaluation:</emphasis> Complete blood cell count with white blood cells at 12,000/mcL, no left shift on differential count, and normal absolute neutrophil count. Urinalysis results normal or negative with a pH of 7.0 and a specific gravity of 1.020. Urine and blood culture results pending. C-reactive protein level normal (&lt;3.1). Comprehensive metabolic panel findings normal except carbon dioxide level of 16 mEq/L. COVID-19 test result negative.</para>
+            <para>
+               <emphasis role="italics">Assessment:</emphasis> 8-week-old with fever, mild dehydration, and acute metabolic acidosis. Because of the patient's age and continued symptoms, there is concern regarding sepsis or undetected bacterial infection. Pyelonephritis is doubtful given the normal urinalysis results. Meningitis is less likely given the mild clinical findings, and bronchiolitis is doubtful given the lack of viral symptoms.</para>
+            <para>
+               <emphasis role="italics">Plan:</emphasis> Admit the patient for IV antibiotics and IV fluids. Closely observe her for sepsis and pyelonephritis, but note that the examination findings, CBC, urinalysis results, and C-reactive protein level were normal. Follow blood and urine cultures. Breastfeeding can continue adlib.</para>
+            <para>Dr Admit discusses the current diagnostic and treatment plans with the parents and explains that a QHP from the same group practice will visit later today to reevaluate the patient and plan for any needed overnight changes in management or for home discharge. Dr Admit's total time is 45 minutes.</para>
+            <table frame="all" id="ch0020s0003ta0007">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>E86.0 (dehydration)E87.2† (acute metabolic acidosis)R50.9 (fever, unspecified)</entry>
+                        <entry>99222 (moderate MDM)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> The hospital E/M services provided on this date include the total time spent by the 2 individuals of the same specialty and same group practice. Dr Admit, who spent most of the total time of service and ordered the tests reviewed by the QHP, submits the bill for the calendar day's service. In this scenario, both the physician's total time and their level of MDM were higher than those of the QHP, as the problem was improving at the time of the QHP's visit, review of test results is included in the order by a physician of the same group and specialty, and the risk of management is unchanged.</para>
+            <para>Modifier FS is reported, when required by a payer, to indicate that the visit was split/shared by the physician and/or QHP.</para>
+            <para>Tests are counted toward the level of data for the encounter at which the tests are ordered because review of results is included in the order. However, when a physician or QHP reviews results of tests ordered by a physician or QHP of another specialty or other group practice, the review is counted toward the amount and/or complexity of data for that visit.</para>
+            <para>▶ A 14-year-old patient is admitted to inpatient status from the ED at 8:00 pm on Tuesday with an acute asthma exacerbation requiring IV methylprednisolone in addition to inhalation treatments. The admitting physician's documentation includes notes of a discussion with an ED physician and decision for admission to the general pediatric unit rather than the intensive care unit. She reviews the results of 3 unique tests (eg, basic metabolic panel, CBC, spirometry, and/or blood gas analysis). The admitting diagnosis is acute asthma exacerbation, stable when the patient is receiving albuterol inhalation treatments and IV methylprednisolone. <emphasis role="italics">Plan:</emphasis> Continue albuterol inhalation therapy and IV methylprednisolone. Monitor peak expiratory flow rate, serum electrolyte levels, and glucose level overnight. Will reevaluate tomorrow morning or sooner, as indicated.</para>
+            <table frame="all" id="ch0020s0003ta0008">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J45.41 (moderate persistent asthma with acute exacerbation)</entry>
+                        <entry>99223 (initial inpatient E/M service with high MDM)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Data reviewed and/or analyzed</emphasis> ▶ <emphasis role="bold">Extensive</emphasis> (2 of 3 categories of data: Category 1—order or review of ≥3 tests, Category 3—discussion of management with an external physician [physician of another specialty]) <emphasis role="italics">Risk of patient management</emphasis> ▶ <emphasis role="bold">High</emphasis> (decision to admit to a unit/floor)</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The high-level MDM in this example is supported by all 3 elements of MDM. If the conversation between the admitting and ED physicians were limited to arranging transfer of the patient's care and not about determining the patient's admission status, the discussion would not be a discussion of management for purposes of determining the amount and/or complexity of data in MDM.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0004">
+      <title>Subsequent Hospital Care</title>
+      <para>★99231    Subsequent hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and straightforward or low level of medical decision making. When using total time on the date of the encounter for code selection, 25 minutes must bemet or exceeded.</para>
+      <para>★99232    Subsequent hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the date of the encounter for code selection, 35 minutes must bemet or exceeded.</para>
+      <para>★99233    Subsequent hospital inpatient or observation care, perday, for the E/M of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date of the encounter for code selection, 50 minutes must bemet or exceeded.</para>
+      <para>(For services ≥65 minutes, refer to discussion of prolonged service AOC <emphasis role="bold">99418</emphasis> in the Prolonged Service on the Date of an E/M Service section later in this chapter.) ● Codes include all E/M services by a physician or QHP of the same specialty and same group practice provided on a subsequent day of inpatient or observation service. The level of service reported will depend on the total services provided and documented.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Codes <emphasis role="bold">99231–99233</emphasis> are also reported by consulting physicians when reporting an inpatient or observation consultation code is inappropriate (eg, when an outpatient consultation was provided before admission on the same date). For additional discussion of consultations, refer to the Consultation Guidelines section later in this chapter.</para>
+         </listitem>
+         <listitem>
+            <para>Selection of the code is based on either MDM or total time on the date of the encounter.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Use <emphasis role="bold">Tables 16-2</emphasis> and <emphasis role="bold">16-6</emphasis> to help select the appropriate codes in the examples that follow.</para>
+      <sect3 id="ch0020s0003s30005">
+         <title/>
+         <sect4 id="ch0020s0003s0004s01s01">
+            <title>Table 16-6. Codes for Subsequent Hospital Inpatient or Observation Services</title>
+            <table frame="all" id="ch0020s0003ta0009">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Medical Decision-Making</entry>
+                        <entry>Straightforward or Low</entry>
+                        <entry>Moderate</entry>
+                        <entry>High</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Code/Total Time (min)</entry>
+                        <entry>99231≥25</entry>
+                        <entry>99232≥35</entry>
+                        <entry>99233≥50</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; Teaching Point: This visit is a subsequent visit without discharge management on this date.</para>
+            <para>In this example, the MDM is moderate (3 of 3 elements may support moderate, although only 2 of 3 are required).</para>
+            <para>Time cannot be used as the controlling factor in code selection because the documentation does not indicate the total time spent on the date of the encounter. If another physician or QHP of the same care team provided care to the patient on this same date, the level of MDM of the combined services would be used in code selection unless the later visit included documentation of time to support a higher level of service.</para>
+            <para>▶ A physician reevaluates a 14-year-old who was seen in consultation late on the prior evening following admission to observation for a first-time tonic-clonic seizure. The physician obtains additional history from the patient and parents, completes a focused examination, reviews new laboratory test results, and explains a suspected diagnosis of juvenile myoclonic epilepsy based on the patient's description of muscle jerks occurring in the morning. Additional testing is planned for early the next morning. Anticonvulsant therapy is held as the workup is undertaken. The physician's total time devoted to the patient's care on this date is 45 minutes.</para>
+            <table frame="all" id="ch0020s0003ta0010">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>R56.9 (unspecified convulsions)</entry>
+                        <entry>99232 (≥35 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0020s0003s0004s01s02">
+            <title>Hospital Inpatient or Observation Discharge Management</title>
+            <para>
+               <emphasis role="bold">99238</emphasis> Hospital inpatient or observation discharge day management; 30 minutes or less on the date of the encounter <emphasis role="bold">99239</emphasis> more than 30 minutes on the date of the encounter As discussed in the Selecting the Appropriate Code Categories section earlier in this chapter, when a patient's stay lasts less than 8 hours, report only initial hospital or observation care (<emphasis role="bold">99221–99223</emphasis>) for the E/M services provided during the admission.</para>
+            <para>Codes <emphasis role="bold">99238</emphasis> (≤30 minutes) and <emphasis role="bold">99239</emphasis> (&gt;30 minutes) are reported for discharge management services by the physician or QHP who is responsible for discharge services (the attending physician). Services by other physicians or QHPs who may have interacted with the patient/family and who provided additional instructions to the patient/family and coordinated post-discharge services may be reported with subsequent care codes <emphasis role="bold">99231–99233</emphasis>.</para>
+            <para>Although discharge day management may be provided as a split/shared service (combining separate times spent on the date of discharge management), do not include any time spent by a QHP who is not in the same group practice (eg, hospital-employed NP working as part of a discharge management team).</para>
+            <para>Discharge management codes are reported for services on a date subsequent to the date of admission and only when the patient's inpatient or observation stay lasted a minimum of 8 hours.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Same-date admission and discharge services for a patient stay of 8 hours or more, performed at 2 distinct encounters, are reported with <emphasis role="bold">99234–99236</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>For admission and discharge services provided during a stay of less than 8 hours, report only <emphasis role="bold">99221–99223</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Reporting is based on the total time (does not have to be continuous) spent performing all final discharge services, including, as appropriate, examination of the patient, discussion of the hospital stay, patient and/or family counseling, instructions for continuing care to all relevant caregivers, and preparation of referral forms, prescriptions, and medical records.</para>
+            <para>If the total time spent performing discharge management is not documented in the medical record, <emphasis role="bold">99239</emphasis> is not supported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Although time is the total time spent in discharge management on the date of the encounter (eg, time of documentation), a face-to-face physician-patient encounter in the hospital is required.</para>
+               </listitem>
+               <listitem>
+                  <para>Only the physician's total time spent on the date of the discharge management is reported with <emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis>. Do not include time spent documenting discharge on a date after the service was rendered.</para>
+               </listitem>
+               <listitem>
+                  <para>Time spent on the day of discharge performing separately reported services (eg, newborn circumcision) is not included in the discharge management time.</para>
+               </listitem>
+               <listitem>
+                  <para>Report discharge management services <emphasis role="bold">99238</emphasis> or <emphasis role="bold">99239</emphasis> provided to patients who die during their hospital stay <emphasis role="italics">when the service is provided on the date of death</emphasis>. An exception is a neonate who dies on the date of birth; report only the appropriate level of hospital care, intensive care, or critical care in this instance.</para>
+               </listitem>
+               <listitem>
+                  <para>The date of discharge management may or may not coincide with the date that the patient leaves the facility. It is the work of the discharge management service that defines the service. If the physician provides a face-to-face service on the day after discharge management is provided (eg, brief visit to verify the patient is still ready for discharge), it is reported with a code for subsequent hospital care (<emphasis role="bold">99231–99233</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Discharge codes are not reported ✖ For completion of a death certificate without a face-to-face visit or for completion of records <emphasis role="italics">on a date after the date of death</emphasis>.</para>
+            <para>✖ When a patient is transferred to another physician or another unit in the same facility or for transitions between observation and inpatient status.</para>
+            <para>✖ When a patient is transferred to another hospital and receives care from the same physician or a physician of the same group and specialty. Report subsequent hospital care in lieu of discharge management (and initial hospital care).</para>
+            <para>✖ When the duration of the patient's hospital stay is less than 8 hours.</para>
+            <para>✖ When reporting <emphasis role="bold">99234–99236</emphasis> for same-date admission/discharge.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">An attending physician provides a final inpatient visit to a child who is ready for discharge home. The physician documents 30 minutes' total time, including time spent with the patient and parents reviewing the hospital stay, providing instructions for follow-up care, and entering discharge orders.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The total time of the discharge management service supports <emphasis role="bold">99238</emphasis>. Code <emphasis role="bold">99239</emphasis> is reported only for more than 30 minutes on the date of discharge day management services.</para>
+            <para>▶ An attending physician visits a child who was admitted for an exacerbation of asthma. The patient had gone 2 weeks without control medication owing to parental inability to pay the out-of-pocket costs for the medication. The patient's asthma control plan and instructions for follow-up in the asthma and allergy clinic are reviewed. Prior to discharging the patient, the physician verifies that the child's parents are now enrolled in a prescription discount program that will reduce out-of-pocket costs. The total time on the date of the encounter is 40 minutes.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The total time on the date of the discharge management service supports <emphasis role="bold">99239</emphasis>.</para>
+            <para>Reporting <emphasis role="italics">ICD-10-CM</emphasis> codes for the social determinants of health that affected patient management (eg, <emphasis role="bold">Z59.868</emphasis>, other specified financial insecurity; <emphasis role="bold">Z59.71</emphasis>, insufficient health insurance coverage) can help demonstrate the complexity of the service (ie, reason for time spent) and alert a payer that a patient may require care coordination and other benefits as available under health plan policy. Also, the Medicare program recognizes homelessness (<emphasis role="bold">Z59.00–Z59.02</emphasis>) as a complication or comorbidity that may affect hospital payment.</para>
+            <para>▶ An attending physician is notified by phone of the death of a patient who was an inpatient. The physician comes into the facility the next morning and completes documentation.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Discharge management services (<emphasis role="bold">99238, 99239</emphasis>) are not reported when no face-to-face encounter (eg, pronouncement of death or hospital discussion with family) is provided by the attending physician. Most health plans do not pay for services provided after the date of the patient's death (ie, the date that the patient's coverage ended).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0005">
+      <title>Inpatient or Observation Consultations</title>
+      <sect3 id="ch0020s0003s30006">
+         <title/>
+         <sect4 id="ch0020s0003s0005s01s01">
+            <title>Consultation Guidelines</title>
+            <para>
+               <emphasis role="italics">CPT</emphasis> defines consultations as <emphasis role="italics">initial encounters</emphasis> provided by a physician or QHP at the request of another physician, QHP, or appropriate source (eg, nonclinical social worker, educator, lawyer, insurance company) to recommend care for a specific condition or problem. Codes <emphasis role="bold">99252–99255</emphasis> represent consultations provided to hospital inpatients, observation-level patients, nursing facility residents, or partial hospital setting patients.</para>
+            <para>Services requested by patients or their parents or caregivers are not reported as consultations.</para>
+            <para>Consultation codes should not be reported by the physician who has agreed to accept transfer of care before an initial evaluation. Consultation codes are appropriate to report if the decision to accept transfer of care is not made until after the consultant's initial evaluation, regardless of site of service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the role of attending physician is transferred to the consultant after the initial encounter, report subsequent hospital care codes (<emphasis role="bold">99231–99233</emphasis>) to indicate the level of service provided until the day of discharge management (<emphasis role="bold">99238, 99239</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Codes <emphasis role="bold">99252–99255</emphasis> are not reported when the patient has received any face-to-face professional services from the consultant or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice during the stay.</para>
+            <para>In past guidance, a consultation code was reported when a physician with expertise in diagnosis and management of a specific problem was consulted by a physician of the same specialty and same group practice. Current <emphasis role="italics">CPT</emphasis> guidance, however, instructs to report subsequent hospital care in lieu of consultation codes as stated above.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0005s01s02">
+            <title>Consultation Following a Related E/M Service</title>
+            <para>If a consultation is performed in anticipation of, or related to, an admission by another physician or QHP and then the same consultant performs an encounter after the patient is admitted, report the consultant's initial inpatient or observation encounter with the appropriate subsequent care code (<emphasis role="bold">99231–99233</emphasis>). Report subsequent hospital care even when the prior consultation was reported with an alternative to office or other outpatient consultation codes (eg, reported with office or other outpatient codes as required by some payers).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report subsequent care codes (<emphasis role="bold">99231–99233</emphasis>) for follow-up visits provided by the same physician or QHP (or individuals of the same group practice and same exact specialty). Examples of a follow-up visit might be to complete the initial consultation when test results become available or to respond to a change in the patient's status.</para>
+               </listitem>
+               <listitem>
+                  <para>When a consultant has provided an outpatient E/M service to a patient before performing an inpatient or observation consultation on the same date, the consultant reports the outpatient E/M service with modifier 25 appended (eg, 99245 25 for outpatient consultation) and a subsequent hospital inpatient or observation care code (99231–99233) for the second service on the same date.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A surgeon consulted with a pulmonologist, requesting clearance for surgery for a patient who has cystic fibrosis and may benefit from gastrostomy and enteral feeding.</emphasis> The pulmonologist sees the patient in the office and recommends that the patient undergo the procedure as an inpatient with the pulmonologist's medical management. A few days later, the surgeon admits the patient and consults the pulmonologist for medical management.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The pulmonologist reports the outpatient consultation (eg, 99244 or, if the payer does not allow payment for consultation codes, 99214) for the initial consultation and an applicable subsequent hospital inpatient or observation code (99231–99233) for the initial encounter in the hospital setting.</para>
+            <para>▶<emphasis role="bold">A pediatrician consulted a pulmonologist for advice on treating a patient who has cystic fibrosis and whose pulmonary function is worsening.</emphasis> After evaluating the patient, the pulmonologist calls the pediatrician by phone and recommends hospital admission. The pediatrician, who does not provide hospital care, agrees with admission under the care of a hospitalist, who will consult the pulmonologist for pulmonary E/M. The pulmonologist provides an initial inpatient E/M service on the same date as the outpatient consultation.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The pulmonologist reports the outpatient consultation (eg, 99244 25 or, if the payer does not accept a consultation code, 99214 25) and an applicable subsequent hospital inpatient or observation code (99231–99233) for the initial encounter in the hospital setting on the same DOS.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0005s01s03">
+            <title>Medicare Consultation Guidelines</title>
+            <para>The Centers for Medicare &amp; Medicaid Services policy for Medicare does not recognize consultation codes but pays for the services with codes for other E/M services. For detailed information on the E/M and Medicare guidelines for reporting consultations for office and outpatient consultations, refer to Chapter 7. Review those guidelines carefully as general guidelines that apply to all consultations.</para>
+            <para>Payers that adopt Medicare guidelines require that initial consultations provided to patients in observation or inpatient hospital status be reported with hospital inpatient or observation care codes (99221–99223). The admitting physician must report the initial hospital care services with modifier AI (principal physician of record) appended to the appropriate code to distinguish the services from the consulting physician's service. Subsequent face-to-face services, including new consultations within the same admission, are reported with subsequent inpatient or observation care codes 99231–99233 (refer to Table 16-6). Modifier AI is not required when reporting subsequent care codes.</para>
+            <para>Check with your commercial payers to learn if they follow Medicare consultation guidelines or have otherwise adopted consultation guidelines that differ from CPT.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0005s01s04">
+            <title>Inpatient and Observation Consultations</title>
+            <para>
+               <emphasis role="bold">99252</emphasis> Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 35 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99253</emphasis> Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and low level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 45 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99254</emphasis> Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 60 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99255</emphasis> Inpatient or observation consultation for a new or established patient, which requires a medically appropriate history and/or examination and high level of medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 80 minutes must bemet or exceeded.</para>
+            <para>(For services ≥95 minutes, refer to discussion of prolonged services AOC 99418 in the Prolonged Service on the Date of an E/M Service section later in this chapter.) Codes 99252–99255 are reported only for an initial encounter, as defined previously in this chapter, per hospital inpatient or observation admission. There are no specific guidelines for the length of stay.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Procedures performed by the consultant will be separately reported, although the time spent performing the procedure is not added to the total time of the E/M service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Use Tables 16-2 and 16-7 to help select the appropriate codes in the example that follows.</para>
+            <table frame="all" id="ch0020s0003ta0011">
+               <title>Inpatient and Observation Consultations</title>
+               <tgroup cols="5">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <thead>
+                     <row>
+                        <entry>Medical Decision-Making</entry>
+                        <entry>Straightforward</entry>
+                        <entry>Low</entry>
+                        <entry>Moderate</entry>
+                        <entry>High</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Code/Total Time (min)</entry>
+                        <entry>99252≥35</entry>
+                        <entry>99253≥45</entry>
+                        <entry>99254≥60</entry>
+                        <entry>99255≥80</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A 7-year-old was admitted to inpatient status from the ED by a hospitalist for left orbital cellulitis with a small subperiosteal abscess. The hospitalist consults a pediatric ophthalmologist, regarding management (eg, IV antibiotics vs surgery). The pediatric ophthalmologist's consultation includes review of the patient's medical, family, and social history with the patient's parents, review of results of multiple laboratory tests ordered in the ED, independent review and interpretation of computed tomographic imaging of the sinuses and orbits, and a decision for continued IV antibiotics with close monitoring. The pediatric ophthalmologist's diagnosis is left orbital cellulitis with subperiosteal abscess without emergent visual compromise. The pediatric ophthalmologist will follow the patient with serial ophthalmic examinations.</para>
+            <table frame="all" id="ch0020s0003ta0012">
+               <title>Inpatient and Observation Consultations</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>H05.012 (cellulitis of left orbit)H05.022 (osteomyelitis of left orbit)</entry>
+                        <entry>99255 (inpatient or observation consultation with high-level MDM or ≥80 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Data reviewed and analyzed ➤ High (Category 1—review of ≥2 unique laboratory test results reviewed and independent historian; Category 2—independent interpretation of computed tomography) Risk of patient management ➤ Moderate to High (decision regarding emergency surgery—minor or major)</para>
+            <para>Teaching Point: The pediatric ophthalmologist's service is a consultation based on the hospitalist's request to recommend care for the patient's specific problem. The total time is not included in this example. At least 2 elements of MDM support the high level. This supports 99255. If a decision for surgery had been made at this encounter, modifier 57 (decision for surgery) would be appended.</para>
+            <para>If the patient's health plan did not pay for services reported with consultation codes, the pediatric ophthalmologist would report initial hospital or observation care 99223 in accordance with the high MDM.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0006">
+      <title>Interprofessional Telephone/Internet/Electronic Health Record Consultation</title>
+      <para>A consultation request by a patient's physician or QHP soliciting opinion and/or treatment advice by telephone, internet, or EHR from a physician with specialty expertise (consultant) is reported by the consultant with interprofessional consultation codes 99446–99451. No face-to-face contact between the patient and consultant is required. The patient may be in an inpatient or outpatient setting. Codes are selected according to the minutes of medical consultative discussion and review.</para>
+      <itemizedlist>
+         <listitem>
+            <para>When reporting 99446–99449 (consultation with verbal and written report), the consultant must spend at least 5 minutes, with more than 50% of the time reported as interprofessional consultation spent in medical consultative verbal or internet discussion rather than review of data (eg, medical records, test results).</para>
+         </listitem>
+         <listitem>
+            <para>The service time for 99451 (consultation with written report only) is based on total review and interprofessional communication time.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Code <emphasis role="bold">99452</emphasis> (interprofessional telephone/Internet/EHR referral service) may be reported <emphasis role="italics">by a requesting physician or QHP</emphasis> who spends 16 to 30 minutes preparing for and communicating with the consultant <emphasis role="italics">on a date when no daily hospital E/M service is reported</emphasis>. When the interprofessional consultation referral service takes place on the same date as an E/M service by the requesting physician or QHP, the referral service is included in either the MDM or total time of service on that date.</para>
+      <para>For full code descriptors and a detailed discussion of interprofessional consultation, refer to <emphasis role="bold">Chapter 9</emphasis>.</para>
+   </sect2>
+   <sect2 id="ch0020s0003s0007">
+      <title>Prolonged Hospital E/M Services</title>
+      <sect3 id="ch0020s0003s30007">
+         <title/>
+         <sect4 id="ch0020s0003s0007s01s01">
+            <title>Prolonged Service on the Date of an E/M Service</title>
+            <para>
+               <emphasis role="bold">#★★99418</emphasis> Prolonged inpatient or observation E/M service(s) time with or without direct patient contact beyond the required time of the primary service when the primary service level has been selected using total time, each 15 minutes of total time (List separately in addition to the code for the primary E/M service.)</para>
+            <para>Code <emphasis role="bold">99418</emphasis> is used to report prolonged total time provided by the physician or QHP on the date of an inpatient or observation service (or nursing facility service). Report <emphasis role="bold">99418</emphasis> only when</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The code for the primary E/M service was selected according to the physician's or QHP's total time on the date of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>The total time exceeds the minimum total time of the highest level of service in the code category (ie, <emphasis role="bold">99223</emphasis>, <emphasis role="bold">99233</emphasis>, <emphasis role="bold">99236</emphasis>, <emphasis role="bold">99255</emphasis>, or nursing facility services <emphasis role="bold">99306</emphasis> and <emphasis role="bold">99310</emphasis>) <emphasis role="italics">by no less than 15 minutes</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Time spent performing other separately reported services (eg, procedures, interpretation and report of test results) is not included in the total time of the E/M service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Table 16-8</emphasis> provides time ranges for reporting <emphasis role="bold">99418</emphasis> in conjunction with each applicable code.</para>
+            <table frame="all" id="ch0020s0003ta0013">
+               <title>Prolonged Service on the Date of an E/M Service</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Primary Service Code (min)</entry>
+                        <entry>Time Range (min) = Codes × Unit(s)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99223 (≥75)</entry>
+                        <entry>90–104 = 99223, 99418 × 1105–119 = 99223, 99418 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>99233 (≥50)</entry>
+                        <entry>65–79 = 99233, 99418 × 180–94 = 99233, 99418 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>99236 (≥85)</entry>
+                        <entry>100–114 = 99236, 99418 × 1115–129 = 99236, 99418 × 2</entry>
+                     </row>
+                     <row>
+                        <entry>99255 (≥80)</entry>
+                        <entry>95–109 = 99255, 99418 × 1110–124 = 99255, 99418 × 2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Do not report <emphasis role="bold">99418</emphasis> ★ For any unit of less than 15 minutes beyond the required time of the primary E/M service or prior unit of prolonged service</para>
+            <para>★ On the same DOS as psychotherapy services (eg, <emphasis role="bold">90833</emphasis>, <emphasis role="bold">90836</emphasis>, <emphasis role="bold">90838</emphasis>) ★ On the same date as prolonged service on a date when no E/M service is provided (<emphasis role="bold">99358</emphasis>, <emphasis role="bold">99359</emphasis>)</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A physician or QHP spends a total of 140 minutes reviewing extensive medical records and providing initial hospital care to a patient whose condition required multiple episodes of care throughout the day.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Codes <emphasis role="bold">99223</emphasis> (≥75) and <emphasis role="bold">99418</emphasis> × 4 units are reported. Each additional unit of <emphasis role="bold">99418</emphasis> is supported by at least 15 minutes beyond the prior unit.</para>
+            <para>▶<emphasis role="bold">A physician or QHP spends 40 minutes reviewing extensive medical records in addition to an initial inpatient E/M service reported on the same date. The code for the initial inpatient E/M service (99223) was selected given the high MDM and is not supported by the physician's total time.</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> Code <emphasis role="bold">99418</emphasis> would not be reported. Prolonged service is not reported when the code for the related E/M service is not selected according to total time. Because a face-to-face E/M service was provided on this date, <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis> are not reported.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0007s01s02">
+            <title>Alternative Prolonged Service Code</title>
+            <para>The Centers for Medicare &amp; Medicaid Services has implemented Healthcare Common Procedure Coding System code <emphasis role="bold">G0316</emphasis> for reporting prolonged service in conjunction with inpatient and observation services reported with <emphasis role="bold">99223</emphasis>, <emphasis role="bold">99233</emphasis>, or <emphasis role="bold">99236</emphasis>. Report <emphasis role="bold">G0316</emphasis> when code selection is based on the total time of service and the total time meets or exceeds the time specified in payer policy. Use of <emphasis role="bold">G0316</emphasis>, in lieu of <emphasis role="bold">99418</emphasis>, may be adopted by Medicaid plans or other payers. Refer to individual payer policy for reporting prolonged service to verify payable codes and time requirements.</para>
+            <para>Time requirements for <emphasis role="bold">G0316</emphasis> as defined for the Medicare program are</para>
+            <para>
+               <emphasis role="bold">99223</emphasis>        ≥90 minutes on date of visit</para>
+            <para>
+               <emphasis role="bold">99233</emphasis>        ≥65 minutes on date of visit <emphasis role="bold">99236</emphasis>        ≥110 minutes on date of visit and within 3 days after the visit</para>
+            <para>Refer to the April 2023 <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis>® article "Prolonged Services: CPT Guidelines and Medicare/Medicaid Policy" (https://doi.org/10.1542/pccq <emphasis role="italics">book228</emphasis> document003) for more information on use of <emphasis role="bold">G0316</emphasis> and other prolonged service Healthcare Common Procedure Coding System codes.</para>
+         </sect4>
+         <sect4 id="ch0020s0003s0007s01s03">
+            <title>Prolonged Service on a Date Other Than the Face-to-Face E/M Service Without Direct Patient Contact</title>
+            <para>
+               <emphasis role="bold">99358</emphasis>        Prolonged E/M service before and/or after direct patient care; first hour <emphasis role="bold">+99359</emphasis>       each additional 30 minutes (Use <emphasis role="bold">99359</emphasis> in conjunction with <emphasis role="bold">99358</emphasis>.)</para>
+            <para>Report <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis> only when a prolonged service is <emphasis role="italics">provided on a date other than the date of a face-to-face E/M encounter</emphasis> with the patient and/or family/caregiver. Services are indirect but related to care of a single patient (eg, reviewing medical records, imaging, and/or developing and coordinating a patient management plan).</para>
+            <para>Codes <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Represent the total time spent by a physician or QHP (ie, not by clinical staff) on a single DOS.</para>
+               </listitem>
+               <listitem>
+                  <para>Must relate to a face-to-face professional service provided or planned to be provided by a physician or QHP and must be relevant to ongoing care.</para>
+               </listitem>
+               <listitem>
+                  <para>Are always provided and reported on a different date than the related E/M service. The related primary service may beany E/M service whether or not time was used to select the level of the face-to-face service.</para>
+               </listitem>
+               <listitem>
+                  <para>Are not reported for a physician or QHP's time attributed to other services such as care oversight (<emphasis role="bold">99374</emphasis>–<emphasis role="bold">99380</emphasis>), chronic care management by a physician or QHP (<emphasis role="bold">99491</emphasis>, <emphasis role="bold">99437</emphasis>), or principal care management by a physician or QHP (<emphasis role="bold">99424</emphasis>, <emphasis role="bold">99425</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Prolonged service of less than 30 minutes' total duration on a given date is not separately reported. <emphasis role="bold">Table 16-9</emphasis> shows the required time for reporting <emphasis role="bold">99358</emphasis> (30–74 minutes) and <emphasis role="bold">99359</emphasis> (1 unit for each 30 minutes beyond the 1st hour and each additional 30 minutes). Code <emphasis role="bold">99359</emphasis> may be reported for the last 15 to 30 minutes of service beyond the prior reported unit of service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not add times of services <emphasis role="italics">provided on different dates</emphasis> to meet the time requirements for <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>&lt;table&gt;</para>
+            <para>&lt;/table&gt; ▶ A consulting physician or QHP reviews extensive medical records received on the day after an initial inpatient consultation with the patient. The physician or QHP uses the information to form opinion/recommendations that are provided to the requesting physician in a written report. Total time on this date is 45 minutes.</para>
+            <para>Teaching Point: Code 99358 would be reported on the date that 30 or more minutes were spent reviewing the medical records. Prolonged service of less than 30 minutes' total duration would not be separately reported. An inpatient consultation code (99252–99255) is reported on the date of the patient visit.</para>
+            <para>▶ A consulting physician or QHP spends 40 minutes reviewing extensive medical records before an initial inpatient consultation provided later on the same date.</para>
+            <para>Teaching Point: Code 99358 would not be reported. The time spent reviewing the medical records is included in the total time on the date of the encounter when selecting a code for the consultation service.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0020s0003s0008">
+      <title>Hospital-Mandated On-Call Services</title>
+      <para>
+         <emphasis role="bold">99026</emphasis> Hospital mandated on-call service; in-hospital, each hour</para>
+      <para>
+         <emphasis role="bold">99027</emphasis> out of hospital, each hour</para>
+      <itemizedlist>
+         <listitem>
+            <para>Codes 99026 and 99027</para>
+         </listitem>
+         <listitem>
+            <para>Describe services provided by a physician who is on call per hospital mandate (eg, hospital-required standby by a pediatrician during cesarean delivery) as a condition of medical staff privileges rather than a response to an individual patient's clinical indications.</para>
+         </listitem>
+         <listitem>
+            <para>Are not covered by most insurers because they consider this a contract issue between the hospital and physician. These codes may, however, be used for either tracking purposes or credit in larger groups by assigning the code a relative value unit when determining annual bonuses based on individual relative value unit production.</para>
+         </listitem>
+         <listitem>
+            <para>Used to report on-call time spent by the physician when they are not providing other services.</para>
+         </listitem>
+         <listitem>
+            <para>Time spent performing separately reportable services should not be included in time reported as mandated on-call services.</para>
+         </listitem>
+      </itemizedlist>
+      <para>For attendance at delivery at the request of the delivering physician or QHP (and not per hospital mandate), refer to code 99464.</para>
+   </sect2>
+   <sect2 id="ch0020s0003s0009">
+      <title>Continuing Care After Hospitalization</title>
+      <para>Preventing readmittance and/or ED visits following hospitalization is a key goal of many quality improvement programs. In recent years, CPT and payers have recognized a need for codes to capture services related to care coordination and management of chronic and episodic conditions that may lead to unnecessary emergency and inpatient care. For physicians continuing patient care after hospital discharge, services such as transitional care management, principal (ie, single serious disease) care management, or chronic (ie, multiple chronic illnesses) care management offer opportunities to provide and becompensated for care aimed at reducing the risk of decline, exacerbation, and/or functional decline.</para>
+      <para>Refer to Chapter 9 for more information on care management services and other indirect services such as medical team conferences, care plan oversight, and advance care planning.</para>
+      <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+      <para>This chapter examined many aspects of code selection for services provided to patients in hospital inpatient or observation status.</para>
+      <itemizedlist>
+         <listitem>
+            <para>When time is used as the controlling factor in the selection of the code, the total time spent on the date of the encounter must be documented in the medical record. Continuous service time that crosses midnight is counted as a single service on a single date.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">CPT</emphasis> guidelines address who reports split/shared E/M services based on a substantive portion of either total time or MDM. Documentation should support the code(s) reported and provide details to support identification of the provider of the substantive portion of the service. Payers may require modifier <emphasis role="bold">FS</emphasis> (split or shared E/M service) to be appended to codes for split/shared services.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">99234–99236</emphasis> are reported only when 2 distinct encounters are provided for admission and discharge on the same DOS and only when the length of stay is no less than 8 hours. Report only initial hospital care for services provided during stays of less than 8 hours.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">99252–99255</emphasis> are reported only when the service qualifies as a consultation, is the initial encounter during the hospital stay, and does not relate to another E/M service by the same physician or QHP provided to the patient on the same or different date.</para>
+         </listitem>
+         <listitem>
+            <para>A consultation request by a patient's physician or QHP soliciting opinion and/or treatment advice by telephone, internet, or EHR from a physician with specialty expertise (consultant) is reported by the consultant with interprofessional consultation codes <emphasis role="bold">99446–99451</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Prolonged service in a facility setting is reported with <emphasis role="bold">99418</emphasis> when the required time of the associated E/M service, which was selected according to time, has been exceeded by at least 15 minutes.</para>
+         </listitem>
+         <listitem>
+            <para>Prolonged service codes <emphasis role="bold">99358</emphasis> and <emphasis role="bold">99359</emphasis> are not reported on the same date as a face-to-face E/M service that may be reported according to the total time on the date of the encounter.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026) is an easy-to-use card that will help users navigate the steps to ensure proper code-level reporting for many E/M services (eg, it provides tables showing key component and time requirements for each type of code).</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+</sect1>
