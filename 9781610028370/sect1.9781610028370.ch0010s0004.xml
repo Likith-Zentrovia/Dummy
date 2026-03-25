@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Incident-To Requirements: Services Provided Under Physician Supervision</title>
+   <para>Incident-to provisions apply only in the office or other outpatient setting in which the reporting physician or QHP is responsible for the practice expense of providing services (eg, labor costs for clinical and support staff, supplies, and other overhead expenses).</para>
+   <para>Incident-to policy is used by some payers to allow a physician or QHP to report services in 2 different circumstances:</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Services that do not include direct care by the ordering physician or QHP (eg, nurse-only visit).</para>
+      </listitem>
+      <listitem>
+         <para>Services that include significant work by both a physician and a QHP who might otherwise provide and report the service individually. In a facility setting, this would be a split or shared service, but the Medicare split/shared service policy applies only to services provided in a facility setting (eg, hospital).</para>
+      </listitem>
+   </orderedlist>
+   <para>It is important to know whether a patient's health plan or other payer has adopted an incident-to policy, as this may affect billing and payment.</para>
+   <para>For payers that align with Medicare policy, refer to detailed requirements at www.aap.org/cfp2026 ("Incident-to Services by Nonphysician Professionals and Clinical Staff: Medicare Requirements"). Refer also to Chapter 12, Section 30.6, of the <emphasis role="italics">Medicare Claims Processing Manual</emphasis>, and Chapter 15, Section 60, of the <emphasis role="italics">Medicare Benefit Policy Manual</emphasis> at https://cms.gov/manuals (select "Internet-Only Manuals [IOMs]").</para>
+   <sect2 id="ch0010s0004s20001">
+      <title/>
+      <sect3 id="ch0010s0004s30003">
+         <title/>
+         <sect4 id="ch0010s0004s0001s01s01">
+            <title>Billing for Services Performed by Clinical Staff Under Supervision</title>
+            <para>Under incident-to policy, a physician and QHP may bill under their NPI for services performed by clinical staff members who cannot independently provide and report E/M services, including nonphysician qualified health care professionals (NQHCPs) such as clinical social workers or pharmacists. This policy allows reporting of level 1 established patient E/M services (<emphasis role="bold">99211</emphasis>) and other services, as allowed under state regulations, when performed by clinical staff under the supervision of a physician or QHP.</para>
+            <para>The CMS defines <emphasis role="italics">incident to</emphasis> as "services incident to the service of a physician or other professional permitted by statute to bill for services incident to their services when those services meet all of the requirements applicable to the benefit."</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Incident-to services are always provided as a continuation of a physician's or QHP's services and do not address new problems (eg, a nursing visit performed at patient or caregiver request and not based on a physician's recommendation is not an incident-to service).</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>A treatment plan or order must be documented by a physician or QHP before provision of services billed incident to a physician or QHP.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>A supervising physician or QHP must be present <emphasis role="italics">in the office suite</emphasis> and available to assist, as needed, at the time of service. A payer that aligns with Medicare policy may allow availability of the supervising physician or QHP via real-time, audio-video communication technology rather than requiring "in the office suite" for certain services, including those reported with office E/M code <emphasis role="bold">99211</emphasis> and those that are designated as incident-to services (assigned PC/TC indicator 5 in the Medicare Physician Fee Schedule). (Incident-to supervision cannot be provided via audio-only communication under Medicare policy.)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Medicare makes an exception by not requiring the physician's presence in the office suite for certain activities of principal or chronic care management performed by clinical staff and for behavioral health services performed by licensed professionals. Private payers may also allow general rather than direct supervision when reporting these services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The individual providing the incident-to service must be an employee (direct or leased) or contracted to work with the physician practice (ie, paid as a practice expense).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A patient returns as directed by a pediatrician for evaluation of a tuberculin test result.</emphasis> The physician is in the office suite at the time of service. A medical assistant evaluates the site of the injection (placed 48 hours earlier) and notes no reaction (0 mm). The medical assistant instructs the patient to notify the practice if any reaction occurs within the next 24 hours.</para>
+            <para>Code <emphasis role="bold">99211</emphasis> (established patient E/M, minimal level, not requiring a physician's presence) is reported by the supervising physician or QHP for this encounter. A best practice for clinical staff documentation is to include a reference to the pediatrician's prior order or standing order.</para>
+            <para>▶<emphasis role="bold">A medical assistant, as allowed under the state's scope of practice laws, administers an intranasal influenza vaccine that was ordered and directly supervised by the physician who documented counseling provided to the patient and/or caregivers.</emphasis> Codes for the vaccine and administration (<emphasis role="bold">90672, 90460</emphasis>) are reported under the physician's NPI. If a pediatric nurse practitioner (NP) had ordered and supervised the treatment, the service would have been reported under that practitioner's NPI.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0001s01s02">
+            <title>Incident-To Billing for Services by Qualified Health Care Professionals</title>
+            <para>Incident-to policy may also allow a physician to report services (eg, established patient visit, <emphasis role="bold">99212–99215</emphasis>) provided by QHPs and NQHCPs who may otherwise bill for their services under their own NPI (within their state's scope of practice). The incident-to provision allows for reporting under the name and NPI of a supervising physician when the requirements of incident-to billing are met.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A patient returns for follow-up of attention-deficit/hyperactivity disorder (ADHD).</emphasis> The patient's physician is in the office suite at the time of service, but the appointment was scheduled with a QHP in the same group practice. The patient and parents report improvement at home and in school. The physician may report the service when the payer has adopted an incident-to policy. The QHP's documentation should reflect the continuation of the physician's plan of care for the patient.</para>
+            <para>▶<emphasis role="bold">A patient returns for follow-up of ADHD.</emphasis> The physician is in the office suite at the time of service, but the appointment was scheduled with a QHP in the same group practice. The QHP evaluates the patient and has concerns about the patient's report of side effects of medication. The QHP consults the patient's physician, who obtains additional history from the patient and decides to change the patient's medication. The QHP and physician each individually document the portion of the E/M service that they independently provided. The physician may report the total service when the payer has adopted an incident-to policy. Generally, where incident-to is applicable, guidelines for split/shared visits do not apply.</para>
+            <para>The code for the established patient office E/M is selected according to the combined MDM or total time of service spent by the physician and QHP. No time is counted twice; any time that was spent simultaneously by the QHP and physician is counted only once. (Examples discussed in the Application of Time Guidelines section later in this chapter illustrate counting time when a physician and QHP each care for the same patient on the same date.)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Nonphysician providers (eg, pharmacists, nonclinical social workers) without their own NPIs must report services incident to a physician and must meet all incident-to requirements, including physician supervision and continuation of a physician's previously established plan of care.</para>
+               </listitem>
+               <listitem>
+                  <para>Payment for QHPs and NQHCPs billing under the incident-to provision may be 100% of the physician payment versus 85% when reporting under the QHPs and NQHCPs individual NPIs.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Although Medicare and other payers reduce payment to 85% of the payers fee schedule amount when a QHP provides a service outside the incident-to requirements (eg, new patient visit), this is not the case for all payers. A physician billing for services provided by a QHP accepts responsibility for the accuracy of the code(s) reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Not all services can be reported under incident-to policy. For example, the contract between the payer and physician may require that certain services (eg, medical nutrition therapy) be reported by the individual who provided the service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0010s0004s0001s01s03">
+            <title>Documentation Requirements and Tips When Reporting Incident-To Services</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Physicians and QHPs must document their order for a service or treatment (eg, continuing a series of injections of antibiotic) that will be performed as incident to or document their plan for a follow-up visit in the treatment plan (eg, follow-up visit within 1 week for a weight check).</para>
+               </listitem>
+               <listitem>
+                  <para>To demonstrate compliant incident-to billing, clinical staff providing services in continuation of a physician's plan of care should <emphasis role="italics">ideally reference the date of the physician order for the service</emphasis>. This may be documented in the chief complaint for the encounter (eg, "Patient is seen today per Dr Green's 1/2/2026 order for dressing change to left arm wound in 3 days").</para>
+               </listitem>
+               <listitem>
+                  <para>Documentation of incident-to services should fully describe the services provided, including date of service (DOS), assessment, concerns noted and addressed, details of care provided (eg, wound cleansed and new bandage applied), and education and/or instructions for home care and follow-up.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Inclusion of the supervising physician's name also supports that incident-to requirements were met.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Medical record documentation must reflect the identity, including credentials and legible or digital signature, of the person providing the service.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>For Medicare purposes, the physician or QHP billing the service is not required to sign documentation prepared by the clinical staff. Other payer and state regulations may require authentication by the supervising physician or QHP. Documentation might be as simple as "Service performed/provided under the direct supervision of Dr X." When applicable, the signature must be legible.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0004s0002">
+      <title>Code Selection Guidelines for Outpatient E/M Services</title>
+      <para>For all the outpatient visits discussed in this chapter except 99211, the level of service is determined by either</para>
+      <itemizedlist>
+         <listitem>
+            <para>The level of MDM alone</para>
+         </listitem>
+         <listitem>
+            <para>The total amount of time (face-to-face and non–face-to-face) spent by a physician or other QHP on the DOS directed to care of the patient</para>
+         </listitem>
+      </itemizedlist>
+      <para>It is not necessary to meet both the required MDM and required total time of service. For example, documentation supporting moderate MDM is sufficient to support new patient E/M code 99204 even if the total time on the date of the visit was less than 45 minutes. The inclusion of total time in the code descriptor does not indicate that the level of service always requires that much time.</para>
+      <para>Refer to Box 7-1 for an overview of the key guidelines for code selection.</para>
+      <sect3 id="ch0010s0004s30004">
+         <title/>
+         <sect4 id="ch0010s0004s0002s01s01">
+            <title>Application of Time Guidelines</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Time is the physician's and/or QHP's total time on the DOS, not the time in a 24-hour period, directed to the care of the individual patient.</para>
+               </listitem>
+               <listitem>
+                  <para>Both face-to-face and non–face-to-face time spent on <emphasis role="italics">the DOS</emphasis> are included in the time of the encounter. This may include time before, during, and after the visit.</para>
+               </listitem>
+               <listitem>
+                  <para>The total time should be documented in the medical record when it is used as the basis for code selection. No specific verbiage is required by <emphasis role="italics">CPT</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">CPT does not require documentation of each segment of time spent on the DOS or any specific format of documentation. The physician must, however, document the total amount of time spent on the date of the encounter and beable to account for the time spent.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0010s0004s0002s01s02">
+            <title>Box 7-1. Key Office Evaluation and Management Coding Guidelines</title>
+            <para>
+               <emphasis role="bold">History and examination:</emphasis> Each service includes a medically appropriate history and/or physical examination, when performed. Information supplied directly by the patient/caregiver or obtained by the care team may be reviewed and expanded on, as necessary, rather than re-documented.</para>
+            <para>
+               <emphasis role="bold">Code selection:</emphasis> Select a code based on either MDM or the physician's or QHP's total time on the date of the visit.</para>
+            <para>
+               <emphasis role="bold">MDM:</emphasis> Four types of MDM are recognized: straightforward, low, moderate, and high.</para>
+            <para>Determine the level of MDM based on the highest 2 of 3 elements of MDM.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Number and complexity of problem(s) addressed. Include problems addressed or managed by the reporting pediatrician/QHP as part of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Amount and/or complexity of data reviewed and analyzed. Data include</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Tests, documents, orders, or independent historian(s)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Independent interpretation of tests</para>
+                     </listitem>
+                     <listitem>
+                        <para>Discussion of management/test interpretation with external physician, QHP, or appropriate source</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Risk of complications, morbidity, and/or mortality of patient management decisions made at the visit, associated with the patient's problem(s), and the diagnostic procedure(s) or treatment(s), including possible management options selected and those considered but not selected.</para>
+               </listitem>
+            </orderedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Time</emphasis> includes the total time on the date of the encounter, face-to-face and non–face-to-face, personally spent by the physician and/or QHP focused on the care of 1 patient.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not include time in activities performed or normally performed by clinical staff (eg, rooming the patient).</para>
+            <para>✱ Do not include travel time (eg, travel to a patient's home or residence).</para>
+            <para>✱ Do not count the same minute/period toward &gt;1 service.</para>
+            <para>✱ Do not include QHPs time spent on a date before or after the DOS. (Refer to discussion of prolonged service code <emphasis role="bold">99358</emphasis> for time of ≥30 minutes.) — When &gt;1 physician or QHP meet with a patient or discuss their care, only 1 individual counts that time toward an E/M service. Time does not need to be continuous. Total all time on 1 date.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include the time of the following activities when performed by the reporting physician/QHP:</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Preparing to see the patient (eg, medical record review)</para>
+               </listitem>
+               <listitem>
+                  <para>Obtaining and/or reviewing separately obtained history — Performing a medically appropriate examination and/or evaluation</para>
+               </listitem>
+               <listitem>
+                  <para>Counseling and educating the patient, family, or caregiver</para>
+               </listitem>
+               <listitem>
+                  <para>Ordering medications, tests, or procedures — Referring to/communicating with other QHPs (when not separately reported)</para>
+               </listitem>
+               <listitem>
+                  <para>Documenting clinical information in the medical record — Independently interpreting results (when not separately reported) and communicating results to the patient, family, or caregiver</para>
+               </listitem>
+               <listitem>
+                  <para>Coordinating care (when not separately reported) <emphasis role="italics">Abbreviations: DOS, date of service; E/M, evaluation and management; MDM, medical decision-making; QHP, qualified health care professional.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>When selecting a code based on time, it is important to verify the time required for the code selected. Codes include a specific time <emphasis role="italics">that must bemet or exceeded</emphasis>. Time for all services discussed in this chapter is provided in <emphasis role="bold">Table 7-1</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>➤<emphasis role="bold">An NP sees an established patient for a follow-up visit to address parent concerns about the child returning to sports after sustaining a concussion.</emphasis> Five minutes is spent reviewing the patient medical record and accessing records from the emergency physician's initial management of the injury. History is obtained about the injury and ongoing signs and symptoms that may be related to the injury but have also occurred previously in relation to migraine headaches (10 minutes). The NP consults the pediatrician, who joins the practitioner inanswering questions and counseling the parent for another 15 minutes. The patient and parents agree to neurological testing before a decision on clearance for sports. The NP spends another 10 minutes arranging the testing and documenting the encounter. Total time on the date of the visit is 40 minutes (5 + 10 + 15 + 10).</para>
+            <para>
+               <emphasis role="bold">Code 99215</emphasis> (40 minutes met or exceeded) is reported. Time spent jointly by the pediatrician and the NP (here, 15 minutes) is counted by 1 individual. Because the NP's time exceeded the physician's, the NP reports the service on the basis of the <emphasis role="italics">CPT</emphasis> guideline for split/shared visits. Note that <emphasis role="italics">CPT</emphasis> guidance on split/shared visits may vary from payer policies that may apply split/shared guidelines only to services in an inpatient or another facility setting. A payer may apply Medicare's incident-to policy to shared visits innon-facility settings.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0002s01s03">
+            <title>Table 7-1. Code Selection Requirements for Outpatient Evaluation and Management Service (Excluding 99211)</title>
+            <para>
+               <emphasis role="bold">Medical Decision-Making (2 of 3 Required: Data,<superscript>b</superscript> Problems, Risk)</emphasis>
+            </para>
+            <table frame="all" id="ch0010s0004ta0001">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Level/Codes/Total Time (min)a</entry>
+                        <entry>Problem(s) Addressed</entry>
+                        <entry>Data Reviewed and Analyzedc</entry>
+                        <entry>Risk</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>LowNew patient 99203 (≥30)Established patient 99213 (≥20)Consultation 99243 (≥30)Home/residenceNew patient 99342 (≥30)Established patient 99348 (≥30)</entry>
+                        <entry>Low—Any 1 of≥2 self-limited or minor problems1 stable chronic illness1 acute, uncomplicated illness or injury1 stable acute illness1 acute, uncomplicated illness or injury requiring hospital inpatient or observation level of careExamples• Acute gastroenteritis• Follow-up of stable ADHD• Uncomplicated hand-foot-and-mouth disease• Recheck of wound repaired by other physician/QHP• Resolution of URI with continued cough</entry>
+                        <entry>Limited (Meet 1 of 2 categories)Category 1: Tests and documents (Any 2)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique testCategory 2: Assessment requiring an independent historian(s)</entry>
+                        <entry>LowExamples• Over-the-counter medication(s)• Removal of sutures• Physical, speech, or occupational therapy</entry>
+                     </row>
+                     <row>
+                        <entry>ModerateNew patient 99204 (≥45)Established patient 99214 (≥30)Consultation 99244 (≥40)Home/residenceNew patient 99344 (≥60)Established patient 99349 (≥40)</entry>
+                        <entry>Moderate—Any 1 of≥1 chronic illness with exacerbation, progression, or side effects of treatment≥2 stable chronic illnesses1 undiagnosed new problem with uncertain prognosis1 acute illness with systemic symptoms1 acute, complicated injuryExamples• Asthma with respiratory distress but not hypoxia• Stable asthma and stable anxiety disorder• Unexplained bruising• Acute gastroenteritis with dehydration• Intermittent headaches and confusion following concussion</entry>
+                        <entry>Moderate (Meet 1 of 3 categories)Category 1: Tests and documents (Any 3)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique test• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPCategory 3: Discussion of management or test interpretation with external physician/other QHP/ appropriate source</entry>
+                        <entry>ModerateExamples• Prescription drug management or off-label use of over-the-counter medication• Decision about minor surgery with identified patient or procedure risk factors• Decision about elective major surgery without identified patient or procedure risk factors• Diagnosis or treatment significantly limited by SDoH</entry>
+                     </row>
+                     <row>
+                        <entry>HighNew patient 99205 (≥60)Established patient 99215 (≥40)Consultation 99245 (≥55)</entry>
+                        <entry>High—Any 1 of≥1 chronic illness with severe exacerbation, progression, or side effects of treatment1 acute or chronic illness or injury that poses a threat to life or bodily function</entry>
+                        <entry>Extensive (Meet 2 of 3 categories)Category 1: Tests and documents (Any 3)• Review of prior external note(s) from each unique source• Review of the result(s) of each unique test• Ordering of each unique test</entry>
+                        <entry>HighExamples• Drug therapy requiring intensive monitoring for toxicity• Decision about hospitalization or escalation of hospital level of care• Decision regarding emergency major surgery</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; ⚬, re-sequenced; ✚, add-on; ⊗, modifier 51 exempt; ⊕, audiovisual technology; and ⚪, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0010s0004s0002s01s04">
+            <title>Table 7-1 (continued)</title>
+            <table frame="all" id="ch0010s0004ta0002">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c4" namest="c1">Medical Decision-Making (2 of 3 Required: Data,ᵃ Problems, Risk)</entry>
+                     </row>
+                     <row>
+                        <entry>Level/Codes/Total Time (min)ᵇ</entry>
+                        <entry>Problem(s) Addressed</entry>
+                        <entry>Data Reviewed and Analyzedᶜ</entry>
+                        <entry>Risk</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>High (continued)Home/residenceNew patient 99345 (&gt;75)Established patient 99350 (≥60)</entry>
+                        <entry>Examples• Asthma with respiratory distress with hypoxia• Infant with fever, tachycardia, lethargy, and dehydration• Epilepsy with increase in frequency of generalized tonic-clonic seizures</entry>
+                        <entry>• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPCategory 3: Discussion of management or test interpretation with external physician/other QHP/ appropriate sourceᶜ</entry>
+                        <entry>• Decision not to resuscitate or to de-escalate care because prognosis is poor• Decision regarding parenteral controlled substances</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>ᵃ Does not include time of clinical staff. Include only time spent by the physician or QHP directed to the individual patient's care on the date of the encounter.</para>
+            <para>ᵇ Each unique test, order, or document contributes to the combination of 2 or combination of 3 in Category 1.</para>
+            <para>ᶜ Do not count data review or communications reported with other codes (eg, test interpretation, interprofessional consultation).</para>
+            <para>▶ A physician spends 10 minutes reviewing laboratory results and hospital records before a consultation on the same date. Later that day, a face-to-face visit with the patient and caregivers lasts 20 minutes. After the visit but on the same date, the physician spends 10 minutes in discussion with the physician who requested the consultation and another 10 minutes in coordination of further treatment and in documentation. The total time on the DOS is 50 minutes.</para>
+            <para>The physician chooses to report the service based on total time on the date of the consultation service and reports <emphasis role="bold">99244</emphasis> (40 minutes). If the time on the DOS had met or exceeded 55 minutes, <emphasis role="bold">99245</emphasis> would have been reported.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0004s0003">
+      <title>Guidelines for Medical Decision-Making</title>
+      <para>Medical decision-making is the work of establishing diagnoses, assessing the status of a condition, and/or selecting a management option. The level of MDM is determined by assessing the level at which 2 of 3 elements of MDM are supported in the documentation of an encounter. The 3 elements of MDM are</para>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>The number and complexity of problem(s) that are addressed during the encounter</para>
+         </listitem>
+         <listitem>
+            <para>The amount and/or complexity of data to be reviewed and analyzed</para>
+         </listitem>
+         <listitem>
+            <para>The risk of complications, morbidity, and/or mortality of patient management decisions made at the visit, associated with diagnostic procedure(s) and treatment(s)</para>
+         </listitem>
+      </orderedlist>
+      <para>Four types of MDM are recognized: straightforward, low, moderate, and high. Each level of MDM is based on the same criteria whether the patient is new or established.</para>
+      <sect3 id="ch0010s0004s30005">
+         <title/>
+         <sect4 id="ch0010s0004s0003s01s01">
+            <title>Number and Complexity of Problems Addressed</title>
+            <para>The first step in determining the level of MDM for an encounter is identification of the number and complexity of problems addressed.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include all problems addressed at an encounter in the number and complexity of problems.</para>
+               </listitem>
+               <listitem>
+                  <para>Complexity is determined by the types of problems addressed.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">A problem is a disease, condition, illness, injury, symptom, sign, finding, concern, or other matter addressed at the encounter, with or without a diagnosis being established at the time of the encounter. The risk associated with a problem is distinct from the risk of morbidity and/or mortality associated with patient management decisions.</emphasis> Refer to <emphasis role="bold">Table 7-1</emphasis> for the levels of problems in MDM. Expanded discussion of problem types is included in examples of outpatient E/M services, discussed in the Code Selection section later in this chapter. Use this table to identify the number and complexity of problems in the examples.</para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0010s0004s0003s01s02">
+            <title>Amount and/or Complexity of Data to Be Reviewed and Analyzed</title>
+            <para>Data are divided into the following 3 categories:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Tests, documents, orders, or independent historian(s) (Each unique test, order, or document is counted to meet a threshold number.)</para>
+               </listitem>
+               <listitem>
+                  <para>Independent interpretation of tests that are not separately reported</para>
+               </listitem>
+               <listitem>
+                  <para>Discussion of management or test interpretation with external physician or other QHP or appropriate source</para>
+               </listitem>
+            </orderedlist>
+            <para>When data are used to support low, moderate, or high MDM, the requirements for either 1 or 2 categories of data must bemet. For example, Category 1 at the limited level of data is met when a physician orders 2 tests represented by separate <emphasis role="italics">CPT</emphasis> codes or reviews 1 test result and notes from 1 unique source (eg, hospital records from a recent admission). Instructions are provided for each level of data. Minimal or no data are required for straightforward MDM. <emphasis role="bold">Table 7-1</emphasis> shows the data requirements for limited, moderate, and extensive data.</para>
+            <para>A decision to not order a test that was considered is counted as a test ordered when the consideration and reason for not ordering the test are documented. For example, documentation may show that a test was discussed but determined to be unnecessary or that a test that is typically performed is not indicated because of patient risk or patient/parent decision to decline testing.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0003s01s03">
+            <title>Risk of Complications and/or Morbidity or Mortality of Patient Management</title>
+            <para>Risk is the probability and/or consequences of an event. <emphasis role="italics">For the purpose of code selection, the level of risk considers the risk of morbidity from additional diagnostic testing or treatment.</emphasis> Risk also includes MDM related to the need to initiate or forgo further testing, treatment, and/or hospitalization.</para>
+            <para>The risk of patient management criteria applies to the patient management decisions made by the reporting physician or other QHP as part of the reported encounter.</para>
+            <para>Risk levels are minimal, low, moderate, and high. <emphasis role="bold">Table 7-1</emphasis> provides examples for minimal and low risk of morbidity from additional diagnostic testing or treatment that are not included in <emphasis role="italics">CPT</emphasis> and may vary depending on the individual patient presentation.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0004s0004">
+      <title>Code Selection</title>
+      <para>To select a code for an outpatient E/M service, you must determine which code is supported by 2 of 3 elements of MDM or the physician's or QHP's total time on the DOS. Refer to <emphasis role="bold">Table 7-1</emphasis> for an at-a-glance guide to the levels of MDM or time required for each level of outpatient E/M service.</para>
+      <para>The following sections provide an overview of each level of E/M service with time and MDM reporting criteria and examples of each level of service. Remember the following key points in code selection:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Examples are not clinical recommendations, and levels of service supported may vary depending on documentation and patient and presentation (eg, ill appearance beyond what is typical for the presenting problem).</para>
+         </listitem>
+         <listitem>
+            <para>Select a code based on either total physician/QHP time on the DOS or MDM.</para>
+         </listitem>
+         <listitem>
+            <para>The use of new versus established patient codes is based on whether the patient has received any face-to-face professional service from the same physician or a physician in the same group practice of the same exact specialty and subspecialty in the 3 years before the DOS.</para>
+         </listitem>
+         <listitem>
+            <para>When selecting a code according to time, the total physician and/or QHP time spent devoted to the single patient's care must be documented in addition to the context of the care provided (eg, remarkable findings, counseling, care coordination, shared decision-making).</para>
+         </listitem>
+         <listitem>
+            <para>When selecting a code level according to MDM, as described by <emphasis role="italics">CPT</emphasis>, the documentation should include the medically appropriate history and examination findings and all problems, diagnoses, management, and treatment options considered.</para>
+         </listitem>
+      </itemizedlist>
+      <para>The American Academy of Pediatrics (AAP) <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026) provides a quick reference for use in selecting E/M codes.</para>
+   </sect2>
+   <sect2 id="ch0010s0004s0005">
+      <title>Category-Specific Instructions and Examples</title>
+      <sect3 id="ch0010s0004s30006">
+         <title/>
+         <sect4 id="ch0010s0004s0005s01s01">
+            <title>Office and Other Outpatient E/M Services</title>
+            <para>Generally, a single office E/M code is reported per DOS when a patient receives more than one office E/M service by the same physician or QHP or physicians and/or QHPs of the same exact specialty and same group practice. An exception applies when a patient is seen at <emphasis role="italics">2 distinct visits for distinct problems</emphasis> (eg, follow-up of stable mild intermittent asthma [J45.20] in the morning and, later on the same date, care for a closed, non-displaced fracture of the right middle phalanx [S62.650A] incurred after the morning visit). Although not required, separate billing may be preferred for the distinct visits (eg, to allow RVU credit to each physician or QHP). When reporting more than one office visit on the same date, append modifier 25 to the code for the later visit and link the distinct diagnosis code(s) for the problems addressed to the E/M code for each visit.</para>
+            <para>In each example, the physician may also report G2211 when serving as the focal point for all the patient's health care needs or when providing longitudinal care related to a patient's single, serious condition or a complex condition.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0004s0006">
+      <title>Office E/M (99202, 99212)</title>
+      <para>
+         <emphasis role="bold">99202</emphasis> Office or other outpatient visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and straightforward medical decision making When using total time on the date of the encounter for code selection, 15 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="bold">99212</emphasis> Office or other outpatient visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making When using total time on the date of the encounter for code selection, 10 minutes must bemet or exceeded.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ A 3-year-old established patient presents with parent request for clearance to return to preschool after resolution of the patient's viral conjunctivitis. A parent provides history of mild symptoms that resolved over the past 2 to 3 days. The physician performs a brief examination to determine that the problem is completely resolved. Clearance for return to preschool is provided.</para>
+      <para>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ⟹ <emphasis role="bold">Minimal</emphasis> (resolved condition) <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="bold">Limited</emphasis> (independent historian required)</para>
+      <para>
+         <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="bold">Minimal</emphasis> (clearance for preschool) Teaching Point: MDM is straightforward given the minimal number and complexity of problems addressed and minimal risk of morbidity. Although the data reviewed and analyzed are limited, this alone does not support a low level of MDM.</para>
+      <blockquote>
+         <para>If an E/M service includes history from an independent historian and more than one self-limited or minor problem, documentation should typically support at least low MDM.</para>
+      </blockquote>
+      <sect3 id="ch0010s0004s30007">
+         <title/>
+         <sect4 id="ch0010s0004s0006s01s01">
+            <title>Office E/M (99203, 99213)</title>
+            <para>
+               <emphasis role="bold">99203</emphasis> Office or other outpatient visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and low level of medical decision making When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99213</emphasis> Office or other outpatient visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and low level of medical decision making When using total time on the date of the encounter for code selection, 20 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">An established 7-year-old patient presents with low-grade fever, cough, and nasal congestion.</emphasis> The child's parents provide history of symptoms for 3 days. Examination of the right tympanic membrane supports diagnosis of right acute suppurative otitis media. In addition to URI. The parents are given a prescription for an antibiotic with counseling regarding the option to watch and wait for natural resolution of the ear infection or fill the prescription if symptoms worsen.</para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Low</emphasis> (2 acute, uncomplicated illnesses) <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Limited</emphasis> (independent historian required)</para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (prescription drug management)</para>
+            <table frame="all" id="ch0010s0004ta0003">
+               <title>Office E/M (99203, 99213)</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>H66.001 (acute suppurative otitis media without spontaneous rupture of ear drum, right ear)</entry>
+                        <entry>99213</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Total time on the date of the encounter supports <emphasis role="bold">99203</emphasis> (≥30 minutes), as does the low level of MDM.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s02">
+            <title>Office E/M (99204, 99214)</title>
+            <para>
+               <emphasis role="bold">99204</emphasis> Office or other outpatient visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making When using total time on the date of the encounter for code selection, 45 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">99214</emphasis> Office or other outpatient visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">A 6-year-old child presents with a history of recurrent ear infections, bronchitis, and pneumonia as detailed in history from the child's parents and records from the child's primary care pediatrician.</emphasis> A pneumococcal vaccine was recently administered. Follow-up levels of <emphasis role="italics">Streptococcus pneumoniae</emphasis> antibody (IgG) serotypes and total hemolytic complement (CH50) are ordered to assess for potential immunodeficiency. The patient will continue prophylactic antibiotics and return for follow-up in 1 week.</para>
+            <para>
+               <emphasis role="bold">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (1 undiagnosed new problem with uncertain prognosis) <emphasis role="bold">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (Category 1—independent historian, records from external source, and order for 2 tests)</para>
+            <para>
+               <emphasis role="bold">Risk of patient management</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (prescription drug management)</para>
+            <table frame="all" id="ch0010s0004ta0004">
+               <title>Office E/M (99204, 99214)</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z09 (encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm)Z79.2 (long term [current] use of antibiotics)Z86.19 (personal history of other infectious and parasitic diseases)</entry>
+                        <entry>99204</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Each element of MDM supports moderate MDM. Differential diagnoses for the complex febrile seizure include possibility of epilepsy resulting from a brain lesion or other life-threatening cause. In this example, data are moderate given the independent interpretation of the EEG. Although history from an independent historian was required and an external record reviewed, this does not meet the required combination of 3 items in Category 1 that, in conjunction with Category 2 data, would support extensive data. Given the 3 elements of MDM, the overall MDM is moderate.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s03">
+            <title>Office E/M (99205, 99215)</title>
+            <para>
+               <emphasis role="bold">99205</emphasis> Office or other outpatient visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and high level of medical decision making When using total time on the date of the encounter for code selection, 60 minutes must bemet or exceeded.</para>
+            <para>(For services ≥75 minutes, refer to prolonged services code 99417, discussed in the Prolonged Outpatient E/M Service, Physician or Other Qualified Health Care Professional, section later in this chapter.) <emphasis role="bold">99215</emphasis> Office or other outpatient visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and high level of medical decision making When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+            <para>(For services ≥55 minutes, refer to prolonged services code 99417, discussed in the Prolonged Outpatient E/M Service, Physician or Other Qualified Health Care Professional section later in this chapter.) ▶ A physician provides an office visit to an established patient for possible depression associated with loss of interest in school and in activities previously enjoyed with family and friends. The patient and their mother provide history of the patient's change inmood and interests. The patient completes a depression assessment instrument, the result of which is scored as positive. The patient admits to thinking about dying but not suicidal ideation. The patient's mother notes that an appointment with a psychologist was considered but no appointments were available within a month's time. The physician advises the patient and mother of general behavioral health integration services provided by a mental health counselor under the physician's supervision and obtains agreement to receive the services. Anantidepressant is prescribed. The physician's total time on the date of the encounter is 50 minutes. Diagnosis is initial episode of major depressive disorder.</para>
+            <para>
+               <emphasis role="bold">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (1 chronic illness that is not stable) <emphasis role="bold">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Limited</emphasis> (review of score of the screening instrument and an independent historian)</para>
+            <para>
+               <emphasis role="bold">Risk of patient management</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (prescription drug management)</para>
+            <table frame="all" id="ch0010s0004ta0005">
+               <title>Office E/M (99205, 99215)</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>F32.9 (major depressive disorder, single episode, unspecified)</entry>
+                        <entry>99215 is supported by 50 minutes of total time spent by the physician on the date of the visit.96127 (brief emotional/behavioral assessment [eg, depression inventory, ADHD scale], with scoring and documentation, per standardized instrument)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> The documentation of this service must include the pediatrician's total time on the date of the visit and sufficient details to support the activities provided (eg, history obtained, data reviewed and analyzed, counseling provided, orders entered).</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s04">
+            <title>Outpatient Consultations (99242–99245)</title>
+            <para>CPT defines a consultation as a type of E/M service that is provided at the request of another physician, QHP, or appropriate source to recommend care for a specific condition or problem. Two major factors distinguish consultations from other E/M services.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>The service is requested by another physician, QHP (eg, NP, clinical social worker, or psychologist), or appropriate source (eg, nonclinical social worker, educator, lawyer, insurance company) <emphasis role="italics">to recommend care</emphasis> for a specific condition or problem. <emphasis role="italics">An E/M service requested by a patient or family member is not a consultation.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>The consultant's opinion and any services that were ordered or performed must also be <emphasis role="italics">communicated by written report</emphasis> to the requesting physician, OHP, or other appropriate source.</para>
+               </listitem>
+            </orderedlist>
+            <para>The consultant may initiate other services at the time of the consultation or at a subsequent encounter. Follow-up E/M services initiated by the consultant or patient/family are reported as established patient visits on the basis of the site of service (eg, established patient office visit).</para>
+            <para>Services that constitute transfer of care (ie, that are provided for the management of the patient's entire care or for the care of a specific condition or problem) are reported with the appropriate new or established patient codes for office or other outpatient visits or for home or residence services.</para>
+            <para>Services reported with codes <emphasis role="bold">99242–99245</emphasis> may be provided in an office or other outpatient site, including the home or residence or an ED.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s05">
+            <title>When a Payer Does Not Accept Consultation Codes</title>
+            <para>Not all payers provide payment for services reported with consultation codes. Some payers have implemented policies that require reporting another E/M service code in lieu of consultation codes. The AAP supports payment for consultation codes as described inits position on Medicare consultation policy (www.aap.org/cfp2026; "AAP Position on Medicare Consultation Policy").</para>
+            <para>When consultation codes are not accepted, another E/M code reported is based on the site of service and whether the patient is new or established, as shown in <emphasis role="bold">Table 7-2</emphasis>.</para>
+            <table frame="all" id="ch0010s0004ta0006">
+               <title>When a Payer Does Not Accept Consultation Codes</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>New Patient</entry>
+                        <entry>Established Patient</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99202–99205 (office, outpatient hospital)</entry>
+                        <entry>99212–99215 (office, outpatient hospital)</entry>
+                     </row>
+                     <row>
+                        <entry>99341–99345 (home or residence visit)</entry>
+                        <entry>99347–99350 (home or residence visit)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s06">
+            <title>Outpatient Consultation Services Examples</title>
+            <para>The following examples are intended to demonstrate how MDM or total time may be used to select each level of service for outpatient consultations. Refer to Table 7-1 for an at-a-glance guide to the levels of MDM or time required for each level of outpatient E/M service. Each outpatient consultation code is followed by one or more examples.</para>
+            <para>
+               <emphasis role="bold">★ 99242</emphasis> Office or other outpatient consultation for a new or established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 20 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">▶</emphasis> A pediatrician has requested a consultation by a dermatologist for evaluation of a nevus on the patient's right shoulder. The patient presents to the dermatologist, who reviews patient and family history with the child's parents, evaluates the nevus, and recommends treatment or follow-up. The patient and parents are reassured and counseled about sun protection behaviors. The diagnosis is melanocytic nevus of the right upper limb, including the shoulder. A report of the findings is sent to the pediatrician. Total time on the date of the encounter is 20 minutes.</para>
+         </sect4>
+         <sect4 id="ch0010s0004s0006s01s07">
+            <title>Problem(s) addressed ➤ Straightforward (minimal—1 self-limited condition) Data reviewed and analyzed ➤ Limited (independent historian)</title>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="bold">Minimal</emphasis> (routine follow-up by pediatrician)</para>
+            <table frame="all" id="ch0010s0004ta0007">
+               <title>Problem(s) addressed ➤ Straightforward (minimal—1 self-limited condition) Data reviewed and analyzed ➤ Limited (independent historian)</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>D66.21 (melanocytic nevi of right upper limb, including shoulder)</entry>
+                        <entry>99242 is supported by straightforward MDM.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

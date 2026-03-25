@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0007s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0007s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0007s0006</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>7</chapternumber>
+         <chapterid>ch0007</chapterid>
+         <chaptertitle>5. Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 5. PREVENTING FRAUD AND ABUSE: COMPLIANCE, AUDITS, AND PAYBACKS</title>
+   <para>The AAP offers a refusal-to-immunize form and template in addition to a letter providing additional background on documenting refusal of recommended childhood immunizations at www.aap.org/en/patient-care/immunizations/implementing-immunization-administration-in-your-practice/refusal-to-vaccinate.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Allergies and adverse reactions should beprominently displayed.</para>
+      </listitem>
+      <listitem>
+         <para>Immunization and growth charts must be maintained and current.</para>
+      </listitem>
+      <listitem>
+         <para>Problem and medication lists should be complete and current, including over-the-counter medications.</para>
+      </listitem>
+      <listitem>
+         <para>When a waiver or advance notice of patient responsibility is obtained because a service is anticipated to be denied as noncovered or not medically necessary, the document should specify the service and the reason for anticipated noncoverage. Payer requirements may have further requirements (eg, billing with modifier 64, waiver of liability statement issued as required by payer policy, individual case).</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0007s0006s20004">
+      <title/>
+      <sect3 id="ch0007s0006s30006">
+         <title/>
+         <sect4 id="ch0007s0006s0001s01s01">
+            <title>Retention of Records</title>
+            <para>Policies and procedures should be written to include the creation, distribution, retention, and destruction of documents. In designing a record-retention system, privacy concerns and federal and state regulatory requirements should be considered. In addition to maintaining appropriate and thorough medical records on each patient, the HHS OIG recommends that the system maintain the following types of documents:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>All records and documentation (eg, billing and claims documentation) required for participation in federal, state, and private-payer health care programs</para>
+               </listitem>
+               <listitem>
+                  <para>All records necessary to demonstrate the integrity of the physician practice's compliance process and to confirm the effectiveness of the program</para>
+               </listitem>
+            </itemizedlist>
+            <para>The following record-retention guidelines should be used:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Specify the length of time that a physician's medical record documentation is to be retained. Federal and state statutes should be consulted for specific time frames. In the event of a disparity between federal and state statutes, it is advisable to select the longer retention period.</para>
+               </listitem>
+               <listitem>
+                  <para>Consulting with an attorney or risk management department of a medical liability insurer is prudent to determine the appropriate retention period.</para>
+               </listitem>
+               <listitem>
+                  <para>At a minimum, pediatricians may want to retain records until patients obtain the age of majority plus the statute of limitations in their jurisdiction. Theage of majority varies from 18 to 21 years.</para>
+               </listitem>
+               <listitem>
+                  <para>Longer retention periods may be prudent, depending on the circumstances.</para>
+               </listitem>
+               <listitem>
+                  <para>Medical records, including electronic correspondence, should be secured against loss, destruction, unauthorized access, unauthorized reproduction, corruption, and damage.</para>
+               </listitem>
+               <listitem>
+                  <para>Policies and procedures should stipulate the disposition of medical records in the event the practice is sold or closed.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s02">
+            <title>Document Advice From Payers</title>
+            <para>A physician practice should document its efforts to comply with applicable federal, state, and private health care program requirements. For example,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When requesting advice from a government agency charged with administering a federal or state health care program or from a private payer, document and retain a record of the request and of all written or oral responses.</para>
+               </listitem>
+               <listitem>
+                  <para>Maintain a log of oral inquiries between the practice and third parties.</para>
+               </listitem>
+               <listitem>
+                  <para>Keep copies of all provider manuals, provider bulletins, and communications from payers about coding and submission of claims. Remember that payers may demand repayment of benefits up to 6 years after the date of service (DOS) (recovery period varies by state and type of payer). Copies of the payer's policies in effect at the time of service may be the best defense against repayment.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Coding Compliance Information Sources</emphasis> A compliance program should train all employees to seek an authoritative source (eg, CPT instructions, Medicaid NCCI manual) for coding guidance. Information obtained from coding discussion forums, webinars, conferences, and, especially, medical product vendors should be verified against authoritative sources. Additionally, payment policies established by health plans vary, and one plan's policy does not necessarily apply to charges billed to other plans.</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s03">
+            <title>The Self-Audit/Medical Record Review Process</title>
+            <para>Items 1 through 5 are steps to selecting the focus of a self-audit based on practice data. Items 6 through 8 include tools and questions for use in reviewing each selected service.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Obtain and review a productivity report from your billing system.</para>
+               </listitem>
+               <listitem>
+                  <para>Calculate the percentage distribution of E/M codes within each category of service (new and established office or outpatient visits, initial inpatient or observation services, use of modifier 25) for each physician and QHP in the practice. (Most billing software provides these calculations.)</para>
+               </listitem>
+               <listitem>
+                  <para>Use data from a 12-month period to include seasonal trends and better reflect practice patterns.</para>
+               </listitem>
+               <listitem>
+                  <para>Perform a comparative analysis of the distribution with each physician and QHP in the practice. Remember that data reflect only the billing patterns and not whether one is more correct than another. More frequent oversight and monitoring are necessary for services provided by physicians who are new to the practice and may use documentation or coding guidance that conflicts with the practice policy.</para>
+               </listitem>
+               <listitem>
+                  <para>Review the report to ensure that all procedures performed are being captured and reported appropriately. For example, are discharge visits (<emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis>) being billed and is the number proportionate to the number of initial newborn and other initial hospital visits performed?</para>
+               </listitem>
+               <listitem>
+                  <para>Review the practice encounter form or code selection application to ensure that <emphasis role="italics">CPT</emphasis>, Healthcare Common Procedure Coding System (HCPCS), and <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) codes are correct and match the corresponding description.</para>
+               </listitem>
+               <listitem>
+                  <para>Review the actual encounter and claim form with the medical record to ensure that the claim is submitted with the appropriate codes and/or modifiers. (Refer to the Documentation and Coding Self-Audits section that follows.)</para>
+               </listitem>
+               <listitem>
+                  <para>Review each medical record and encounter form, as applicable, with the following questions in mind:</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Is the patient's name, ID number, and/or date of birth on every page in the medical record?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does the medical record contain updated demographic information?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Are allergies noted and prominently displayed?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Is the DOS documented?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Was the service medically necessary?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Are all the documented services and/or procedures captured on the encounter form?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does the documentation support the procedure billed (eg, level and type of E/M service, administration of injection, catheterization, impacted cerumen removal)?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does the documentation for the preventive medicine visit meet the requirements of the Medicaid Early and Periodic Screening, Diagnostic, and Treatment program when applicable?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does the documentation support the diagnosis code(s) billed? Were diagnosis codes assigned for all conditions that required or affected management or treatment?</para>
+                     </listitem>
+                     <listitem>
+                        <para>If using an EHR, does the documentation support physician review and personal documentation? For example, if the EHR incorporates new test results, is there a clear indication that the physician reviewed the information? If not, it should not be counted as part of the service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Is there a completed growth chart and immunization record?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Is handwritten documentation legible?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does any order for medication include its specific dosage and use?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Is there documentation of a follow-up plan for each problem managed? Are plans specific, such as an order for "consultation for opinion of glucose pump" versus "endocrinology consultation"?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Does documentation include the name and credentials of each contributing author in a manner that reflects each author's individual contributions?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Was an appropriate modifier supported with sufficient documentation?</para>
+                     </listitem>
+                     <listitem>
+                        <para>Is the documentation in compliance with Physicians at Teaching Hospitals guidelines, split/shared E/M service, and/or incident-to provisions as appropriate?</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s04">
+            <title>Documentation and Coding Self-Audits</title>
+            <para>Medicare, Medicaid programs, and commercial payers will audit claims as well as monitor E/M coding profiles. Although the specialty-specific E/M profiles published by the CMS provide helpful information, keep in mind that these distributions reflect only code use and not code accuracy. Anatypical code distribution may result when one is caring for a more complex patient population than average (eg, patients with chronic diseases or with social and economic challenges) or when physicians and QHPs are more knowledgeable and confident in E/M code assignment. Correct coding appropriately identifies the risk stratification for your patients and may directly affect your payments.</para>
+            <para>Also, just because you were paid does not mean that payers will not retrospectively audit and demand repayment or withhold future payments, particularly if claims were processed incorrectly or in error according to your contract. Practices are advised to become familiar with state laws addressing retrospective audits and repayments and with payer procedures for repayment. Your AAP chapter or state medical society may beable to help you understand your state-specific laws. Use of self-audits to identify and correct errors shows a good-faith effort to be compliant.</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s05">
+            <title>Preparing for the Self-Audit</title>
+            <para>Before using documentation and coding audits to reduce your practice's vulnerability to fraud and abuse, it is important to consider how your practice can best conduct and use findings of an internal audit. Individual practices must consider how to conduct audits in a manner that offers the most benefit and least disruption to the practice.</para>
+            <para>Figure 5-1 offers steps to consider when developing a medical record audit process.</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s06">
+            <title>Performing the Audit</title>
+            <para>Make certain that the reviewer has all appropriate and necessary tools, which may include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Current <emphasis role="italics">CPT</emphasis>, <emphasis role="italics">ICD-10-CM</emphasis>, and HCPCS manuals.</para>
+               </listitem>
+               <listitem>
+                  <para>Access to or copies of all payer newsletters or information bulletins that outline coding and/or payment policies (increasingly requires access to a payer's provider portal).</para>
+               </listitem>
+               <listitem>
+                  <para>An audit worksheet. This may beone designed by your practice or one of many published templates. Be certain the audit form includes appropriate requirements for E/M code selection. The CMS does not endorse a specific audit form or coding template.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Electronic audit programs may be purchased and offer automated report and recordkeeping functions. The cost of these programs may beoffset by the reduced time of manually documenting and creating reports of audit findings. However, compliance managers should carefully review the program's accuracy periodically (eg, when codes or coding instructions are revised).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A general documentation checklist of elements of documentation applicable to all records (eg, having patient identification, date, and page numbers on each page of a record), which can help with identification of missing nonclinical documentation and record authentication (an example can be found online at www.aap.org/cfp2026).</para>
+               </listitem>
+               <listitem>
+                  <para>A log to document findings for each provider (Table 5-1). This log should include a summary detail of findings for each encounter reviewed. (Auditing software may generate a log based on the reviewer's entries during chart review.) The log and E/M audit worksheets can be used as teaching tools at the conclusion of the audit.</para>
+               </listitem>
+            </itemizedlist>
+            <table frame="all" id="ch0007s0006ta0001">
+               <title>Performing the Audit</title>
+               <tgroup cols="5">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <thead>
+                     <row>
+                        <entry>Physician:</entry>
+                        <entry>Date:</entry>
+                        <entry>Auditor:</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Patient ID No.</entry>
+                        <entry>Date of Service</entry>
+                        <entry>Reported Code</entry>
+                        <entry>Audited Code</entry>
+                        <entry>Comments</entry>
+                     </row>
+                     <row>
+                        <entry>4494</entry>
+                        <entry>2/5/25</entry>
+                        <entry>99223</entry>
+                        <entry>99223 FS</entry>
+                        <entry>This visit was split/shared and the payer policy requires modifier FS (split [or shared] E/M visit). The service was appropriately reported by the physician who provided the substantive part of the MDM.</entry>
+                     </row>
+                     <row>
+                        <entry>4494</entry>
+                        <entry>2/5/25</entry>
+                        <entry>J45.31 98006</entry>
+                        <entry>J45.31 Z59.82 98006</entry>
+                        <entry>Documentation indicates that the visit took place via telemedicine because of transportation insecurity (Z59.82). 98006 is supported by the documented MDM.</entry>
+                     </row>
+                     <row>
+                        <entry>2973</entry>
+                        <entry>6/4/24</entry>
+                        <entry>24640</entry>
+                        <entry>24640 RT</entry>
+                        <entry>Documentation supports treatment of right nursemaid elbow. The payer requires use of anatomical modifiers when applicable.</entry>
+                     </row>
+                     <row>
+                        <entry>43221</entry>
+                        <entry>6/4/24</entry>
+                        <entry>98013</entry>
+                        <entry>Not applicable</entry>
+                        <entry>Documentation does not support the time spent in medical discussion as required for an audio-only visit.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Audit summary reporting forms—results by individual provider with encounter details (eg, levels of MDM assigned vs audit finding); results by individual with codes and variances (eg, level of service and/or relative value unit variances); and report of key findings (eg, practice accuracy rates; strengths; areas of concern, including historical comparisons; recommendations for education and correction/improvement).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s07">
+            <title>Following the Audit</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Discuss audit findings with each provider.</para>
+               </listitem>
+               <listitem>
+                  <para>Educate providers and staff as necessary.</para>
+               </listitem>
+               <listitem>
+                  <para>If a problem is encountered (eg, inappropriate use of modifiers, miscoding), a more focused retrospective review should be conducted to determine how long the error has been occurring and its effect. This is especially important when reviewing claims for physicians new to the practice or when a particular coding guideline or code has changed.</para>
+               </listitem>
+               <listitem>
+                  <para>If overpayments have occurred because of miscoding or billing errors, the errors should be corrected and education of appropriate staff performed. For further discussion, refer to the Refunding Self-Identified Overpayments section later in this chapter.</para>
+               </listitem>
+               <listitem>
+                  <para>If necessary, document a corrective action plan with deadlines for completion (eg, completion of education, attainment of a specified accuracy rate) and administrative sign-off verifying completion.</para>
+               </listitem>
+               <listitem>
+                  <para>Schedule follow-up audits, if indicated, to determine if problems have been resolved (eg, improved documentation, capturing of procedures, correct use of modifiers).</para>
+               </listitem>
+               <listitem>
+                  <para>Determine if audits need to be performed on a quarterly or annual basis and follow through with audits on a routine basis.</para>
+               </listitem>
+               <listitem>
+                  <para>If changes need to be made to the EHR system, contact the vendor and discuss how these might be accomplished. Educate physicians and providers on the changes made or the need for additional physician documentation.</para>
+               </listitem>
+               <listitem>
+                  <para>Establish or update written policies and procedures to prevent future errors.</para>
+               </listitem>
+               <listitem>
+                  <para>Maintain records of your compliance efforts and training.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Audits are not onetime events. Depending on your practice's resources for conducting audits and education, your practice may choose to conduct small audits monthly (eg, 5 medical records per provider), larger audits quarterly (eg, 10 medical records per provider), or continual prospective audit of a small number of medical records weekly. There may be a period of trial and error to find what works best for your practice.</para>
+            <para>The HHS OIG states that small entities should conduct at least annual audits based on a risk assessment to determine which types of services are to be included. When, however, audit results indicate potential for systemic issues or potentially improper conduct, an expanded audit and engagement of outside assistance may be indicated.</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s08">
+            <title>Refunding Self-Identified Overpayments</title>
+            <para>Requirements (eg, contractual, regulatory) for refunding overpayments and disclosure of errors must be understood and included in practice procedures.</para>
+            <para>The Patient Protection and Affordable Care Act requires any person who has received an overpayment from certain defined government health programs, including Medicaid plans, to report and return the overpayment within 60 days of the date the overpayment is identified.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Overpayment due to a billing error (eg, typographic error in number of units), without indication of an intent or willful ignorance of correct billing practices, requires only a refund and/or submission of a corrected claim based on the payer's policy.</para>
+               </listitem>
+               <listitem>
+                  <para>When an identified overpayment raises concern for related but undiscovered overpayments, the timeline for refunding may be delayed for up to 180 days while conducting an investigation for related overpayments.</para>
+               </listitem>
+               <listitem>
+                  <para>When overpayment is suspected to bedue to abusive or fraudulent actions by someone in the practice, always seek advice from the practice's attorney before disclosure or repayment. An experienced health law attorney may beable to guide the practice's response to resolve the issue(s) in the most expedient and least costly manner.</para>
+               </listitem>
+            </itemizedlist>
+            <para>States may have regulations regarding timely refund of overpayments and may include all payers (eg, commercial health plans).</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0001s01s09">
+            <title>Explore the Need for Additional Insurance</title>
+            <para>Many medical liability insurers and insurance brokers offer products to provide additional coverage for the consequences of billing errors and omissions. Pediatric practices may want to contact their insurers to see whether their current medical liability policies cover any of the following problems. If they do not, it might beworthwhile to explore insurance options for obtaining that additional protection.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Defense coverage for a Medicaid audit</para>
+               </listitem>
+               <listitem>
+                  <para>Qui tam action (False Claims Act)</para>
+               </listitem>
+               <listitem>
+                  <para>Unintentional billing errors and omissions</para>
+               </listitem>
+               <listitem>
+                  <para>Physician Self-Referral Law (Stark Law) violations</para>
+               </listitem>
+               <listitem>
+                  <para>Unintentional release of medical or financial data</para>
+               </listitem>
+               <listitem>
+                  <para>Breach of computers or network security</para>
+               </listitem>
+               <listitem>
+                  <para>Data recovery</para>
+               </listitem>
+               <listitem>
+                  <para>HIPAA fines or investigation costs</para>
+               </listitem>
+            </itemizedlist>
+            <para>Health care fraud and abuse regulations will likely change as the health care system evolves to new care delivery and claims payment standards, such as value-based payment and accountable care organizations. Providers need to stay abreast of and comply with new regulations to prevent triggering fraud investigations.</para>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Chapter Takeaways</emphasis>
+               </para>
+               <para>Readers of this chapter should have a general knowledge of the importance of compliance in medical practice. Key takeaways include:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Physician practices must understand the definitions of fraud and abuse in health care and the laws and regulations that govern financial arrangements and billing.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Physicians and other providers who enroll in Medicare, Medicaid, or CHIP are required to establish a compliance program with certain core elements.</para>
+                  </listitem>
+                  <listitem>
+                     <para>One of the most important physician practice compliance issues is the appropriate documentation of diagnosis and treatment.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Individual practices must consider how to conduct audits in a manner that offers the most benefit and least disruption to the practice.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Overpayments identified by a practice must berefunded within time periods specified by legislation or payer contracts.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Qualified staff should determine the veracity of requests for paybacks and, if inaccurate, act in accordance with the payer's rebuttal and appeal processes in a timely manner. Likewise, requests for records must behandled carefully and expeditiously.</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0007s0006s0002">
+      <title>Resources</title>
+      <sect3 id="ch0007s0006s30007">
+         <title/>
+         <sect4 id="ch0007s0006s0002s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Prepare Your Office for a Payer Audit Site Visit (https://downloads.aap.org/AAP/PDF/PrepareYourOfficeforaPayerAuditSiteVisit.pdf)</para>
+            <para>AAP refusal-to-immunize form and template (www.aap.org/en/patient-care/immunizations/implementing-immunization-administration-in-your-practice/refusal-to-vaccinate)</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s02">
+            <title>AAP News™</title>
+            <para>"Keep calm and type on: importance of medical record-keeping," February 1, 2023 (https://publications.aap.org/aapnews/news/23124)</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s03">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"Compliance Corner: Documentation Authentication," March 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book239</emphasis> document002) "Compliance Corner: Refunds, Full disclosure, and Investigations," March 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book251</emphasis> document003)</para>
+            <para>"Compliant Billing: Deductibles Coinsurance, and Copays," April 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book252</emphasis> document003) "Fraud and Abuse: Learning from Mistakes of Others," March 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book251</emphasis> document002)</para>
+            <para>"Spring Cleaning: Time to Tidy Up Coding and Billing Processes," April 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book228</emphasis> document002)</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s04">
+            <title>CMS Medicare Fraud and Abuse Booklet</title>
+            <para>
+               <emphasis role="italics">Medicare Fraud &amp; Abuse: Prevent, Detect, Report</emphasis> (www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/MLN-Publications-Items/MLN4649244)</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s05">
+            <title>HHS OIG Excluded Individuals and Entities List and the Federal System for Award Management</title>
+            <para>https://exclusions.oig.hhs.gov and https://sam.gov/content/exclusions</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s06">
+            <title>HHS OIG General Compliance Program Guidance as of November 2023</title>
+            <para>https://oig.hhs.gov/compliance/general-compliance-program-guidance</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s07">
+            <title>HHS OIG Special Fraud Alert: Speaker Programs</title>
+            <para>https://oig.hhs.gov/documents/specialfraudalerts/865/SpecialFraudAlertSpeakerPrograms.pdf</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s08">
+            <title>Legal Advice</title>
+            <para>American Health Law Association (www.americanhealthlaw.org)</para>
+         </sect4>
+         <sect4 id="ch0007s0006s0002s01s09">
+            <title>Medicaid Audits</title>
+            <para>Medicaid Recovery Audit Contractor program (www.medicaid.gov)</para>
+            <para>"General Documentation Checklist" ● indicates a new code; ▲, revised; †, re-sequenced; ✱, add-on; ✚, audiovisual technology; and ◆, synchronous interactive audio.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Under the Civil Monetary Penalties law, what penalty may apply to physicians who commit various forms of fraud and abuse involving Medicare and Medicaid?</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Civil money penalties</para>
+                     </listitem>
+                     <listitem>
+                        <para>Exclusion from the Medicare and Medicaid programs</para>
+                     </listitem>
+                     <listitem>
+                        <para>Imprisonment</para>
+                     </listitem>
+                     <listitem>
+                        <para>Both a and b</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>Which of the following is a key aspect of an effective compliance and ethics program?</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Exercise of due diligence to prevent and detect criminal conduct.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Only allow code assignment by certified professional coders.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Limit the use of higher-level codes to only a specific percentage of patients.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Require physicians to become certified professional coders.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>Which documentation function of an EHR system should be prohibited?</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Copy and paste</para>
+                     </listitem>
+                     <listitem>
+                        <para>Cut and paste</para>
+                     </listitem>
+                     <listitem>
+                        <para>Macros</para>
+                     </listitem>
+                     <listitem>
+                        <para>Auto-population</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>What is an advantage of performing self-audits/chart reviews of the codes assigned for services?</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Detect which physician or OHPs are providing fewer services.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Payers will not audit a practice that performs compliance self-audits/chart reviews.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Self-audits/chart reviews show good-faith effort to be compliant.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Self-audits/chart reviews offer a chance to alter records to support the codes assigned.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>How should a practice respond when a payer communicates an intent to extrapolate alleged overpayments over several years and demand across-the-board repayment?</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Ignore the communication.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Try to negotiate a settlement.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Stop seeing any patients covered by that payer's plans.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Ask the payer to identify each of the claims in question as well as the specific criteria or standards it is applying to the audit.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

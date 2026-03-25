@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Outpatient Evaluation and Management Codes</title>
+   <para>This chapter addresses reporting problem-oriented E/M services when provided in outpatient settings other than the emergency department (ED) (discussed in Chapter 16). These codes are reported for most non-preventive E/M services in pediatric outpatient settings and urgent care facilities.</para>
+   <para>For information on non–face-to-face or indirect E/M services, refer to Chapters 9, 19, and 20. For services provided in a nursing facility, psychiatric residential treatment facility, or intermediate care facility for individuals with intellectual disabilities, refer to "Evaluation and Management Service Coding in Nursing and Residential Treatment Facilities" at www.aap.org/cfp2026.</para>
+   <para>
+      <emphasis role="italics">Current Procedural Terminology (CPT)</emphasis> includes specific codes for reporting E/M services provided by synchronous audio-video or audio only telemedicine and for a brief synchronous communication technology service. These codes are reported instead of outpatient E/M codes appended with telemedicine modifiers 93 and 95. For the codes and discussion of appropriate reporting, refer to Chapter 20.</para>
+   <sect2 id="ch0010s0003s0001">
+      <title>Codes and Sites of Service for Outpatient Services</title>
+      <para>This chapter provides important details and examples of how MDM and total time on the date of the encounter are used in code selection for the following services:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Office or other outpatient E/M services (99202–99205, 99211–99215)</para>
+         </listitem>
+         <listitem>
+            <para>Office or other outpatient consultations (99242–99245)</para>
+         </listitem>
+         <listitem>
+            <para>Home or residence services (99341, 99342; 99344, 99345; 99347–99350)</para>
+         </listitem>
+      </itemizedlist>
+      <para>Additionally, this chapter includes information on a Healthcare Common Procedure Coding System (HCPCS) add-on code (G0X: G2211) that is reported in addition to office E/M codes (99202–99205, 99211–99215) to indicate that the reported visit included the extra resources required to provide longitudinal care and/or care coordination for all the patient's health care needs or when providing longitudinal care for a patient's single serious or complex condition.</para>
+      <para>Outpatient sites of service for codes discussed in this chapter include the following sites:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Private residence</para>
+         </listitem>
+         <listitem>
+            <para>Temporary lodging or short-term accommodation (eg, hotel, campground, hostel, or cruise ship)</para>
+         </listitem>
+         <listitem>
+            <para>Assisted living facility</para>
+         </listitem>
+         <listitem>
+            <para>Group home (that is not licensed as an intermediate care facility for individuals with intellectual disabilities)</para>
+         </listitem>
+         <listitem>
+            <para>Custodial care facility</para>
+         </listitem>
+         <listitem>
+            <para>Residential substance abuse treatment facility</para>
+         </listitem>
+      </itemizedlist>
+      <para>When a physician or qualified health care professional (QHP) provides E/M services to a patient in an outpatient setting (eg, office, home or residence, or ED) and later, on the same date, provides services to the same patient in an inpatient, observation, or nursing facility, refer to <emphasis role="italics">CPT</emphasis> guidelines for hospital inpatient and observation care services or nursing facility services for instructions. Refer also to Chapter 16.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt/technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0010s0003s30001">
+         <title/>
+         <sect4 id="ch0010s0003s0001s01s01">
+            <title>Visit Complexity (G2211)</title>
+            <para>
+               <emphasis role="bold">G2211</emphasis> Visit complexity inherent to E/M associated with medical care services that serve as the continuing focal point for all needed health care services and/or with medical care services that are part of ongoing care related to a patient's single, serious condition or a complex condition (AOC, list separately in addition to office/outpatient E/M visit, new or established, <emphasis role="bold">99202–99205</emphasis> or <emphasis role="bold">99211–99215</emphasis>) The Medicare program created and implemented AOC <emphasis role="bold">G2211</emphasis> to provide additional payment for the work of building an effective relationship between a physician or QHP and a patient and/or caregivers for longitudinal care. This work has been previously unrecognized and unaccounted for in payment for office E/M visits.</para>
+            <para>The complexity described in <emphasis role="bold">G2211</emphasis> is not condition complexity but, rather, relationship complexity. The key determinant for reporting <emphasis role="bold">G2211</emphasis> is the intent for a long-term physician-patient relationship either as a focal point for all of a patient's health care needs or for management of a single serious or complex condition. Report <emphasis role="bold">G2211</emphasis> for each office E/M service at which the criteria for reporting are met.</para>
+            <para>The following coding guidance for <emphasis role="bold">G2211</emphasis> is based on Medicare policy at the time of this publication. Verify payment policies of individual payers before reporting this code.</para>
+            <para>
+               <emphasis role="bold">G2211</emphasis> is not reported ✱ In conjunction with an office E/M service provided in conjunction with management/treatment that is not expected to be of long-term duration (eg, preoperative visit, urgent care visit without a plan for longitudinal care).</para>
+            <para>✱ In conjunction with an E/M code that is appended with modifier 25 (significant, separately identifiable E/M service) except when reporting certain services (eg, <emphasis role="bold">99460–99461</emphasis>, immunization administration) on the same date.</para>
+            <para>Otherwise, <emphasis role="bold">G2211</emphasis> is not reported when modifier 25 is appended to the office E/M code (ie, when reporting other diagnostic or therapeutic services on the same date).</para>
+            <para>Important: Medicaid and private payer policies for payment of G2211 vary, and the benefit of pediatric physicians reporting G2211 may vary by locality and payer mix. Refer to payment policies of individual payers/plans and also consider the value of capturing the work relative value units (RVUs) of G2211 (eg, where physician and QHP pay is linked to work RVUs).</para>
+            <para>▶<emphasis role="bold">A child presents for an established patient visit with a cough and nasal congestion.</emphasis> The pediatrician providing the E/M visit reviews the patient's medical history, including immunization history. After the patient is examined, the parents are counseled about upper respiratory infection (URI) and influenza immunization. The parents consent to immunization at this visit. An appointment for the child's next preventive medicine service is scheduled, and the parents are encouraged to call the pediatrician with any questions or concerns.</para>
+            <para>This visit meets the requirements for reporting <emphasis role="bold">G2211</emphasis> (eg, <emphasis role="bold">99213 25</emphasis>, <emphasis role="bold">G2211</emphasis>, <emphasis role="bold">90460</emphasis>, and a code for the influenza vaccine). Although the problem addressed was not complex, the intent to establish an ongoing relationship in which the pediatrician will be the focal point for all the patient's health care needs is demonstrated by the instruction to call the pediatrician with any questions or concerns and scheduling of the preventive service.</para>
+            <para>▶<emphasis role="bold">Anafebrile infant presents to an urgent care practice with a rash and history of fever a few days prior to the visit.</emphasis> The urgent care pediatrician obtains pertinent history, examines the infant, and counsels the parents about roseola. The parents are advised to follow up with the patient's primary care physician.</para>
+            <para>This visit does not meet the requirements for reporting <emphasis role="bold">G2211</emphasis>. There is no indication of an intent to provide care on a longitudinal basis. Only the appropriate E/M code (eg, <emphasis role="bold">99212</emphasis>) is reported.</para>
+            <para>▶<emphasis role="bold">A rheumatologist sees an established patient for follow-up care for juvenile idiopathic arthritis.</emphasis> The visit includes an interval history, examination, and prescription drug management. The patient is scheduled for a follow-up visit in 3 months and instructed to contact the rheumatologist with any questions or concerns between visits.</para>
+            <para>This visit meets the requirements for reporting <emphasis role="bold">G2211</emphasis> (eg, <emphasis role="bold">99213</emphasis>, <emphasis role="bold">G2211</emphasis>). The visit is part of longitudinal care for a single complex condition.</para>
+         </sect4>
+         <sect4 id="ch0010s0003s0001s01s02">
+            <title>E/M Services in Urgent Care Facilities</title>
+            <para>CPT does not include codes specific to E/M services provided at an urgent care facility. Office E/M codes (<emphasis role="bold">99202–99215</emphasis>) are typically reported.</para>
+            <para>The Centers for Medicare &amp; Medicaid Services (CMS) describes an <emphasis role="italics">urgent care facility</emphasis> as a location, distinct from a hospital ED, an office, or a clinic, the purpose of which is to diagnose and treat illness or injury for unscheduled, ambulatory patients seeking immediate medical attention.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>ED codes <emphasis role="bold">99281–99285</emphasis> are not reported for urgent care E/M services.</para>
+               </listitem>
+               <listitem>
+                  <para>The site of service is differentiated by the place of service (POS) code (eg, <emphasis role="bold">20</emphasis> for urgent care facility, <emphasis role="bold">11</emphasis> for office).</para>
+               </listitem>
+               <listitem>
+                  <para>Other E/M codes that may apply to services in an urgent care facility include</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>After-hours service codes, discussed in the After-Hours Services section later in this chapter — HCPCS code <emphasis role="bold">S9088</emphasis> (services provided in an urgent care center) that may be listed in addition to the codes for other services provided</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">S9083</emphasis> (global fee urgent care centers) when an urgent care clinic contracts to bill all services under a global fee Some physician practices operate as a primary care pediatric practice and an urgent care center in the same location but with different tax ID numbers and insurance contracts for each. Physicians should consult a health care attorney for assistance in establishing an urgent care practice and contracting with payers to cover the additional overhead costs often applicable to urgent care (eg, extended staffing, radiology, procedural services).</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>It is imperative to know your contractual agreements for coding and billing as an urgent care facility or clinic versus a primary care practice because rates of payment are typically higher for urgent care facilities, asare patient co-payments. Billing and payment also vary for urgent care facilities owned by hospitals. Guidance on billing and coding for these locations should be obtained from the compliance officer or other administrative personnel.</para>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0010s0003s0002">
+      <title>Office and Other Outpatient E/M Guidelines</title>
+      <para>Refer to Chapter 6 for full guidelines that apply to all E/M services reported according to the level of MDM or total time on the date of the encounter.</para>
+      <sect3 id="ch0010s0003s30002">
+         <title/>
+         <sect4 id="ch0010s0003s0002s01s01">
+            <title>New Versus Established Patients</title>
+            <para>The following criteria determine patient status when code descriptors designate whether a patient is new or established:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">New patients</emphasis> have not received a face-to-face professional service from the physician or QHP, or any physician or QHP of the same group practice and same exact specialty and subspecialty (eg, primary care, allergist), inany setting (eg, telemedicine, office, hospital) within the prior 3 years.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Established patients</emphasis> have received, and a claim has been submitted for, any face-to-face professional service (eg, hospital care, immunization with physician counseling) from a physician or QHP of the same group practice and same exact specialty within the past 3 years.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Per CPT,</emphasis> a QHP who is working with a physician(s) and who may report E/M services is considered to be working in the exact same specialty and subspecialty as the physician(s). Follow individual payer policies for reporting services by QHPs. A payer may use subspecialty designation in a notes field on claims to prevent claim denials within a multispecialty group practice.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Codes for outpatient consultations (<emphasis role="bold">99242–99245</emphasis>) apply to services provided to a new or established patient.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ When a physician of a different specialty is covering for another physician (eg, pediatrician covering for a family physician) and has the first face-to-face contact with the other physician's established patient, the encounter is considered new.</para>
+            <para>When a physician is covering for another physician of the same specialty, the patient's encounter is coded as it would have been by the physician who is unavailable. For example, an established patient for a pediatrician is seen by the on-call pediatrician. The on-call pediatrician should report that patient's service as established.</para>
+            <para>Per CPT, if a physician is covering for another physician of the same specialty, the patient's encounter is reported as it would have been by the physician who is unavailable.</para>
+            <para>▶ When a physician has moved to a different location or changed their tax ID number, patients would still be considered established if they were established patients before these changes took place.</para>
+            <para>When a new physician joins a group of other pediatricians, patients who follow the physician to the new practice are considered to be established patients to any of the pediatricians in the new practice because the patients were seen by a physician of the same specialty in the group within the past 3 years.</para>
+            <para>▶ When a newborn or child is examined in the hospital (eg, nursery or ED care) and is subsequently examined in the office by the same physician or member of the same group and same specialty, the newborn or child is considered an established patient.</para>
+         </sect4>
+         <sect4 id="ch0010s0003s0002s01s02">
+            <title>Visits Not Requiring a Physician's or Qualified Health Care Professional's Presence</title>
+            <para>★99211    Office or other outpatient visit for the E/M of an established patient that may not require the presence of a physician or other QHP Services by clinical staff, such as <emphasis role="bold">99211</emphasis> visits, are considered incidental to a physician's or QHP's services and are reported under the supervising physician's or QHP's name and National Provider Identifier (NPI). Generally, clinical staff, such as nurses and medical assistants, are not credentialed with payers and cannot independently provide and report these services.</para>
+            <para>Per CPT, a clinical staff member is a person who is working under the supervision of a physician or other QHP and is allowed by law, regulation, and facility policy to perform or assist in a specified professional service but who does not individually report that professional service.</para>
+            <para>Code <emphasis role="bold">99211</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is reported only for established patients ● Requires that services be provided according to a physician's or QHP's order</para>
+               </listitem>
+               <listitem>
+                  <para>Is reported for clinical staff assessments and other follow-up care not included in services described by other procedure codes (eg, face-to-face patient education not included in time billed as chronic care management services) ✱ Is not reported on the same date as another office E/M service by a physician or QHP of the same group practice</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Does not require the presence of a physician or QHP ✱ Does not require MDM by a physician or QHP</para>
+            <para>✱ Is not a time-based service Do not report <emphasis role="bold">99211</emphasis> for non-E/M services such as venipuncture (<emphasis role="bold">36415, 36416</emphasis>) or injections (<emphasis role="bold">96372</emphasis>) or for demonstrating or teaching use of an inhalation device (<emphasis role="bold">94664</emphasis>). Do not report <emphasis role="bold">99211</emphasis> in conjunction with immunization administration (IA) (<emphasis role="bold">90471-90474</emphasis>) without separate and distinct nursing assessment and management. Do not report <emphasis role="bold">99211</emphasis> in conjunction with IA with counseling by a physician or other QHP (<emphasis role="bold">90460, 90461, 90480</emphasis>).</para>
+            <para>Code <emphasis role="bold">99211</emphasis> is not typically reported for an encounter solely for clinical staff to obtain a sample for laboratory testing. Report <emphasis role="bold">99211</emphasis> only for specimen collection when a payer has expressly provided guidance to report the code for this purpose.</para>
+            <para>▶ An established patient presents for blood pressure and weight check by clinical staff.</para>
+            <para>
+               <emphasis role="italics">History:</emphasis> The patient is here per Dr A's January 28, 2025, order for follow-up on a weight loss plan for obesity and hypertension. The patient is following the recommended diet and began an exercise program at the local recreation center. The mother expresses more positive feelings about changing the family's diet and routines now.</para>
+            <para>
+               <emphasis role="italics">Physical assessment:</emphasis> Blood pressure is 118/70 mm Hg, weight is 120 lb (down 7 lb since most recent visit), and body mass index (BMI) is now at 110% of the 95th percentile.</para>
+            <para>Plan: The patient is encouraged to continue diet and exercise and is already scheduled to follow up with her physician in 1 month. The patient and parent are instructed to call if there are any concerns before the follow-up visit.</para>
+            <para>Codes reported by Dr A or another supervising physician/QHP are <emphasis role="bold">99211</emphasis> linked to <emphasis role="bold">I10</emphasis> (hypertension), <emphasis role="bold">E66.811</emphasis> (obesity, class 1), and <emphasis role="bold">Z68.54</emphasis> (BMI pediatric, &gt;95th percentile for age to &lt;120% of the 95th percentile for age).</para>
+            <para>▶ A nurse provides education to an established adolescent patient who wishes to assume responsibility for carrying a self-administered epinephrine kit and performing self-injection when necessary.</para>
+            <para>The supervising physician reports <emphasis role="bold">99211</emphasis>.</para>
+            <para>▶ An established patient is seen for evaluation of reaction to a tuberculin test. A medical assistant assesses the site of the injection and finds no signs of reaction. The supervising physician reports <emphasis role="bold">99211</emphasis>. Note that <emphasis role="bold">86580</emphasis> (skin test; tuberculosis, intradermal) includes the work of administering the purified protein derivative but not the work of evaluating for potential reaction on a later date.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
