@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0006</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0007</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 9
+    </title>
+   <para>
+      <emphasis role="bold">1. b.</emphasis> CCM is reported by a physician or QHP who provides or oversees the management and/or coordination of services, as needed, for all the patient's health care needs.</para>
+   <para>
+      <emphasis role="bold">2. d.</emphasis> PCM services require development, monitoring, or revision of disease-specific care plan for a patient.</para>
+   <para>3.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Complex CCM requires at least 60 minutes of clinical staff time and moderate or high PAM.</para>
+      </listitem>
+   </orderedlist>
+   <para>
+      <emphasis role="bold">4. b.</emphasis> On a date when no other E/M service is furnished to the patient, the treating/requesting physician or QHP who speaks 16 to 30 minutes preparing for the referral and/or communicating with the consultant may report the service with <emphasis role="bold">99452</emphasis>.</para>
+   <para>
+      <emphasis role="bold">5. b.</emphasis> False. Indirect prolonged services may be reported in relation to any level or type of E/M service that was or will be provided on another date of service regardless of whether time was used to select the level of the face-to-face service.</para>
+</sect1>

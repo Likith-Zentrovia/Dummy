@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0011">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0010</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0011</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0012</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 14
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>a. When multiple symptoms are listed as chief complaints during the ED triage process, the physician needs to designate only 1 sign, symptom, disease, or injury as the chief complaint (principal reason for the visit). This diagnosis is used to help support the urgency of the ED visit under prudent layperson guidelines as well as support resource utilization.</para>
+      </listitem>
+      <listitem>
+         <para>d. Report one of the following codes from category <emphasis role="bold">Z04</emphasis> for an encounter at which neglect, abuse, or exploitation is suspected but ruled out. However, report codes for the problems addressed in lieu of a category <emphasis role="bold">Z04</emphasis> code when maltreatment is ruled outbut problems are addressed.</para>
+      </listitem>
+      <listitem>
+         <para>c. The physician's dated and timed order for observation status is the starting point of the observation service.</para>
+      </listitem>
+      <listitem>
+         <para>d. All of the above. A physician or QHP providing ED care does not report a procedure that is performed by hospital personnel under general supervision or the global or technical component code for services that include use of hospital equipment. However, the professional component, such as interpretation and report of radiographic findings, may be reported by appending modifier <emphasis role="bold">26</emphasis> [professional component] to the procedure code.</para>
+      </listitem>
+      <listitem>
+         <para>c. <emphasis role="italics">CPT</emphasis> instructs that <emphasis role="bold">99292</emphasis> be reported in conjunction with <emphasis role="bold">99291</emphasis> when critical care time extends <emphasis role="italics">up to 30 minutes</emphasis> beyond the first 74 minutes and for each additional period of up to 30 minutes. Report 1 unit of <emphasis role="bold">99292</emphasis> for critical care time of 75 to 104 minutes and then an additional unit for each additional period of up to 30 minutes.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

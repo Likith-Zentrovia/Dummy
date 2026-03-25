@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 8
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>b. Codes <emphasis role="bold">90460-90461</emphasis> and <emphasis role="bold">96380</emphasis> require counseling by a physician or other QHP. Counseling is not required to support codes <emphasis role="bold">90471-90474</emphasis> or <emphasis role="bold">90480</emphasis>, although counseling is included in code <emphasis role="bold">90480</emphasis>, when provided.</para>
+      </listitem>
+      <listitem>
+         <para>d. Report code <emphasis role="bold">90482</emphasis> for <emphasis role="italics">at least</emphasis> 3 minutes of counseling for one or more immunizations that are not administered in the physician's or QHP's practice on the date of counseling. Code <emphasis role="bold">90482</emphasis> includes up to 10 minutes of counseling. For more than 10 minutes of counseling, see code <emphasis role="bold">90484</emphasis>.</para>
+      </listitem>
+      <listitem>
+         <para>b. False. Codes <emphasis role="bold">90482-90484</emphasis> may be reported when immunization counseling is provided for multiple immunizations and some, but not all, immunizations are administered. Do not include the time spent counseling for administered immunizations (reported with any IA code) in the time reported with codes <emphasis role="bold">90482-90484</emphasis>.</para>
+      </listitem>
+   </orderedlist>
+   <para>4.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>The appropriate ICD-10-CM code for the infant's routine child health examination (eg, Z00.129) is reported in conjunction with 96161. Depression screening codes (Z13.31 or Z13.32) are not appropriate for maternal screening for the benefit of the infant.</para>
+      </listitem>
+   </orderedlist>
+   <para>5.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Behavior change interventions involve validated interventions provided to either a new or an established patient who has a behavior often considered an illness itself. Specific time requirements are included in the code descriptors, so the midpoint rule is not applicable to 99406–99408.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

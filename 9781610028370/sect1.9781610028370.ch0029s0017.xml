@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0017">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0016</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0017</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0018</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 20
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>a. True. Telemedicine codes 98000–98015 may be selected according to either level of MDM or total time on the date of the encounter.</para>
+      </listitem>
+      <listitem>
+         <para>a. Codes 98000–98007 do not require a specific time interval from the last in-person or telemedicine visit. Codes 98004–98007 are reported for established patient synchronous audio-video visits.</para>
+      </listitem>
+      <listitem>
+         <para>c. Code 98012 is supported by greater than 10 minutes of medical discussion in combination with total time exceeding 10 minutes.</para>
+      </listitem>
+      <listitem>
+         <para>b. Report 99417 (prolonged outpatient E/M service) appended with modifier 95 × 1 unit for 20 minutes of prolonged service. Report unit of 99417 95 for each full 15-minute period beyond the total time of the primary service (ie, 98003 or 98007 selected on the basis of total time).</para>
+      </listitem>
+      <listitem>
+         <para>b. Code 98016 is reported for a service that is initiated by the established patient and/or parent or caregiver and that includes at least 5 and up to 10 minutes of medical discussion.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

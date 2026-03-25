@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 7
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>d. <emphasis role="bold">G2211</emphasis> is reported in addition to an office E/M code appended with modifier <emphasis role="bold">25</emphasis> only when reporting certain preventive services (eg, immunization administration, <emphasis role="bold">90460-90461</emphasis>) on the same date. Do not report <emphasis role="bold">G2211</emphasis> in addition to an office E/M code appended with modifier <emphasis role="bold">25</emphasis> when reporting other diagnostic or therapeutic services (eg, medication administration) on the same date.</para>
+      </listitem>
+      <listitem>
+         <para>a. True. Under Medicare's incident-to policy, code <emphasis role="bold">99211</emphasis> may be reported for services provided by clinical staff to established patients under the direct supervision of a physician or QHP who is either in the office site or immediately available via real-time audio-video technology at the time of service.</para>
+      </listitem>
+      <listitem>
+         <para>b. The total time included in the code descriptor must bemet or exceeded and includes only the physician's or QHP's total time devoted the patient's care on the date of the visit.</para>
+      </listitem>
+      <listitem>
+         <para>a. The straightforward MDM supports a new patient service reported with <emphasis role="bold">99202</emphasis>. It is not necessary to also meet or exceed the total time included in the code descriptor.</para>
+      </listitem>
+      <listitem>
+         <para>c. The office E/M code selected by the physician or QHP, based on MDM or total time, and the total face-to-face clinical staff time are necessary to determine if the time requirement for <emphasis role="bold">99415</emphasis> has been met. The starting point for <emphasis role="bold">99415</emphasis> is 30 minutes beyond the typical clinical staff time that is included in the value assigned to the office or other outpatient E/M code reported.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

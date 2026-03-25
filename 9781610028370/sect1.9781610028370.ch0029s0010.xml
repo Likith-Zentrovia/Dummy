@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0010">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0009</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0010</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0011</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 13
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>a. For minor procedures, separate payment for a significant, separately identifiable E/M service may be allowed when modifier <emphasis role="bold">25</emphasis> is appended to the E/M code.</para>
+      </listitem>
+      <listitem>
+         <para>d. Codes <emphasis role="bold">15851</emphasis> and <emphasis role="bold">15854</emphasis> are add-on codes reported when sutures and/or staples are removed without anesthesia at a follow-up E/M service to a procedure with a 0-day global period.</para>
+      </listitem>
+      <listitem>
+         <para>d. Removal of an umbilical clamp is one of several services that are included in the E/M service and not separately reported.</para>
+      </listitem>
+      <listitem>
+         <para>a. If multiple wounds belong to the same category of difficulty and location, add the lengths and report with a single code. If multiple wounds do not belong in the same category, report each repair separately.</para>
+      </listitem>
+      <listitem>
+         <para>c. Intravenous infusion for hydration, <emphasis role="bold">96360</emphasis>, may be reported for hydration infusion lasting longer than 31 minutes and up to 1 hour. But subsequent code <emphasis role="bold">96361</emphasis> is reported if an IV hydration infusion is provided secondary or subsequent to a therapeutic, prophylactic, or diagnostic infusion.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0013">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0012</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0013</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0014</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 16
+    </title>
+   <para>
+      <emphasis role="bold">1. b.</emphasis> False. Admission orders should distinctly designate the patient's admission status, including transitions from observation to inpatient status, as this may be important for payer coverage and claim rules.</para>
+   <para>
+      <emphasis role="bold">2. c.</emphasis> The service is a subsequent service because the patient has received professional service(s) from another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice on a prior date during the current admission and stay.</para>
+   <para>
+      <emphasis role="bold">3. b.</emphasis> Only initial hospital inpatient or observation service codes <emphasis role="bold">99221–99223</emphasis> are reported for initial hospital care and discharge services provided on a single visit.</para>
+   <para>4.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>CPT defines consultations as initial encounters provided by a physician or QHP at the request of another physician, QHP, or appropriate source to recommend care for a specific condition or problem. Subsequent visits are reported with codes for subsequent hospital care (99231–99233).</para>
+      </listitem>
+   </orderedlist>
+   <para>
+      <emphasis role="bold">5. c.</emphasis> Code <emphasis role="bold">99418</emphasis> is used to report prolonged total time that exceeds the minimum total time of the highest level of service in the code category (eg, <emphasis role="bold">99223</emphasis>) <emphasis role="italics">by no less than 15 minutes</emphasis>. The code for the primary E/M service must be selected on the basis of time, and only time spent on the date of the encounter is included in the total time.</para>
+</sect1>
