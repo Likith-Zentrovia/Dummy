@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0018s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0018s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0018s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>14. Emergency Department Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>ED Evaluation and Management Codes</title>
+   <para>Refer to the full discussion of the E/M guidelines provided in Chapter 6 to learn the guidelines and definitions that guide E/M code selection.</para>
+   <para>
+      <emphasis role="bold">99281</emphasis> ED visit for the E/M of a patient that may not require the presence of a physician or other qualified health care professional <emphasis role="bold">99282</emphasis> ED visit for the E/M of a patient, which requires a medically appropriate history and/or examination and straightforward MDM</para>
+   <para>
+      <emphasis role="bold">99283</emphasis> ED visit for the E/M of a patient, which requires a medically appropriate history and/or examination and low level of MDM <emphasis role="bold">99284</emphasis> ED visit for the E/M of a patient, which requires a medically appropriate history and/or examination and moderate level of MDM</para>
+   <para>
+      <emphasis role="bold">99285</emphasis> ED visit for the E/M of a patient, which requires a medically appropriate history and/or examination and high level of MDM For coding purposes, an ED is defined as <emphasis role="italics">anorganized hospital-based facility for the provision of unscheduled episodic services to patients who present for immediate medical attention</emphasis>. The facility must be available 24 hours a day, 7 days a week.</para>
+   <itemizedlist>
+      <listitem>
+         <para>ED E/M codes 99281-99285 are reported only when care is provided to a patient who has been admitted to an ED. Some states allow for freestanding EDs that are not hospital affiliated. Payers may or may not allow the use of ED codes in these circumstances.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Physician services provided in a freestanding hospital-affiliated ED may be subject to specific billing rules. Check payer contracts for payment and billing policies.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Report the appropriate <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> office or other outpatient visit codes (99202-99215) and appropriate place of service code (eg, 20 for urgent care facility) for services performed in an urgent care center, a non-hospital facility, or a facility that is not open 24 hours a day. These facilities are not considered freestanding EDs.</para>
+      </listitem>
+      <listitem>
+         <para>There is no differentiation between new and established patients for ED encounters.</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>The level of ED codes <emphasis role="bold">99282–99285</emphasis> is based on the MDM. Time is not used in selection of <emphasis role="bold">99282–99285</emphasis>.</para>
+      </listitem>
+      <listitem>
+         <para>The highest 2 of 3 elements of MDM are used to select the level of an ED E/M code.</para>
+         <orderedlist continuation="restarts" inheritnum="ignore">
+            <listitem>
+               <para>
+                  <emphasis role="bold">Problem(s):</emphasis> the number and complexity of presenting problems</para>
+            </listitem>
+            <listitem>
+               <para>
+                  <emphasis role="bold">Data:</emphasis> the amount and/or complexity of data to be reviewed and analyzed</para>
+            </listitem>
+            <listitem>
+               <para>
+                  <emphasis role="bold">Risk:</emphasis> the risk of complications and/or morbidity or mortality of patient management</para>
+            </listitem>
+         </orderedlist>
+      </listitem>
+      <listitem>
+         <para>The concept of the level of MDM does not apply to <emphasis role="bold">99281</emphasis> because this level of service does not require a physician's or other qualified health care professional's (QHPs) MDM.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Because <emphasis role="bold">99281</emphasis> represents a service that does not require the presence of a physician or other QHP and is likely performed by clinical staff employed by the facility, payment policies for the physician's or QHP's supervision may vary.</para>
+   <para>Medical necessity is anoverarching criterion for selecting the level of E/M service. Physicians should always consider whether the nature of the presenting problem supports the medical necessity of services rendered when selecting the level of E/M service. All levels of ED service include a medically appropriate history and examination as determined by the treating physician or QHP.</para>
+   <sect2 id="ch0018s0003s20001">
+      <title/>
+      <sect3 id="ch0018s0003s30002">
+         <title/>
+         <sect4 id="ch0018s0003s0001s01s01">
+            <title>Split or Shared ED Visits</title>
+            <para>When a physician and QHP of the same specialty and same group practice each participate in the E/M service provided to a patient, the service is reported by the individual who provided the substantial portion of the encounter (eg, made or approved the management plan for the number and complexity of the problems addressed at the encounter and takes responsibility for that plan with its inherent risk of complications and/or morbidity or mortality of patient management). This can be documented either by placing a statement such as "I personally made/approved the management plan for this patient and take responsibility for the patient management" or by documenting the MDM elements performed (eg, assessment and plan, discharge instructions). Some payers may require that modifier FS (split or shared E/M visit) be appended to the E/M code when reporting a split/shared visit. Refer to <emphasis role="bold">Chapter 6</emphasis> for additional discussion of reporting split/shared visits. Refer also to the Time-Based Critical Care in the ED section later in this chapter for discussion of split/shared critical care services.</para>
+            <para>Use Table 14-1 to help you select the appropriate level of ED E/M service in the examples for each level of service that follow.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ A 6-year-old presents with a splinter in their right forefoot. The patient was playing on a wooden deck with bare feet about an hour ago and felt the splinter enter the foot. The mother wants assistance removing the splinter because the child has refused to be still for removal at home. Immunizations are up to date. The child appears well and is in no discomfort. Examination reveals a visible wood splinter that is readily grasped with tweezers and removed. Antibiotic ointment and a bandage are applied.</para>
+            <table frame="all" id="ch0018s0003ta0001">
+               <title>Split or Shared ED Visits</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S90.851A (superficial foreign body, right foot, initial encounter)</entry>
+                        <entry>99282 Straightforward MDM</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="bold">Problem(s) addressed</emphasis> ➤ <emphasis role="italics">Minimal</emphasis> (minor) <emphasis role="bold">Data reviewed and analyzed</emphasis> ➤ <emphasis role="italics">Limited</emphasis> (independent historian)</para>
+            <para>
+               <emphasis role="bold">Risk of patient management</emphasis> ➤ <emphasis role="italics">Minimal</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The MDM elements support <emphasis role="bold">99282</emphasis>. Although the data are limited, potentially supporting low MDM, the other 2 elements support straightforward MDM. Clinically indicated history and examination are documented but are not the basis of code selection. Because no incision was required to remove the splinter, removal of the foreign body is not separately reported.</para>
+            <para>If the splinter removal had required an incision, a code for incision and removal of a foreign body from subcutaneous tissue would have been reported with <emphasis role="bold">10120</emphasis> if simple or <emphasis role="bold">10121</emphasis> if complex. A separately reportable E/M service would not likely be supported (ie, would not likely be significantly beyond the typical preservice work of the procedure).</para>
+         </sect4>
+         <sect4 id="ch0018s0003s0001s01s02">
+            <title>Table 14-1. Code Selection Requirements for Emergency Department Evaluation and Management Service (Excluding 99281)</title>
+            <para/>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0018s0003s0002">
+      <title>Medical Decision-Making (2 of 3 Required: Problems, Data,ᵃ Risk)</title>
+      <table frame="all" id="ch0018s0003ta0002">
+         <title/>
+         <tgroup cols="4">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <thead>
+               <row>
+                  <entry>Level/Codes</entry>
+                  <entry>Problem(s) Addressed</entry>
+                  <entry>Data Reviewed and Analyzedᵃ</entry>
+                  <entry>Risk</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Low99283</entry>
+                  <entry>Low—Any 1 of≥2 self-limited or minor problems1 stable chronic illness1 acute, uncomplicated illness or injury1 stable acute illness1 acute, uncomplicated illness or injury requiring hospital inpatient or observation level of careExamples• Acute gastroenteritis• Uncomplicated hand-foot-and-mouth disease• Recheck of wound repaired at previous encounter• Resolution of URI with continued cough</entry>
+                  <entry>Limited (Meet 1 of 2 categories)ᵇCategory 1: Tests and documents (Any 2)ᶜ• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique testCategory 2: Assessment requiring an independent historian(s)</entry>
+                  <entry>LowExamples• Over-the-counter medication(s)• Removal of sutures• Physical, language, or occupational therapy</entry>
+               </row>
+               <row>
+                  <entry>Moderate99284</entry>
+                  <entry>Moderate—Any 1 of≥1 chronic illness with exacerbation, progression, or side effects of treatment≥2 stable chronic illnesses1 undiagnosed new problem with uncertain prognosis1 acute illness with systemic symptoms1 acute, complicated injuryExamples• Asthma with exacerbation but not hypoxia• Unexplained bruising• Acute gastroenteritis with dehydration• Intermittent headaches and confusion following concussion</entry>
+                  <entry>Moderate (Meet 1 of 3 categories)ᵇCategory 1: Tests and documents (Any 3)ᶜ• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique test• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPᵈCategory 3: Discussion of management or test interpretation with external physician/other QHP/appropriate sourceᵇ</entry>
+                  <entry>ModerateExamples• Prescription drug management or off-label use of over-the-counter medication• Decision about minor surgery with identified patient or procedure risk factors• Decision about elective major surgery without identified patient or procedure risk factors• Diagnosis or treatment significantly limited by SDoHᵉ</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sect3 id="ch0018s0003s30003">
+         <title/>
+         <sect4 id="ch0018s0003s0002s01s01">
+            <title>Table 14-1 (continued)</title>
+            <table frame="all" id="ch0018s0003ta0003">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c3" namest="c1">Medical Decision-Making (2 of 3 Required: Problems, Data,* Risk)</entry>
+                     </row>
+                     <row>
+                        <entry>Level/Codes</entry>
+                        <entry>Problem(s) Addressed</entry>
+                        <entry>Data Reviewed and Analyzed*</entry>
+                        <entry>Risk</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>High99285</entry>
+                        <entry>High—Any 1 of≥1 chronic illness with severe exacerbation, progression, or side effects of treatment1 acute or chronic illness or injury that poses a threat to life or bodily functionExamples• Asthma with hypoxia (status asthmaticus)• Infant fever, tachycardia, lethargy, and dehydration• Injury or illness with shock</entry>
+                        <entry>Extensive (Meet 2 of 3 categories)Category 1: Tests and documents (Any 3)&lt;br&gt;• Review of prior external note(s) from each unique source&lt;br&gt;• Review of the result(s) of each unique test&lt;br&gt;• Ordering of each unique test&lt;br&gt;• Assessment requiring an independent historian(s)&lt;br&gt;&lt;br&gt;Category 2: Independent interpretation of a test performed by another physician/other QHPCategory 3: Discussion of management or test interpretation with external physician/other QHP/appropriate source*</entry>
+                        <entry>HighExamples• Drug therapy requiring intensive monitoring for toxicity• Decision about elective major surgery with identified patient or procedure risk factors• Decision about emergency major surgery• Decision about hospitalization or escalation of hospital level of care• Decision not to resuscitate or to de-escalate care because prognosis is poor• Decision regarding parenteral controlled substances</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Problem(s) addressed ➤ Low (acute, uncomplicated injury) Data reviewed and analyzed ➤ Limited (Category 2—independent historian)</para>
+            <para>Risk of patient management ➤ Low Teaching Point: Low MDM supports 99283. All 3 elements of MDM support this level of service. If a physician or QHP personally performs ankle strapping, 29540 is reported in addition to 99283 25. Modifier 25 is appended to indicate the E/M service was significant and separately identifiable from the preservice and postservice work of the strapping procedure.</para>
+            <para>There is shared decision-making with the family regarding a lack of indication for and/or decision against testing that counts toward the amount of data as if the test had been ordered. The combination of 1 test considered and not ordered does not meet the Category 1 data (2 tests or documents). The need for an independent historian at this encounter supports a limited amount and/or complexity of data (Category 2 data).</para>
+            <para>Codes <emphasis role="bold">Y92.310</emphasis> (basketball court as the place of occurrence of the external cause) and <emphasis role="bold">Y99.8</emphasis> (other external cause status [leisure activity]) may also be reported to add to injury information that may be necessary for determining whether another party is responsible for the patient's medical expenses (eg, school injury policy).</para>
+            <para>When a test is considered but not ordered (after discussion with the patient and/or caregivers), document that it was considered but not ordered and the reason for not ordering it (eg, not indicated, unavailable). This documentation supports inclusion of the test that was not ordered in determination of the amount and/or complexity of data to be reviewed and analyzed.</para>
+            <para>▶ An 11-year-old patient presents with an injury to the left ankle. The patient reports hurting the ankle by tripping during a basketball game approximately an hour earlier and is not able to bear full weight on the ankle. The lateral aspect of the ankle is also swollen and tender to the touch. The parents also offer a history of a prior ankle fracture. A radiograph is ordered and images are reviewed. The ED physician chooses to speak with a radiologist about the interpretation of the radiograph. An acute fracture is not seen, but a Salter-Harris type I cannot be ruled out. The patient is placed in a prefabricated walking boot and instructed on home care and follow-up with the primary care physician for possible reimaging. Since a "rule out" cannot be used as a diagnosis, the highest level of clinical certainty at this point is sprain of the anterior talofibular and calcaneofibular ligaments of the left ankle.</para>
+            <table frame="all" id="ch0018s0003ta0004">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S93.412A (sprain of calcaneofibular ligament of left ankle, initial encounter)
+S93.492A (sprain of other ligament of left ankle, initial encounter) W01.0XXA (fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter)
+Y93.67 (activity, basketball) Y92.310 (basketball court as the place of occurrence of the external cause)
+      Y99.8 (other external cause status [leisure activity])</entry>
+                        <entry>99284 Moderate MDM</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="italics">Extensive</emphasis> (Category 2—independent visualization of images, Category 3—discussion with performing physician) <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="italics">Low</emphasis> (walking boot and follow-up with primary care physician)</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Moderate MDM is supported by the moderate complexity of the problem addressed and the extensive data analysis necessary to determine diagnosis and management. The order for and the independent review and interpretation of images each contribute to the amount and complexity of the data. Only 2 of 3 elements are required to support the level of MDM.</para>
+            <para>The final diagnosis for a condition does not, inand of itself, determine the complexity or risk, as extensive evaluation may be required to reach the conclusion that the signs or symptoms do not represent a highly morbid condition.</para>
+            <para>SDoh that affect management may indicate a higher risk of morbidity resulting from additional treatment than is otherwise associated with the plan of care (eg, documented consultation with case management to assist family with transportation to follow-up appointments with a community physician).</para>
+            <para>▶ An adolescent is brought to the ED by ambulance after a noncollision rollover automobile accident. Emergency medical technicians relay that the patient was driving and wearing a seat belt, but the older-model vehicle did not have airbags. Witnesses to the accident reported that the patient lost consciousness for several minutes before arrival of the ambulance. The ED physician comprehensively examines the patient, whose Glasgow Coma Scale score is 14 given the patient's confusion. Parenteral controlled substances are administered. Radiographs of the chest and left shoulder and a computed tomographic scan of the head are ordered. The patient is found to have a closed frontal skull fracture without underlying bleeding as well as a displaced fractured right clavicle. Neurosurgery and orthopedic consultations are obtained, and after discussion with the neurosurgeon and orthopedic surgeon, the patient is admitted for observation by the neurosurgeon.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

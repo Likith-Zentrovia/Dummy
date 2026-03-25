@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0015s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0015s0005</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>15</chapternumber>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>12. Nonphysician Qualified Health Care Professional Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 12. NONPHYSICIAN QUALIFIED HEALTH CARE PROFESSIONAL SERVICES</title>
+   <para>▶ A patient with cerebral palsy requires coordination with multiple health care professionals (eg, physical and occupational therapists, neurologist, pediatrician). Each participant in the conference has completed their evaluation of the patient within 7 days before the conference, and a team conference of 40 minutes is held to assess the current plan of care and therapy. The patient's family is at this conference.</para>
+   <para>Code 99366 would be reported by the physical and occupational therapists. Physicians at the conference would report an E/M code that best describes their services on this date (eg, office or other outpatient E/M service based on face-to-face time with the family spent in counseling and/or coordination of care).</para>
+   <sect2 id="ch0015s0005s20002">
+      <title/>
+      <sect3 id="ch0015s0005s30010">
+         <title/>
+         <sect4 id="ch0015s0005s0001s01s01">
+            <title>Education and Training for Patient Self-Management (98960–98962)</title>
+            <para>★98960    Education and training for patient self-management by a nonphysician qualified health care professional using a standardized curriculum, face-to-face with the patient (could include caregiver/family) each 30 minutes; individual patient</para>
+            <para>★98961    2–4 patients</para>
+            <para>★98962    5–8 patients</para>
+            <para>Report 98960–98962 when ● The purpose of these services is to teach the patient and caregivers how to self-manage the illness or disease or delay coexisting conditions in conjunction with the patient's professional health care team.</para>
+            <para>Improved patient self-management may benefit a practice through payments received for quality initiatives related to management of complex and/or chronic conditions (eg, a percentage of patients aged 5–64 years and identified as having persistent asthma had a ratio of controller medications to total asthma medications of ≥0.50 during the measurement year). To learn more about how quality measurement may influence coding and payment, refer to Chapter 3.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A physician prescribes the services and a standardized curriculum is used. A standardized curriculum is one that is consistent with guidelines or standards established or recognized by a physician or NQHCP society, association, or other appropriate source (eg, curriculum established or endorsed by the American Academy of Pediatrics).</para>
+               </listitem>
+               <listitem>
+                  <para>Qualifications of the NQHCPs and the content of the program are consistent with guidelines or standards established or recognized by a physician or NQHCP society, association, or other appropriate source.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>These codes apply to diabetes and asthma self-management training—important categories of patient self-management education and training. Such training can be provided by nurse educators or other clinicians who have received special education and/or certification from accreditation societies or state licensing panels.</para>
+               </listitem>
+               <listitem>
+                  <para>These services could be reported by the supervising physician when the services are rendered by the appropriately certified professional and acknowledged by the payer via the payer contract or published guidance. Some payers, however, include codes 98960–98962 in policies that allow payment only when reported directly by NQHCPs.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Education and training services are provided face-to-face (including via audiovisual telemedicine service) to patients with established illness or disease.</para>
+               </listitem>
+               <listitem>
+                  <para>When a standardized curriculum is not used in the provision of education and training for patient self-management, consider whether the service meets the requirements of health behavior assessment and interventions services by an NQHCP (96156, 96158, 96159, and 96164–96171) as discussed in Chapter 10.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Qualifications of the NQHCPs and the content of patient self-management education (98960–98962) must be consistent with guidelines or standards established or recognized by a physician or NQHCP society, association, or other appropriate source.</para>
+            <para>Code selection is based on the number of patients receiving the service and the general CPT instruction for reporting services based on time. Time is met when the midpoint is passed (ie, report 98960 for ≥16 minutes of face-to-face time and with units of service for each additional full 30 minutes and the last 16–30 minutes).</para>
+            <para>▶ A 14-year-old patient was recently diagnosed with type 1 diabetes and is referred to the diabetes educator for continued training with an approved curriculum. The certified nurse educator assesses what the patient and caregivers have learned since diagnosis and uses a standardized curriculum to provide additional education. The total documented time of service is 30 minutes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ★, add-on; ✚, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">98960</emphasis> is reported for the 30 minutes of service. If the time of service extended 16 to 30 minutes beyond the first 30 minutes, an additional unit would be reported.</para>
+            <para>The content, type, duration, and patient response to the training must be documented in the medical record.</para>
+            <para>The payer contract will determine whether services are reported under the name of the diabetes educator, supervising physician, or QHP. If the payer credentials educators, report under the name and NPI of the educator. If the payer does not credential educators, follow payer guidance for reporting.</para>
+            <para>When the service is provided for multiple patients, either <emphasis role="bold">98961</emphasis> (2–4 patients) or <emphasis role="bold">98962</emphasis> (5–8) patients is reported.</para>
+         </sect4>
+         <sect4 id="ch0015s0005s0001s01s02">
+            <title>Genetic Counseling Services (96041)</title>
+            <para>★<emphasis role="bold">96041</emphasis> Medical genetics and genetic counseling services, each 30 minutes of total time provided by the genetic counselor on the date of the encounter</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Trained genetic counselors provide services that may include obtaining a structured family genetic history, pedigree construction, analysis for genetic risk assessment, and counseling of the patient and family.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">96041</emphasis> with a unit of service based on the <emphasis role="italics">CPT</emphasis> midpoint rule for time.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Report 1 unit for the first 16–45 minutes on the DOS.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Report an additional unit for each additional full 30 minutes and for the last 16 to 30 minutes.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Services may include review of medical data and family information, face-to-face interviews, and counseling services. Education provided to the individual patient regarding genetic risk is reported with <emphasis role="bold">96041</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>For education regarding genetic risks by an NQHCP to a group, refer to <emphasis role="bold">98961</emphasis> and <emphasis role="bold">98962</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians and other QHPs may report E/M services for genetic counseling including</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Problem-oriented E/M services (eg, <emphasis role="bold">99212–99215</emphasis>) for counseling regarding symptoms or established disease — Preventive medicine counseling and risk factor reduction services (eg, <emphasis role="bold">99401–99404</emphasis>) for counseling when a patient presents without symptoms or established disease</para>
+               </listitem>
+            </itemizedlist>
+            <para>✖ Do not report <emphasis role="bold">96041</emphasis> for less than 16 minutes of genetic counselor time.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0005s0002">
+      <title>Medication Therapy Management Services by a Pharmacist (99605–99607)</title>
+      <para>
+         <emphasis role="bold">99605</emphasis> Medication therapy management service(s) provided by a pharmacist, individual, face-to-face with patient, with assessment and intervention if provided; initial 15 minutes, new patient</para>
+      <para>
+         <emphasis role="bold">99606</emphasis> initial 15 minutes, established patient ♦<emphasis role="bold">99607</emphasis> each additional 15 minutes (List separately in addition to <emphasis role="bold">99605</emphasis> or <emphasis role="bold">99606</emphasis>)</para>
+      <para>Medication therapy management services</para>
+      <itemizedlist>
+         <listitem>
+            <para>Are provided only by a pharmacist face-to-face with the patient or caregiver and usually in relation to complex medication regimens or medication adherence in conditions such as asthma and diabetes.</para>
+         </listitem>
+         <listitem>
+            <para>Are provided on request of the patient or caregiver, prescribing physician, other QHPs, or prescription drug benefit plan (not reported for routine dispensing-related activities).</para>
+         </listitem>
+         <listitem>
+            <para>Are reported with codes selected according to the patient's status, new or established, and the pharmacist's face-to-face time with the patient.</para>
+         </listitem>
+         <listitem>
+            <para>Include review of pertinent patient history (not limited to drug history).</para>
+         </listitem>
+         <listitem>
+            <para>Include documentation of review of the pertinent patient history, medication profile (prescription and nonprescription), and recommendations for improving health outcomes and treatment adherence.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">New patients</emphasis> are those who have received no face-to-face service from the pharmacist or another pharmacist of the same clinic or pharmacy within 3 years before the current DOS.</para>
+         </listitem>
+         <listitem>
+            <para>Unless otherwise specified by the payer policy, time is met when the midpoint is passed.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">99605</emphasis> and <emphasis role="bold">99606</emphasis> for the first 8 to 22 minutes of face-to-face time with the patient.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>When time exceeds 22 minutes, <emphasis role="bold">99607</emphasis> may be reported for subsequent 15-minute periods and the last 8 to 22 minutes.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Under the Medicare program, pharmacists may also provide services incident to a physician or QHP and report E/M services with <emphasis role="bold">99211</emphasis> when allowed under the scope of practice as defined by state licensure.</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0015s0005s30011">
+         <title/>
+         <sect4 id="ch0015s0005s0002s01s01">
+            <title>Physical and Occupational Therapy (97161–97546)</title>
+            <para>Although many physical and occupational therapy services are included in a facility's charges, some states allow therapists to practice independently. There are codes for reporting therapy evaluations, reevaluations, and therapeutic activities/modalities. Payment for physical and occupational therapy services is often defined by not only the therapist's scope of practice but also the payer's credentialing and payment policies that often restrict the number of therapy services provided within a specific time frame.</para>
+            <para>Following are some of the codes commonly used for reporting evaluative and therapeutic services to create, revise, or carry out a therapy plan of care. Therapists use specific methods of evaluating (eg, occupational therapy profile with review of medical and therapy history and assessment of performance deficits) and providing therapeutic services based on clinical guidelines.</para>
+            <para>
+               <emphasis role="bold">Therapeutic modalities are any physical agent applied to produce therapeutic changes to biological tissue including, but not limited to, thermal, acoustic, light, mechanical, or electric energy.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">97161–97163</emphasis> Physical therapy evaluations</para>
+            <para>
+               <emphasis role="bold">97164</emphasis> Physical therapy re-evaluation</para>
+            <para>
+               <emphasis role="bold">97165–97167</emphasis> Occupational therapy evaluations</para>
+            <para>
+               <emphasis role="bold">97168</emphasis> Occupational therapy re-evaluation</para>
+            <para>
+               <emphasis role="bold">97010–97028</emphasis> Supervised therapy modalities <emphasis role="bold">97032–97039</emphasis> Therapy modalities requiring constant attendance (one-on-one patient contact)</para>
+            <para>
+               <emphasis role="bold">97110–97546</emphasis> Therapeutic procedures Refer to <emphasis role="bold">97169–97172</emphasis> for athletic training evaluations and reevaluations.</para>
+         </sect4>
+         <sect4 id="ch0015s0005s0002s01s02">
+            <title>Modifiers for Services Provided by Therapists and Speech Pathologists</title>
+            <para>Medicaid and other payers may require specific modifiers for certain outpatient therapeutic services. Check with individual payers for guidance on reporting therapy modifiers.</para>
+            <para>
+               <emphasis role="bold">GN</emphasis> Services delivered under an outpatient speech language pathology plan of care <emphasis role="bold">GO</emphasis> Services delivered under an outpatient occupational therapy plan of care</para>
+            <para>
+               <emphasis role="bold">GP</emphasis> Services delivered under an outpatient physical therapy plan of care The following modifiers may be required in addition to either <emphasis role="bold">GO</emphasis> or <emphasis role="bold">GP</emphasis> when a therapy assistant provides a therapy service under a therapist's supervision:</para>
+            <para>
+               <emphasis role="bold">CO</emphasis> Outpatient occupational therapy services furnished in whole or in part by an occupational therapy assistant <emphasis role="bold">CQ</emphasis> Outpatient physical therapy services furnished in whole or in part by a physical therapy assistant</para>
+         </sect4>
+         <sect4 id="ch0015s0005s0002s01s03">
+            <title>Speech Pathology Services (92507, 92521–92523, 92630, 92633)</title>
+            <para>Speech and language evaluation and therapy may be provided for the treatment of disorders of speech, language, voice, communication, and/or auditory processing. These services are often necessary in the care of children with developmental delay, ASD, injury, or congenital anomaly (eg, cleft palate).</para>
+            <para>Common codes for services by speech pathology services include <emphasis role="bold">♦92507</emphasis> Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual</para>
+            <para>
+               <emphasis role="bold">♦92521</emphasis> Evaluation of speech fluency (eg, stuttering, cluttering) <emphasis role="bold">♦92522</emphasis> Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria)</para>
+            <para>
+               <emphasis role="bold">♦92523</emphasis> with evaluation of language comprehension and expression (eg, receptive and expressive language)</para>
+            <para>
+               <emphasis role="bold">92630</emphasis> Auditory rehabilitation; prelingual hearing loss</para>
+            <para>
+               <emphasis role="bold">92633</emphasis> postlingual hearing loss Take the quiz found at the end of this chapter to review and confirm your understanding of some of its takeaways. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <para>This chapter reviewed health care services that might be provided by NQHCPs and independently reported in pediatric practice. Following are some takeaways from this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For the purpose of reporting health care services, differentiation of physicians and QHPs whose scope of practice includes E/M services from NQHCPs whose scope of practice does not include E/M services is a key consideration.</para>
+               </listitem>
+               <listitem>
+                  <para>Nonphysician qualified health care professionals are distinct from clinical staff when regulations and payer policies allow independent reporting of services.</para>
+               </listitem>
+               <listitem>
+                  <para>Assessment and management services are reported with codes other than E/M service codes.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS codes and modifiers may be required for reporting services provided by NQHCPs.</para>
+               </listitem>
+               <listitem>
+                  <para>It is important to understand both scope of practice and payer policies for provision and coding of the NQHCPs services before provision of services.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0005s0003">
+      <title>Resources</title>
+      <sect3 id="ch0015s0005s30012">
+         <title/>
+         <sect4 id="ch0015s0005s0003s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline) <emphasis role="italics">Supporting Breastfeeding and Lactation: The Primary Care Pediatrician's Guide to Coding</emphasis> (https://downloads.aap.org/AAP/PDF/coding <emphasis role="italics">breastfeeding</emphasis> lactation.pdf)</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0005s0004">
+      <title>AAP News™</title>
+      <para>"Is this billable? How to report lactation counseling services in pediatric practice," April 1, 2024 (https://publications.aap.org/aapnews/news/28461)</para>
+      <sect3 id="ch0015s0005s30013">
+         <title/>
+         <sect4 id="ch0015s0005s0004s01s01">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Procedure Codes for Nonphysician Qualified Health Care Professional Services," May 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book253</emphasis> document002)</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is indicated by the term scope of practice?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Procedures, actions, and processes that are permitted for a licensed individual</para>
+                     </listitem>
+                     <listitem>
+                        <para>The advertised services of a practice</para>
+                     </listitem>
+                     <listitem>
+                        <para>Specialty or subspecialty certification</para>
+                     </listitem>
+                     <listitem>
+                        <para>Services for which a health plan allows independent reporting</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which service may be independently provided and reported by an NQHCP when allowed by regulation and payer policy?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Any office evaluation and management visit (eg, 99212–99215)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Online medical assessment (98970–98972)</para>
+                     </listitem>
+                     <listitem>
+                        <para>99211</para>
+                     </listitem>
+                     <listitem>
+                        <para>Immunization administration codes 90460 and 90461</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is reported with online assessment and management (A/M) service codes 98970–98972?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>An online A/M service lasting 3 minutes</para>
+                     </listitem>
+                     <listitem>
+                        <para>An online A/M service provided 3 days after a prior service reported with 98970–98972</para>
+                     </listitem>
+                     <listitem>
+                        <para>An online A/M service to answer questions related to a service provided 5 days ago</para>
+                     </listitem>
+                     <listitem>
+                        <para>The cumulative time of 2 online A/M services provided 3 days apart</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false? There is no CPT code specifically for reporting breastfeeding support and lactation services?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is a requirement of the services reported with code 98960?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Use of a standardized curriculum.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The services are always prescribed and reported by an NQHCP.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The service includes at least 60 minutes of face-to-face service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Code selection is not based on time.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

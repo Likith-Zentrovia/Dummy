@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0018s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0018s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0018s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>14. Emergency Department Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 14. EMERGENCY DEPARTMENT SERVICES</title>
+   <para>Medicare policy requires a minimum of 104 minutes of service to report 99292 in addition to 99291. Coders should be aware of potential adoption of this policy by Medicaid programs and other payers.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Time-based critical care codes (99291 and 99292) should be used to report the provision of critical care when performed in the ED. The daily codes for pediatric or neonatal critical care should not be reported by a physician providing critical care in the ED unless that physician (eg, an intensivist) will continue to provide critical care services in the inpatient setting.</para>
+      </listitem>
+   </itemizedlist>
+   <para>For CPT, time-based services that are continuously provided with time continuing past midnight do not restart at midnight. For example, an episode of critical care lasting from 11:20 pm to 12:15 am is reported with 1 unit of 99291. If the same patient receives another episode of critical care beginning at 2:00 am, the first 30 to 74 minutes of service for that episode is reported with 99291.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Time spent providing critical care does not need to be continuous and includes time at the bedside as well as time in the ED reviewing data specific to the patient, discussing the patient with other physicians, and discussing the patient's management or condition with the patient's family.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Time of any learner (eg, student, resident) involved in the patient's care may not be reported by the attending physician. Only the time specifically spent by the attending physician may be reported.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Time reported for critical care must be devoted to the critically ill or injured patient. Therefore, the "critical care clock" stops when attention is turned to the care of another patient or the physician is not readily available in the ED.</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0018s0005s20002">
+      <title/>
+      <sect3 id="ch0018s0005s30006">
+         <title/>
+         <sect4 id="ch0018s0005s0001s01s01">
+            <title>Medicare Policy for Time-Based Critical Care by Multiple Physicians</title>
+            <para>Medicare provides specific guidance for reporting critical care services provided by physicians and QHPs in the same group practice. Other payers may adopt Medicare policy.</para>
+            <para>Medicare considers physicians and QHPs to be in different specialties. A physician and QHP in the same group providing critical care to the same patient on the same calendar date report the services based on the combined total time of critical care furnished to a patient. The individual who furnishes the substantive portion of the cumulative critical care time reports the critical care service(s). Modifier 25 (split or shared visit) may be required by some payers.</para>
+            <para>When multiple physicians or multiple QHPs in the same specialty and the same group practice furnish critical care services to the same patient on the same date, the physician or QHP who provides the initial episode of critical care time of 30 minutes or more reports 99291. Other physicians or QHPs in the same specialty and same group practice who continue the critical care services will report their time with appropriate units of 99292. However, when the physician or QHP who initially provides critical care spends less than 30 minutes in critical care services before care is assumed by another individual, the combined critical care time may support 99291 and is reported by the individual who spent the greater portion of time providing the critical care service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Refer to Table 17-1 for a list of services and procedures that are included in hourly critical care codes.</para>
+               </listitem>
+               <listitem>
+                  <para>Those procedures not found with codes 99291 and 99292 and personally performed by the reporting provider may be reported separately (eg, starting an intravenous line on a child aged &lt;3 years, placing an intraosseous or central venous catheter, endotracheal intubation, cardiopulmonary resuscitation [CPR], cardioversion). Time spent performing these separately reported services must besubtracted from the critical care time calculated and reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A 13-month-old with apparent sepsis and hypotension is brought to the ED. The child requires placement of an intraosseous needle to achieve vascular access and subsequently receives parenteral fluids, antibiotics, and vasopressors. The child experiences cardiopulmonary arrest, prompting the ED physician to intubate the child and provide CPR. Time spent in separately reported procedures is 20 minutes. The child is in the ED for a total of 45 minutes before transfer to the critical care unit.</para>
+            <para>I46.9 (cardiac arrest) If the physician included sepsis in the diagnosis, A41.9 (sepsis, unspecified organism), R65.21 (severe sepsis with septic shock), and I46.8 (cardiac arrest due to other underlying condition) would be appropriate.</para>
+            <para>
+               <emphasis role="bold">CPT</emphasis>
+            </para>
+            <para>99285 25</para>
+            <para>92950 (CPR)</para>
+            <para>36680 (placement of intraosseous needle)</para>
+            <para>31500 (endotracheal intubation, emergency) Teaching Point: Critical care time does not accrue during the performance of non-bundled, separately billable procedures. Twenty minutes of the 45-minute ED time was spent providing a separately billable, non-bundled service (CPR). Because the ED physician did not spend a minimum of 30 minutes providing critical care, an ED E/M service is reported rather than critical care. Coding is based on documented elements of MDM (high-complexity problem and high risk).</para>
+            <para>
+               <emphasis role="italics">ICD-10-CM codes for severe sepsis (R65.20) and septic shock (R65.21) are reported secondary to the underlying infection (eg, A41.9, sepsis, unspecified organism) and followed by codes for related organ failure (eg, J96.01, acute respiratory failure with hypoxia).</emphasis>
+            </para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0018s0005s0002">
+      <title>Critical Care and ED E/M Services on the Same Date</title>
+      <para>Critical care and ED E/M services may both be reported on the same date when, after completion of the ED service, the condition of the patient changes and critical care services are provided. Modifier 25 should be appended to the ED E/M code when this occurs.</para>
+      <para>
+         <emphasis role="italics">Examples</emphasis> ▶ The ED physician performs a comprehensive history and physical examination on a 13-month-old patient with severe stridor and respiratory distress believed to be secondary to croup. MDM is highly complex. The patient's condition does not improve with nebulized epinephrine and then worsens, asevidenced by progressive lethargy. The patient's capillary blood gas result shows hypercapnia. Critical care is provided for 40 minutes, not including 10 minutes spent performing endotracheal intubation.</para>
+      <para>J96.02 (acute respiratory failure with hypercapnia)</para>
+      <para>J05.0 (croup)</para>
+      <para>
+         <emphasis role="bold">CPT</emphasis>
+      </para>
+      <para>99285 25 (ED visit code)</para>
+      <para>99291 25 (critical care, first 30–74 minutes)</para>
+      <para>31500 (endotracheal intubation, emergency) Teaching Point: Endotracheal intubation is not bundled with critical care; therefore, time spent in the provision of the service (10 minutes for this patient) is not considered in the total critical care time. Modifier 25 is appended to 99285 and 99291 to indicate that they were significant and separately identifiable services from each other and the endotracheal intubation.</para>
+      <para>▶ The ED physician saw a 10-year-old for exacerbation of moderate asthma in the morning. The child responded well to anaerosolized bronchodilator treatment and was discharged home. The child returns to the ED a few hours later with a more severe exacerbation and is seen by the same physician. The child now has respiratory failure with hypoxia. The child receives oxygen, a continuous bronchodilator nebulizer treatment, and, subsequently, a parenteral bronchodilator drug. The child's condition improves enough for them to be admitted to a monitored medical ward bed with diagnosis of respiratory failure caused by status asthmaticus. The ED physician spends a total of 60 minutes inpatient-directed critical care.</para>
+      <para>J96.01 (acute respiratory failure with hypoxia)</para>
+      <para>J45.42 (moderate persistent asthma with status asthmaticus)</para>
+      <para>
+         <emphasis role="bold">CPT</emphasis>
+      </para>
+      <para>99284 25</para>
+      <para>99291 <emphasis role="bold">Teaching Point:</emphasis> The patient received oxygen, continuous inhalation treatment, and parenteral bronchodilator in the ED. But these services include no professional component. The facility will report the services because the costs of supplies and clinical staff time are an expense to the facility.</para>
+   </sect2>
+   <sect2 id="ch0018s0005s0003">
+      <title>Special Service Codes</title>
+      <para>
+         <emphasis role="bold">99053</emphasis> Service(s) provided between 10:00 pm and 8:00 am at 24-hour facility, in addition to basic service <emphasis role="bold">99056</emphasis> Service(s) typically provided in office, provided out of office at request of patient, in addition to basic service</para>
+      <para>
+         <emphasis role="bold">99060</emphasis> Service(s) provided on an emergency basis, out of office, which disrupts other scheduled office services, in addition to basic service Special service codes may be used to report services that are an adjunct to the basic service provided. <emphasis role="italics">CPT</emphasis> guidelines do not restrict the reporting of adjunct special service codes in the ED. But third-party payers have specific policies for coverage and payment. Communicate with individual payers to understand their definition or interpretation of the service and coverage and payment policies.</para>
+      <para>These codes are intended to describe services that are provided outside the normal time frame and location. Code <emphasis role="bold">99053</emphasis> will be reported when services are provided between the designated time limits in an ED.</para>
+      <para>Although <emphasis role="italics">CPT</emphasis> does not restrict reporting of any procedure or service to any specific specialty, codes <emphasis role="bold">99056</emphasis> or <emphasis role="bold">99060</emphasis> are intended for services outside of the ED.</para>
+      <para>If appropriate, a non-ED physician could report <emphasis role="italics">CPT</emphasis> code <emphasis role="bold">99056</emphasis> or <emphasis role="bold">99060</emphasis> when they provide services in the ED in addition to an outpatient office or clinic visit, ED visit, or consultation E/M code.</para>
+   </sect2>
+   <sect2 id="ch0018s0005s0004">
+      <title>Continuum Model for Fever</title>
+      <para>The continuum model is a teaching tool that gives examples of how common conditions in the ED might be reported according to the severity and/or complexity of the presenting problem(s). The following "Continuum Model for Fever in the Emergency Department" presents fever as the presenting concern across the continuum of codes <emphasis role="bold">99282–99285</emphasis> plus critical care.</para>
+      <table frame="all" id="ch0018s0005ta0001">
+         <title>Continuum Model for Fever</title>
+         <tgroup cols="4">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <thead>
+               <row>
+                  <entry nameend="c4" namest="c1">Continuum Model for Fever in the Emergency DepartmentA clinically appropriate history and examination are required for each level of service</entry>
+               </row>
+               <row>
+                  <entry>CPT Code Vignette</entry>
+                  <entry>No. and Complexity of Problem(s) Addressed</entry>
+                  <entry>Data to be Reviewed and Analyzed</entry>
+                  <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>992824-year-old with temperature of 37.7°C (99.8°F), fussy before ED admission</entry>
+                  <entry>Minimal: 1 self-limited problem</entry>
+                  <entry>Limited: Required history obtained from independent historian</entry>
+                  <entry>Minimal: Advice for home care</entry>
+               </row>
+               <row>
+                  <entry>992835-year-old with temperature of 38.3°C (101.0°F) last night and URI symptoms</entry>
+                  <entry>Low: Acute, uncomplicated illness</entry>
+                  <entry>Limited: Required history obtained from independent historian</entry>
+                  <entry>Low: Over-the-counter ibuprofen/acetaminophen as needed</entry>
+               </row>
+               <row>
+                  <entry>992838-year-old with temperature of 38.3°C (101.0°F), cough, and sore throat</entry>
+                  <entry>Low: Acute, uncomplicated illness considered and ruled out after evaluation</entry>
+                  <entry>Limited: 1 unique test ordered (87636, influenza and SARS-CoV-2 test); required history obtained from independent historian</entry>
+                  <entry>Low: Advice for home care and isolation</entry>
+               </row>
+               <row>
+                  <entry>992845-year-old girl with temperature of 39.0°C (102.2°F) and abdominal pain disturbing sleep</entry>
+                  <entry>Moderate: Acute illness with systemic symptoms</entry>
+                  <entry>Moderate: CBC, urinalysis and urine culture; required history obtained from independent historian</entry>
+                  <entry>Moderate: Antibiotic prescribed</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sect3 id="ch0018s0005s30007">
+         <title/>
+         <sect4 id="ch0018s0005s0004s01s01">
+            <title>Continuum Model for Fever in the Emergency Department (continued)</title>
+            <table frame="all" id="ch0018s0005ta0002">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>CPT Code Vignette</entry>
+                        <entry>No. and Complexity of Problem(s) Addressed</entry>
+                        <entry>Data to be Reviewed and Analyzed</entry>
+                        <entry>Risk of Complications and/or Morbidity or Mortality of Patient Management</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>99285Neonate presenting with fever, not feeding well, and having ill appearance</entry>
+                        <entry>High: Differential diagnosis that includes neonatal sepsis</entry>
+                        <entry>Moderate: CBC, comprehensive metabolic panel, blood culture, urine culture, lumbar puncture; required history obtained from independent historian</entry>
+                        <entry>High: Decision regarding admission to inpatient care</entry>
+                     </row>
+                     <row>
+                        <entry>99291, 99292Neonate with fever and gray appearance</entry>
+                        <entry nameend="c4" namest="c2">1. Patient in critically ill, unstable condition; requires &gt;30 minutes of directed patient care.2. Physician assesses, manipulates, and supports vital system function(s) to treat single or multiple vital organ system failure and/or to prevent further life-threatening deterioration of the patient's condition.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Although the actual assignment of a code for an individual patient may vary from the examples, members of the AAP Committee on Coding and Nomenclature generally agree that these examples provide an accurate representation of how 1 condition typically flows across the family of codes. Examples are not provided for <emphasis role="bold">99281</emphasis> (typically reported for an encounter with clinical staff such as simple suture removal) because no MDM is required for services reported with this code.</para>
+            <para>Additional continuums for 3 common conditions—asthma, head injury, and laceration—are included at www.aap.org/cfp2026.</para>
+            <para>It is important to remember that 2 of 3 elements of MDM (ie, number and complexity of problems addressed, amount and/or complexity of data to be reviewed and analyzed, and risk of complications and/or morbidity or mortality of patient management) must bemet to support the code selected.</para>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The physician's designation of the chief complaint is important because only 1 diagnosis code may be reported for this category on the hospital claim form and this diagnosis is used to help support the urgency of the ED visit under prudent layperson guidelines.</para>
+               </listitem>
+               <listitem>
+                  <para>SDoH that influence a patient's health and/or limit the management and treatment options should be documented to support assignment of codes for the SDoH. When applicable, the limitations to diagnosis or treatment should be documented to support an increased risk of patient management.</para>
+               </listitem>
+               <listitem>
+                  <para>The level of ED codes <emphasis role="bold">99282–99285</emphasis> is based on the highest 2 of 3 elements of MDM. Time is not used in selection of <emphasis role="bold">99282–99285</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>When a physician and NP in the same specialty and same group practice each participate in the E/M service provided to a patient, the split/shared service is reported by the individual who provided the substantial portion of the MDM for the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Append modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) to the ED service code (<emphasis role="bold">99282–99285</emphasis>) when the treating ED physician or QHP provides initial hospital inpatient or observation services on the same date as an ED service.</para>
+               </listitem>
+               <listitem>
+                  <para>When initial hospital inpatient or observation service is reported for combined ED and hospital care services by the same individual on the same date, in lieu of separately reporting each service (eg, to comply with payer policy), code selection is based on either the total time on the date of the encounter or the aggregate MDM.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier <emphasis role="bold">54</emphasis> (surgical care only) is appropriately appended to procedure codes with 10- or 90-day global periods when the patient will not return to the ED for follow-up care (eg, visits for follow-up care of a fracture).</para>
+               </listitem>
+               <listitem>
+                  <para>Documentation of critical care services must support that the patient's condition was critical and the services provided involved high-complexity decision-making to assess, manipulate, and support vital system function(s) to treat single or multiple vital organ system failure and/or to prevent further life-threatening deterioration of the patient's condition.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
