@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0001</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Coding Edits and Modifiers</title>
+   
+   <itemizedlist>
+      <listitem>
+         <para>National Correct Coding Initiative (NCCI) edits commonly used by payers in the claim processing system for physician services</para>
+      </listitem>
+      <listitem>
+         <para>The 3 types of code edits commonly used by payers to prevent errors in claims payment</para>
+      </listitem>
+      <listitem>
+         <para>When modifiers do or do not affect application of code edits</para>
+      </listitem>
+      <listitem>
+         <para>Appropriate use of modifiers, including those from <emphasis role="italics">Current Procedural Terminology</emphasis> (CPT) and the Healthcare Common Procedure Coding System (HCPCS)</para>
+      </listitem>
+      <listitem>
+         <para>Distinguishing <emphasis role="italics">CPT</emphasis> modifiers that are used exclusively with evaluation and management (E/M) services or reported only with surgical or other procedures (eg, medical, laboratory, or radiological testing).</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0004s0002s0001">
+      <title>Coding Edits</title>
+      <para>Coding edits and modifiers are important tools for getting paid correctly. Coding edits are used by most payers in electronic claims adjudication to determine which reported services are payable when multiple services are provided on the same date by the same physician, qualified health care professional (QHP), or multiple individuals practicing in the exact same specialty and same group practice. Edits also determine what number of units are allowed based on common utilization (eg, typical medication doses) and payment policies.</para>
+      <para>Modifiers are used to communicate information to payer systems about the service described by a procedure code. Modifiers indicate either a change in the way a service was provided or additional information, such as laterality of a body site or certain circumstances (eg, a significant problem was addressed at an encounter for a routine child health examination). Correct modifier use can prevent inaccurate denials due to coding edits.</para>
+      <sect3 id="ch0004s0002s30001">
+         <title/>
+         <sect4 id="ch0004s0002s0001s01s01">
+            <title>National Correct Coding Initiative Edits</title>
+            <para>NCCI edits were initially developed for use by the Centers for Medicare &amp; Medicaid Services (CMS) inadjudicating Medicare claims. All Medicaid programs use a Medicaid-specific version of the NCCI edits. The NCCI edits may form the basis for proprietary claim editors used by private payers.</para>
+            <para>NCCI edits</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Have been developed based on <emphasis role="italics">CPT</emphasis> code descriptors and instructions, coding guidelines developed by national medical societies (eg, American Academy of Pediatrics [AAP]), Medicare billing history, local and national Medicare carrier policies and edits, and analysis of standard medical and surgical practice</para>
+               </listitem>
+               <listitem>
+                  <para>Are commonly used in claim processing systems for physician services and promote correct coding through publication of the edits and manuals that provide rationales for certain edits</para>
+               </listitem>
+               <listitem>
+                  <para>Include 3 types of edits: procedure-to-procedure edits, add-on code (AOC) edits (not included in the Medicaid NCCI), and Medically Unlikely Edits (MUEs)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s02">
+            <title>Procedure-to-Procedure Edits</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Identify code pairs that typically cannot be billed by the same physician or physicians of the same group practice and same specialty (<emphasis role="italics">provider</emphasis> is used in NCCI manuals) for the same patient on the same date of service (DOS).</para>
+               </listitem>
+               <listitem>
+                  <para>Include edits based on services that are mutually exclusive in code descriptor or anatomy, services considered to be inherent to each other, and edits based on coding instructions.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If 2 codes of an edit are billed by the same provider for the same patient for the same DOS without an appropriate modifier, only the column 1 code is paid.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>If clinical circumstances justify appending the appropriate modifier to <emphasis role="italics">the column 2 code</emphasis>, payment of both codes may be allowed. (The Medicaid NCCI will allow payment when an NCCI modifier can override the edit and is appended to either code in a code pair, provided that the modifier is appropriately reported in conjunction with either code.) The CMS allows physicians to append modifiers 59, XE, XP, XS, and XU to the column 1 or column 2 code when reporting 2 codes paired by NCCI edits. Other payers may adopt this policy or require that the modifier be appended to the code in column 2 of the NCCI edit file.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Modifier indicators are assigned to every code pair identified in the NCCI. They dictate whether modifiers are needed or will be accepted to override the edit. These indicators are 0    Under no circumstance may a modifier be used to override the edit.</para>
+            <para>1    An appropriate modifier may be used to override the edit.</para>
+            <para>9    This edit was deleted.</para>
+            <para>Refer to <emphasis role="bold">Table 2-1</emphasis> for examples.</para>
+            <table frame="all" id="ch0004s0002ta0001">
+               <title>Procedure-to-Procedure Edits</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Column 1 Comprehensive Code</entry>
+                        <entry>Column 2 Component Code</entry>
+                        <entry>Modifier Indicator</entry>
+                        <entry>Effective Date</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry nameend="c4" namest="c1">Edits apply to services provided on the same date by one physician or QHP or multiple individuals of the same specialty and same group practice.</entry>
+                     </row>
+                     <row>
+                        <entry>99221–99223 Initial hospital care E/M, perday</entry>
+                        <entry>99460 Initial hospital or birthing center care, perday, for E/M of normal newborn</entry>
+                        <entry>0</entry>
+                        <entry>10/1/2020</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">NCCI edits preclude any payment for the column 2 code because each code represents all hospital care on a single DOS.</entry>
+                     </row>
+                     <row>
+                        <entry>96110 Developmental screening, with scoring and documentation, per standardized instrument</entry>
+                        <entry>96160 Administration of patient-focused health risk assessment instrument with scoring and documentation, per standardized instrument</entry>
+                        <entry>1</entry>
+                        <entry>10/1/2020</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">The component code (&lt;emphasis role="bold"&gt;96160&lt;/emphasis&gt;) would be denied by payers using Medicaid edits unless a modifier indicating a distinct procedural service (eg, 59) were appended (eg,&lt;emphasis role="bold"&gt;96160 59&lt;/emphasis&gt;). The opposite is true when a payer uses Medicare edits (ie, &lt;emphasis role="bold"&gt;96160&lt;/emphasis&gt; is in column 1 and &lt;emphasis role="bold"&gt;96110&lt;/emphasis&gt; is in column 2 and &lt;emphasis role="bold"&gt;96110&lt;/emphasis&gt; should be appended with modifier 59, when appropriate).</entry>
+                     </row>
+                     <row>
+                        <entry>99291 Critical care, E/M of the critically ill or critically injured patient; first 30-74 minutes</entry>
+                        <entry>99281–99285 Emergency department visit E/M</entry>
+                        <entry>1</entry>
+                        <entry>10/1/2020</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">NCCI edits preclude payment for the column 2 component (eg, &lt;emphasis role="bold"&gt;99285&lt;/emphasis&gt;) except when a modifier is appropriately used to override the edit. When a physician provides emergency department E/M service prior to the patient requiring critical care on the same date, and appends modifier 25 to the component code (eg, &lt;emphasis role="bold"&gt;99285 25&lt;/emphasis&gt;, indicating that the services were separate and distinctly documented), both services may be reported.</entry>
+                     </row>
+                     <row>
+                        <entry>90460 IA through 18 years of age via any route of administration, with counseling by physician or other QHP; first or only component of each vaccine or toxoid administered</entry>
+                        <entry>99381–99384 or 99391–99394 Preventive E/M services</entry>
+                        <entry>1</entry>
+                        <entry>01/1/2013</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">The component code (eg, &lt;emphasis role="bold"&gt;99391&lt;/emphasis&gt;) would be denied if modifier 25 were not appended to it. To report modifier 25, E/M services must include significant and separate MDM or time beyond that included in the preservice and postservice work of a procedure performed at the same encounter. Be aware that the higher-valued service may be the component code and would be denied without the application of the correct modifier.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s03">
+            <title>Appropriate NCCI Modifiers</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Only certain modifiers can be used to override edits when the service or procedure is clinically justified, and they may be used only on the code pairs that are assigned the 1 indicator. Refer to <emphasis role="bold">Box 2-1</emphasis> for a list of modifiers that override NCCI edits.</para>
+               </listitem>
+               <listitem>
+                  <para>The appropriate modifier is typically appended to the code that appears in column 2 because that is considered the bundled or exclusive procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>To append the appropriate modifier and override an edit, it is imperative that the conditions of that modifier are met (eg, XE, separate encounter [different session]).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s04">
+            <title>Box 2-1. Modifiers That Can Be Used to Override National Correct Coding Initiative Edits</title>
+            <para>
+               <emphasis role="bold">24</emphasis> Unrelated E/M service by the same physician or other QHP during a postoperative period <emphasis role="bold">25</emphasis> Significant, separately identifiable E/M service by the same physician or other QHP on the same day of the procedure or other service</para>
+            <para>
+               <emphasis role="bold">57</emphasis> Decision for surgery <emphasis role="bold">58</emphasis> Staged or related procedure or service by the same physician or other QHP during the postoperative period</para>
+            <para>
+               <emphasis role="bold">59</emphasis> Distinct procedural service <emphasis role="bold">78</emphasis> Unplanned return to the OR by the same physician or other QHP following initial procedure for a related procedure during the postoperative period</para>
+            <para>
+               <emphasis role="bold">79</emphasis> Unrelated procedure/service by the same physician or other QHP during the postoperative period</para>
+            <para>
+               <emphasis role="bold">91</emphasis> Repeat clinical diagnostic laboratory test</para>
+            <para>
+               <emphasis role="bold">E1</emphasis> Upper left, eyelid</para>
+            <para>
+               <emphasis role="bold">E2</emphasis> Lower left, eyelid</para>
+            <para>
+               <emphasis role="bold">E3</emphasis> Upper right, eyelid</para>
+            <para>
+               <emphasis role="bold">E4</emphasis> Lower right, eyelid</para>
+            <para>
+               <emphasis role="bold">FA</emphasis> Left hand, thumb</para>
+            <para>
+               <emphasis role="bold">F1</emphasis> Left hand, second digit</para>
+            <para>
+               <emphasis role="bold">F2</emphasis> Left hand, third digit</para>
+            <para>
+               <emphasis role="bold">F3</emphasis> Left hand, fourth digit</para>
+            <para>
+               <emphasis role="bold">F4</emphasis> Left hand, fifth digit</para>
+            <para>
+               <emphasis role="bold">F5</emphasis> Right hand, thumb</para>
+            <para>
+               <emphasis role="bold">F6</emphasis> Right hand, second digit</para>
+            <para>
+               <emphasis role="bold">F7</emphasis> Right hand, third digit</para>
+            <para>
+               <emphasis role="bold">F8</emphasis> Right hand, fourth digit</para>
+            <para>
+               <emphasis role="bold">F9</emphasis> Right hand, fifth digit</para>
+            <para>
+               <emphasis role="bold">LC</emphasis> Left circumflex coronary artery</para>
+            <para>
+               <emphasis role="bold">LD</emphasis> Left anterior descending coronary artery</para>
+            <para>
+               <emphasis role="bold">LM</emphasis> Left main coronary artery</para>
+            <para>
+               <emphasis role="bold">LT</emphasis> Left side</para>
+            <para>
+               <emphasis role="bold">RC</emphasis> Right coronary artery</para>
+            <para>
+               <emphasis role="bold">RI</emphasis> Ramus intermedius coronary artery</para>
+            <para>
+               <emphasis role="bold">RT</emphasis> Right side</para>
+            <para>
+               <emphasis role="bold">TA</emphasis> Left foot, great toe</para>
+            <para>
+               <emphasis role="bold">T1</emphasis> Left foot, second digit</para>
+            <para>
+               <emphasis role="bold">T2</emphasis> Left foot, third digit</para>
+            <para>
+               <emphasis role="bold">T3</emphasis> Left foot, fourth digit</para>
+            <para>
+               <emphasis role="bold">T4</emphasis> Left foot, fifth digit</para>
+            <para>
+               <emphasis role="bold">T5</emphasis> Right foot, great toe</para>
+            <para>
+               <emphasis role="bold">T6</emphasis> Right foot, second digit</para>
+            <para>
+               <emphasis role="bold">T7</emphasis> Right foot, third digit</para>
+            <para>
+               <emphasis role="bold">T8</emphasis> Right foot, fourth digit</para>
+            <para>
+               <emphasis role="bold">T9</emphasis> Right foot, fifth digit</para>
+            <para>
+               <emphasis role="bold">XE</emphasis> Separate encounter (different session)</para>
+            <para>
+               <emphasis role="bold">XP</emphasis> Separate practitioner</para>
+            <para>
+               <emphasis role="bold">XS</emphasis> Separate structure (site/organ)</para>
+            <para>
+               <emphasis role="bold">XU</emphasis> Unusual nonoverlapping service <emphasis role="italics">Abbreviations: E/M, evaluation and management; OR, operating procedure room; QHP, qualified health care professional.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s05">
+            <title>Add-On Code Edits</title>
+            <para>AOC edits have been created by the Medicare program but are not part of the Medicaid NCCI. Individual payers vary in their use of AOC edits.</para>
+            <para>
+               <emphasis role="italics">CPT</emphasis> includes AOCs (indicated by a plus sign [+] preceding the code) that are reported in addition to a primary procedure code. Claim processing systems may apply AOC edits to limit the combination of AOCs and primary codes that are payable. The AOC is eligible for payment if an acceptable primary procedure code, as determined by the payer, is also eligible for payment to the same physician or QHP for the same patient on the same DOS.</para>
+            <para>Medicare NCCI includes 3 types of AOC edits.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Type 1 AOC does not have a specific list of identifiable primary procedure codes.</para>
+               </listitem>
+               <listitem>
+                  <para>Type 2 AOC does not have a specific list of primary procedure codes. Payers develop their own lists of primary procedure codes for this type of AOC.</para>
+               </listitem>
+               <listitem>
+                  <para>Type 3 AOC has some, but not all, specific primary procedure codes identified in <emphasis role="italics">CPT</emphasis>.</para>
+               </listitem>
+            </orderedlist>
+            <para>Some codes included in the Medicare AOCs are not designated as AOCs in <emphasis role="italics">CPT</emphasis>. For example, health risk assessment codes <emphasis role="bold">96160–96161</emphasis> are not AOCs but are included in the Medicare AOCs based on assignment of a global period indicator of ZZZ (service related to another service and always included in the global period of the other service). Payers adopting the AOC edits for <emphasis role="bold">96160–96161</emphasis> will not pay for the service in the absence of a related E/M service on the same date.</para>
+            <para>Payers may publish AOC edit policies and code lists online or in a private payer portal.</para>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s06">
+            <title>Example</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Code 90472</emphasis> (immunization administration [IA] by injection, each additional vaccine/toxoid product) is included as a type 1 AOC and has the following identifiable primary procedure codes (excluding 2 HCPCS codes unique to IA benefits under Medicare policy):</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">90460</emphasis> IA through 18 years of age via any route of administration, with counseling by physician or other QHP; first or only component of each vaccine or toxoid administered <emphasis role="bold">90471</emphasis> IA (includes percutaneous, intradermal, subcutaneous, or intramuscular [IM] injections); 1 vaccine (single or combination vaccine/toxoid)</para>
+            <para>
+               <emphasis role="bold">90473</emphasis> IA by intranasal or oral route; 1 vaccine (single or combination vaccine/toxoid) <emphasis role="bold">Teaching Point:</emphasis> Code 90472 would be denied if submitted on a claim with just 90461 (IA through 18 years of age via any route of administration, with counseling by physician or other QHP; each additional immunization or toxoid component administered [List separately in addition to code for primary procedure]) and not one of the primary codes listed previously. Payment would also be denied for 90461 when primary code 90460 is not included on the same claim.</para>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s07">
+            <title>Medically Unlikely Edits</title>
+            <para>The <emphasis role="italics">National Correct Coding Initiative Policy Manual for Medicaid Services</emphasis> describes MUEs as unit of service edits that were established by the CMS to prevent payment for an inappropriate number or quantity of the same service (eg, unintentional reporting of 100 rather than 10 units). An MUE for a HCPCS or <emphasis role="italics">CPT</emphasis> code is the maximum number of units of service, under most circumstances, allowable by the same provider for the same beneficiary on the same DOS.</para>
+            <para>Medicaid MUEs</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are applied separately to each line of a claim. If the unit of service on a line exceeds the MUE value, the entire line is denied.</para>
+               </listitem>
+               <listitem>
+                  <para>Are coding edits rather than medical necessity edits.</para>
+               </listitem>
+               <listitem>
+                  <para>May be established based on claims data.</para>
+               </listitem>
+               <listitem>
+                  <para>May limit the number of units of service based on anatomical structures.</para>
+               </listitem>
+               <listitem>
+                  <para>May limit the number of units of service based on <emphasis role="italics">CPT</emphasis> code descriptors or <emphasis role="italics">CPT</emphasis> coding instructions.</para>
+               </listitem>
+               <listitem>
+                  <para>Are published on the CMS Medicaid NCCI website at www.cms.gov/medicare/coding-billing/ncci-medicaid.</para>
+               </listitem>
+               <listitem>
+                  <para>Are published with an <emphasis role="italics">edit rationale</emphasis> for each HCPCS and <emphasis role="italics">CPT</emphasis> code.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The MUE value assigned to 96116 (neurobehavioral status exam, per hour) is 8 according to CMS NCCI policy. (No further explanation of this rationale is provided in the current Medicaid or Medicare NCCI manuals but may be based on historical claims data.) — The MUE value assigned to 96127 (brief emotional/behavior assessment, per instrument) is 3 given the nature of the service or procedure, typically determined by the amount of time required to perform a procedure/service or clinical application of a procedure/service.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Are applied separately to each claim line for a service when modifiers (eg, 59, 76, 77, anatomical) cause the same HCPCS or <emphasis role="italics">CPT</emphasis> code to appear on separate lines of a claim.</para>
+               </listitem>
+            </itemizedlist>
+            <para>It is important to recognize that using modifiers to override the MUE must be justified through correct selection of the procedure code, correct application of the number of units reported, medical necessity and reasonableness of the number of services, and, if applicable, reason the physician's practice pattern differs from national patterns.</para>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s08">
+            <title>Keeping Current With the NCCI</title>
+            <para>Medicaid and Medicare NCCI edits are updated quarterly. Each Medicare NCCI version ends with .0 (point zero), .1, .2, or .3 indicating its effective dates.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Versions ending in .0 (point zero) are effective from January 1 through March 31 of that year.</para>
+               </listitem>
+               <listitem>
+                  <para>Versions ending in .1 are effective from April 1 through June 30 of that year.</para>
+               </listitem>
+               <listitem>
+                  <para>Versions ending in .2 are effective from July 1 through September 30 of that year.</para>
+               </listitem>
+               <listitem>
+                  <para>Versions ending in .3 are effective from October 1 through December 31 of that year.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The CMS releases Medicare NCCI edits free of charge on its website (www.cms.gov/medicare/coding-billing/ncci-medicare). Medicaid NCCI files are published separately free of charge at www.cms.gov/medicare/coding-billing/ncci-medicaid/medicaid-ncci-edits.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Many Medicaid edits mirror Medicare edits, but that is not always the case. The CMS has instructed that use of the appropriate NCCI file is important for correct coding.</para>
+               </listitem>
+               <listitem>
+                  <para>Online NCCI edits are posted in a spreadsheet form that can besorted by procedure code and effective date.</para>
+               </listitem>
+               <listitem>
+                  <para>There is a "Find" tool that allows users to look for a specific code. The edit files are indexed by procedure code ranges for simplified navigation.</para>
+               </listitem>
+               <listitem>
+                  <para>Policy manuals explaining the rationale for edits and correct use of NCCI-associated modifiers are published to the web pages listed previously.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Updated manuals for the year ahead are published annually in late fall.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Changes in the manual are shown inred font for easy identification.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Be sure to update your NCCI edit files quarterly and review changes to the NCCI manual each year.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Practice management and electronic health record software may also contain tools for identifying codes affected by NCCI edits.</para>
+            <para>Private payers may also publish code edits or provide online tools for determining if 2 or more codes are affected by the payers' code edits.</para>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s09">
+            <title>Reviewing and Using These Edits</title>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Be aware of all coding edits that apply to your specialty. It is important to review them quarterly because each update replaces the former edits. Always look for new or deleted edits. Updated files can be found at www.cms.gov/medicare/coding/billing/ncci-medicare.</para>
+               </listitem>
+               <listitem>
+                  <para>Pay close attention to the modifier indicator because it may have changed from the last quarterly update. For example, a code set that would not initially override with a modifier may now subsequently allow one, or vice versa.</para>
+               </listitem>
+               <listitem>
+                  <para>Pay attention to the effective and deletion dates of each code set. The edits apply only if they are effective. The effective date is based on the DOS, not the date the claim was submitted. Sometimes an edit is retroactively terminated. If so, you may resubmit claims for payment if the DOS is within the payer's filing time frame.</para>
+               </listitem>
+               <listitem>
+                  <para>Use modifiers as appropriate.</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Modifiers should be used only when applicable according to coding standards, when medically justified or necessary, and when supported by medical record documentation (progress notes, procedure notes, diagrams, or pictures) or, as previously mentioned, when dictated by payers.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Refer to the CMS written guidelines (which are explicit about billing surgical procedures) or to your payer's provider manual.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>When billing surgical procedures, you may need to look at several different codes for possible edits. Be sure to always use the code that is reflective of the total service performed. When no existing code accurately describes the procedure as performed, report an unlisted procedure code and attach documentation of the procedure to the claim when submitted for payment.</para>
+               </listitem>
+               <listitem>
+                  <para>Appeal denied payment for services for which there is no edit and the policy manual and/or payment policies do not preclude reporting, for which a reported modifier should have allowed payment, and/or for which the edit is inconsistent with <emphasis role="italics">CPT</emphasis> guidelines. Knowing how this system works benefits you when appealing the denial.</para>
+               </listitem>
+            </orderedlist>
+            <para>Refer to the Filing Appeals section in <emphasis role="bold">Chapter 4</emphasis> for information on appealing a denied payment.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Some payers have developed or adopted coding edit programs that differ from (and are often more comprehensive than) the NCCI.</para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>If a payer policy differs from the CMS NCCI policy and is not clearly defined inits provider manual, refer to the payer's website.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Make sure you get policies in writing for the services you commonly perform. Your contracts with health plans should beexplicit regarding how you will receive initial and updated policies.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>Report the services provided correctly according to <emphasis role="italics">CPT</emphasis> code guidelines unless a payer has clearly stated otherwise.</para>
+               </listitem>
+            </orderedlist>
+         </sect4>
+         <sect4 id="ch0004s0002s0001s01s10">
+            <title>Practice Policies and NCCI Edits</title>
+            <para>Physicians should not inconvenience patients or increase patient risk by performing services on different dates of service to avoid MUE or NCCI procedure-to-procedure edits.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This instruction comes from the Medicaid NCCI manual and prohibits practice policies that focus on achieving maximum payment.</para>
+               </listitem>
+               <listitem>
+                  <para>Delaying patient care to avoid code edits could be seen as an abusive billing practice. Policies or practices that might be perceived in this way should beavoided.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0004s0002s0002">
+      <title>Modifiers</title>
+      <para>
+         <emphasis role="italics">CPT</emphasis> defines a modifier as an indicator that a service or procedure has been altered by some specific circumstance but not changed inits basic code definition. Modifiers are also used to show compliance with payment policy. Medical record documentation must always support using the modifier.</para>
+      <para>
+         <emphasis role="italics">CPT</emphasis> and HCPCS modifiers are used with <emphasis role="italics">CPT</emphasis> or HCPCS codes. Most state Medicaid programs and many commercial payers recognize HCPCS modifiers and <emphasis role="italics">CPT</emphasis> modifiers.</para>
+      <para>When are modifiers needed? A modifier or combination of modifiers is appended to a procedure code when it is necessary to add context of how or when the service was provided. Context often affects payment, such as when a bilateral procedure is reported with a code that is not described as unilateral or bilateral. By appending modifier 50 (bilateral procedure), the claim for services provides context allowing claims adjudication systems to process payment at a higher rate, typically 150% of the allowable amount for the unilateral service. Examples of information provided by modifiers include</para>
+      <itemizedlist>
+         <listitem>
+            <para>A service provided on the same date or within the global period of a previous service is unrelated, more extensive, performed on a different body area, or performed at separate encounters.</para>
+         </listitem>
+         <listitem>
+            <para>A face-to-face service, not specifically described as a telemedicine service, was provided via telemedicine using realtime, interactive communication technology.</para>
+         </listitem>
+         <listitem>
+            <para>The same service was repeated on the same date.</para>
+         </listitem>
+         <listitem>
+            <para>An E/M service that might otherwise be considered part of another service is significantly beyond the typical preservice and/or postservice components of the other service.</para>
+         </listitem>
+         <listitem>
+            <para>The units of services provided were medically necessary but exceed the payer's unit of service edits.</para>
+         </listitem>
+         <listitem>
+            <para>A service that may be provided for either diagnostic or preventive purposes was provided for preventive purposes.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Payers use coding edits (eg, paired codes and/or unit of service limitations) to aid in automated claims adjudication. Modifiers play an important role in this process.</para>
+      <itemizedlist>
+         <listitem>
+            <para>When a modifier is appropriately applied to 1 code in a pair of codes reported by a physician on 1 DOS or to a code for services that exceed the units of service typically allowed by payer edits, the payer may allow charges that would otherwise be denied as bundled or noncovered.</para>
+         </listitem>
+      </itemizedlist>
+      <para>The Health Insurance Portability and Accountability Act of 1996 requires recognition of all CPT and HCPCS modifiers, but payers may have their own payment and billing policies for the use of modifiers that can vary from CPT guidelines.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Know and understand individual payer policies. Doing so is important in capturing all payments allowed under your contract.</para>
+         </listitem>
+         <listitem>
+            <para>If payment is denied inappropriately because of nonrecognition or the incorrect application of a modifier, you should appeal the denied services.</para>
+         </listitem>
+         <listitem>
+            <para>For additional assistance, contact the AAP Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline).</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0004s0002s30002">
+         <title/>
+         <sect4 id="ch0004s0002s0002s01s01">
+            <title>Current Procedural Terminology Modifiers</title>
+            <para>Some CPT modifiers are used exclusively with E/M services, and others are reported only with surgical or other procedures (eg, medical, laboratory, or radiological testing). Refer to <emphasis role="bold">Table 2-2</emphasis> to review modifiers used with E/M service codes and those used only for other services. Multiple modifiers can be appended to a single CPT or HCPCS code.</para>
+            <table frame="all" id="ch0004s0002ta0002">
+               <title>Current Procedural Terminology Modifiers</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Modifier</entry>
+                        <entry>E/M Services</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>24, 25, 57</entry>
+                        <entry>E/M-only modifiers</entry>
+                     </row>
+                     <row>
+                        <entry>22, 26, 47, 50, 51, 52, 53, 54, 55, 56, 58, 59, 62, 63, 66, 76, 77, 78, 79, 80, 81, 82, 91, 92</entry>
+                        <entry>Procedure-only modifiers (Do not append to E/M services.)</entry>
+                     </row>
+                     <row>
+                        <entry>32, 33, 93, 95, 96, 97, 99</entry>
+                        <entry>Either E/M or procedures</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>Refer to Appendix T of the AMA CPT manual for codes reportable with modifier 93 and to CPT Appendix P for codes reportable with modifier 95.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0004s0002s0003">
+      <title>Modifiers Appended Only to E/M Codes</title>
+      <para>
+         <emphasis role="bold">24—Unrelated E/M Service by the Same Physician or Other QHP During a Postoperative Period</emphasis> The global period (preoperative, intraoperative, and postoperative periods) for surgical procedures is assigned by the CMS, private payers, or Medicaid and not by the American Medical Association or CPT. For more information on global surgery guidelines, refer to <emphasis role="bold">Chapters 13</emphasis> and <emphasis role="bold">18</emphasis>.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Modifier 24 is appended to an E/M code when the physician or other QHP who performed a procedure provides an unrelated E/M service during the postoperative period.</para>
+         </listitem>
+         <listitem>
+            <para>The CMS has its own system for defining global periods, and many payers will follow those guidelines or assign a specific number of follow-up days for surgical procedures.</para>
+         </listitem>
+         <listitem>
+            <para>Link the appropriate <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) code to the E/M visit to support that the service was unrelated to the surgical procedure. Do not report the surgical diagnosis code if it was not the reason for the encounter; however, a different diagnosis is not required, as further treatment of the underlying condition for which surgery was performed is not part of the postoperative work of the procedure and may be separately reported.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Example—Modifier 24</emphasis> ▶ A physician sees a 10-year-old established patient for follow-up of stable mild persistent asthma and performs a level 3 established patient office or other outpatient E/M service. The visit occurs within the 90-day global period assigned by the payer to the repair of a distal radial fracture (closed treatment of a distal radial fracture) for which the same physician is providing care. Modifier 24 is appended to the E/M code to indicate that the service is unrelated to care of the fracture.</para>
+      <table frame="all" id="ch0004s0002ta0003">
+         <title>Modifiers Appended Only to E/M Codes</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>J45.30 (mild persistent asthma, uncomplicated)</entry>
+                  <entry>99213 24 (established office/outpatient E/M)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sect3 id="ch0004s0002s30003">
+         <title/>
+         <sect4 id="ch0004s0002s0003s01s01">
+            <title>25—Significant, Separately Identifiable E/M Service by the Same Physician or Other QHP on the Same Day of the Procedure or Other Service</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 25 is appended only to an E/M service and only when <emphasis role="italics">all the following circumstances are true:</emphasis>
+                  </para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>A separate service identified by a separate procedure code is performed by the same physician or other QHP, or by a physician or other QHP of the same specialty and group.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The patient's condition requires a significant E/M service (99202–99499) above and beyond the other service provided or beyond the usual preoperative and postoperative care associated with the procedure that was performed.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The service is separately identifiable in the documentation of the encounter(s).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Different diagnoses are not required for reporting the E/M service on the same date.</para>
+               </listitem>
+               <listitem>
+                  <para>The performed and documented E/M components must support the level of service reported and be separately identifiable from the procedure or other service documentation, whether documented inone combined note or separate notes.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT procedure codes include evaluative elements routinely performed before the procedure</emphasis> and the routine postoperative care. An assessment of the problem with an explanation of the procedure to be performed is considered inherent to the procedure and should not be reported separately with an E/M service code.</para>
+               </listitem>
+               <listitem>
+                  <para>When appropriate, modifier 25 may be reported on more than one E/M service for a single encounter. An example follows this list.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">DO NOT USE MODIFIER 25 WHEN</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>✱ The medical record does not support both services.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ A problem encountered during a preventive medicine visit is insignificant or incidental (eg, minor diaper rash, renewal of prescriptions without reevaluation) or did not require additional work to perform medical decision-making [MDM] or additional time that is distinct from the time spent providing the preventive E/M service.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ The E/M service is a routine part of the usual preoperative and postoperative care.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ Modifier 57 (decision for surgery) is more appropriate. The decision on whether to use modifier 25 or 57 requires knowledge of payer policies. (Refer to modifier 57—discussed later in this chapter.)</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Examples—Modifier 25</emphasis> ▶ A physician orders and inserts or supervises insertion of a non-indwelling bladder catheter to obtain urine for urinalysis and culture as part of the evaluation of a sick child. Documentation supports a level 4 established patient visit in addition to the procedure.</para>
+            <para>
+               <emphasis role="bold">Applicable codes for diagnosis or, when undetermined, signs and symptoms</emphasis>
+            </para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

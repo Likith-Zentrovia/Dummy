@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0020s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0020s0004</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>20</chapternumber>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>16. Noncritical Hospital Evaluation and Management Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Resources</title>
+   <sect2 id="ch0020s0004s20002">
+      <title/>
+      <sect3 id="ch0020s0004s30008">
+         <title/>
+         <sect4 id="ch0020s0004s0001s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>
+               <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026) <emphasis role="italics">Pediatric Evaluation and Management Coding Revisions: Facility and Office Services</emphasis> (www.aap.org/pediatric-evaluation-and-management-coding-revisions-facility-and-office-services-paperback)</para>
+         </sect4>
+         <sect4 id="ch0020s0004s0001s01s02">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Coding Challenge: Hospital Evaluation and Management Services," March 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book239</emphasis> document003) "Coding Challenge Answers: Hospital Evaluation and Management Services," March 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book239</emphasis> document006)</para>
+            <para>"Coding Review: Social Determinants of Health," November 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book235</emphasis> document006) "<emphasis role="italics">CPT</emphasis> 2024: New Guidelines for Brief Hospital Stays," November 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book235</emphasis> document004)</para>
+            <para>"<emphasis role="italics">CPT</emphasis> 2024: Revisions to Guidelines for Split or Shared Visits," November 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book235</emphasis> document003) "Endocrinology: Updated <emphasis role="italics">ICD-10-CM</emphasis> Diabetes and Hypoglycemia Codes," October 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book246</emphasis> document001)</para>
+            <para>"You Code It! Adolescent Weight Loss Due to a Suspected Eating Disorder," October 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book246</emphasis> document005) "You Code It! Answers: Adolescent Weight Loss Due to a Suspected Eating Disorder," October 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book246</emphasis> document007)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ♦, audiovisual technology; and ♠, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>"You Code It! Stage 2 Hypertension, Hematuria, and Edema," May 2024 (https://doi.org/10.1542/peco <emphasis role="italics">book241</emphasis> document002) "You Code It! Answers: Stage 2 Hypertension, Hematuria, and Edema," May 2024 (https://doi.org/10.1542/peco <emphasis role="italics">book241</emphasis> document004)</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false? Because the codes for inpatient and observation E/M services are the same, it is not necessary for a physician or QHP to document a change in admission status.</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which type of hospital E/M service is reported by a physician or QHP providing inpatient care to a patient who has received services from a physician of the same exact specialty and subspecialty and same group practice on a prior date during the current stay?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Initial hospital inpatient or observation services</para>
+                     </listitem>
+                     <listitem>
+                        <para>An inpatient or observation consultation</para>
+                     </listitem>
+                     <listitem>
+                        <para>Subsequent inpatient or observation services</para>
+                     </listitem>
+                     <listitem>
+                        <para>Any of the above, but the code is appended with modifier FS</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What type of code is reported for hospital care when the physician who ordered the admission provides initial care and discharge management at the same time (ie, at a single visit)?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Same-date admission and discharge services</para>
+                     </listitem>
+                     <listitem>
+                        <para>Initial hospital care</para>
+                     </listitem>
+                     <listitem>
+                        <para>Initial hospital care and hospital discharge day management</para>
+                     </listitem>
+                     <listitem>
+                        <para>Hospital discharge day management</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is a consultation?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A physician or QHP provides an initial E/M service to a child whose physician requested advice on management of an infection by anunidentified agent.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A physician or QHP provides a follow-up visit to a child whose test results indicate need for additional advice or opinion on management.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A QHP requests that a physician who has provided outpatient behavioral health care to a hospitalized patient assume inpatient management of the patient's behavioral health needs during an admission for an unrelated condition.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A physician provides continuing care to a patient while covering for the patient's physician who is of the same specialty and same group practice.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of prolonged service code 99418?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99418</emphasis> is reported for each additional hour beyond the total time required to report the related E/M service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99418</emphasis> is reported in addition to any hospital inpatient or observation code when the physician's total time exceeds that required for the primary E/M service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99418</emphasis> is reported only when the primary E/M service code is selected on the basis of total time and the total time is exceeded by at least 15 minutes.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99418</emphasis> is reported for prolonged service within 24 hours of the primary E/M service.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

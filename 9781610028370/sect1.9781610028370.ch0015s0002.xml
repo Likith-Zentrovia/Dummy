@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0015s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0015s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>15</chapternumber>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>12. Nonphysician Qualified Health Care Professional Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Nonphysician Qualified Health Care Professional Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>Terminology used to differentiate nonphysician qualified health care professionals (NQHCPs) from qualified health care professionals (QHPs) and clinical staff (and why this differentiation matters)</para>
+      </listitem>
+      <listitem>
+         <para>Identifying the scope of practice for an NQHCP</para>
+      </listitem>
+      <listitem>
+         <para>Recognizing the various NQHCPs who may perform and report services to pediatric patients</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="italics">Current Procedural Terminology</emphasis> (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes and modifiers that may apply to reporting services performed by NQHCPs</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0015s0002s0001">
+      <title>Services Provided by Nonphysician Qualified Health Care Professionals</title>
+      <para>In their quest to provide comprehensive and high-quality care to patients, pediatric physicians are including more NQHCPs (eg, dietitians) in their practices and utilizing clinical staff to their full potential.</para>
+      <para>This chapter focuses on medical services that are provided by health care professionals other than physicians and other QHPs, such as nurse practitioners (NPs) and physician associates (PAs) (formerly titled physician assistants), who are distinguished by the ability to provide and independently report evaluation and management (E/M) services.</para>
+      <para>
+         <emphasis role="bold">Refer to Chapter 10</emphasis> for information on reporting mental and behavioral health services provided by NQHCPs. <emphasis role="bold">Refer to Chapter 21</emphasis> for information on remote therapeutic monitoring by NQHCPs.</para>
+      <sect3 id="ch0015s0002s30001">
+         <title/>
+         <sect4 id="ch0015s0002s0001s01s01">
+            <title>Terminology</title>
+            <para>
+               <emphasis role="bold">Throughout the CPT code set, use of terms such as physician, QHP, or individual is not intended to indicate that other entities may not report the service. In select instances, specific instructions may define a service as limited to professionals or other entities (eg, hospital, home health agency).</emphasis> To help differentiate, the following definitions apply to discussions and examples in this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Qualified health care professional:</emphasis> Advanced practice providers, such as advanced practice nurses, clinical nurse specialists, and PAs, whose scope of practice includes E/M services beyond minimal services incident to a physician (ie, 99211 or 99281, E/M visit not requiring physician face-to-face service).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Refer to Chapter 7</emphasis> for detailed discussion of incident-to services and E/M services reported with 99211.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Nonphysician qualified health care professional:</emphasis> A broad category of health care professionals who typically would not independently prescribe and manage, whose professional services are typically performed under the order and supervision of a physician or QHP, and whose scope of practice does not include E/M services beyond 99211. When providing services that do not require direct physician supervision, some NQHCPs are able to bill under their own National Provider Identifier (NPI). This category includes providers such as clinical psychologists, licensed counselors, dietitians/nutritionists, certain health educators, licensed therapists, and, sometimes, lactation consultants, among others.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Clinical staff member,</emphasis> as defined by <emphasis role="italics">CPT:</emphasis> A health care team member who works under the supervision of a physician or other QHP and who is allowed by law, regulation, and facility policy to perform or assist in the performance of a specific professional service, but <emphasis role="italics">does not individually report that professional service.</emphasis> These include, but are not limited to, registered nurses (RNs), licensed practical nurses (LPNs), and medical assistants.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">CPT</emphasis> references <emphasis role="italics">clinical staff member</emphasis> mostly in the context of staff who provide components of physician or QHP services, such as obtaining patient history, and services that are always billed by a supervising physician or QHP (eg, nurse visit, medication administration).</para>
+            <para>
+               <emphasis role="bold">Staff who can perform <emphasis role="italics">only administrative functions</emphasis>, such asreception, scheduling, billing, dictation, or scribing, are not clinical staff for coding purposes.</emphasis> Refer to the May 2025 <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis>™ article "Procedure Codes for Nonphysician Qualified Health Care Professional Services" (https://doi.org/10.1542/pcco <emphasis role="italics">book253</emphasis> document002) for additional discussion of codes for reporting services provided by NQHCPs.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0002">
+      <title>Including Nonphysician Qualified Health Care Professionals in Your Practice</title>
+      <para>Services by NQHCPs, provided under a physician's or QHP's order within a physician group practice, can be an integral part of providing a full scope of care in the medical home.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Billing and coding must align not only with coding guidelines but also state scope of practice (refer to the Scope of Practice Laws section later in this chapter) and individual payer policies on credentialing, contracting, and billing for services of the specific NQHCP.</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">Before including NQHCPs within your group practice</emphasis>, it is important to seek expert advice on related state regulations for scope of practice and supervision requirements, enrollment and payment policies of the group's most common payers, and best practices in employment and/or contractual agreements.</para>
+         </listitem>
+         <listitem>
+            <para>The number of services that may be provided can be estimated from current patient diagnoses or history of referral for services. Reports from electronic health records or billing software may be used in this estimation (eg, report of the number of unique patient accounts containing a diagnosis code for conditions that a nutritionist may address).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">When physicians choose to arrange for services provided within their group practice by NQHCPs who are not employed or contracted with the group practice, additional counsel should be obtained to prevent conflict with anti-kickback and/or self-referral regulations.</emphasis> Payment for NQHCP services begins with negotiating and contracting with payers for coverage and payment of services as described by <emphasis role="italics">CPT</emphasis> and/or HCPCS codes. (For a list of HCPCS codes that may be used to report nonphysician education services, refer to the Disease Management Program Services section later in this chapter.)</para>
+      <itemizedlist>
+         <listitem>
+            <para>Payers may pay separately for these services when your practice can demonstrate the overall cost savings (eg, decreased physician or emergency department visits, decreased hospital care) that may be achieved through expanded care in the physician practice.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">For more on quality and performance measurement, refer to Chapter 3.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>If payers do not agree to directly compensate for individual services, consider opportunities for shared savings and other revenue that may berealized when NQHCP services support quality improvement initiatives (eg, per-member-per-month compensation for meeting certain quality measures) and reduction of physician and QHP time to services that are restricted to or best delivered within their scope of practice.</para>
+         </listitem>
+         <listitem>
+            <para>Physicians should be especially aware of each payer's policy addressing use of E/M codes for services provided by NQHCPs or clinical staff. Other than <emphasis role="bold">99211</emphasis>, Medicare and payers that adopt Medicare policy do not allow reporting of E/M codes for services provided by NQHCPs or clinical staff. Services that specifically indicate work of clinical staff under physician supervision (eg, transitional care management [TCM] or chronic care management [CCM]) are exceptions.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">For more information on CCM and TCM, refer to Chapter 9.</emphasis>
+      </para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="italics">CPT</emphasis> describes <emphasis role="bold">99401–99404</emphasis> as representing services provided face-to-face by a physician or other QHP for the purposes of promoting health and preventing illness or injury. Yet some payers directly instruct that codes such as <emphasis role="bold">99401</emphasis> be reported for specific services by specific clinical staff or by NQHCPs such as medical nutritionists or certified lactation consultants.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> Always keep a printed or electronic copy of payer guidance that conflicts with <emphasis role="italics">CPT</emphasis> or standard billing practices.</para>
+      <sect3 id="ch0015s0002s30002">
+         <title/>
+         <sect4 id="ch0015s0002s0002s01s01">
+            <title>Scope of Practice Laws</title>
+            <para>Scope of practice is a term used by state licensing boards for various professions to define the procedures, actions, and processes that are permitted for a licensed individual. Scope of practice may also address the delegation of health care activities to unlicensed individuals who the delegating physician or other QHP/NQHCP has ascertained have the education, training, and/or certification necessary to safely perform the activity. Additional limitations on scope of practice of NQHCPs and on delegation to clinical staff may come from Medicaid programs, health care systems, or health care professional membership organizations.</para>
+            <para>Physicians, RNs, clinical NPs, PAs, LPNs, physical therapists, and licensed nutritionists are among some of the professions for which scope of practice laws are defined. Some states limit the autonomous practice of advanced practice professionals and require these QHPs to have written collaboration agreements and/or general or direct supervision by a physician. Prescribing authority may also be limited. Verify your state's requirements for all clinicians and appropriate inclusions inany collaboration or supervision agreements.</para>
+            <para>Every state has laws and regulations that describe the requirements of education and training for health care professionals. Some states, however, do not have different scope of practice laws for every level of professional (eg, LPN, lactation consultant). Health systems, government payers, and health care professional membership organizations may also define or limit the scope of practice or delegation to NQHCPs and clinical staff.</para>
+            <para>Scope of practice should be considered when delegating directly or through standing orders (eg, physician writes order that recommended screening instruments be completed for all patients presenting for well-baby/child [health supervision] examinations).</para>
+            <para>Although scope of practice provides guidance on what services may be performed by NQHCPs and clinical staff, certain codes also limit who can report specific services. For instance, nurses are allowed to counsel for and administer immunizations, but administration codes 90460 and 90461 are reported only when a physician or QHP has provided immunization counseling. Likewise, E/M services are reported only by a physician or QHP, although NQHCPs and clinical staff may perform tasks included in the service (eg, obtaining vital signs and initial history).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Payers that follow Medicare policy on reporting E/M services will not accept 99201–99205, 99211–99215, or 99217–99499 performed and reported by NQHCPs. Codes 99211 and 99281 describe E/M services that may not require a physician's presence but are reported by a supervising physician or QHP. For full discussion of 99211, refer to Chapter 7. Code 99281 is discussed in Chapter 14.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0003">
+      <title>National Provider Identifier</title>
+      <para>The NPI is a unique ID number for covered health care professionals. The NPI is required on administrative and financial transactions under the Health Insurance Portability and Accountability Act of 1996 administrative simplification provisions.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Anyone who directly provides health care services (eg, physical therapist, nutritionist, audiologist) can apply for and receive an NPI.</para>
+         </listitem>
+         <listitem>
+            <para>Usually only those who will bill for services and/or order services or prescription drugs will need an NPI.</para>
+         </listitem>
+         <listitem>
+            <para>The NPI is included on medical claims to indicate who ordered, provided, or supervised the provision of services.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0015s0002s0004">
+      <title>Nonphysician Assessment and Management Services</title>
+      <para>An NQHCP whose scope of practice does not include providing and independently reporting E/M services may report assessment and management services. Assessment and management services may be provided in person (as discussed for specific types of services throughout this chapter), via online digital communication or telephone, or as a participant of a team conference. Each type of assessment and management service has specific reporting guidelines.</para>
+      <sect3 id="ch0015s0002s30003">
+         <title/>
+         <sect4 id="ch0015s0002s0004s01s01">
+            <title>Online Medical Assessment (98970–98972)</title>
+            <para>
+               <emphasis role="bold">98970</emphasis> NQHCP online digital assessment and management service, for an established patient, for up to seven days, cumulative time during the 7 days; 5–10 minutes</para>
+            <para>
+               <emphasis role="bold">98971</emphasis> 11–20 minutes</para>
+            <para>
+               <emphasis role="bold">98972</emphasis> 21 or more minutes An online electronic medical assessment (98970–98972) is a non–face-to-face assessment and management service by an NQHCP to an established patient using internet resources in response to a patient's online inquiry.</para>
+            <para>
+               <emphasis role="bold">Online digital E/M services by a physician or other QHP (who may report E/M services) are reported with 99421-99423. Refer to Chapter 20 for information on online digital E/M services.</emphasis> Online assessment and management refers to use of asynchronous communication technology such as secure email and other asynchronous digital communication.</para>
+            <para>This contrasts with <emphasis role="italics">telemedicine services</emphasis> provided via synchronous interactive audio-only or audio and video telecommunication systems that provide real-time communication between the NQHCP and the patient.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Before providing online medical services, understand local and state laws, ensure that communications will be compliant with the Health Insurance Portability and Accountability Act (eg, conducted through a secure patient portal), establish written guidelines and procedures, educate payors and negotiate for payment, and educate patients.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Codes 98970-98972</emphasis> are time-based codes used by an NQHCP to report an online assessment and management service (eg, managing feeding problems in a patient with chronic illness).</para>
+               </listitem>
+               <listitem>
+                  <para>One code and 1 unit of service are reported for the sum of communications pertaining to the online encounter during a 7-day period.</para>
+               </listitem>
+               <listitem>
+                  <para>The 7-day service period begins with the initial, personal NQHCP review of the patient-generated inquiry.</para>
+               </listitem>
+               <listitem>
+                  <para>All time spent addressing the manifesting problem and any additional problems (including new unrelated problems addressed by online and/or electronic communications) during the service period is cumulative and reported as 1 service.</para>
+               </listitem>
+               <listitem>
+                  <para>Online assessment and management includes</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Review of the initial inquiry</para>
+                     </listitem>
+                     <listitem>
+                        <para>Review of patient records or data pertinent to assessing the patient's problem</para>
+                     </listitem>
+                     <listitem>
+                        <para>Personal NQHCP interaction with clinical staff focused on the patient's problem</para>
+                     </listitem>
+                     <listitem>
+                        <para>Development of management plans</para>
+                     </listitem>
+                     <listitem>
+                        <para>Timely reply to the patient's/caregiver's request for online service</para>
+                     </listitem>
+                     <listitem>
+                        <para>Permanent record of the service (hard copy or electronic)</para>
+                     </listitem>
+                     <listitem>
+                        <para>All related communications during a 7-day episode of care (eg, conducting related phone calls)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Cumulative time of NQHCPs in the same group who provide distinct portions of the online digital E/M service</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Online digital assessment services <emphasis role="bold">(98970-98972) are <emphasis role="italics">not</emphasis> reported</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>✱ For services of less than 5 minutes' cumulative time.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ For new patient inquiries, although new problems may be addressed for established patients.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ For electronic communication of test results, scheduling of appointments, or other communication that does not include assessment and management.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ If the patient generates an online digital inquiry within 7 days of a previous treatment or assessment and management service and both services relate to the same problem.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ If a separately reported assessment service occurs within 7 days of the initial online digital inquiry.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ When care plan oversight <emphasis role="bold">(99374, 99375; 99377-99380)</emphasis>, CCM <emphasis role="bold">(99487, 99489-99491)</emphasis>, TCM <emphasis role="bold">(99495, 99496)</emphasis>, or collection of physiologic data <emphasis role="bold">(99091)</emphasis> are provided in the same period, do not count the time of communications related to these services toward the time of online digital medical services.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">Parents of a patient with type 1 diabetes securely email a medical nutrition therapist who is a certified diabetes educator, requesting advice on preparing their child for adhering to the diabetes care plan on a weeklong trip with a sports team. The diabetes educator responds to the request, and emails are exchanged to further clarify concerns and provide advice. The child is instructed to contact the diabetes educator or the treating physician by phone if questions or concerns arise during travel. The cumulative time of the communication is 15 minutes.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">The diabetes educator reports 98971. But if the patient had been seen within the past 7 days or scheduled for an appointment within the 7-day period, this service would not have been separately reported.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0015s0002s0004s01s02">
+            <title>Telephone Calls (98966-98968)</title>
+            <para>
+               <emphasis role="bold">98966</emphasis> Telephone assessment and management services provided by an NQHCP to an established patient, parent, or guardian not originating from related assessment and management service provided within the previous 7 days nor leading to an assessment and management service or procedure within the next 24 hours or soonest available appointment; 5-10 minutes of medical discussion</para>
+            <para>
+               <emphasis role="bold">98967</emphasis> 11–20 minutes of medical discussion</para>
+            <para>
+               <emphasis role="bold">98968</emphasis> 21–30 minutes of medical discussion Codes <emphasis role="bold">98966–98968</emphasis> are used to report telephone assessment and management services by NQHCPs. The QHPs, who may independently provide and report E/M services, report <emphasis role="bold">98008–98015</emphasis> for an audio-only telemedicine E/M service, as discussed in Chapter 20.</para>
+            <para>Report <emphasis role="bold">98966–98968</emphasis> when</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The patient or caregiver initiates a call that is not in follow-up to a service by the same NQHCP within the past 7 days.</para>
+               </listitem>
+               <listitem>
+                  <para>Five minutes or more is spent in assessment and management services (<emphasis role="italics">time must be documented</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>No decision to see the patient within 24 hours or at the next available appointment is made during the telephone service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0015s0002s0004s01s03">
+            <title>Services Not Reported as Telephone Assessment and Management</title>
+            <para>Most telephone services provided by clinical staff (eg, relaying physician instructions) are included in the practice expense value assigned to NQHCP services and not separately reported.</para>
+            <para>Do not report telephone assessment and management services that ✖ Relate to a service provided by the NQHCP within the past 7 days (including another service reported with <emphasis role="bold">98966–98968</emphasis>), regardless of whether the service was planned or prompted by patient or caregiver concern.</para>
+            <para>✖ Result in scheduling an appointment within the next 24 hours or the next available appointment. When telephone assessment and management result in scheduling the patient for an appointment within 24 hours or the next available appointment, the service is considered preserving work to the face-to-face encounter.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ An adolescent patient with history of class 1 obesity and prediabetes, now overweight, contacts a licensed clinical social worker (LCSW) who has previously provided education and training for patient self-management. The patient has questions regarding a new diet plan. The social worker spends 32 minutes on the phone with the patient discussing the risks and benefits of implementing the diet plan versus resuming a previously adopted plan. The LCSW reports <emphasis role="bold">98968</emphasis> according to the time spent addressing the parents' concerns. Although the time of medical discussion exceeded 30 minutes, there is no code for reporting the time beyond 30 minutes. This service would not have been reported had the call happened within 7 days of a previous service by the same provider or resulted in an appointment within 24 hours or the next available face-to-face appointment.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0005">
+      <title>Payer Use of Healthcare Common Procedure Coding System Codes</title>
+      <sect3 id="ch0015s0002s30004">
+         <title/>
+         <sect4 id="ch0015s0002s0005s01s01">
+            <title>Disease Management Program Services</title>
+            <para>HCPCS Level II codes may be reported when the narrative differs from the <emphasis role="italics">CPT</emphasis> code for the service. What follows is a small sample of HCPCS codes and modifiers that may be used for services by NQHCPs when a payer accepts these codes to describe services rendered as part of a specific disease management program (eg, services specific to management of sickle cell anemia).</para>
+            <para>Payment for services reported with HCPCS codes may vary, especially for codes not assigned relative value units in the Medicare Physician Fee Schedule, on which many payers base their fee schedules.</para>
+            <para>Where a nonspecific term for a health care professional (eg, <emphasis role="italics">nurse</emphasis> versus <emphasis role="italics">RN</emphasis>) is included in a code descriptor, or when the code descriptor does not include identification of a health care professional, review the specific payer's policy for coverage of the service provided. It is advisable to retain copies of a payer's written policies and guidance for reporting HCPCS codes such as <emphasis role="bold">S0315</emphasis> Disease management program; initial assessment and initiation of the program</para>
+            <para>
+               <emphasis role="bold">S0316</emphasis> Disease management program, follow-up/reassessment</para>
+            <para>
+               <emphasis role="bold">S0317</emphasis> Disease management program; per diem <emphasis role="bold">S0320</emphasis> Telephone calls by a registered nurse to a disease management program member for monitoring purposes; per month</para>
+            <para>
+               <emphasis role="bold">S9460</emphasis> Diabetic management program, nurse visit</para>
+            <para>
+               <emphasis role="bold">S9470</emphasis> Nutritional counseling, dietitian visit For an example of how to report services as part of a disease management program for diabetes, refer to the Payer-Specific Coding for Nutrition Assessment and Intervention section later in this chapter.</para>
+            <para>Payer policies, particularly Medicaid plan policies, often drive the decision between reporting with <emphasis role="italics">CPT</emphasis> and reporting with <emphasis role="italics">HCPCS</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0015s0002s0005s01s02">
+            <title>Healthcare Common Procedure Coding System Modifiers</title>
+            <para>Payers may also instruct certain NQHCPs to report services by appending a HCPCS modifier to the <emphasis role="italics">CPT</emphasis> or HCPCS code for services provided.</para>
+            <para>
+               <emphasis role="bold">HA</emphasis>        Child/adolescent program</para>
+            <para>
+               <emphasis role="bold">HN</emphasis>        Bachelor's degree level <emphasis role="bold">HO</emphasis>        Master's degree level (eg, licensed master social worker)</para>
+            <para>
+               <emphasis role="bold">HP</emphasis>        Doctoral level</para>
+            <para>
+               <emphasis role="bold">HQ</emphasis>        Group setting <emphasis role="bold">SW</emphasis>        Services provided by a certified diabetic educator</para>
+            <para>
+               <emphasis role="bold">UN</emphasis>        Two patients served</para>
+            <para>
+               <emphasis role="bold">UP</emphasis>        Three patients served</para>
+            <para>
+               <emphasis role="bold">UQ</emphasis>        Four patients served</para>
+            <para>
+               <emphasis role="bold">UR</emphasis>        Five patients served</para>
+            <para>
+               <emphasis role="bold">US</emphasis>        Six or more patients served</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0006">
+      <title>Nutritional Support Services</title>
+      <sect3 id="ch0015s0002s30005">
+         <title/>
+         <sect4 id="ch0015s0002s0006s01s01">
+            <title>Breastfeeding Support/Lactation Services (S9443, 99211)</title>
+            <para>Under the Patient Protection and Affordable Care Act, most health insurance plans must cover breastfeeding support, counseling, and equipment to mothers for the duration of breastfeeding. These services are not subject to a deductible, co-payment, or coinsurance. Access to benefits for lactation counseling, however, is not always straightforward.</para>
+            <para>Be aware that some plans bundle provision of breastfeeding support and counseling to the global obstetric service or postpartum care of the mother and do not pay separately for breastfeeding support or lactation counseling. It is important to understand contractual obligations that may limit a physician's or NQHCP's ability to bill the patient for these covered services.</para>
+            <para>Medicaid plans often ask that covered breastfeeding mothers be referred to the Special Supplemental Nutrition Program for Women, Infants, and Children for lactation counseling and other support services.</para>
+            <para>In the absence of feeding problems of an infant or health problems of the mother, <emphasis role="bold">Z39.1</emphasis> (encounter for care and examination of lactating mother) is the diagnosis code reported for lactation counseling.</para>
+            <para>Lactation consultation services do not have a specific <emphasis role="italics">CPT</emphasis> code, and billing is a source of confusion for many providers. Many states do not license lactation consultants. Also, many health plans do not include lactation consultants in their networks.</para>
+            <para>Code <emphasis role="bold">S9443</emphasis> is the code most specific to lactation services. This code is included in some health plan policies for preventive medicine services or breastfeeding/lactation counseling services.</para>
+            <para>
+               <emphasis role="bold">S9443</emphasis>        Lactation classes, nonphysician provider, per session Clinical staff services may be reported with <emphasis role="bold">99211</emphasis> when provided incident to a physician's plan of care for an established patient (health plan policies may or may not align with Medicare's incident-to policy). Refer to the "Lactation-Related Services by a Physician or Other Qualified Health Care Professional" box later in this chapter for more about E/M codes for lactation services.</para>
+            <para>Other specific codes used to report these services when provided by NQHCPs may include <emphasis role="bold">S9445</emphasis>        Patient education, not otherwise classified, nonphysician provider, individual, per session</para>
+            <para>
+               <emphasis role="bold">S9446</emphasis>        Patient education, not otherwise classified, nonphysician provider, group, per session <emphasis role="bold">★98960</emphasis>        Education and training for patient self-management by a nonphysician qualified health care professional using a standardized curriculum, face-to-face with the patient (could include caregiver/family), each 30 minutes; individual patient</para>
+            <para>Refer to the Education and Training for Patient Self-Management (<emphasis role="bold">98960–98962</emphasis>) section later in this chapter for more information.</para>
+            <para>Key considerations for reporting lactation services include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Unless the newborn or infant has been diagnosed with a feeding problem, the mother is typically the patient, and claims are filed to the mother's health benefit plan.</para>
+               </listitem>
+               <listitem>
+                  <para>Payer policies may not allow separate payment for lactation counseling on the same date as an E/M service.</para>
+               </listitem>
+               <listitem>
+                  <para>Challenges might be encountered in states where licensure is not yet enacted for lactation support professionals. Hurdles include credentialing and coverage by payers that cover only services provided by licensed health care professionals, although services provided incident to a physician or QHP (eg, <emphasis role="bold">99211</emphasis> or <emphasis role="bold">S9443</emphasis>) may be allowed.</para>
+               </listitem>
+               <listitem>
+                  <para>When a medical condition (eg, feeding problem) was diagnosed by the physician on an earlier date, an NQHCP may see the mother and patient to identify the psychological, behavioral, emotional, cognitive, and social factors important to the prevention, treatment, or management of physical health problems. Behavioral health assessment and intervention codes <emphasis role="bold">96156</emphasis>, <emphasis role="bold">96158</emphasis> and <emphasis role="bold">96159</emphasis>, and <emphasis role="bold">96164–96171</emphasis> may be reportable for these services. Again, payer policy determines who may provide these services and what is paid.</para>
+               </listitem>
+               <listitem>
+                  <para>Lactation counseling provided by an NQHCP in conjunction with a physician's or QHP's E/M service, although not always separately reported, may reduce the physician's time spent on history taking, counseling, and education. This may also support quality initiatives.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Lactation-Related Services by a Physician or Other Qualified Health Care Professional</emphasis>
+               </para>
+               <para>Physicians and QHPs may report preventive medicine counseling codes <emphasis role="bold">99401–99404</emphasis> for personally performed lactation counseling services. When payer policy instructs that these codes be reported for services by an RN or an NQHCP (eg, lactation consultant), a written copy of the payer policy should bekept on file.</para>
+               <para>When a pediatrician provides services related to newborn or infant feeding problems or maternal health issues, report E/M codes by site of service (eg, office visit). E/M services provided to address maternal issues are reported to the mother's health plan. An <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) code is used to identify the type of problem (eg, <emphasis role="bold">O92.5</emphasis>, suppressed lactation).</para>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0007">
+      <title>Medical Nutrition Assessment and Intervention (97802–97804)</title>
+      <para>★<emphasis role="bold">97802</emphasis> Medical nutrition therapy; initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes ★<emphasis role="bold">97803</emphasis> Reassessment and intervention, individual, face-to-face with the patient, each 15 minutes</para>
+      <para>★<emphasis role="bold">97804</emphasis> Group (2 or more individuals), each 30 minutes Medical nutrition therapy is one of the services for which <emphasis role="italics">CPT</emphasis> instruction excludes reporting by a physician or QHP who may report E/M services.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Codes are reported when provided by an NQHCP who may report medical nutrition therapy services under their individual state's scope of practice.</para>
+         </listitem>
+         <listitem>
+            <para>Many states restrict the provision of medical nutrition therapy to certain NQHCPs (eg, registered dietitians, licensed medical nutritionists). Practices providing medical nutrition therapy services should be aware of state licensing and scope of practice regulations as well as health plan credentialing policies.</para>
+         </listitem>
+         <listitem>
+            <para>HCPCS modifiers may be required to report the type of provider for medical nutrition therapy services, such as <emphasis role="bold">AE</emphasis> (registered dietitian).</para>
+         </listitem>
+         <listitem>
+            <para>Coverage may also be limited to patients with certain conditions (eg, diabetes, kidney disease) and to a number of units of service or visits per year.</para>
+         </listitem>
+         <listitem>
+            <para>When medical nutrition therapy is provided as a preventive service (eg, counseling a patient who has overweight), modifier <emphasis role="bold">33</emphasis> may be appended to <emphasis role="bold">97802–97804</emphasis>.</para>
+         </listitem>
+      </itemizedlist>
+      <blockquote>
+         <para>For more on modifier <emphasis role="bold">33</emphasis>, refer to Chapters 2 and 8.</para>
+      </blockquote>
+      <itemizedlist>
+         <listitem>
+            <para>Services are reported according to time. Per <emphasis role="italics">CPT</emphasis> instruction, a unit of time is met when the midpoint is passed.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">97802</emphasis> or <emphasis role="bold">97803</emphasis> with 1 unit for 8 to 22 minutes of service. An additional unit may be reported for each subsequent 15 minutes and the last 8 to 22 minutes of service.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Certain payers may require that the time in the code descriptor (eg, 15 minutes) bemet or exceeded for each unit of service reported.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Time must be documented.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶<emphasis role="bold">A physician refers a 28-month-old child to a registered dietitian for weight loss associated with cystic fibrosis and exocrine pancreatic insufficiency.</emphasis> Assessment and intervention are requested out of concern for failure to thrive and related decrease in lung function. The child's body mass index (BMI) has fallen to the fifth percentile. Parents report feeding numerous high-fat meals a day and nonfat snacks. The dietitian meets with the family and spends 30 minutes discussing appropriate high-calorie and high-protein meals and snacks, enzyme use, and monitoring intake and weight gain/growth.</para>
+      <table frame="all" id="ch0015s0002ta0001">
+         <title>Medical Nutrition Assessment and Intervention (97802–97804)</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Z71.3 (dietary counseling and surveillance)R63.4 (abnormal weight loss)E84.8 (cystic fibrosis with other manifestations)K86.81 (exocrine pancreatic insufficiency)Z68.52 (BMI pediatric, 5th—&lt;85th percentile for age)</entry>
+                  <entry>If payer allows billing under the registered dietitian's NPI,97802 × 2 (medical nutrition therapy, initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes)If payer requires billing under the NPI of a supervising physician,97802 AE × 2 (medical nutrition therapy as above by a registered dietitian)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> The service provided to a group, even with individual reassessments in the group setting, is reported to each patient's health plan with 97804 with 1 unit per 30 minutes. Because the time of service was 50 minutes, 2 units of service are reported (ie, the midpoint between the first and last 30-minute periods was passed).</para>
+      <sect3 id="ch0015s0002s30006">
+         <title/>
+         <sect4 id="ch0015s0002s0007s01s01">
+            <title>Payer-Specific Coding for Nutrition Assessment and Intervention</title>
+            <para>HCPCS codes may be required by certain payers to report reassessment and subsequent intervention after a change in diagnosis, medical condition, or treatment regimen.</para>
+            <para>
+               <emphasis role="bold">G0270</emphasis> Medical nutrition therapy; reassessment and subsequent intervention(s) following second referral in same year for change in diagnosis, medical condition, or treatment regimen (including additional hours needed for renal disease); individual, face-to-face with the patient, each 15 minutes <emphasis role="bold">G0271</emphasis> group (2 or more individuals), each 30 minutes</para>
+            <para>Documentation of services should include the physician or QHP order for services, information on the medical need for services, medical nutrition therapy evaluation and plan for intervention, time, correspondence with the referring provider, date of service (DOS), and name, credentials, and signature of the provider of the medical nutrition therapy.</para>
+            <para>Payers may also offer specific benefits for nutrition assessments and counseling under specific disease management programs. HCPCS codes may be required in lieu of CPT codes.</para>
+            <para>
+               <emphasis role="bold">G0108</emphasis> Diabetes outpatient self-management training services, individual, per 30 minutes <emphasis role="bold">G0109</emphasis> Diabetes outpatient self-management training services, group session (2 or more), per 30 minutes</para>
+            <para>
+               <emphasis role="bold">S9449</emphasis> Weight management classes, NPP, per session</para>
+            <para>
+               <emphasis role="bold">S9452</emphasis> Nutrition class, NPP, per session</para>
+            <para>
+               <emphasis role="bold">S9455</emphasis> Diabetic management program, group session</para>
+            <para>
+               <emphasis role="bold">S9460</emphasis> nurse visit</para>
+            <para>
+               <emphasis role="bold">S9465</emphasis> dietitian visit</para>
+            <para>
+               <emphasis role="bold">S9470</emphasis> Nutritional counseling, dietitian visit</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A group of adolescent patients with type 1 diabetes is referred to a licensed medical nutritionist for reassessment and intervention as part of a diabetes outpatient self-management training program.</emphasis> The patients receive both individual reassessment and group therapy services for a total time of 50 minutes.</para>
+            <table frame="all" id="ch0015s0002ta0002">
+               <title>Payer-Specific Coding for Nutrition Assessment and Intervention</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>E10.- (type 1 diabetes mellitus [additional characters required to indicate manifestations or lack thereof])Z71.3 (dietary counseling and surveillance)</entry>
+                        <entry>If payer allows billing with CPT97804 × 2 (medical nutrition therapy, reassessment and intervention, each 30 minutes)If payer requires billing with HCPCSG0109 × 2 (diabetes outpatient self-management training services, group session [2 or more], per 30 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0015s0002s0008">
+      <title>Adaptive Behavior Assessment and Treatment Services</title>
+      <para>Adaptive behavior services address</para>
+      <itemizedlist>
+         <listitem>
+            <para>Deficient adaptive behaviors, such as impaired social, communication, or self-care skills</para>
+         </listitem>
+         <listitem>
+            <para>Maladaptive behaviors, such asrepetitive and stereotyped behaviors</para>
+         </listitem>
+         <listitem>
+            <para>Behaviors that risk physical harm to the patient, others, and/or property</para>
+         </listitem>
+      </itemizedlist>
+      <para>Codes for adaptive behavior services are a combination of Category I and Category III (emerging technology) CPT codes. Adaptive behavior services may be delivered by a physician or QHP but more typically are provided by a behavioral analyst and/or licensed psychologist working with assistant behavior analysts or technicians. Services are typically reported for conditions that develop with maladaptive behaviors, such as autism spectrum disorder (ASD).</para>
+      <para>
+         <emphasis role="italics">It is important to verify health plan policies for coverage and payment of adaptive behavior services, including any required provider qualifications (eg, certification, licensure) and prior authorization before provision of services.</emphasis> Most states mandate coverage of adaptive behavior services for patients diagnosed with ASD. Some states require that behavior analysts providing ASD-related assessment and/or treatment be licensed and/or certified by the Behavior Analyst Certification Board as a Board Certified Behavior Analyst or Board Certified Behavior Analyst–Doctoral.</para>
+      <itemizedlist>
+         <listitem>
+            <para>In the discussion of adaptive behavior services, Board Certified Behavior Analysts and licensed psychologists are QHPs who typically can independently report personally preformed services and services provided by technicians under the QHP's general supervision.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Refer to your procedure coding reference (eg, CPT coding manual) for specific instructions for reporting these services, including definitions of functional behavioral assessment, functional analysis, standardized instruments and procedures, and non-standardized instruments and procedures.</para>
+      <para>The general rule is that time is 1:1 when the midpoint is passed (eg, at least 8 minutes of service is required to support a service specified as 15 minutes).</para>
+      <sect3 id="ch0015s0002s30007">
+         <title/>
+         <sect4 id="ch0015s0002s0008s01s01">
+            <title>Adaptive Behavior Assessment (97151–97152, 0362T)</title>
+            <para>
+               <emphasis role="bold">#97151</emphasis> Behavior identification assessment, administered by a physician or other QHP, each 15 minutes of the physician's or other QHP's time face-to-face with patient and/or guardian(s)/caregiver(s) administering assessments and discussing findings and recommendations, and non-face-to-face analyzing past data, scoring/interpreting the assessment, and preparing the report/treatment plan</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Section I—Conventions, General Coding Guidelines, and Chapter-Specific Guidelines</title>
+   <sect2 id="ch0003s0003s0001">
+      <title>A. Conventions</title>
+      <para>The conventions of <emphasis role="italics">ICD-10-CM</emphasis> include punctuation, notes, and terminology used throughout the code set.</para>
+      <sect3 id="ch0003s0003s30003">
+         <title/>
+         <sect4 id="ch0003s0003s0001s01s01">
+            <title>Punctuation</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">- Dash</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Indicates that additional characters are required for code completion (eg, <emphasis role="bold">R10.-</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Indicates incomplete codes that should not be reported without additional characters</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">[ ] Brackets</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Identify manifestation codes in the Alphabetic Index. For instance, otitis externa caused by impetigo directs to <emphasis role="bold">L01.00 [H62.40]</emphasis>. This indicates that both impetigo (<emphasis role="bold">L01.00</emphasis>) and otitis externa in other diseases classified elsewhere (<emphasis role="bold">H62.41</emphasis>, right ear; <emphasis role="bold">H62.42</emphasis>, left ear; or <emphasis role="bold">H62.43</emphasis>, bilateral ears) are used to report this condition. Code <emphasis role="bold">H62.40</emphasis> is the code for otitis externa in other diseases classified elsewhere, unspecified ear, and is not reported when laterality is known.</para>
+               </listitem>
+               <listitem>
+                  <para>Enclose synonyms, alternative wording, or explanatory phrases in the tabular list (eg, <emphasis role="bold">S04.811A</emphasis>, injury of olfactory [1st] nerve, right side, initial encounter).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">( ) Parentheses</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Enclose nonessential supplementary words that may be included in the medical record but do not affect code selection, for example, moderate persistent asthma with (acute) exacerbation, <emphasis role="bold">J45.41</emphasis>. Code <emphasis role="bold">J45.41</emphasis> is reported for any exacerbation of moderate persistent asthma without status asthmaticus (<emphasis role="bold">J45.42</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>If a nonessential modifier is mutually exclusive to a sub-term of the main term, <emphasis role="italics">the sub-term is given priority</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0003s0001s01s02">
+            <title>Example</title>
+            <para>
+               <emphasis role="bold">► Sepsis (generalized) (unspecified organism) A41.9</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>with</para>
+               </listitem>
+            </itemizedlist>
+            <para>-- organ dysfunction (acute) (multiple) <emphasis role="bold">R65.20</emphasis>
+            </para>
+            <para>--- with septic shock <emphasis role="bold">R65.21</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>anaerobic <emphasis role="bold">A41.4</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>candidal <emphasis role="bold">B37.7</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>The sub-term of sepsis, "candidal," directs to <emphasis role="bold">B37.7</emphasis> for a diagnosis of candidal sepsis, overriding the nonessential modifiers to the main term "sepsis (generalized) (unspecified organism)." For additional discussion of sub-terms and the preceding dashes that connect them, refer to the Indexes section later in this chapter.</para>
+            <para>
+               <emphasis role="bold">Notes</emphasis> Notes in the tabular list to assist with accurate code selection are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Includes</emphasis>: Further defines or gives examples of the content of a category.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Excludes1</emphasis>: Not coded here—used to indicate codes for conditions that would not occur in conjunction with the code category in which the note is found. An exception to the <emphasis role="italics">Excludes1</emphasis> definition is the circumstance when the 2 conditions are unrelated to each other. If it is not clear whether the 2 conditions are related, coders are instructed to query the physician or other QHP to determine applicability of the <emphasis role="italics">Excludes1</emphasis> note.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">► Excludes1 notes apply to J06.9 (acute upper respiratory infection, unspecified) to prohibit reporting the code in conjunction with less specific acute respiratory infection not otherwise specified (J22) or more specific codes for influenza virus with other respiratory manifestations (J09.X2, J10.1, J11.1) or streptococcal pharyngitis (J02.0).</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Excludes1</emphasis>: Report only if an unrelated condition.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Excludes2</emphasis>: Not included here—used to indicate codes for conditions that are not included in the code category in which the note is found and may be additionally reported when both conditions are present.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ Excludes2 notes apply to J02.0 (streptococcal pharyngitis). An Excludes2 note that applies to all codes in subcategory J02 (J02.0–J02.9) indicates that J31.2 (chronic pharyngitis) is not included here but is separately reportable when applicable. An Excludes2 note that applies to J02.0 indicates that A38.- (scarlet fever) is not included here, allowing reporting of both J02.0 and A38.8 (scarlet fever with other complications).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Excludes2: Report both codes when present.</para>
+               </listitem>
+               <listitem>
+                  <para>Code first: A sequencing rule in the tabular list to first report a code for an underlying cause or origin of a disease (etiology), if known.</para>
+               </listitem>
+               <listitem>
+                  <para>Code also: An instruction that another code may be necessary to fully describe a condition. The sequence of the codes depends on the circumstances of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>See: In the alphabetical index, this instructs that another term should bereferenced to find the appropriate code.</para>
+               </listitem>
+               <listitem>
+                  <para>See also: In the alphabetical index, this instructs that another term may provide additional entries that may be useful.</para>
+               </listitem>
+               <listitem>
+                  <para>Use an additional code: A sequencing rule often found at the listing of an etiology code; this instruction directs to also report a code for the manifestation.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0003s0001s01s03">
+            <title>Terminology</title>
+            <itemizedlist>
+               <listitem>
+                  <para>And: Means "and/or" when appearing in a title in ICD-10-CM; for example, Q16.1 (congenital absence, atresia and stricture of auditory canal [external]) includes absence, atresia, or stricture.</para>
+               </listitem>
+               <listitem>
+                  <para>Combination code: A single code that represents multiple conditions or a single condition with an associated secondary process or complication. When a combination code describes 2 diagnoses, or a diagnosis and its associated manifestation or complication, report only the combination code. If a manifestation or complication is not identified in a combination code, it should be separately reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Default code: A code listed next to a main term in the ICD-10-CM Alphabetic Index is referred to as a default code (eg, E66.9, obesity). Report the default code only if a more specific sub-term (eg, E66.811, obesity, class 1) is not available to describe the diagnosis.</para>
+               </listitem>
+               <listitem>
+                  <para>First-listed diagnosis: When reporting professional services, list first the diagnosis, condition, problem, or other reason for the encounter or visit shown in the medical record to be chiefly responsible for the services provided, followed by other conditions that affected management or treatment.</para>
+               </listitem>
+               <listitem>
+                  <para>NEC: Not elsewhere classifiable. Indicates a code for other specified conditions that is reported when the medical record provides detail that is not captured in a specific code. Alphabetical index entries followed by NEC lead to "other" codes in the tabular list.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A newborn is diagnosed with sepsis due to viridans streptococci. The alphabetical index for "sepsis, -newborn, --due to, ---Streptococcus" indicates further sub-terms; group B (P36.0) and specified NEC (P36.19). Viridans streptococci are specified in the documented diagnosis, but they are not the same as group B streptococci, supporting P36.19 (sepsis of newborn due to other streptococci).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>NOS: Not otherwise specified. Indicates a code for an unspecified condition that is selected when the medical record does not provide sufficient detail for assignment of a more specific code. Unspecified codes are appropriately reported when information to support a more specific code was unavailable at the time of the encounter (eg, type of pneumonia is unknown).</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A newborn is diagnosed with anemia due to isoimmunization without further specification. The alphabetical index directs from the main term "anemia" to "--congenital" and "--due to isoimmunization NOS," directing to P55.9 (hemolytic disease of newborn, unspecified). If the diagnosis were more specific (eg, due to Rh incompatibility), a more specific code (eg, P55.0, Rh isoimmunization of newborn) would be reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Sequela:</emphasis> A late effect of an illness or injury that is no longer in the acute phase. There is no time limit on when a sequela code can be used. The residual may be apparent early, such as that caused by cerebral infarction, or it may occur months or years later, such as that caused by a previous injury. When reporting a sequela of an injury or illness, report first the current condition and then the sequela code.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">An adolescent who was previously treated for a displaced fracture of the proximal third of the scaphoid bone of the right wrist presents with stiffness and pain.</emphasis> The diagnosis is post-traumatic arthritis of the right wrist due to prior (healed) scaphoid fracture. Codes are <emphasis role="bold">M19.131</emphasis> (post-traumatic osteoarthritis, right wrist) and <emphasis role="bold">S62.031S</emphasis> (displaced fracture of proximal third of navicular [scaphoid] bone of right wrist, sequela).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">With, In:</emphasis> The classification presumes a causal relationship between the 2 conditions linked by the terms <emphasis role="italics">with</emphasis> or <emphasis role="italics">in</emphasis>. These conditions should be coded as related even in the absence of provider documentation explicitly linking them, unless the documentation clearly states that the conditions are unrelated or when another guideline exists that specifically requires a documented linkage between 2 conditions (eg, sepsis guideline for "acute organ dysfunction that is not clearly associated with the sepsis").</para>
+               </listitem>
+            </itemizedlist>
+            <para>For conditions not specifically linked by these relational terms in the classification or when a guideline requires that a linkage between 2 conditions be explicitly documented, provider documentation must link the conditions to code them as related.</para>
+            <para>
+               <emphasis role="bold">B. General Coding Guidelines</emphasis>❋ Do not report codes for conditions documented as "ruled out," "suspected," "possible," or "probable." Instead, report codes for signs or symptoms. Exceptions are influenza diagnoses from category J11 that are assigned for diagnostic statements, such as "possible avian influenza" or "influenzalike illness."</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A confirmatory test is not always required to make a final diagnosis (eg, influenza, streptococcal pharyngitis, croup, or thrush may be based on clinical findings in lieu of laboratory findings).</para>
+               </listitem>
+            </itemizedlist>
+            <para>❋ Do not report additional codes for symptoms or conditions that are integral or routinely associated with a disease process (eg, wheezing in asthma).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the same condition is documented as acute and chronic, codes for both conditions are reported if the alphabetical index lists the conditions at the same indentation level. The acute condition is sequenced first.</para>
+               </listitem>
+               <listitem>
+                  <para>If both sides of the body are affected by a condition and there is no single code for the bilateral condition, assign codes for right and left. When a patient has a bilateral condition and each side is treated during separate encounters, assign the bilateral code for each encounter during which the condition exists on both sides. Do not assign a bilateral code if the condition no longer exists bilaterally.</para>
+               </listitem>
+               <listitem>
+                  <para>Generally, coders may not assume a complication of care without documentation of the cause-and-effect relationship (eg, infection in a patient with a central venous catheter) and the condition must be clinically significant (ie, alter the course of care).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">C. Chapter-Specific Guidelines</emphasis> Refer to guidelines for specific diagnoses and/or conditions found in each chapter of <emphasis role="italics">ICD-10-CM</emphasis>. Chapter guidelines must be followed for appropriate code selection.</para>
+            <para>When selecting electronic coding applications, look for inclusion of chapter-specific guidelines when using the code search functionality. <emphasis role="italics">Pediatric ICD-10-CM: A Manual for Provider-Based Coding</emphasis> adds chapter-specific guidance to each chapter for easy reference.</para>
+            <para>
+               <emphasis role="bold">Section IV—Diagnostic Coding and Reporting Guidelines for Outpatient Services</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Selecting a Code</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>The codes selected must be supported by the physician's or other QHP's documentation of the diagnoses, signs and symptoms, and/or reasons for an encounter as determined after evaluation. Each health care encounter should be coded to the level of certainty known for that encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Never assign a code for a condition that is unconfirmed (eg, probable or rule-out obstruction). Instead, assign a code for a confirmed but nonspecific condition (eg, viral pneumonia, unspecified) or sign or symptom (eg, vomiting, abdominal distension).</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A patient presents with concern of sore throat. A rapid streptococcal antigen test confirms streptococcal pharyngitis, which is reported with <emphasis role="bold">J02.0</emphasis>.</para>
+            <para>▶ A patient presents with concern of sore throat. A specimen is sent to an outside laboratory. Diagnosis at the time of code assignment is pharyngitis, reported with <emphasis role="bold">J02.9</emphasis> (acute pharyngitis, unspecified). If a definitive diagnosis is added to the record before claims submission (eg, test results are received and analyzed later on the same date), the code for the final diagnosis is reported.</para>
+            <para>As noted in the General Coding Guidelines section earlier in this chapter, a confirmatory test is not always required for diagnosis, and a physician's statement of a diagnosis is sufficient to support code assignment.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Certain information documented by the patient and/or clinical staff (eg, body mass index [BMI]) may be used in code selection when the physician or QHP has documented an associated diagnosis (eg, overweight or obesity). Refer to the "Documentation by Other Than a Physician or Other Qualified Health Care Professional" box that follows for more information.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Documentation by Other Than a Physician or Other Qualified Health Care Professional</emphasis> With few exceptions, code assignment is based on documentation by the physician or other QHP legally accountable for establishing the patient's diagnosis. Documentation by another clinician (eg, nurse, medical assistant, clinical social worker) supports reporting codes for the items on the following list when the associated diagnosis was documented by the patient's physician or QHP:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>BMI with diagnosis of underweight, overweight, or obesity</para>
+               </listitem>
+               <listitem>
+                  <para>Depth of diagnosed nonpressure chronic ulcers or pressure ulcer stage</para>
+               </listitem>
+               <listitem>
+                  <para>Coma scale in acute medical or traumatic brain injury</para>
+               </listitem>
+               <listitem>
+                  <para>National Institutes of Health Stroke Scale</para>
+               </listitem>
+               <listitem>
+                  <para>SDoH classified to Chapter 21 of ICD-10-CM</para>
+               </listitem>
+               <listitem>
+                  <para>Laterality of either a condition or an injury</para>
+               </listitem>
+               <listitem>
+                  <para>Blood alcohol level with alcohol-related disorders classifiable to category <emphasis role="bold">F10</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Underimmunization status</para>
+               </listitem>
+            </itemizedlist>
+            <para>Patient self-reported documentation may also be used to assign codes for SDoH, as long as this documentation is signed off on and incorporated into the medical record by a clinician or provider.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The coding conventions and guidelines of Section I take precedence over Section IV outpatient guidelines.</para>
+               </listitem>
+               <listitem>
+                  <para>Use codes in categories <emphasis role="bold">Z00–Z99</emphasis> when circumstances other than a disease or an injury are recorded as the reason for the encounter.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0003s0001s01s04">
+            <title>Sequencing of Diagnosis Codes</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Physicians and other letters of professional services should first list the condition, symptom, or other reason for the encounter that is chiefly (mainly) responsible for the services provided. List also any coexisting conditions. Always defer to the <emphasis role="italics">ICD-10-CM</emphasis> manual to determine if sequencing is outlined in the guidelines.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Diagnosis codes must be appropriately linked to a service on a claim to support the medical necessity of that service. Refer to the Reporting Codes for Payment section later in this chapter for more information.</para>
+         </sect4>
+         <sect4 id="ch0003s0003s0001s01s05">
+            <title>Reporting Previously Treated Conditions</title>
+            <para>✱ Do not code conditions that were previously treated and no longer exist. Personal history codes <emphasis role="bold">Z85–Z87</emphasis> may be used to identify a patient's historical conditions. Codes for family history that affects current care are also reported (<emphasis role="bold">Z80–Z84</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report codes for chronic or recurring conditions as many times as the patient receives care for each condition.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

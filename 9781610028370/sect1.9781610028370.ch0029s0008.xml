@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0008">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0007</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0008</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0009</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 11
+    </title>
+   <para>
+      <emphasis role="bold">1. c.</emphasis> None. Modifiers <emphasis role="bold">26</emphasis> and <emphasis role="bold">TC</emphasis> are not appended because <emphasis role="bold">93010</emphasis> designate that only the professional component (interpretation and report) was provided. Codes <emphasis role="bold">93000</emphasis> and <emphasis role="bold">93005</emphasis> are used to report the global service or technical component, respectively. A reduced service modifier <emphasis role="bold">52</emphasis> is not indicated because the full service was completed.</para>
+   <para>
+      <emphasis role="bold">2. d.</emphasis> Report collection of blood samples for testing (eg, venipuncture) in a physician practice regardless of whether the laboratory test is performed in the office or at an outside facility. Other specimen collection (eg, nasal or oral swab, urine collection) is typically not separately reported. Code <emphasis role="bold">51701</emphasis> is reported when a non-indwelling bladder catheter (straight catheterization) is inserted for a urine culture collection.</para>
+   <para>
+      <emphasis role="bold">3. d.</emphasis> Laboratories and physician offices performing waived tests should append modifier <emphasis role="bold">QW</emphasis> to the <emphasis role="italics">CPT</emphasis> code for CLIA-waived procedures. Only a small number of CLIA-waived tests are exempt from use of modifier <emphasis role="bold">QW</emphasis> (eg, <emphasis role="bold">81002</emphasis>, non-automated urinalysis without microscopy; <emphasis role="bold">81025</emphasis>, urine pregnancy test; <emphasis role="bold">82272</emphasis>, occult blood by peroxidase for other than colorectal neoplasm screening).</para>
+   <para>
+      <emphasis role="bold">4. c.</emphasis> Codes for proprietary laboratory analyses or multianalyte assays with algorithmic analyses are selected on the basis of the analysis performed and the proprietary name of the test.</para>
+   <para>
+      <emphasis role="bold">5. d.</emphasis> All of the above. The physician's or QHP's analysis of test results that do not require interpretation and report is part of an E/M service. Time spent providing a separately reported testing service does not contribute to the total time of an E/M service. Modifier <emphasis role="bold">25</emphasis> may be required on the E/M service to indicate the service was significant and is separately identifiable in the documentation.</para>
+</sect1>

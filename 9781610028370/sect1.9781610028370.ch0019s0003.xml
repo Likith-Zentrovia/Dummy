@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0019s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0019s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0019s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>15. Hospital Care of the Newborn</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>PART 3. PRIMARILY FOR HOSPITAL SETTINGS</title>
+   <para>Current Procedural Terminology (CPT) codes for care of a normal newborn typically follow a pathway of daily care from initial care to subsequent care and/or discharge day management depending on the length of the newborn's hospital stay. Notable exceptions are newborns admitted and discharged on the same date (99463) and newborns receiving initial care in settings other than a hospital or birthing center (99461). Codes 99460–99463 are reported once per date of service (DOS) regardless of the number of visits or time spent, even when different physicians in the same specialty and same group practice see the newborn on the same date.</para>
+   <para>A normal newborn may be defined as a newborn who</para>
+   <itemizedlist>
+      <listitem>
+         <para>Completes a normal transition period after birth</para>
+      </listitem>
+      <listitem>
+         <para>May require delivery room intervention, as discussed in the Attendance at Delivery section later in this chapter, but is normal after transition</para>
+      </listitem>
+      <listitem>
+         <para>May require some testing or monitoring (eg, bilirubin, ABO and antiglobulin [Coombs] testing, complete blood cell count [CBC], culture[s])</para>
+      </listitem>
+      <listitem>
+         <para>Does not require significant intervention(s)</para>
+      </listitem>
+      <listitem>
+         <para>May be observed for illness related to maternal pregnancy or labor complication(s) but is not sick</para>
+      </listitem>
+      <listitem>
+         <para>May be born with a nonthreatening anomaly (eg, polydactyly, undescended testes)</para>
+      </listitem>
+      <listitem>
+         <para>May be late preterm (34 weeks–36 weeks 6 days) but requires no special care</para>
+      </listitem>
+      <listitem>
+         <para>May be in house with their sick mother/twin</para>
+      </listitem>
+   </itemizedlist>
+   <para>Normal newborn codes can be reported for care provided to neonates who are acting normally but recovering from intrapartum stress or a low Apgar score or who are being observed for a potential problem but are asymptomatic (eg, mother treated for group B streptococcal infection during labor).</para>
+   <para>Codes 99460, 99462, 99463, 99238, and 99239 are used to report evaluation and management (E/M) services provided to the healthy newborn in a health care facility such as a hospital, including birthing room deliveries, or birthing center. They are reported whether the newborn is cared for in the mother's room (rooming-in), a labor and delivery room, a post-partum floor, or a traditional newborn nursery, as well as when a normal neonate is cared for after the mother is discharged (eg, awaiting foster care).</para>
+   <para>Code 99461 may be appropriate for E/M of a neonate born at home and evaluated in the physician practice soon after birth (ie, same day or next day).</para>
+   <para>Codes 99460–99463 are not reported for telemedicine services unless specified in payer policy. These codes are not included in the CPT listing of codes reported with modifier 95 (synchronous telemedicine service via real-time interactive audio and video telecommunications system).</para>
+   <para>Guidelines for reporting include</para>
+   <itemizedlist>
+      <listitem>
+         <para>Care or interventions provided in labor and delivery (eg, attendance at delivery or neonatal resuscitation) are reported separately from daily neonatal hospital care, intensive, or critical care.</para>
+      </listitem>
+      <listitem>
+         <para>Code 99463 (history and examination of the normal newborn, including discharge) should be reported when an initial history and physical examination and the discharge management are performed on the same calendar date for a normal newborn.</para>
+      </listitem>
+      <listitem>
+         <para>Do not report 99463 when discharge occurs on the next calendar date even if less than 24 hours has passed since the initial newborn care.</para>
+      </listitem>
+      <listitem>
+         <para>Code 99460 (history and examination of the normal newborn, initial service) is reported only once on the first day that the physician provides one or more face-to-face services in the facility. This date may not necessarily correlate with the date the patient is born or the hospital admission date.</para>
+      </listitem>
+      <listitem>
+         <para>Code 99462 (subsequent hospital care, normal newborn) is reported once per calendar date, regardless of the number of visits, on the date(s) subsequent to the initial normal newborn care service but not on the date of a discharge management service.</para>
+      </listitem>
+      <listitem>
+         <para>Discharge management services performed on a day subsequent to initial newborn care are reported with 99238 (hospital discharge day management; 30 minutes or less) or 99239 (hospital discharge day management; more than 30 minutes). Only time spent on the date of the discharge day management service is used in code selection. Time must be documented when reporting 99239.</para>
+         <itemizedlist>
+            <listitem>
+               <para>Include time spent in final examination of the patient, discussion of the hospital stay, instructions to parents/caregivers for continuing care, and preparation of discharge records, prescriptions, and referral forms.</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">Discharge day management codes 99238 and 99239 are valued higher than the subsequent newborn hospital care code (99462) to include the physician's time and work, such as reviewing and documenting the hospital stay and counseling parents about continuing care of their neonate.</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>Any additional procedures (eg, 54150, circumcision using clamp or other device with dorsal penile or ring block) should be reported in addition to normal newborn care codes. Modifier 25 (significant, separately identifiable E/M service) should be appended to the E/M code when a procedure is performed on the same day of service.</para>
+      </listitem>
+   </itemizedlist>
+   <para>✱ When reporting an E/M service based on time (eg, discharge day management), do not include the time spent providing a separately reported service (eg, circumcision) in the time of the E/M service (eg, obtaining consent, providing post-procedural care instruction).</para>
+   <sect2 id="ch0019s0003s20001">
+      <title/>
+      <sect3 id="ch0019s0003s30003">
+         <title/>
+         <sect4 id="ch0019s0003s0001s01s01">
+            <title>ICD-10-CM Codes for Newborn Services</title>
+            <para>
+               <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) codes from category <emphasis role="bold">Z38</emphasis> are used to report liveborn neonates and are the first-listed codes for care by the attending or admitting physician during the entire birth admission. Other physicians providing care during the birth admission do not report <emphasis role="bold">Z38</emphasis> codes but, instead, report codes for the condition(s) they managed at each encounter. Category <emphasis role="bold">Z38</emphasis> codes for single and twin liveborn neonates are shown in <emphasis role="bold">Box 15-1</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0019s0003s0001s01s02">
+            <title>Box 15-1. International Classification of Diseases, 10th Revision, Clinical Modification Codes for Single and Twin Liveborn Neonates</title>
+            <table frame="all" id="ch0019s0003ta0001">
+               <title>Box 15-1. International Classification of Diseases, 10th Revision, Clinical Modification Codes for Single and Twin Liveborn Neonates</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <tbody>
+                     <row>
+                        <entry>Z38.00 (single liveborn infant, delivered vaginally)</entry>
+                        <entry>Z38.30 (twin liveborn infant, delivered vaginally)</entry>
+                     </row>
+                     <row>
+                        <entry>Z38.01 (single liveborn infant, delivered by cesarean)</entry>
+                        <entry>Z38.31 (twin liveborn infant, delivered by cesarean)</entry>
+                     </row>
+                     <row>
+                        <entry>Z38.1 (single liveborn infant, born outside hospital)</entry>
+                        <entry>Z38.4 (twin liveborn infant, born outside hospital)</entry>
+                     </row>
+                     <row>
+                        <entry>Z38.2 (single liveborn infant, unspecified as to place of birth)</entry>
+                        <entry>Z38.5 (twin liveborn infant, unspecified as to place of birth)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; ● indicates a new code; ▲, revised; #, re-sequenced; ✱, add-on; ✱, modifier/unusual technology; and ♦, synchronous interactive audio.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Report newborn hospital care only when a face-to-face service is provided, regardless of any advice provided by phone. The date of the attending physician's first evaluation of the newborn is the date of initial newborn care (in this example, 1 day after the birth date). When a procedure (eg, circumcision) is provided on the same date as a newborn care service, modifier 25 is appended to the code for newborn care to signify that the E/M service was significant and separately identifiable from the preservice and postservice work of the procedure in the documentation. Code 241.2 (encounter for circumcision) is not required when reporting a Z38.- code.</para>
+            <para>▶<emphasis role="bold">A baby is born vaginally in the hospital on March 3 at 4:00 pm.</emphasis> The physician first sees the baby on March 4 at 7:00 am and, later the same date, discharges the newborn as requested by the parents. A history and examination of the newborn, discussion of the hospital stay with the parents and the mother's doula (who will provide postpartum support to the family), instructions for continuing care, family counseling, and preparation of the final discharge records are performed.</para>
+            <table frame="all" id="ch0019s0003ta0002">
+               <title>Box 15-1. International Classification of Diseases, 10th Revision, Clinical Modification Codes for Single and Twin Liveborn Neonates</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z38.00 (single liveborn, delivered vaginally)</entry>
+                        <entry>99463 (initial normal newborn care and discharge on the same date)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> The service is normal newborn care even though the newborn is being observed for risk of jaundice. The first-listed diagnosis code is Z38.00.</para>
+            <para>▶<emphasis role="bold">During a subsequent newborn care visit, the physician notes that the newborn failed the routine hearing screening.</emphasis> The attending physician spends 15 minutes discussing the results with the parents, refers to an audiologist for testing to confirm or rule out hearing abnormality, and orders a screening test for cytomegalovirus.</para>
+            <table frame="all" id="ch0019s0003ta0003">
+               <title>Box 15-1. International Classification of Diseases, 10th Revision, Clinical Modification Codes for Single and Twin Liveborn Neonates</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z38.00 (single liveborn, delivered vaginally)P09.6 (abnormal findings on neonatal screening for neonatal hearing loss)Z11.59 (encounter for screening for other viral diseases)</entry>
+                        <entry>99462 (subsequent normal newborn care)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>An audiologist performing confirmatory testing would report Z01.110 (encounter for hearing examination following failed hearing screening) and codes for any identified conditions.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0019s0003s0002">
+      <title>Hospital Care of the Ill Newborn</title>
+      <sect3 id="ch0019s0003s30004">
+         <title/>
+         <sect4 id="ch0019s0003s0002s01s01">
+            <title>Choosing Normal Newborn Care or Hospital Care</title>
+            <para>The choice between coding for normal newborn care and coding for hospital care is based on the physician's judgment and the type and severity of symptoms demonstrated. Services to newborns that require an increased level of physician care, nursing observation, or physiologic monitoring (but not intensive care as described by <emphasis role="bold">99477–99480</emphasis>) are typically reported with hospital inpatient or observation care codes (initial, <emphasis role="bold">99221–99223</emphasis>; subsequent, <emphasis role="bold">99231–99233</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A sick-newborn visit includes a manifesting problem that supports the need for diagnostic investigation, enhanced observation and monitoring, or directed therapy. <emphasis role="italics">Therapeutic intervention is typically necessary for the sick newborn (eg, antibiotics, intravenous [IV] fluids, oxygen, phototherapy).</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>The nature of the manifesting problem, testing, and extent of work required to diagnose and manage the problem should be considered when determining the appropriate procedure code.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0019s0003s0002s01s02">
+            <title>Attendance at Delivery</title>
+            <para>
+               <emphasis role="bold">99464</emphasis> Attendance at delivery (when requested by the delivering physician or other QHP) and initial stabilization of newborn Attendance at delivery (<emphasis role="bold">99464</emphasis>) is not reported when hospital-mandated attendance is the only basis for providing the service. When physician on-call services are mandated by the hospital (eg, attending all repeat cesarean deliveries) and not physician requested, report <emphasis role="bold">99026</emphasis> (hospital-mandated on-call service; in hospital, each hour) or <emphasis role="bold">99027</emphasis> (hospital-mandated on-call service; out of hospital, each hour).</para>
+            <para>Attendance at delivery (<emphasis role="bold">99464</emphasis>)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Service is reported only when requested by the delivering physician and indicated for a newborn who <emphasis role="italics">may</emphasis> require immediate intervention (ie, stabilization, resuscitation, or evaluation for potential problems) even when no subsequent interventions were necessary.</para>
+               </listitem>
+               <listitem>
+                  <para>Medical record documentation must include the request for attendance at the delivery and substantiate the medical necessity of any services needed and performed. If there is no documentation by the delivering physician for attendance at delivery, the verbal request and the reason for the request should be documented in the attendance note.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Documentation of attendance at delivery should include the name of the requesting physician or QHP and the risks that prompted the request.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Includes initial drying, stimulation, suctioning, blow-by oxygen, or transient continuous positive airway pressure (CPAP) or high-flow nasal cannula; positive pressure ventilation; a cursory visual inspection of the neonate; assignment of Apgar scores; and discussion of care for the newborn with the delivering physician and parents. A quick look into the delivery room or examination after stabilization has occurred is <emphasis role="italics">not</emphasis> sufficient to report <emphasis role="bold">99464</emphasis>. Refer to the "Coding Conundrum: What Service Can Be Reported When a Physician Arrives After Delivery?" box later in this chapter for more information on reporting less than full attendance at delivery services.</para>
+               </listitem>
+               <listitem>
+                  <para>May be reported in addition to initial normal newborn (<emphasis role="bold">99460</emphasis>), initial sick newborn (<emphasis role="bold">99221–99223</emphasis>), initial intensive care of the neonate (<emphasis role="bold">99477</emphasis>), or critical care (<emphasis role="bold">99468; 99291, 99292</emphasis>) codes.</para>
+               </listitem>
+               <listitem>
+                  <para>Is not reported in conjunction with standby service codes <emphasis role="bold">99026</emphasis> and <emphasis role="bold">99027</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When qualifying resuscitative efforts, including positive pressure ventilation, are provided to a neonate with respiratory or cardiac instability, report <emphasis role="bold">99465</emphasis> (delivery/birthing room resuscitation, provision of positive pressure ventilation and/or chest compressions in the presence of acute inadequate ventilation and/or cardiac output) instead of <emphasis role="bold">99464</emphasis>. Do not report both <emphasis role="bold">99464</emphasis> and <emphasis role="bold">99465</emphasis> (ie, report only <emphasis role="bold">99465</emphasis>, when provided).</para>
+            <para>
+               <emphasis role="bold">Refer to Chapter 16 for guidelines for standby service codes 99026 and 99027. Standby services <emphasis role="italics">may</emphasis> be reported with the newborn resuscitation services (99465) per CPT guidelines. Refer to Chapter 17 for more information on reporting delivery/birthing room neonatal resuscitation and separately reported services (eg, E/M services after admission) and guidelines for coding intensive or critical care services.</emphasis> ▶ A physician is called at the request of an obstetrician to attend a cesarean delivery because of meconium-stained fluid. The physician stands by until the neonate is delivered and provides stabilization of the neonate, who initially requires blow-by oxygen but steadily becomes more vigorous (<emphasis role="bold">99464</emphasis>). The same physician then provides initial normal newborn care (<emphasis role="bold">99460</emphasis>) on that same day.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The physician separately reports the 2 services. No modifier is reported on codes <emphasis role="bold">99460</emphasis> and <emphasis role="bold">99464</emphasis> because the codes are not bundled under National Correct Coding Initiative edits.</para>
+            <para>▶ A delivering physician asks a neonatologist to be present at delivery of a neonate whose mother has an active infection. In addition to reviewing the maternal and fetal history and having a discussion with the parents and delivering physician, the neonatologist documents stabilization including use of CPAP without positive pressure ventilation and a comprehensive examination of the neonate.</para>
+            <para>The newborn is admitted to the newborn nursery under the orders of another physician. This attending physician provides a comprehensive history and examination, orders screening tests and prophylactic interventions, and counsels the family that the neonate should be monitored closely for signs of illness. The physician also counsels about topics such as feeding, sleep, and safety. The attending physician would report <emphasis role="bold">99460</emphasis> or initial hospital inpatient or observation care (<emphasis role="bold">99221–99223</emphasis>) if the newborn experienced an abnormal transition and required significant intervention(s) on that date.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Although a history and examination were performed, they do not equate to initial hospital care of the newborn. The neonatologist reports <emphasis role="bold">99464</emphasis> for attendance at delivery.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Coding Conundrum: What Service Can Be Reported When a Physician Arrives After Delivery?</emphasis>
+               </para>
+               <para>There are no specific time requirements for reporting attendance at delivery. This service requires a request for attendance at delivery by the delivering physician and includes physician work, as described in the Attendance at Delivery section earlier in this chapter. When a physician arrives in the delivery room after the delivery and some or all of this work has been performed, should attendance at delivery be reported? Physicians might want to consider</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>When the newborn continues to require significant or prolonged intervention or stabilization in the delivery room, reporting <emphasis role="bold">99464</emphasis> (attendance at delivery) if the physician work (eg, repetitive stimulation, brief reapplication of CPAP, or intermittent oxygen) is related to the initial transition or <emphasis role="bold">99465</emphasis> if the neonate requires more intensive resuscitative interventions (eg, bag and mask ventilation)</para>
+                  </listitem>
+                  <listitem>
+                     <para>When the work provided in the delivery room is related more to the initial transition (eg, the neonate is examined and attending physician sends the neonate to the well-baby nursery), reporting only the initial normal newborn care code (<emphasis role="bold">99460</emphasis>)</para>
+                  </listitem>
+               </itemizedlist>
+               <para>For example, attendance at delivery was requested by the delivering physician and the physician arrives after the delivery.</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>The 1-minute Apgar score was assessed; the neonate was dried, stimulated, and suctioned by the nurses; and the neonate is ready to be sent to the newborn nursery by the time the pediatrician appears in the delivery room. The delivering physician acknowledges that assistance is no longer needed. The attending pediatrician reports initial normal newborn care (<emphasis role="bold">99460</emphasis>) after completing the initial examination of the newborn. But if the pediatrician is not the attending pediatrician, no service can be reported.</para>
+                  </listitem>
+                  <listitem>
+                     <para>In the previous example, the child requires continued attendance and assistance. The pediatrician assigns the 5-minute Apgar score, performs continued observation and a focused examination, reviews the birth history, and discusses care of the newborn with the delivering physician and parents. Code <emphasis role="bold">99464</emphasis> is not reported because most of the basic elements of the attendance at delivery were performed and documented in the medical record.</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+            <para>When reporting services to the mother after a stillborn delivery or to a neonate when resuscitation services are unsuccessful, refer to the "Stillborn Deliveries and Unsuccessful Resuscitation" box in Chapter 17.</para>
+         </sect4>
+         <sect4 id="ch0019s0003s0002s01s03">
+            <title>Diagnosis Codes for Perinatal Conditions</title>
+            <para>There are some important guidelines for reporting conditions that originate in the perinatal period. In <emphasis role="italics">ICD-10-CM</emphasis>, these conditions are classified in Chapter 16 and codes <emphasis role="bold">P00–P96</emphasis>. Codes in this chapter are used only in the neonate's record and not in that of the mother.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

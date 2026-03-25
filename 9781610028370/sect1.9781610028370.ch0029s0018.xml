@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0018">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0017</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0018</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 21
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>c. CPT Appendix R is a digital medicine taxonomy table for quickly identifying and differentiating digital medicine services, including clinical data monitoring services.</para>
+      </listitem>
+      <listitem>
+         <para>b. Code 99091 represents a 30-day episode of care.</para>
+      </listitem>
+      <listitem>
+         <para>a. The supplier of the equipment (patient or physician office) determines code selection for the sensor placement, hook-up, calibration of monitor, patient training, and printout of recording 95250 and 95249.</para>
+      </listitem>
+      <listitem>
+         <para>d. 99470 and 99457 include time spent in a calendar month monitoring, analyzing, and using the results of transmitted physiologic data to treat a patient under a specific treatment plan. At least 1 interactive communication with the patient/caregiver is required in the calendar month of service.</para>
+      </listitem>
+      <listitem>
+         <para>d. All of the above are correct. The remote therapeutic monitoring treatment management services require a minimum of 10 minutes of a physician's, QHP's, or NQHCP's time in a calendar month and 1 real-time interactive communication, and only 1 initial service is reported per calendar month.</para>
+</listitem>
+   </orderedlist>
+</sect1>

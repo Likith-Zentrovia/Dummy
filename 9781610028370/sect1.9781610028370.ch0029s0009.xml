@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0009">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0008</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0009</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0010</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 12
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>a. Scope of practice is used to define the procedures, actions, and processes that are permitted for a licensed individual. Scope of practice may also address the delegation of health care activities to unlicensed individuals and the delegation of certain or other QHP/ NQHCP has ascertained have the education, training, and/or certification necessary to safely perform the activity.</para>
+      </listitem>
+      <listitem>
+         <para>b. Online medical assessment and management (<emphasis role="bold">98970–98972</emphasis>) are independently provided and reported by NQHCPs. NQHCPs typically have a scope of practice that does not include independent provision and reporting of evaluation and management services.</para>
+      </listitem>
+      <listitem>
+         <para>d. The cumulative time is used in code selection for the online assessment and management services. One code and 1 unit of service are reported for the sum of communications pertaining to the online encounter during a 7-day period.</para>
+      </listitem>
+      <listitem>
+         <para>a. True. Lactation consultation services do not have a specific <emphasis role="italics">CPT</emphasis> code. HCPCS code <emphasis role="bold">59443</emphasis> is the code most specific to lactation services.</para>
+      </listitem>
+      <listitem>
+         <para>a. A standardized curriculum is used, and the time-based services are prescribed by a physician or QHP.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

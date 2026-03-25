@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0001</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 5
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>d. Both A and B. The Civil Monetary Penalties law authorizes the HHS to impose civil money penalties on and/or exclude from the Medicare and Medicaid programs physicians who commit various forms of fraud and abuse under Medicare and Medicaid.</para>
+      </listitem>
+      <listitem>
+         <para>a. A key aspect is that the organization exercises due diligence to prevent and detect criminal conduct and promotes a culture that encourages ethical conduct and a commitment to compliance with the law.</para>
+      </listitem>
+      <listitem>
+         <para>b. Do not allow cut-and-paste functionality in the EHR. Any use of copy and paste, copy forward, macros, or auto-population should beregulated by office policies that address maintenance of record integrity and supplementation via free text, where indicated.</para>
+      </listitem>
+      <listitem>
+         <para>c. Use of internal audits to identify and correct errors shows a good-faith effort to be compliant.</para>
+      </listitem>
+      <listitem>
+         <para>d. Reply in writing to inform the carrier that you are willing to work with it and to ask that it identify each of the claims in question as well as the specific criteria or standards it is applying to the audit.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0019s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0019s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>15. Hospital Care of the Newborn</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Hospital Care of the Newborn</title>
+   <itemizedlist>
+      <listitem>
+         <para>Defining the perinatal and neonatal periods</para>
+      </listitem>
+      <listitem>
+         <para>Diagnosis codes reported for conditions of the newborn</para>
+      </listitem>
+      <listitem>
+         <para>Reporting attendance at delivery versus standby services</para>
+      </listitem>
+      <listitem>
+         <para>Codes for normal newborn and hospital inpatient care</para>
+      </listitem>
+      <listitem>
+         <para>Codes for services throughout the course of the birth admission</para>
+      </listitem>
+      <listitem>
+         <para>Coding for circumcisions and car safety seat testing</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0019s0002s0001">
+      <title>Perinatal Care</title>
+      <para>This chapter focuses on coding for care of the normal newborn and newborns with conditions not requiring intensive monitoring or critical care.</para>
+      <para>The American Academy of Pediatrics (AAP) Section on Neonatal-Perinatal Medicine, in conjunction with state chapters and councils of the AAP, has developed successful strategies that address concerns about payment for neonatal care. Contact your state chapter, its pediatric council, your section district AAP Executive Committee representative, a neonatal trainer, or the AAP Committee on Coding and Nomenclature for assistance in addressing any payment inequities for neonatal services in your state.</para>
+      <para>You can also complete the AAP Coding and Payment Hassle Hotline Form (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline).</para>
+      <sect3 id="ch0019s0002s30001">
+         <title/>
+         <sect4 id="ch0019s0002s0001s01s01">
+            <title>Coding Definitions of the Perinatal and Neonatal Periods</title>
+            <para>For coding purposes, the <emphasis role="italics">perinatal period</emphasis> commences before birth and continues through the 28th completed day following birth. According to this definition, the <emphasis role="italics">neonatal period</emphasis> begins at birth and continues through <emphasis role="italics">the completed 28th day after birth</emphasis>, ending on the 29th calendar day after birth. The day of birth is considered day 0 (zero). Therefore, the day after birth is considered day 1. This definition is important for selection of the correct diagnosis codes for conditions that originate in the perinatal period. (It is also important for selection of codes for neonatal critical care and initial intensive care.)</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0019s0002s0002">
+      <title>Expectant Parent Visits</title>
+      <para>When expectant parents request a visit to choose a pediatrician and learn about the practice, these "meet and greet" visits are not typically considered a medically necessary service. But many pediatric practices establish policies for managing this type of visit, often at times when the practice is least busy, as a non-billable service used for marketing the practice.</para>
+      <para>Refer to the Consultations section later in this chapter for an example of a clinically indicated consultation provided to expectant parents at the request of another physician or other appropriate source (eg, to address risk reduction and plan newborn care in the presence of identified or suspected abnormalities). A service requested by an expectant parent is not a consultation.</para>
+   </sect2>
+   <sect2 id="ch0019s0002s0003">
+      <title>Normal Newborn Care</title>
+      <sect3 id="ch0019s0002s30002">
+         <title/>
+         <sect4 id="ch0019s0002s0003s01s01">
+            <title>Daily Care of the Normal Newborn</title>
+            <para>
+               <emphasis role="bold">99460</emphasis> Initial hospital or birthing center care, perday, for evaluation and management of normal newborn infant <emphasis role="bold">99461</emphasis> Initial care, perday, for evaluation and management of normal newborn infant seen in other than hospital or birthing center</para>
+            <para>
+               <emphasis role="bold">99462</emphasis> Subsequent hospital care, perday, for evaluation and management of normal newborn <emphasis role="bold">99463</emphasis> Initial hospital or birthing center care, perday, for evaluation and management of normal newborn infant admitted and discharged on the same date</para>
+            <para>
+               <emphasis role="bold">99238</emphasis> Hospital inpatient or observation discharge day management; 30 minutes or less on the date of the encounter <emphasis role="bold">99239</emphasis> more than 30 minutes on the date of the encounter</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CPT</title>
+   <para>
+      <emphasis role="bold">90460</emphasis> (IA with physician counseling, first or only component) <emphasis role="bold">90651</emphasis> (HPV types 6, 11, 16, 18, 31, 33, 45, 52, 58, nonavalent [9v HPV], 2 or 3 dose schedule, for IMuse)</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> An E/M service with modifier 25 is <emphasis role="italics">not</emphasis> reported. A separate charge for an E/M service is not indicated, as the physician's preservice evaluation and counseling are included in the IA reported with code 90460. Had the patient requested evaluation of a problem requiring a significant and separately identifiable E/M service, the E/M service would have been reported (eg, <emphasis role="bold">99213 25</emphasis>).</para>
+   <para>Refer to <emphasis role="bold">Chapters 13 and 18</emphasis> for more information on reporting an E/M service on the date of a procedure. Refer to <emphasis role="bold">Chapter 8</emphasis> for examples and guidelines for reporting a preventive medicine visit and a problem-oriented visit on the same day of service.</para>
+   <sect2 id="ch0004s0004s20001">
+      <title/>
+      <sect3 id="ch0004s0004s30004">
+         <title/>
+         <sect4 id="ch0004s0004s0001s01s01">
+            <title>57—Decision for Surgery</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 57 is appended to an E/M service that resulted in the initial decision to perform the surgery or procedure. Appending modifier 57 to the E/M service indicates to the payer that the E/M service is not part of the global period.</para>
+               </listitem>
+               <listitem>
+                  <para>An E/M code with modifier 57 is reported only by the physician or a physician of the same specialty and group practice of the physician who performs the procedure. Other physicians providing E/M services on the day before or day of a procedure would not append modifier 57.</para>
+               </listitem>
+               <listitem>
+                  <para>Many payers will follow the CMS Medicare payment policy that allows reporting of modifier 57 only when the visit on the day before or day of surgery <emphasis role="italics">results in a decision to perform a surgical procedure</emphasis> that has a 90-day global period (major procedure).</para>
+               </listitem>
+               <listitem>
+                  <para>Know commercial and state Medicaid policies, maintain a written copy of the policies, and adhere to the policies.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0001s01s02">
+            <title>Example—Modifier 57</title>
+            <para>▶ A 10-year-old is seen by the pediatrician for the evaluation of pain inher foot and arm after a fall. The radiograph reveals a metatarsal fracture, and the decision is made to treat the closed fracture. Arm injuries are limited to bruising and abrasions.</para>
+            <para>Code <emphasis role="bold">28470</emphasis> (closed treatment, metatarsal fracture; without manipulation) has an assigned global surgery period of 90 days. The appropriate E/M code (<emphasis role="bold">99202–99215 57</emphasis>), based on the clinically indicated performance and documentation of the required MDM, would be reported in addition to <emphasis role="bold">28470</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0001s01s03">
+            <title>Modifiers Appended Only to Codes for Procedures, Not to E/M Services</title>
+            <para/>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0004s0004s0002">
+      <title>22—Increased Procedural Services</title>
+      <itemizedlist>
+         <listitem>
+            <para>Modifier 22 is used to report procedures when the work required to provide a service is substantially greater than typically required.</para>
+         </listitem>
+         <listitem>
+            <para>Modifier 22 is appended only to anesthesia, surgery, radiology, laboratory, pathology, and medicine codes.</para>
+         </listitem>
+         <listitem>
+            <para>Documentation must clearly reflect the substantial additional work and the reason for the additional work (eg, increased intensity, time, technical difficulty of procedure, severity of patient's condition, physical and mental effort required).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>It is important that documentation is specific. For instance, documentation that a procedure took longer than 1 hour is less supportive than documentation that the procedure took a total of 85 minutes or lasted from 9:15 to 10:40 am.</para>
+               </listitem>
+               <listitem>
+                  <para>Report additional diagnosis codes to support the increased work, when applicable.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Most payers will require that a copy of the medical record documentation be sent with the claim when modifier 22 is reported.</para>
+         </listitem>
+         <listitem>
+            <para>For an electronic claim, indicate "additional documentation available on request" in the claim level loop (2300 NTE) or in the line level loop (2400 NTE) segment. If the payer allows electronic claim attachments, follow the payer's instructions to submit the procedure note and, if necessary, a physician statement about the increased difficulty of the procedure.</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0004s0004s30005">
+         <title/>
+         <sect4 id="ch0004s0004s0002s01s01">
+            <title>Examples—Modifier 22</title>
+            <para>▶<emphasis role="bold">The physician required 45 minutes to perform a simple repair of a 1-cm laceration on a 2-year-old because the child's behavior was combative and several stops and starts were necessary.</emphasis> 12011 22        Simple repair superficial wound of face; ≤2.5 cm</para>
+            <para>▶<emphasis role="bold">A tonsillectomy with drainage of a peritonsillar abscess is performed.</emphasis> The surgery is complicated, requiring extensive work to control bleeding.</para>
+            <para>42826 22        Tonsillectomy, primary or secondary; age 12 or over <emphasis role="bold">Teaching Point:</emphasis> When appropriately documented, the increased work of procedure is reported by appending modifier 22. Note that drainage of the peritonsillar abscess at the time of tonsillectomy is included in the tonsillectomy and not separately reported.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s02">
+            <title>26—Professional Component</title>
+            <para/>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s03">
+            <title>Professional, Technical, or Global Services</title>
+            <para>Certain procedures (eg, cardiac tests, radiography, surgical diagnostic tests) are broken down into professional and technical components. CPT has a modifier for reporting the professional component (26) but does not have a modifier for reporting only the technical component. That falls under the HCPCS modifier set (modifier TC).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Professional component only:</emphasis> The physician who does not supply the equipment but performs the written interpretation and report of a service with professional and technical components should report the service with modifier 26 appended to the appropriate <emphasis role="italics">CPT</emphasis> code.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The professional component includes the physician work (eg, interpretation of the test, written report).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Technical component only:</emphasis> Most payers recognize modifier TC (technical component only). The facility or provider who owns the equipment and is responsible for the overhead and associated costs would report the same procedure code with modifier TC appended.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Technical and professional components (global):</emphasis> If a service includes both professional and technical components and the physician owns the equipment, employs the staff to perform the service, and interprets the test, the procedure is reported <emphasis role="italics">without a modifier</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s04">
+            <title>Reporting Modifier 26</title>
+            <itemizedlist>
+               <listitem>
+                  <para>When reporting the professional component of diagnostic tests, interpretation should be documented in a report similar to that which is typical for the physicians who predominantly provide the service. This report should include <emphasis role="italics">all the following items:</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Indication(s) for testing</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Description of test — Findings and any comparison to findings of prior tests</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Limitations, when applicable</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Impression or conclusion</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>If the report of a physician's interpretation is included in the documentation of another service (eg, office visit), it is important that the report is distinct and complete.</para>
+               </listitem>
+               <listitem>
+                  <para>The professional component is not reported when a physician reviews a test and notes agreement with the interpreting physician or when only a quick read without formal interpretation is provided.</para>
+               </listitem>
+               <listitem>
+                  <para>Some codes were developed to distinguish between technical and professional components (eg, routine electrocardiogram [ECG] codes <emphasis role="bold">93000–93010</emphasis>). Modifier 26 is not appropriate when reporting codes that distinguish professional and technical components and may result in a denial of the charge.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s05">
+            <title>Examples—Modifier 26</title>
+            <para>▶<emphasis role="bold">A physician interprets the results of anattended polysomnography provided to a 6-year-old patient and creates a report of the findings. The tests were performed in a facility's sleep laboratory, and the facility will bill the technical component of the service.</emphasis>
+               <emphasis role="bold">95810 26</emphasis>    Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, attended by a technologist The physician reports modifier 26, indicating professional component only, because the facility provided the technical component.</para>
+            <para>▶<emphasis role="bold">A pediatrician electronically accesses the image of a foot radiograph that was taken at the outpatient department of the hospital and will be interpreted by a radiologist at that facility. The pediatrician notes findings in the patient's records.</emphasis> The pediatrician's review of the radiograph is not separately reported when a radiologist provides a final interpretation and report. The pediatrician's independent review and interpretation of the image, however, increases the level of data to be reviewed and analyzed when determining the level of MDM in a related E/M service. (Refer to Chapter 6 for more on how independent interpretation of tests affects the level of MDM for a visit.)</para>
+            <para>▶<emphasis role="bold">A cardiologist performs transthoracic echocardiography with spectral and color-flow Doppler echocardiography on a patient in the hospital.</emphasis> The cardiologist reports <emphasis role="bold">93306 26</emphasis> (echocardiography, transthoracic, real-time with image documentation [2D], includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color-flow Doppler echocardiography), and the hospital reports <emphasis role="bold">93306 TC</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s06">
+            <title>47—Anesthesia by Surgeon</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 47 is used only when a physician performing a procedure <emphasis role="italics">also personally performs</emphasis> the regional and/or general anesthesia. The physician performing the procedure may not report codes <emphasis role="bold">00100–01999</emphasis> for anesthesia services. Instead, modifier 47 is appended to the code for the procedure performed.</para>
+               </listitem>
+               <listitem>
+                  <para>When performed, a code for regional anesthesia (nerve block) may be reported to indicate the site of the block.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier 47 is considered informational by many payers and does not affect payment.</para>
+               </listitem>
+               <listitem>
+                  <para>Medicaid considers all anesthesia (other than moderate conscious sedation) provided by the same physician performing a procedure to be included in the procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Other payers may restrict use of modifier 47 to specific procedure codes and provide specific reporting instructions. Be sure to verify payer policy before reporting.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">DO NOT USE MODIFIER 47 WHEN</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>✱<emphasis role="bold">Administering local anesthetic because it is considered inherent to the procedure</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>✱<emphasis role="bold">Performing moderate (conscious) sedation</emphasis> For more information on reporting moderate sedation, refer to Chapter 13.</para>
+            <para>
+               <emphasis role="bold">Example—Modifier 47</emphasis> ▶ The surgeon performs a nerve block on the brachial plexus (64415) and removal of a ganglion cyst on the wrist (25111).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>25111 47 and 64415.</para>
+               </listitem>
+               <listitem>
+                  <para>The regional anesthesia is separate from the procedure.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s07">
+            <title>50—Bilateral Procedure</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 50 is used to identify bilateral procedures that are performed at the same session.</para>
+               </listitem>
+               <listitem>
+                  <para>It is used only when the services or procedures are performed on identical anatomical sites, aspects, or organs.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not append modifier 50 to a code with a descriptor that indicates the procedure includes bilateral, "one or both," or "unilateral or bilateral."</para>
+               </listitem>
+               <listitem>
+                  <para>The Medicare Physician Fee Schedule (MPFS) Relative Value Files (www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files) include a column (Column T, BILAT SURG) that identifies codes that may be reported with modifier 50. Procedures with a 1 indicator can be reported with modifier 50.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Some private payers also publish lists of codes that may be reported as bilateral procedures.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the CPT code descriptor indicates a bilateral procedure and only a unilateral procedure is performed, modifier 52 (reduced services) should be appended to the procedure code.</para>
+               </listitem>
+               <listitem>
+                  <para>For Medicaid claims that require use of modifier 50, report only 1 unit of service on the line item for the bilateral procedure. Other payers may have different instructions for reporting bilateral procedures.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Examples—Modifier 50</emphasis> ▶ A physician performs bilateral tympanostomy with insertion of ventilating tubes while the patient is under general anesthesia.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>69436 50    Tympanostomy (requiring insertion of ventilating tube), general anesthesia</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A physician performs bilateral nasal endoscopy.</para>
+            <para>31231    Nasal endoscopy, diagnostic, unilateral or bilateral (separate procedure) Teaching Point: Modifier 50 would not be appended to code 31231 because the code descriptor indicates a unilateral or bilateral procedure. Modifier 52 is also not required for reporting a unilateral service when the code descriptor includes the phrase "unilateral or bilateral," as the unmodified code represents a service that is either unilateral or bilateral.</para>
+            <para>
+               <emphasis role="bold">Coding Conundrum: Modifier 50</emphasis> The Medicaid NCCI edits require that bilateral surgical procedures (for which there is no code specifying a bilateral procedure) be reported with modifier 50 and 1 unit of service.</para>
+            <para>
+               <emphasis role="italics">Example:</emphasis> Report removal of foreign bodies from both ears with 69200 50 with 1 unit.</para>
+            <para>Bilateral diagnostic procedures may be reported with any of the methods that follow:<emphasis role="italics">Example:</emphasis> Report bilateral radiographs of clavicles with 1 of the following 3 methods:</para>
+            <para>2 units of service on 1 claim line: 73000 (radiologic examination; clavicle, complete) × 2 1 unit of service and modifier 50 on 1 claim line: 73000 50 × 1 unit</para>
+            <para>1 unit of service and modifier RT on 1 claim line plus 1 unit of service and modifier LT on a second claim line: 73000 RT × 1 unit and 73000 LT × 1 unit</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s08">
+            <title>51—Multiple Procedures</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 51 is most often used for surgical procedures that are performed during the same session and through the same incision. This modifier identifies potentially overlapping or duplicative relative value units (RVUs) related to the global surgical package or the technical component of certain services (eg, radiology services).</para>
+               </listitem>
+               <listitem>
+                  <para>Some payers, including Medicare administrative contractors, advise against reporting this modifier, as their systems automatically assign multiple service reductions to the appropriate services. In these cases, the system ignores modifier 51. Follow payer guidance for reporting modifier 51.</para>
+               </listitem>
+               <listitem>
+                  <para>When required, modifier 51 is appended to codes for each additional procedure or service when multiple procedures are performed at the same session by the same individual or individuals in the same group practice. The primary procedure or service is reported first without a modifier.</para>
+               </listitem>
+               <listitem>
+                  <para>Although many claims adjudication systems now automatically identify the primary procedure, it is advisable that the first-reported service is the one with the highest relative value, followed by additional services appended with modifier 51, when applicable.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier 51 does not override NCCI edits.</para>
+               </listitem>
+            </itemizedlist>
+            <para>For information on multiple surgery indicators and payment adjustments, refer to Chapter 12, Section 40.6, of the <emphasis role="italics">Medicare Claims Processing Manual</emphasis> at www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/clm104c12.pdf or individual payer policies for multiple procedures performed on the same date.</para>
+            <para>
+               <emphasis role="bold">DO NOT USE MODIFIER 51 WHEN</emphasis> ✱ Reporting add-on procedure codes (identified with the ✚ symbol) that are exempt from modifier 51 because the services are always performed in addition to a primary service.</para>
+            <para>✱ Reporting <emphasis role="italics">CPT</emphasis> codes identified with the Ⓞ symbol (exempt from modifier 51) because they have no associated preservice or postservice valuation and are already reduced (refer to <emphasis role="italics">CPT</emphasis> Appendix E for a list of these codes).</para>
+            <para>✱ Different providers perform the procedures.</para>
+            <para>✱ Two or more physicians provide different and unrelated procedures (eg, multiple trauma) to the same patient on the same day, unless one of the physicians performs multiple procedures.</para>
+            <para>✱ Reporting E/M services, physical medicine and rehabilitation services, or provision of supplies (eg, immunization products).</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s09">
+            <title>Example—Modifier 51</title>
+            <para>▶ A child undergoes adenoidectomy and bilateral myringotomy with tube placement at the same surgical session. The surgeon reports <emphasis role="bold">69436 50</emphasis> Tympanostomy (requiring insertion of ventilating tube), general anesthesia</para>
+            <para>
+               <emphasis role="bold">42830 51</emphasis> Adenoidectomy, primary; younger than age 12 Teaching Point: Code <emphasis role="bold">69436</emphasis> is reported first because it carries the highest relative value when reported with modifier <emphasis role="bold">50</emphasis> (7.28 facility total RVUs [4.85 × 150%] vs 6.53 for code <emphasis role="bold">42830</emphasis>). Modifier 51 is appended to <emphasis role="bold">42830</emphasis>. If the myringotomy was a unilateral procedure, <emphasis role="bold">42830</emphasis> would be listed first (with no modifier) and <emphasis role="bold">69436 51</emphasis> would be listed second (with no modifier <emphasis role="bold">50</emphasis>).</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s10">
+            <title>52—Reduced Services</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 52 is used when a service or procedure is partially reduced or eliminated (ie, procedure started but discontinued) at the discretion of the physician or other QHP.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Modifier 52 is not used when a procedure is canceled before the induction of anesthesia and/or surgical preparation in the operating/procedure room (OR).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The diagnosis code linked to the procedure reported with modifier 52 should reflect why the procedure was reduced.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ When reporting a reduced service or a procedure code with modifier 52, do not reduce your normal fee. Let the payer reduce the payment according to its policy.</para>
+            <para>For further discussion of modifier 52, refer to the "Coding Conundrum: Are Modifiers 52 and 53 Indicated for All Reduced/Discontinued Services?" box later in this chapter.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s11">
+            <title>Examples—Modifier 52</title>
+            <para>▶ A physician begins a circumcision (<emphasis role="bold">54150</emphasis>) on a 3-day-old boy. The physician elects to perform the circumcision without a dorsal penile or ring block. In this circumstance, modifier 52 would be reported with code 54150 to indicate that the service was reduced from its full descriptor at the physician's discretion.</para>
+            <para>▶ A peripherally inserted central venous catheter (PICC) without a subcutaneous port is inserted with imaging guidance, but the tip location is not confirmed by imaging.</para>
+            <table frame="all" id="ch0004s0004ta0001">
+               <title>Examples—Modifier 52</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J13 (pneumonia due to Streptococcus pneumoniae)</entry>
+                        <entry>36572 52 (PICC insertion without subcutaneous port, with imaging guidance; younger than 5 years of age)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s12">
+            <title>53—Discontinued Procedure</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 53 signifies that a procedure was terminated (ie, started but discontinued) because of extenuating circumstances or circumstances in which the well-being of the patient was threatened (eg, patient is at risk or has unexpected, serious complications, such asexcessive bleeding or hypotension) during a procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>It is not used to report the elective cancellation of a procedure before the patient's anesthesia induction and/or surgical preparation in the operating suite.</para>
+               </listitem>
+               <listitem>
+                  <para>The diagnosis code should reflect the reason for the termination of the procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Most payers will require that operative or procedure reports be submitted with the claim.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s13">
+            <title>Examples—Modifier 53</title>
+            <para>▶ A child presents with a foreign body of the right great toe. The pediatrician incises the toe and tries to remove the foreign body. However, during the procedure, the pediatrician decided that the procedure must bestopped to avoid injury to the child, who was struggling against restraint.</para>
+            <para>
+               <emphasis role="bold">10120 53</emphasis>     Incision and removal of foreign body, subcutaneous tissues; simple <emphasis role="bold">Teaching Point:</emphasis> If the pediatrician performs a second procedure to remove the foreign body within the 10-day global period of code 10120, modifier 58 (staged or related procedure or service by the same physician or other QHP during the postoperative period) should be appended to the code for that procedure. Refer to modifier 58 (discussed later in this chapter).</para>
+            <para>▶ In-office spirometry is ordered for a child. Despite multiple attempts, a satisfactory evaluation is not obtained. If results of suboptimal testing provide information of clinical value, the interpreting pediatrician might append modifier 53 to the global procedure code.</para>
+            <para>
+               <emphasis role="bold">94010 53</emphasis>     Spirometry, including graphic record, total and timed vital capacity, expiratory flow rate measurement(s), with or without maximal voluntary ventilation <emphasis role="bold">Teaching Point:</emphasis> Physicians and QHPs must use clinical judgment in determining whether the data from an incomplete test were sufficient for interpretation and report for use in E/M of the patient's symptom/problem. When there is no valid result for interpretation by the treating pediatrician, no code is reported for the global or professional components of the service.</para>
+            <para>If the pediatrician bills for the technical component of the incomplete spirometry (staff time and overhead of attempted spirometry), <emphasis role="bold">94010 TC</emphasis> (spirometry, including graphic record, total and timed vital capacity, expiratory flow rate measurement[s], with or without maximal voluntary ventilation) might be reported. Modifier 53 is appropriate when testing has not been completed because of an extenuating circumstance (eg, patient's inability to complete testing). Documentation should support the number of attempts, testing errors noted (eg, poor effort), graphic data obtained, and reason for discontinuing the service.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s14">
+            <title>Coding Conundrum: Are Modifiers 52 and 53 Indicated for All Reduced/Discontinued Services?</title>
+            <para>Despite a reduction in some component of a service, there are times when a modifier may not be indicated.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When an insignificant amount of the typical work of the service is performed, it may be more appropriate to report an E/M service representing only the work completed (eg, MDM regarding the service).</para>
+               </listitem>
+               <listitem>
+                  <para>When the work of a procedure is minimally reduced because a portion of the procedure could not be completed, it may be appropriate to report the code for the completed procedure without a modifier.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✗ Do not report modifier 52 or 53 if an existing code describes the service as performed.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s15">
+            <title>54—Surgical Care Only</title>
+            <para>Modifier 54 is appended to the surgery procedure code when the physician does the procedure but another physician or other QHP (not of the same group practice) accepts a transfer of care and provides preoperative and/or postoperative management.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s16">
+            <title>55—Postoperative Management Only</title>
+            <para>Modifier 55 is appended to the surgical code to report that only postoperative care is performed because another physician or other QHP of another group practice has performed the surgical procedure and transferred the patient for postoperative care.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s17">
+            <title>56—Preoperative Management Only</title>
+            <para>Modifier 56 is appended to the surgical code when only the preoperative care and evaluation are performed because another physician or other QHP of another group practice has performed the surgical procedure. This modifier is seldom applicable.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s18">
+            <title>Coding Conundrum: Modifiers 54, 55, 56, and G0559</title>
+            <para>Modifiers 54, 55, and 56 are typically used to report surgical procedures that have a global period of 10 to 90 days. They are not reported with procedures that have 0-day global periods. It is important to learn which guidelines are followed by your major payers. When reporting these modifiers, coordination and communication between the physicians and their billing staff is imperative. The physician providing follow-up care must know that the physician who provided surgical care reported modifier 54 to report modifier 55. Alternatively, the physician providing follow-up care may be limited to reporting E/M codes for each follow-up encounter that does not include a new procedural service.</para>
+            <para>Medicare created add-on code <emphasis role="bold">G0559</emphasis> for reporting by a physician or QHP who did not perform the procedure (and is in a different group practice and different specialty than the physician who performed the procedure) when there has not been a formal transfer of care supporting modifier 55. <emphasis role="bold">G0559</emphasis> reports the added complexity of providing an initial postoperative follow-up visit to a procedure performed by another physician or QHP and is reported once within the 90-day global period. (For the full code descriptor, refer to your HCPCS reference.) Other payers may or may not adopt policy to pay for G0559 in addition to an initial E/M visit for postoperative care. When reporting code G0559, do not append modifier 55 to the E/M visit code.</para>
+            <para>For more information on global surgery guidelines, refer to <emphasis role="bold">Chapters 13 and 18</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s19">
+            <title>Example—Modifiers 54 and 55</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">An emergency department (EDD) physician provides initial care for a Colles fracture of the right radius and instructs the patient to follow up with a primary care or orthopedic physician for care during the global period. The ED physician reports an ED E/M service (99281–99285) with modifier 57 (decision for surgery) and code 25600 54.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">25600 54</emphasis> Closed treatment of distal radial fracture (eg, Colles or Smith type) or epiphyseal separation, includes closed treatment of fracture of ulnar styloid, when performed; without manipulation The primary care or orthopedic physician who assumes management of the patient's fracture care will report <emphasis role="bold">25600 55</emphasis>. The transfer of care should be documented and the 2 physicians must coordinate how the services will be reported so each reports the appropriate modifier.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> If a physician's initial fracture care is limited to stabilization pending referral for fracture treatment, only the E/M and any splinting or casting and supplies are reported. The physician who will provide fracture treatment will report a fracture care code without a modifier.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s20">
+            <title>58—Staged or Related Procedure or Service by the Same Physician or Other QHP During the Postoperative Period</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 58 is used to indicate that a procedure or service performed during the postoperative period was planned or anticipated (ie, staged), was more extensive than the original procedure, or was performed for therapeutic purposes after a surgical procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier 58 is a recognized modifier under the NCCI.</para>
+               </listitem>
+               <listitem>
+                  <para>Typically, payers recognize modifier 58 only when there is a global surgical period associated with the procedure code.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">DO NOT REPORT MODIFIER 58 WHEN</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Treating a problem that requires a return to the OR (eg, unanticipated clinical condition) (Refer to modifier 78—discussed later in this chapter.) ✱ Reporting procedures that include as part of their <emphasis role="italics">CPT descriptor</emphasis> "one or more visits" or "one or more sessions"</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s21">
+            <title>Example—Modifier 58</title>
+            <para>▶ A physician replaces a cast during the global period of fracture care.</para>
+            <para>
+               <emphasis role="bold">29000–29799 58</emphasis>     Appropriate casting code <emphasis role="bold">Teaching Point:</emphasis> Only the first cast is included in the code for fracture care. For more on fracture care, refer to Chapter 13.</para>
+            <para>For another use of modifier 58, refer to the first teaching point in the examples for modifier 53 (discussed earlier in this chapter).</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s22">
+            <title>59—Distinct Procedural Service</title>
+            <para>Never use modifier 59 in place of modifier 25 or on an E/M service code.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 59 is used to identify procedures or services, other than E/M services, that are not normally reported together but are appropriate under the circumstances.</para>
+               </listitem>
+               <listitem>
+                  <para>Report modifier 59 only when no other modifier better describes the reason for separately reporting a service that might otherwise be bundled with another procedural service on the same date.</para>
+               </listitem>
+               <listitem>
+                  <para>✱ Never append modifier 59 to bypass payer edits without clinical justification.</para>
+               </listitem>
+               <listitem>
+                  <para>Refer to HCPCS anatomical modifiers (eg, <emphasis role="bold">F8</emphasis>, right hand, 4th digit) and <emphasis role="bold">XE</emphasis>, <emphasis role="bold">XP</emphasis>, <emphasis role="bold">XS</emphasis>, and <emphasis role="bold">XU</emphasis> for potential alternatives to modifier 59.</para>
+               </listitem>
+               <listitem>
+                  <para>Per <emphasis role="italics">CPT</emphasis>, modifier 59 represents one of the following conditions of a procedure, in that the procedure</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Was provided at a different session from another procedure</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Was a different procedure or surgery — Involved a different site or organ system</para>
+               </listitem>
+               <listitem>
+                  <para>Required a separate incision or excision — Was performed on a separate lesion or injury (or area of injury in extensive injuries)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s23">
+            <title>Example—Modifier 59</title>
+            <para>▶ Four behavioral health assessment instruments are completed and scored during 1 encounter to assess symptoms of depression and to reevaluate the status of previously diagnosed attention-deficit/hyperactivity disorder (ADHD) (standardized instruments completed by 1 parent and 3 teachers).</para>
+            <para>
+               <emphasis role="bold">96127</emphasis> × 3 (brief emotional/behavioral assessment [eg, depression inventory, ADHD scale], with scoring and documentation, per standardized instrument).</para>
+            <para>
+               <emphasis role="bold">96127 59</emphasis> × 1 (fourth assessment instrument).</para>
+            <para>Modifier 59 would be appended to the code for the fourth assessment instrument to reflect that 4 distinct assessment instruments were scored and documented. Medicaid NCCI MUEs limit units of <emphasis role="bold">96127</emphasis> to 3 units per claim, but modifier 59 may be appended to units on an additional line to indicate that additional instruments were necessary.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s24">
+            <title>62—Two Surgeons</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 62 is used when 2 surgeons work together as primary surgeons performing a distinct part(s) of the same procedure. Do not use modifier 62 when one surgeon assists another.</para>
+               </listitem>
+               <listitem>
+                  <para>Co-surgeons may be of the same specialty or different specialties, although usually they are of different specialties. Individual payer policies may vary regarding coverage of co-surgery by 2 physicians of the same specialty.</para>
+               </listitem>
+               <listitem>
+                  <para>Each surgeon should report their distinct operative work by adding modifier 62 to the procedure code and any associated AOC(s) for that procedure as long as both surgeons continue to work together as primary surgeons.</para>
+               </listitem>
+               <listitem>
+                  <para>Each surgeon should report the same procedure once with the same procedure code.</para>
+               </listitem>
+               <listitem>
+                  <para>If an additional procedure(s), including anadd-on procedure(s), is performed during the same surgical session, a separate code(s) may also be reported without modifier 62 added.</para>
+               </listitem>
+               <listitem>
+                  <para>Simultaneous bilateral services are procedures during which each surgeon performs the same procedure on opposite sides. Each surgeon should report the simultaneous bilateral procedures with modifiers 50 and 62.</para>
+               </listitem>
+               <listitem>
+                  <para>Column AB (CO SURG) of the MPFS (Resource-Based Relative Value Scale [RBRVS]) identifies procedures that may or may not be performed by co-surgeons. Indicator 1 is assigned to procedures for which co-surgery is allowed under the Medicare program. Visit www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PhysicianFeeSched/PFS-Relative-Value-Files.html.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s25">
+            <title>Example—Modifier 62</title>
+            <itemizedlist>
+               <listitem>
+                  <para>A neurosurgeon and a general surgeon work together to place a ventriculoperitoneal shunt.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Both physicians would report <emphasis role="bold">62223 62</emphasis> with the same diagnosis code. The operative note must include the name of each surgeon, specific role of each surgeon, and necessity for 2 surgeons. Each surgeon should dictate their own operative report.</para>
+            <para>Most payers will require authorization before the procedure.</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s26">
+            <title>63—Procedure Performed on Infants Less Than 4 kg</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 63 is used to report procedures performed on neonates and infants up to a <emphasis role="italics">present body weight of 4 kg</emphasis> that involve significantly increased complexity and physician work commonly associated with these patients.</para>
+               </listitem>
+               <listitem>
+                  <para>Unless otherwise designated, this modifier may be appended only to procedures or services listed in the <emphasis role="italics">CPT</emphasis> descriptor for modifier 63 (ie, the <emphasis role="bold">20100–69990</emphasis> code series and the following codes in Medicine section: <emphasis role="bold">92920, 92928, 92953, 92960, 92986, 92987, 92990, 92997, 92998, 93312–93318, 93452, 93505, 93563, 93564, 93568, 93569, 93573–93575, 93580–93582, 93590–93598, 93615, and 93616</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Use of modifier 63 may require submission of an operative note with the claim. The operative note should include the patient's weight. It is also beneficial to report the patient's weight on the claim.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">DO NOT REPORT MODIFIER 63</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ When the code is included in CPT Appendix F, as codes in this appendix were valued to include the increased complexity and physician work associated with modifier 63 ✱ With any <emphasis role="italics">CPT</emphasis> codes listed in the E/M Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections (other than those previously identified from the Medicine/Cardiovascular section)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>✱ When the <emphasis role="italics">CPT</emphasis> code includes a parenthetical instruction prohibiting reporting modifier 63</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s27">
+            <title>Example—Modifier 63</title>
+            <itemizedlist>
+               <listitem>
+                  <para>A surgeon performed right- and left-sided heart catheterization through normal native connections on a 4-week-old with a weight of 3.1 kg and positive findings of congenital anomalies.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">93596 26 63</emphasis> Right and left heart catheterization for congenital heart defect(s) including imaging guidance by the proceduralist to advance the catheter to the target zone(s); normal native connections Because the procedure may be performed on patients weighing more than 4 kg, the complexity and work associated with performing the procedure on an infant weighing up to 4 kg <emphasis role="italics">was not</emphasis> included in the valuation assigned to <emphasis role="bold">93596</emphasis>. Modifier 26 indicates that the surgeon is reporting only the professional component of the catheterization. For more information, refer to modifier 26 (discussed earlier in this chapter).</para>
+         </sect4>
+         <sect4 id="ch0004s0004s0002s01s28">
+            <title>66—Surgical Team</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 66 is appended to the basic procedure code when highly complex procedures (requiring the concomitant services of several physicians or other QHPs, often of different specialties, plus other highly skilled, specially trained personnel and various types of complex equipment) are carried out under the surgical team concept.</para>
+               </listitem>
+               <listitem>
+                  <para>Each surgeon reports modifier 66.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

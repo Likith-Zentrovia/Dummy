@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0008s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0008s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>8</chapternumber>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>6. Evaluation and Management Documentation Guidelines</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Evaluation and Management Documentation Guidelines</title>
+   <itemizedlist>
+      <listitem>
+         <para>General and specific evaluation and management (E/M) guidelines</para>
+      </listitem>
+      <listitem>
+         <para>Concepts of new versus established patient and initial versus subsequent encounter</para>
+      </listitem>
+      <listitem>
+         <para>Reporting single or multiple services when provided in the same setting or in 2 settings with different designations (eg, hospital and nursing facility)</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="italics">Current Procedural Terminology (CPT)</emphasis> terms and definitions used in determining a level of E/M services based on a physician's or other qualified health care professional's (QHP's) total time on the date of an encounter or on medical decision-making (MDM)</para>
+      </listitem>
+      <listitem>
+         <para>The Centers for Medicare &amp; Medicaid Services (CMS) guidelines for reporting services provided as a teaching physician, when applicable</para>
+      </listitem>
+   </itemizedlist>
+   <para>This chapter outlines the <emphasis role="italics">CPT</emphasis> E/M guidelines used in selecting codes for encounters to evaluate and manage a patient's health problems. The content of this chapter provides the basis for learning category-specific instructions for code selection discussed in later chapters.</para>
+   <para>Pediatric clinical vignettes are presented throughout this manual. These are only examples, and the associated <emphasis role="italics">CPT</emphasis> codes should not be used for every patient with the same or a similar diagnosis.</para>
+   <sect2 id="ch0008s0002s0001">
+      <title>General Guidelines</title>
+      <para>The E/M guidelines in <emphasis role="italics">CPT</emphasis> are used to guide code selection and are neither documentation guidelines nor standards of care. The E/M guidelines section of <emphasis role="italics">CPT</emphasis> mostly applies to codes selected according to the physician's or QHP's total time on the date of an encounter (total time) or to the physician's or QHP's level of MDM. But the following portions of the E/M guidelines apply to many E/M services, including those not selected according to total time or MDM:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Definitions of new versus established patients and initial versus subsequent visits</para>
+         </listitem>
+         <listitem>
+            <para>Other services provided on the same date as an E/M service</para>
+         </listitem>
+      </itemizedlist>
+      <para>Additional service-specific guidelines are found preceding E/M service categories (eg, telemedicine services) and subcategories (eg, <emphasis role="bold">98000–98007</emphasis>, synchronous audio-video E/M services) and, in parenthetical instructions, following E/M codes.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis>
+         <emphasis role="bold"># ★ ♦99417</emphasis> Prolonged outpatient E/M service(s) time with or without direct patient contact beyond the required time of the primary service when the primary service level has been selected using total time, each 15 minutes of total time (List separately in addition to the code of the outpatient E/M service)</para>
+      <para>(Use <emphasis role="bold">99417</emphasis> in conjunction with <emphasis role="bold">98003, 98007, 98011, 98015, 99205, 99215, 99245, 99345, 99350, 99483</emphasis>.) (Do not report <emphasis role="bold">99417</emphasis> on the same date of service as <emphasis role="bold">98033, 98036, 98038, 99358, 99359, 99415, 99416</emphasis>.)</para>
+      <para>(Do not report <emphasis role="bold">99417</emphasis> for any time unit less than 15 minutes.) Refer to other chapters of this manual and your <emphasis role="italics">CPT</emphasis> coding reference for more detailed guidelines for reporting services such as normal newborn care in the hospital, hourly or daily critical care services, intensive care services, care plan oversight, care management services, and preventive medicine E/M services.</para>
+      <sect3 id="ch0008s0002s30001">
+         <title/>
+         <sect4 id="ch0008s0002s0001s01s01">
+            <title>New Versus Established Patients</title>
+            <para>The categorization of new and established patients influences coding for the following services:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Office or other outpatient E/M services (new patient, <emphasis role="bold">99202–99205</emphasis>; established patient, <emphasis role="bold">99211–99215</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-video visit (new patient, <emphasis role="bold">98000–98003</emphasis>; established patient, <emphasis role="bold">98004–98007</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-only visit (new patient, <emphasis role="bold">98008–98011</emphasis>; established patient, <emphasis role="bold">98012–98014</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Home or residence services (new patient, <emphasis role="bold">99341</emphasis> and <emphasis role="bold">99342</emphasis>, <emphasis role="bold">99344</emphasis> and <emphasis role="bold">99345</emphasis>; established patient, <emphasis role="bold">99347–99350</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Preventive medicine services (new patient, <emphasis role="bold">99381–99385</emphasis>; established patient, <emphasis role="bold">99391–99395</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Online digital E/M (established patient, <emphasis role="bold">99421–99423</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Brief communication technology-based service (established patient, <emphasis role="bold">98016</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <para>★ indicates a new code; ▲, revised; †, re-sequenced; ♦, add-on; ✚, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </sect4>
+         <sect4 id="ch0008s0002s0001s01s02">
+            <title>About Documentation</title>
+            <para>Although <emphasis role="italics">CPT</emphasis> guidelines are not documentation guidelines, the information documented in the medical record must support the reported procedure codes.</para>
+            <para>When selecting a code level based on total time, the <emphasis role="italics">total time</emphasis> must be documented. The overarching criterion for payment is the medical necessity of the service provided. Documentation of a summary of the physician's or QHP's activities (eg, history and examination findings, counseling topics) during the total time of the visit provides support for the medical necessity of the visit and time spent.</para>
+            <para>When selecting a code level based on the MDM, the documentation should demonstrate the basis for the level selected. For instance, the record should include the signs, symptoms, and diagnoses that were addressed, including any conditions that were considered plausible but ruled out. It is also important to demonstrate review of external records or prior test results. The physician or other QHP might sign the external record or test results to indicate review or might document a brief notation of findings in the visit note. Conversations with external physicians and other health care professionals or sources (eg, social workers) should also besummarized in the documentation (eg, "Spoke with Dr. X regarding management options for this patient").</para>
+            <para>When submitting documentation for an audit, be sure that notes from the electronic health record (EHR) include all documentation for each unique visit (eg, nursing notes, medication orders). Another clinician or coding auditor should beable to readily determine your basis for the level of service reported.</para>
+            <para>Timely completion of documentation, including the reporting individual's signature and date, is required to support billing and coding compliance. Physicians and QHPs should be aware of regulatory or contractual requirements for completion of all medical record documentation.</para>
+            <para>No distinction is made between new and established patients for emergency department (ED) services, for consultations, or for observation, inpatient, or nursing facility care. E/M services in these categories may be reported for any new or established patient. For E/M services provided to patients in observation or inpatient status or in a nursing facility, services are distinguished as initial or subsequent services during the same admission/stay, as discussed in the Initial and Subsequent Services section later in this chapter.</para>
+            <para>Following are the criteria for distinguishing between new and established patients:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">New patients</emphasis> have not received a face-to-face professional service from the physician or other QHP, or any physician or QHP of the same group practice and same exact specialty and subspecialty, in the prior 3 years.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Rules for new and established patients apply to physicians and QHPs whose charges are billed under a single tax ID number (eg, ABC Health System physicians, tax ID number 48-1234567).</para>
+                     </listitem>
+                     <listitem>
+                        <para>Medical subspecialties are defined by either a taxonomy code that designates a specific specialty or subspecialty (eg, 208N00400X, neurology; 2084D0003X, epilepsy) designated during health plan credentialing or a payer's specialty identification code (eg, 13, neurology).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Established patients</emphasis> have received, and were charged for, a face-to-face professional service from a physician or QHP of the same group practice and same exact specialty and subspecialty within the past 3 years.</para>
+               </listitem>
+               <listitem>
+                  <para>Per <emphasis role="italics">CPT</emphasis>, a QHP working with a physician(s) and who may report E/M services is considered to be working in the exact same specialty and subspecialty as the physician(s).</para>
+               </listitem>
+               <listitem>
+                  <para>When a physician is covering for another physician of the same specialty, the E/M service is reported as it would have been by the physician who is unavailable. A physician covering for another physician of a different specialty, however, determines whether a patient is new or established according to the rules listed earlier in this list for new and established patients (refer to the first 2 bulleted items).</para>
+               </listitem>
+               <listitem>
+                  <para>If the physician has moved to a different location or changed their tax ID number, patients would still be considered established if they were established patients before these changes took place.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>When a new physician joins a group practice, patients who follow the physician to the new practice are considered established patients to any physician of the same specialty in the new practice because the patients were seen by a physician of the same specialty in the group within the past 3 years.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>A pediatrician provides an office visit to an infant who received newborn hospital care from a pediatric QHP of the same group and same exact specialty (pediatric primary care). The patient is considered established at the office visit.</para>
+               </listitem>
+               <listitem>
+                  <para>A primary care pediatrician has provided an outpatient E/M service to a patient within the past 3 years. A neurologist in the same group but <emphasis role="italics">different specialty</emphasis> is asked to provide an office or other outpatient E/M service to the patient. The patient is new for this service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0002s0001s01s03">
+            <title>Initial and Subsequent Services</title>
+            <para>The following services are classified as initial or subsequent services as opposed to services provided to a new or established patient:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Hospital inpatient and observation care services (initial, 99221–99223; subsequent, 99231–99233)</para>
+               </listitem>
+               <listitem>
+                  <para>Nursing facility services (initial, 99304–99306; subsequent, 99307–99310)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0002s0001s01s04">
+            <title>Intensive and Critical Care Services</title>
+            <para>Refer to the prefatory guidelines for critical care (99291, 99292), inpatient neonatal and pediatric critical care (99468–99472; 99475, 99476), and neonatal intensive care services (99477–99480) for distinct instructions on reporting initial and continuing services.</para>
+            <para>As with new and established patients, differentiating between initial and subsequent encounters is based on the timing of the professional (face-to-face) services provided by a physician or other QHP to the patient during an admission/stay.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Admission/stay: The duration of time from initiation of observation and/or inpatient care to discharge from a facility. For the purpose of determining the status versus subsequent encounters, an admission/stay that includes a transition in levels of care from observation to inpatient or between skilled nursing and nursing services in the same facility is one admission/stay.</para>
+               </listitem>
+               <listitem>
+                  <para>Initial service: During the inpatient or observation or nursing facility admission/stay, the patient has not received any professional services from the physician or QHP or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice.</para>
+               </listitem>
+               <listitem>
+                  <para>Subsequent service: During the inpatient or observation/stay, the patient has received professional service(s) from the physician or QHP or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice.</para>
+               </listitem>
+               <listitem>
+                  <para>A physician or QHP who is on call for or covering for another physician or QHP reports the service as if provided by the physician or QHP who is not available. Unlike for new versus established patient status, there is no differentiation in selection of initial versus subsequent service when the covering physician or QHP is of a different specialty.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A physician provides hospital care to a patient who has not received prior care from the physician or any physician or QHP of the same group practice and same specialty during this admission/stay. Initial hospital care is reported.</para>
+            <para>▶ A physician provides hospital care to a patient who received observation care from a physician of the same group and same exact specialty on a prior date during this admission/stay. The encounter is reported as subsequent hospital care.</para>
+            <para>▶ A physician who is covering for a patient's attending physician who is unavailable sees the patient for the first time during an inpatient stay. The encounter is subsequent hospital care.</para>
+         </sect4>
+         <sect4 id="ch0008s0002s0001s01s05">
+            <title>Discharge Management and Readmissions on the Same Date</title>
+            <itemizedlist>
+               <listitem>
+                  <para>When a patient is discharged and readmitted to the same facility (eg, readmission to inpatient hospital status) on the same date of service (DOS), this is considered a single stay for purposes of E/M code selection. The visit is reported as if the patient had not been discharged (eg, subsequent hospital care).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Multiple health care entities may colocate but operate separately (eg, nursing facility within a hospital) in compliance with regulations for each type of entity. When a patient is discharged from a hospital stay to a nursing stay within the same facility, the discharge and initial nursing facility care are considered 2 services in 2 facilities because there is a discharge from one entity to another. Time and MDM of each service are distinct, and one service does not affect code selection for another service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When a patient is discharged and readmitted to a different facility on the same DOS, this is considered a new stay for purposes of E/M code selection. A physician or QHP providing E/M services, including discharge (99234–99236; 99238, 99239) and initial E/M services, may separately report the services at each facility but, if reporting according to total time, may not count any time of the discharge service toward the time of service at the second facility.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When choosing between initial and subsequent E/M services provided in a facility setting, a single admission/stay includes any transfers from one level of care to another (eg, observation to inpatient). A transfer in the level of care is not a new admission/stay.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0008s0002s0002">
+      <title>Separately Reported Services</title>
+      <para>Procedures and services described by CPT codes distinct from those of an E/M service provided on the same date may be separately reported except where specifically noted in CPT as included/bundled. For example, critical care E/M services include services such as electrocardiographic (ECG) collection and interpretation and vascular access procedures that are reported in addition to most other E/M services.</para>
+      <para>When an E/M service is caused or prompted by the symptoms or condition for which another diagnostic or therapeutic service (eg, ECG, injection of medication, surgery) is provided on the same date, different diagnoses are not required for reporting the 2 services on the same date.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ A physician provides an office E/M service to a patient who reports respiratory symptoms consistent with asthma. After performing medically indicated history and examination, the physician orders spirometry, which is administered by clinical staff and interpreted by the physician. The physician diagnoses mild persistent asthma with exacerbation and initiates a care plan including prescription medication. The physician reports <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> code <emphasis role="bold">J45.31</emphasis> (mild persistent asthma with exacerbation) linked to a code for the E/M service (eg, <emphasis role="bold">99214 25</emphasis>) and to <emphasis role="bold">94010</emphasis> (spirometry, including graphic record, total and timed vital capacity, expiratory flow rate measurement[s], with or without maximal voluntary ventilation).</para>
+      <para>Modifier 25 (significant, separately identifiable E/M service) is appended to an E/M code when an E/M service provided on the same date as a procedural service is significantly beyond the preservice work of the procedural service.</para>
+      <para>For more information on modifier 25, refer to <emphasis role="bold">Chapter 2</emphasis>.</para>
+   </sect2>
+   <sect2 id="ch0008s0002s0003">
+      <title>E/M Guidelines for Use of Total Time or MDM</title>
+      <sect3 id="ch0008s0002s30002">
+         <title/>
+         <sect4 id="ch0008s0002s0003s01s01">
+            <title>Applicability of E/M Guidelines for Use of Total Time or MDM</title>
+            <para>E/M guidelines used for selecting codes from the following categories are further discussed in this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Office or other outpatient services (new patient, <emphasis role="bold">99202–99205</emphasis>; established patient, <emphasis role="bold">99211–99215</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-video visit (new patient, <emphasis role="bold">98000–98003</emphasis>; established patient, <emphasis role="bold">98004–98007</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Synchronous audio-only visit (new patient, <emphasis role="bold">98008–98011</emphasis>; established patient, <emphasis role="bold">98012–98014</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Hospital inpatient or observation care services (initial, <emphasis role="bold">99221–99223</emphasis>; subsequent, <emphasis role="bold">99231–99233</emphasis>; same date admission and discharge, <emphasis role="bold">99234–99236</emphasis>; discharge day management, <emphasis role="bold">99238–99239</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Outpatient and inpatient consultations (outpatient, <emphasis role="bold">99242–99245</emphasis>; inpatient, <emphasis role="bold">99252–99255</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>ED services (<emphasis role="bold">99281–99286</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Nursing facility services (initial, <emphasis role="bold">99304–99306</emphasis>; subsequent, <emphasis role="bold">99307–99310</emphasis>; discharge day management, <emphasis role="bold">99315</emphasis> and <emphasis role="bold">99316</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Home or residence services (new patient, <emphasis role="bold">99341</emphasis> and <emphasis role="bold">99342</emphasis>, <emphasis role="bold">99344</emphasis> and <emphasis role="bold">99345</emphasis>; established patient, <emphasis role="bold">99347–99350</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Prolonged service with or without direct contact on the date of an E/M service (<emphasis role="bold">99417</emphasis>, <emphasis role="bold">99418</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Each of the listed code categories involves selecting a code based on the category of service (eg, telemedicine visit; hospital consultation) and a physician's or QHP's total time on the date of the encounter or the level of MDM associated with the encounter. All other E/M services are reported according to guidelines specific to the code category. The guidelines for these other E/M services are addressed elsewhere in this manual (eg, <emphasis role="bold">Chapter 8</emphasis>, <emphasis role="bold">Chapter 17</emphasis>). Refer also to <emphasis role="bold">Chapter 1</emphasis> for general guidelines for CPT code selection.</para>
+            <para>Generally, codes for E/M visits require a face-to-face encounter with a patient and/or family or caregiver. Telemedicine services are synchronous, real-time, interactive encounters between a physician or QHP and a patient and/or family or caregiver utilizing either combined audio-video or audio-only telecommunication. To learn more about coding for services provided via telemedicine, refer to <emphasis role="bold">Chapters 19 through 21</emphasis>.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

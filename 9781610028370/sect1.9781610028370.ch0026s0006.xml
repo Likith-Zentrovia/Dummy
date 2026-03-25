@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0026s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0026s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0026s0006</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>26</chapternumber>
+         <chapterid>ch0026</chapterid>
+         <chaptertitle>21. Remote Data Collection and Monitoring Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 21. REMOTE DATA COLLECTION AND MONITORING SERVICES</title>
+   <para>
+      <emphasis role="bold">#▲99454</emphasis> device(s) supply with daily recording(s) or programmed alert(s) transmission, 16–30 days in a 30-day period (1.33 RVUs in a facility or non-facility setting) To report <emphasis role="bold">99453, 99445</emphasis>, and <emphasis role="bold">99454</emphasis>, the device used must be a medical device as defined by the FDA (eg, spirometer) and the service must be ordered by a physician or QHP.</para>
+   <para>
+      <emphasis role="bold">Codes 99453 describes setup and patient education provided to an individual patient. When setup and education are provided in a group setting, report an unlisted E/M service (99499).</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>Codes <emphasis role="bold">99453, 99445</emphasis>, and <emphasis role="bold">99454</emphasis> represent only practice expense; no physician work is valued in these codes.</para>
+      </listitem>
+      <listitem>
+         <para>Initial setup and patient education on use of equipment (<emphasis role="bold">99453</emphasis>) is reported only once for each episode of care (begins when the remote monitoring physiological service is initiated and ends with attainment of targeted treatment goals).</para>
+      </listitem>
+   </itemizedlist>
+   <para>Do not report ✖<emphasis role="bold">99453, 99445</emphasis>, and <emphasis role="bold">99454</emphasis> in conjunction with codes for more specific physiologic parameters (eg, <emphasis role="bold">94762</emphasis>, home apnea monitoring or when these services are included in other <emphasis role="italics">CPT</emphasis> codes for the duration of the physiologic monitoring service (eg, <emphasis role="bold">95250</emphasis>, ambulatory continuous glucose monitoring sensor placement and removal and data download).</para>
+   <para>✖<emphasis role="bold">99453</emphasis> in conjunction with <emphasis role="bold">0811T</emphasis> (setup and patient education for remote multi-day complex uroflowmetry) or <emphasis role="bold">0812T</emphasis> (remote multi-day complex uroflowmetry device supply with automated report generation, up to 10 days).</para>
+   <para>✖<emphasis role="bold">99454</emphasis> in conjunction with <emphasis role="bold">0812T</emphasis>.</para>
+   <para>✖<emphasis role="bold">99454</emphasis> in the same 30-day period as <emphasis role="bold">99445</emphasis>.</para>
+   <para>✖<emphasis role="bold">99453</emphasis> and <emphasis role="bold">99445</emphasis> when cumulative monitoring is less than 2 days in a 30-day period.</para>
+   <para>▶<emphasis role="bold">A child with epilepsy is prescribed an FDA-approved wearable device that detects seizures and notifies caregivers in addition to transmitting data to the prescribing physician.</emphasis> The patient is provided with setup and education for use of the device and the program's monitoring application by clinical staff in the prescribing physician's practice. The practice office receives and monitors daily recordings and/or programmed alerts for at least a 2-day period. Education on equipment use is provided as needed. Codes <emphasis role="bold">99453</emphasis> and <emphasis role="bold">99454</emphasis> are reported.</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> The device must be used for monitoring for at least 2 days to report device training and supply with <emphasis role="bold">99453</emphasis> and/or <emphasis role="bold">99454</emphasis>. For cumulative monitoring of at least 16 days in a 30-day period, report device supply with <emphasis role="bold">99454</emphasis> in lieu of <emphasis role="bold">99445</emphasis>.</para>
+   <para>The patient and caregivers are provided separately reported treatment management services (<emphasis role="bold">99470, 99457, 99458</emphasis>) of at least 10 minutes in the month, as discussed later in this chapter.</para>
+   <para>▶<emphasis role="bold">A child with poorly controlled asthma is enrolled in a remote monitoring program.</emphasis> A Bluetooth-enabled device that promotes and monitors effective inhaler use and measures forced expiratory volume in 1 second and peak expiratory flow is provided to the patient by a remote monitoring technology provider. The patient's physician and/or clinical staff provide education to the patient and caregivers on device use. The physician reports <emphasis role="bold">99453</emphasis>.</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> Because the physician practice furnishes only the initial setup and patient education, only <emphasis role="bold">99453</emphasis> is reported for setup and education encounter. This service is reported only at the time of the initial 2 to 30 days of monitoring. Either <emphasis role="bold">99445</emphasis> or <emphasis role="bold">99454</emphasis> would be reported by the equipment supplier and monitoring service for cumulative monitoring of at least 2 days.</para>
+   <para>The patient and caregivers are provided separately reported treatment management services (<emphasis role="bold">99470, 99457, 99458</emphasis>) of at least 10 minutes in the month, as indicated.</para>
+   <sect2 id="ch0026s0006s20003">
+      <title/>
+      <sect3 id="ch0026s0006s30004">
+         <title/>
+         <sect4 id="ch0026s0006s0001s01s01">
+            <title>Remote Physiologic Monitoring Treatment Management Services</title>
+            <para>
+               <emphasis role="bold">#●99470</emphasis> Remote physiologic monitoring treatment management services, clinical staff/physician/other QHP time in a calendar month requiring 1 real-time interactive communication with the patient/caregiver during the calendar month; first 10 minutes (RVUs not yet published) <emphasis role="bold">#▲99457</emphasis> first 20 minutes (0.61 work RVUs; 1.48 total RVUs in a non-facility setting and 0.89 total RVUs in a facility setting)</para>
+            <para>
+               <emphasis role="bold">#♦▲99458</emphasis> each additional 20 minutes (0.61 work RVUs; 1.19 total RVUs in a non-facility setting and 0.89 total RVUs in a facility setting) ● indicates a new code; ▲, revised; #, re-sequenced; ♦, add-on; ✖, audit/national technology; and ♠, synchronous interactive audio.</para>
+            <para>Remote physiologic monitoring treatment management services include time spent in a calendar month monitoring, analyzing, and using the results of transmitted physiologic data to treat a patient under a specific treatment plan. These services may be rendered by physicians, QHPs, and/or clinical staff working under supervision of a physician or QHP.</para>
+            <para>The reporting period for <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis>, and <emphasis role="bold">99458</emphasis> is a calendar month. At least 10 minutes must be spent in treatment management services in a calendar month to report <emphasis role="bold">99470</emphasis>.</para>
+            <para>The time spent in activities listed in Table 21-3 is included in the time supporting <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis>, and <emphasis role="bold">99458</emphasis>.</para>
+            <table frame="all" id="ch0026s0006ta0001">
+               <title>Remote Physiologic Monitoring Treatment Management Services</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c2" namest="c1">Table 21-3. Remote Physiologic Monitoring Treatment Management Services</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>#●99470</entry>
+                        <entry>Physician work, performed personally or by clinical staff under physician or QHP supervision
+Access, review, and interpret data. Modify the treatment plan as necessary and communicate to the patient/caregiver.
+Complete associated documentation. Report for a total time of 10–19 minutes each calendar month.
+      Do not report 99470 for 99457 and 99458.</entry>
+                     </row>
+                     <row>
+                        <entry>99457</entry>
+                        <entry>Physician work, performed personally or by clinical staff under physician or QHP supervision as described for 99470, except report 99457 for the initial time of 20–39 minutes each calendar month.</entry>
+                     </row>
+                     <row>
+                        <entry>#●99458</entry>
+                        <entry>Physician work, performed personally or by clinical staff under physician or QHP supervision, as described for 99470 with 1 unit for each additional period of no less than 20 minutes beyond the first 20 minutes reported with 99457</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Abbreviation: QHP, qualified health care professional.</para>
+            <para>Documentation of remote physiologic monitoring treatment management must include ● An order by a physician or QHP</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Data access, review, and interpretation, as indicated by daily transmittals and/or alerts ●<emphasis role="italics">Live interactive communication</emphasis> (eg, 2-way conversation via telephone or secure messaging) with the patient and/or caregiver at least once in a calendar month</para>
+               </listitem>
+               <listitem>
+                  <para>Time of service of 10 or more minutes in a calendar month, including time in live interactive communication, data access, review and interpretation, and documentation</para>
+               </listitem>
+            </itemizedlist>
+            <para>Reporting instructions ● Report <emphasis role="bold">99470</emphasis> once with 1 unit of service for total time of 10–19 minutes of service in a calendar month, or</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">99457</emphasis> once with 1 unit of service for the initial 20–39 minutes of service regardless of the number of physiologic monitoring modalities performed in a calendar month. When the time of service extends a full 20 minutes beyond the first 20 minutes, report <emphasis role="bold">99458</emphasis> in addition to <emphasis role="bold">99457</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Do not report <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis> or <emphasis role="bold">99458</emphasis> ✖ For any time on a day when the physician or QHP reports an E/M service (office or other outpatient services [<emphasis role="bold">99202</emphasis>–<emphasis role="bold">99205</emphasis>, <emphasis role="bold">99211</emphasis>–<emphasis role="bold">99215</emphasis>], home or residence services [<emphasis role="bold">99341</emphasis>–<emphasis role="bold">99345</emphasis>, <emphasis role="bold">99347</emphasis>–<emphasis role="bold">99350</emphasis>], initial or subsequent hospital inpatient or observation services [<emphasis role="bold">99221</emphasis>–<emphasis role="bold">99223</emphasis>, <emphasis role="bold">99231</emphasis>–<emphasis role="bold">99233</emphasis>], or inpatient or observation consultations [<emphasis role="bold">99252</emphasis>–<emphasis role="bold">99255</emphasis>]).</para>
+            <para>✖ For any time related to other reported services (eg, <emphasis role="bold">93290</emphasis>, interrogation of implantable cardiovascular physiologic monitor system).</para>
+            <para>✖ In conjunction with collection and interpretation of physiologic data (<emphasis role="bold">99091</emphasis>).</para>
+            <para>✖ Codes <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis> and <emphasis role="bold">99458</emphasis> may be reported during the same service period as CCM (<emphasis role="bold">99437</emphasis>, <emphasis role="bold">99439</emphasis>, <emphasis role="bold">99487</emphasis>–<emphasis role="bold">99491</emphasis>), PCM (<emphasis role="bold">99424</emphasis>–<emphasis role="bold">99427</emphasis>), transitional care management (<emphasis role="bold">99495</emphasis>, <emphasis role="bold">99496</emphasis>), and behavioral health integration services (<emphasis role="bold">99484</emphasis>, <emphasis role="bold">99492</emphasis>–<emphasis role="bold">99494</emphasis>). But the time for each service must be distinct and not overlapping and must be separately documented.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ Data are received for a child with poorly controlled asthma who is enrolled in a remote physiologic monitoring program. Clinical staff of the ordering physician review the data and note that the patient's plan of care calls for patient contact because forced expiratory volume in 1 second and/or peak expiratory flow measurements are outside a specific range. A care coordinator contacts the patient's parent to inquire about medication use and signs and symptoms. The child's physician is consulted by the care coordinator, and advice or orders for a change in management are relayed to the parent. At the end of the calendar month, documentation supports 25 minutes spent in remote physiologic monitoring treatment management services with at least 1 episode of live interactive communication with the patient's caregiver. Code <emphasis role="bold">99457</emphasis> is reported.</para>
+            <para>Had the time of service in the calendar month been 10–19 minutes, <emphasis role="bold">99470</emphasis> would be reported in lieu of <emphasis role="bold">99457</emphasis>. Had the time in the calendar month totaled 40 minutes or more, code <emphasis role="bold">99458</emphasis> would be reported in addition to <emphasis role="bold">99457</emphasis> with one unit of <emphasis role="bold">99458</emphasis> for each full 20 minutes beyond the initial 20 minutes of service reported with <emphasis role="bold">99457</emphasis>.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0026s0006s0002">
+      <title>Remote Therapeutic Monitoring Services</title>
+      <para>Remote therapeutic monitoring services (eg, musculoskeletal function, therapy adherence, therapy response) represent the review and monitoring of transmittal data related to signs, symptoms, and functions of a therapeutic response as opposed to physiologic data such as heart rate and rhythm. In addition to its monitoring functionality, the device may also provide a therapeutic intervention. The data may represent objective device-generated integrated data or subjective inputs reported by a patient (eg, the patient's reported outcome of therapeutic exercise). These data are reflective of therapeutic responses that provide a functionally integrative representation of patient status.</para>
+      <para>Remote therapeutic monitoring services are included in the Non-face-to-face Nonphysician Services category of the Medicine section of <emphasis role="italics">CPT</emphasis>. The services require an order by a physician or other QHP. However, nonphysician qualified healthcare professionals (NQHCP) who may provide and independently report therapeutic services (eg, physical therapist) may report the codes in this category.</para>
+      <sect3 id="ch0026s0006s30005">
+         <title/>
+         <sect4 id="ch0026s0006s0002s01s01">
+            <title>Remote Therapeutic Monitoring Setup and Device Supply</title>
+            <para>
+               <emphasis role="bold">New in 2026!</emphasis> Codes <emphasis role="bold">98984</emphasis>, <emphasis role="bold">98985</emphasis>, and <emphasis role="bold">98986</emphasis> are added to allow reporting of device supply and data transmissions for remote therapeutic monitoring of 2 to 15 days during a 30-day period. The requirement for at least 16 days of monitoring during a 30-day period still applies to codes <emphasis role="bold">98976</emphasis>–<emphasis role="bold">98978</emphasis>.</para>
+            <para>
+               <emphasis role="bold">98975</emphasis> Remote therapeutic monitoring (eg, therapy adherence, therapy response, digital therapeutic intervention); initial set-upand patient education on use of equipment <emphasis role="bold">#●98984</emphasis> device(s) supply for data access or data transmissions to support monitoring of respiratory system, 2–15 days in a 30-day period</para>
+            <para>
+               <emphasis role="bold">▲98976</emphasis> device(s) supply for data access or data transmissions to support monitoring of respiratory system, 16–30 days in a 30-day period <emphasis role="bold">#●98985</emphasis> device(s) supply for data access or data transmissions to support monitoring of musculoskeletal system, 2–15 days in a 30-day period</para>
+            <para>
+               <emphasis role="bold">▲98977</emphasis> device(s) supply for data access or data transmissions to support monitoring of musculoskeletal system, 16–30 days in a 30-day period <emphasis role="bold">#●98986</emphasis> device(s) supply for data access or data transmissions to support monitoring of cognitive behavioral therapy, 2–15 days in a 30-day period</para>
+            <para>
+               <emphasis role="bold">▲98978</emphasis> device(s) supply for data access or data transmissions to support monitoring of cognitive behavioral therapy, 16–30 days in a 30-day period Report <emphasis role="bold">98975</emphasis>, <emphasis role="bold">98984</emphasis>, <emphasis role="bold">98976</emphasis>, <emphasis role="bold">98985</emphasis>, <emphasis role="bold">98977</emphasis>, <emphasis role="bold">98986</emphasis>, and <emphasis role="bold">98978</emphasis> only when supplying devices used by the patient to capture and transmit data used in remote therapeutic monitoring treatment management services, <emphasis role="bold">98979</emphasis>, <emphasis role="bold">98980</emphasis>, and <emphasis role="bold">98981</emphasis>. These codes may be reported frequently reported by a device vendor.</para>
+            <para>Code <emphasis role="bold">98975</emphasis> is reported once per episode of care for the initial setup and patient education on use of the equipment. An <emphasis role="italics">episode of care</emphasis> is defined as beginning when the remote therapeutic monitoring service is initiated and as ending with attainment of targeted treatment goals.</para>
+            <para>✱ Codes <emphasis role="bold">98975</emphasis>, <emphasis role="bold">98984</emphasis>, <emphasis role="bold">98985</emphasis>, and <emphasis role="bold">98986</emphasis> are not reported for less than 2 days of cumulative monitoring during the 30-day period.</para>
+            <para>✱ Codes <emphasis role="bold">98976</emphasis>, <emphasis role="bold">98977</emphasis>, and <emphasis role="bold">98978</emphasis> are not reported for less than 16 days of cumulative monitoring during the 30-day period.</para>
+            <para>Codes <emphasis role="bold">98984</emphasis>, <emphasis role="bold">98985</emphasis>, <emphasis role="bold">98986</emphasis> and <emphasis role="bold">98975</emphasis>–<emphasis role="bold">98978</emphasis> are specific to remote therapeutic monitoring services and are not used in conjunction with physiologic monitoring services (eg, <emphasis role="bold">95250</emphasis>, ambulatory continuous glucose monitoring or <emphasis role="bold">99453</emphasis>, <emphasis role="bold">99445</emphasis>, or <emphasis role="bold">99454</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✱, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ An adolescent patient with moderate persistent asthma is learning to take responsibility for following a QHP's guidance for use of the control medication, identification and avoidance of triggers, and response to symptoms. The QHP has prescribed remote therapeutic monitoring using an FDA-cleared medical device that automatically transmits data regarding the patient's use of an inhaler.</para>
+            <para>Initial setup of the medical device and education on its use are provided and reported with <emphasis role="bold">98975</emphasis>. A device(s) is supplied and used for therapeutic monitoring for at least 16 days in a 30-day period. Code <emphasis role="bold">98976</emphasis> is reported. When device supply for data access or data transmissions is limited to 2–15 days, <emphasis role="bold">98984</emphasis> is reported in lieu of <emphasis role="bold">98976</emphasis>. Initial set-upand device supply with monitoring for less than 2 days are not reported. (Codes <emphasis role="bold">98975</emphasis>, <emphasis role="bold">98984</emphasis>, and <emphasis role="bold">98976</emphasis> may be reported by a device vendor rather than a physician or QHP, when applicable.)</para>
+         </sect4>
+         <sect4 id="ch0026s0006s0002s01s02">
+            <title>Remote Therapeutic Monitoring Treatment Management Services</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">98979</emphasis> Remote therapeutic monitoring treatment management services, physician/other QHP time in a calendar month requiring at least 1 real-time interactive communication with the patient/caregiver during the calendar month; first 10 minutes</para>
+               </listitem>
+            </itemizedlist>
+            <para>▲<emphasis role="bold">98980</emphasis> first 20 minutes</para>
+            <para>✚▲<emphasis role="bold">98981</emphasis> each additional 20 minutes Remote therapeutic monitoring treatment management service codes <emphasis role="bold">98979</emphasis>, <emphasis role="bold">98980</emphasis>, and <emphasis role="bold">98981</emphasis> are reported for a physician's, QHP's, or NQHCP's cumulative time in a calendar month spent in remote therapeutic monitoring to treat a patient under a specific treatment plan. At least 1 real-time (synchronous) interactive communication with the patient/caregiver is required in the calendar month. Time of interactive communication with the patient/caregiver contributes to the cumulative time of remote therapeutic monitoring treatment management services.</para>
+            <para>Codes <emphasis role="bold">98979</emphasis>, <emphasis role="bold">98980</emphasis>, and <emphasis role="bold">98981</emphasis> are found in the medicine section of CPT to indicate that these services may be provided by any physician, other QHP, or NQHCP (eg, physical or occupational therapist, psychologist). In contrast, codes for remote physiologic monitoring are E/M services reported only by professionals whose scope of practice includes independent provision and reporting of E/M services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Either code <emphasis role="bold">98979</emphasis> or <emphasis role="bold">98980</emphasis> is reported once per calendar month regardless of the number of therapeutic parameters monitored.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">98979</emphasis> is reported for a service of 10–19 minutes in a calendar month.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report <emphasis role="bold">98979</emphasis> when time spent in remote therapeutic monitoring treatment management services during a calendar month is less than 10 minutes or in conjunction with <emphasis role="bold">98980</emphasis> and <emphasis role="bold">98981</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">98980</emphasis> for 20–39 minutes in a calendar month. Report add-on code <emphasis role="bold">98981</emphasis> in addition to <emphasis role="bold">98980</emphasis> with 1 unit for each additional full 20-minute period beyond the first 20 minutes reported with <emphasis role="bold">98980</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report <emphasis role="bold">98981</emphasis> for a period of less than 20 minutes.</para>
+            <para>Do not report <emphasis role="bold">98979</emphasis>, <emphasis role="bold">98980</emphasis>, and <emphasis role="bold">98981</emphasis> ✱ According to time spent by clinical staff (ie, only include time spent by a physician, QHP, or NQHCP)</para>
+            <para>✱ In conjunction with remote monitoring of a wireless pulmonary artery pressure sensor (<emphasis role="bold">93264</emphasis>), collection and interpretation of physiologic data (<emphasis role="bold">99091</emphasis>), or remote physiologic data monitoring treatment management (<emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis>, <emphasis role="bold">99458</emphasis>) ✱ In the same calendar month as self-measured blood pressure (<emphasis role="bold">99473</emphasis>, <emphasis role="bold">99474</emphasis>)</para>
+            <para>✱ For any time spent on the date of an E/M service, including home, office or other outpatient, domiciliary, rest home, or inpatient services ✱ For time counted toward separately reported CCM services (<emphasis role="bold">99447</emphasis>, <emphasis role="bold">99439</emphasis>, <emphasis role="bold">99487–99491</emphasis>), PCM services (<emphasis role="bold">99424–99427</emphasis>), transitional care management services (<emphasis role="bold">99495</emphasis>, <emphasis role="bold">99496</emphasis>), behavioral health integration services (<emphasis role="bold">99484</emphasis>, <emphasis role="bold">99492–99494</emphasis>), psychotherapy services (<emphasis role="bold">90832–90853</emphasis>), health behavior assessment and intervention services (<emphasis role="bold">96156–96161</emphasis>, <emphasis role="bold">96164–96171</emphasis>), or psychiatric collaborative care services (<emphasis role="bold">99492–99494</emphasis>). (When provided in the same time period, each service must be separately documented and no time should be counted toward the required time for both services.)</para>
+            <para>Documentation of remote physiologic monitoring treatment management must include An order by a physician or QHP</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Live interactive communication (eg, 2-way conversation via telephone or audio-video technology) with the patient and/or caregiver ● Time of service of 10 or more minutes in a calendar month</para>
+               </listitem>
+            </itemizedlist>
+            <para>Although a live, interactive communication with the patient/caregiver is required within the calendar month, there is no requirement for 10 minutes of interactive communication. The total time includes time spent in interactive communication in addition to time in data analysis and interpretation and overseeing, coordinating, and/or modifying the patient's care.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ An adolescent patient with moderate persistent asthma is learning to take responsibility for following a QHP's guidance for use of a control medication, identification and avoidance of triggers, and response to symptoms. The QHP has prescribed remote therapeutic monitoring using an FDA-cleared medical device that automatically transmits data regarding the frequency of use of an inhaler.</para>
+            <para>The QHP reviews the transmissions and, at least once during the calendar month, telephones the patient to discuss medication adherence. The QHP's total time spent in remote therapeutic monitoring treatment management during the calendar month is 35 minutes. Code <emphasis role="bold">98980</emphasis> is reported. Had time during the calendar month exceeded 39 minutes, <emphasis role="bold">98981</emphasis> would have also been reported (ie, for 20 minutes beyond the first 20-minute service period).</para>
+            <para>Time of less than 10 minutes in the calendar month would not be reported. Time of 10–19 minutes would be reported with <emphasis role="bold">98979</emphasis>.</para>
+            <para>To learn more about remote data monitoring services, refer to the February 2022 <emphasis role="italics">Pediatrics</emphasis>® article "Remote Monitoring of Patient- and Family-Generated Health Data in Pediatrics" (https://doi.org/10.1542/peds.2021-054137).</para>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Chapter Takeaways</emphasis>
+               </para>
+               <para>This chapter discussed multiple types of remote data collection and/or monitoring services. Following are some takeaways from this chapter:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Documentation of remote data collection or remote monitoring services should include details such as the clinical indication for ordering the services, dates of service, activities such as communicating findings and recommendations to the patient/caregiver, and, for time-based code selection, total time spent during the service period.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Report the most specific <emphasis role="italics">CPT</emphasis> code, when applicable, for remote physiologic data monitoring services. For example, codes <emphasis role="bold">95249–95251</emphasis> are reported for ambulatory continuous blood glucose monitoring of interstitial fluid, rather than <emphasis role="bold">99091</emphasis>, which is less specific regarding the type of physiologic data monitored.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Remote therapeutic monitoring treatment management services are differentiated from remote physiologic monitoring treatment management by the type of data monitored and by the type of service (ie, management of a patient's response to a specific treatment plan vs E/M of a condition based on physiologic data).</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0026s0006s0003">
+      <title>Resources</title>
+      <sect3 id="ch0026s0006s30006">
+         <title/>
+         <sect4 id="ch0026s0006s0003s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>"Remote Monitoring of Patient- and Family-Generated Health Data in Pediatrics."<emphasis role="italics">Pediatrics</emphasis> (https://doi.org/10.1542/peds.2021-054137)</para>
+         </sect4>
+         <sect4 id="ch0026s0006s0003s01s02">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"Report the Right Codes: Remote Monitoring Treatment Management Services," June 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book254</emphasis> document001)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audivisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0026s0006s0003s01s03">
+            <title>Coverage of Digital Medicine Services</title>
+            <para>"AMA Future of Health issue brief: Commercial Payer Coverage for Digital Medicine Codes" (www.ama-assn.org/practice-management/digital/ama-future-health-issue-brief-commercial-payer-coverage-digital)</para>
+            <para>Center for Connected Health Policy (www.cchpca.org)</para>
+         </sect4>
+         <sect4 id="ch0026s0006s0003s01s04">
+            <title>Digital Medical Taxonomy</title>
+            <para>Digital Medicine Taxonomy:<emphasis role="italics">CPT</emphasis> Appendix R</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Where can physicians find a resource for identifying and differentiating digital medicine services?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">CPT</emphasis> Alphabetic Index</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">CPT</emphasis> telemedicine appendices P and T</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">CPT</emphasis> digital medicine taxonomy table (Appendix R)</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">CPT</emphasis> telemedicine section</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What is the episode of care (reporting period) for collection and interpretation of physiologic data reported with 99091?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A calendar month</para>
+                     </listitem>
+                     <listitem>
+                        <para>A 30-day period</para>
+                     </listitem>
+                     <listitem>
+                        <para>A 14-day period</para>
+                     </listitem>
+                     <listitem>
+                        <para>A 10-day period</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following differentiates the services reported with 95250 and 95249?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The supplier of the equipment</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time of service during a 30-day period</para>
+                     </listitem>
+                     <listitem>
+                        <para>The number of days the equipment is used for monitoring</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time of service during a calendar month</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which service requires active monitoring of physiologic data and live interactive communication with the patient during the service period?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99091</emphasis>, collection and interpretation of physiologic data</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99474</emphasis>, self-measured blood pressure</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">94774</emphasis>, pediatric home apnea monitoring</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">99470 or 99457</emphasis>, remote physiologic monitoring treatment management services</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is true of remote therapeutic monitoring treatment management services?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Remote therapeutic treatment management services are reported for a physician's, QHP's, or NQHCP's cumulative time in a calendar month.</para>
+                     </listitem>
+                     <listitem>
+                        <para>At least 1 real-time (synchronous) interactive communication with the patient/caregiver is required in the calendar month.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Either code <emphasis role="bold">98979</emphasis> or <emphasis role="bold">98980</emphasis> is reported once per calendar month regardless of the number of therapeutic parameters monitored.</para>
+                     </listitem>
+                     <listitem>
+                        <para>All of the above.</para>
+</listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

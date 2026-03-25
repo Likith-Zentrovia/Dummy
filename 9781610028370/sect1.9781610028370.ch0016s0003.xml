@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0016s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0016s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0016s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0016s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>16</chapternumber>
+         <chapterid>ch0016</chapterid>
+         <chaptertitle>13. Surgery, Infusion, and Sedation in the Outpatient Setting</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>ICD-10-CM Coding for Procedures</title>
+   <para>
+      <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) codes linked to a procedure code should be the codes that most accurately reflect the reason for the service provided (eg, S81.011D, laceration without foreign body, right knee, subsequent encounter), and these codes may differ from ones linked to other services provided on the same date (eg, E/M service). Refer to Chapter 1 for information on linking diagnosis codes to service lines on a claim.</para>
+   <sect2 id="ch0016s0003s20001">
+      <title/>
+      <sect3 id="ch0016s0003s30001">
+         <title/>
+         <sect4 id="ch0016s0003s0001s01s01">
+            <title>Know Your A, D, and S Seventh Characters!</title>
+            <para>
+               <emphasis role="italics">ICD-10-CM seventh characters</emphasis>
+               <emphasis role="bold">A</emphasis>, <emphasis role="bold">D</emphasis>, and <emphasis role="bold">S</emphasis>
+               <emphasis role="italics">define an encounter type for injuries and certain other diagnoses. Here are tips for remembering which character to use.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Active management of the initial injury or complications</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">During healing of an injury that does not require active management (eg, routine follow-up, suture removal)</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Scars and other sequelae (effects of an injury) (Always report the sequelae code before the injury code when the service is directed to the sequelae. Injury codes with seventh character S are never the first-listed diagnosis.)</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Seventh characters are also appended to codes for external cause of injury (eg, tripping). Additional seventh characters are provided for reporting types of fractures and fracture care.</emphasis>
+            </para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0002">
+      <title>Surgical Package Rules</title>
+      <para>
+         <emphasis role="italics">Current Procedural Terminology</emphasis> (CPT®) surgical codes (<emphasis role="bold">10004–69990</emphasis>) are <emphasis role="italics">packaged</emphasis> or <emphasis role="italics">global</emphasis> codes. To understand documentation and coding of procedural services, it is necessary to know what is included in each service from a coding and payment perspective. <emphasis role="italics">CPT</emphasis> directs that each procedure code represents a "surgical package" of service components. These include</para>
+      <itemizedlist>
+         <listitem>
+            <para>E/M services subsequent to the decision for surgery on the day before and/or day of surgery, including the history and physical examination</para>
+         </listitem>
+         <listitem>
+            <para>Local or topical anesthesia, including metacarpal, metatarsal, and/or digital block</para>
+         </listitem>
+         <listitem>
+            <para>Immediate postoperative care</para>
+         </listitem>
+         <listitem>
+            <para>Writing of orders</para>
+         </listitem>
+         <listitem>
+            <para>Evaluation of the patient in the recovery area</para>
+         </listitem>
+         <listitem>
+            <para>Typical postoperative follow-up care</para>
+         </listitem>
+      </itemizedlist>
+      <para>According to the <emphasis role="italics">CPT</emphasis> definition of the surgical package, RVUs are assigned to each procedure on the basis of the typical preoperative, intraoperative, and postoperative physician work; practice expense (eg, procedure room, instruments, supplies, support staff); and professional liability. Payers that use RVUs to calculate payments will typically not pay separately for any components of the surgical package.</para>
+      <blockquote>
+         <para>The RVUs assigned to procedures include the typically used supplies under the practice expense component. Know your payer policies on this. To learn more about the RVUs, refer to <emphasis role="bold">Chapter 4</emphasis>.</para>
+      </blockquote>
+      <sect3 id="ch0016s0003s30002">
+         <title/>
+         <sect4 id="ch0016s0003s0002s01s01">
+            <title>Medicare Surgical Package Definition</title>
+            <para>Most Medicaid programs follow the Medicare definition of the surgical package. The Medicare definition differs from the <emphasis role="italics">CPT</emphasis> one.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> defines neither global periods nor minor and major surgery. Global periods are defined in the MPFS Relative Value Files (www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files). Most payers use the MPFS, but some Medicaid plans assign a 30-day global period, and other payers may also assign different global periods.</para>
+               </listitem>
+               <listitem>
+                  <para>Throughout this chapter, when an assigned global period is noted, this refers to the period assigned in the MPFS.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Medicare defines procedures as <emphasis role="bold">minor</emphasis> (procedures assigned a 0- or 10-day global period or endoscopies) or <emphasis role="bold">major</emphasis> (procedures assigned a 90-day global period) as shown in Table 13-1. <emphasis role="italics">The day of surgery is day 0 (zero); the postoperative period begins the next day.</emphasis>
+            </para>
+            <table frame="all" id="ch0016s0003ta0001">
+               <title>Medicare Surgical Package Definition</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Global Periods</entry>
+                        <entry>0-Day Global Surgical Procedures</entry>
+                        <entry>10-Day Global Surgical Procedures</entry>
+                        <entry>90-Day Global Surgical Procedures</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Services before date of procedure</entry>
+                        <entry>Not included</entry>
+                        <entry/>
+                        <entry>All related services 1 day before surgery if after decision for surgery</entry>
+                     </row>
+                     <row>
+                        <entry>Services on date of procedure</entry>
+                        <entry>E/M services typically included regardless of when decision for surgery is made</entry>
+                        <entry/>
+                        <entry>All related services except E/M services at which decision for surgery is made</entry>
+                     </row>
+                     <row>
+                        <entry>Postoperative services</entry>
+                        <entry>Typical postoperative care on same date</entry>
+                        <entry>All related care on DOS and 10 days following</entry>
+                        <entry>All related care on DOS and 90 days following, including care for complications that does not require a return to the OR</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> does not include care related to surgical complications in the surgical package. Medicare considers care related to complications following surgery to be included in the surgical package unless a return to the operating/procedure room is necessary.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Most office and outpatient clinic procedures will have 0- or 10-day global periods. Exceptions are certain services such as care of fractures, as discussed in the Fracture and/or Dislocation Care section later in this chapter. For the number of global days and RVU values from MPFS 2025 for many commonly reported office procedures, refer to "Common Office Procedures and Global Days" at www.aap.org/cfp2026.</para>
+            <blockquote>
+               <para>The day of surgery is day 0 (zero) of the global period; the postoperative period begins the next day.</para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0016s0003s0002s01s02">
+            <title>Supplies and Materials</title>
+            <para>
+               <emphasis role="bold">99070</emphasis> Supplies and materials provided by the physician over and above those usually included with the office visit or other services rendered</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Items such aselastic wraps, clavicle splints, or circumcision and suturing trays may be reported with this code. Remember that some supplies (eg, circumcision and suturing trays) are included in the value of the surgical procedure when the payment is based on RVUs.</para>
+               </listitem>
+               <listitem>
+                  <para>Only the supplies purchased in an office-based practice may be reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>If reporting 99070, identify the supplies or materials on the claim form and be prepared to submit an invoice.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Some payers require the use of Healthcare Common Procedure Coding System (HCPCS) codes. More specific HCPCS codes are available for certain supplies (eg, codes Q4001–Q4051 for cast and splint supplies). Use HCPCS codes when they are more specific.</para>
+               </listitem>
+            </itemizedlist>
+            <para>For more information on HCPCS codes, refer to Chapter 1.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0002s01s03">
+            <title>Significant Evaluation and Management Service and Procedure</title>
+            <para>The Medicare Resource-Based Relative ValueScale is used by most private payers and Medicaid plans to determine RVUs and global periods for services. Under this payment methodology, procedural services include some preservice and post-service E/M by the performing physician. Payer edits, such as the National Correct Coding Initiative (NCCI) edits used by Medicare and Medicaid, also bundle E/M services with certain procedures.</para>
+            <para>For minor procedures, separate payment for a significant, separately identifiable E/M service is allowed when modifier 25 is appended to the E/M code. But care should be taken to use modifier 25 only when documentation supports a significant, separately identifiable E/M service. The separately reported E/M service may be indicated by the same problem for which a procedure is required (eg, neurological evaluation for open wound of the head that requires sutures).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Medicare states that an E/M code may be reported on the same day as a minor surgical procedure only when a significant, separately identifiable E/M service is performed and modifier 25 is appended to the E/M code. CPT does not specifically include the initial E/M service before a minor procedure when the decision for surgery occurs at the visit.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Modifier 25 does not indicate that a decision for surgery was made at the visit. Modifier 57 may be appended when the decision for a procedure is made during the E/M service on the day before or same date as the procedure. (Medicare limits use of modifier 57 to major procedures.) Documentation should clearly show E/M of the problem resulting in the initial decision to perform the related procedure. E/M services provided on the day before or day of a procedure that take place after a decision for surgery on an earlier date are included in the surgical package.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Coding Conundrum: Procedure, or Evaluation and Management and Procedure?</emphasis>
+               </para>
+               <para>The differences in the Centers for Medicare &amp; Medicaid Services and CPT surgical package guidelines may lead to confusion. Answer the following questions when determining whether you should report a procedure alone or a procedure with an E/M service:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Did you address a problem or condition before deciding to perform the procedure (above and beyond the usual preoperative care associated with the procedure) or a significant and separately identifiable problem? If yes, report an E/M service and procedure.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Does the medical record documentation clearly support the performance of a medically necessary E/M service (and meet code descriptor requirements), the procedure (procedure note), the clinical indications for both, and the decision to perform the surgery? If yes, report an E/M service and procedure.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Was the purpose of the visit only for the procedure (eg, decision for surgery made at an earlier visit) or a procedure requiring minimal E/M (eg, incision for splinter removal)? If yes, do not report an E/M service.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Does the payer follow the CPT or Centers for Medicare &amp; Medicaid Services guidelines for reporting surgical procedures? If the focus of an E/M service is related to the procedure, the history and physical examination are part of preoperative service, and only the surgical procedure should be reported.</para>
+                  </listitem>
+               </itemizedlist>
+            </blockquote>
+            <para>▶ A neonate returns for repeat cauterization of an umbilical granuloma. The physician reviews patient history since the last visit and documents that there is still some drainage from the umbilical stump. Other documentation includes notation of the weight and vital signs, patient/caregiver consent, procedure including precautions to protect surrounding tissues, patient tolerance, outcome and post-procedural examination findings, and instructions for home care and follow-up visits.</para>
+            <table frame="all" id="ch0016s0003ta0002">
+               <title>Significant Evaluation and Management Service and Procedure</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>P83.81 (umbilical granuloma)</entry>
+                        <entry>17250 (chemical cauterization of granulation tissue [ie, proud flesh])</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">A patient presents for reevaluation of asthma.</emphasis> The patient requests evaluation of itching and hearing loss in the left ear. After evaluating the patient's current asthma status and determining that current management should be continued, the patient's ears are examined. Impacted cerumen is identified in the left ear. The cerumen is removed by clinical staff, under the physician's supervision, using lavage. On reexamination, the impacted cerumen is cleared and the patient reports improved hearing. The diagnoses are stable mild persistent asthma and impacted cerumen, left ear. The medical decision-making (MDM) of the encounter is low, supporting <emphasis role="bold">99213</emphasis>.</para>
+            <table frame="all" id="ch0016s0003ta0003">
+               <title>Significant Evaluation and Management Service and Procedure</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J45.30 (mild persistent asthma, uncomplicated)H61.22 (impacted cerumen, left ear)</entry>
+                        <entry>99213 25 (office or other outpatient E/M)69209 LT (removal of impacted cerumen using irrigation/lavage, unilateral)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Modifier <emphasis role="bold">LT</emphasis> indicates that the unilateral procedure was performed on the left ear. Payer policies sometimes require use of modifiers to indicate laterality even when the linked <emphasis role="italics">ICD-10-CM</emphasis> code indicates the site of the procedure.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0003">
+      <title>Reporting Postoperative Care</title>
+      <sect3 id="ch0016s0003s30003">
+         <title/>
+         <sect4 id="ch0016s0003s0003s01s01">
+            <title>Postoperative Evaluation and Management</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="italics">CPT</emphasis> code <emphasis role="bold">99024</emphasis> (postoperative follow-up visit) for follow-up care provided during the global surgery period. No RVUs are assigned to <emphasis role="bold">99024</emphasis>, as the RVUs were included in the total value of the related procedure.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Payment for postoperative care is included as part of the procedure. Payers track the postoperative care provided and reported with <emphasis role="bold">99024</emphasis>.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>If a physician is not providing or reporting the postoperative care typically performed for a procedure, payers may reduce payment for the surgical service.</para>
+               </listitem>
+               <listitem>
+                  <para>Reporting <emphasis role="bold">99024</emphasis> allows tracking of the number of visits performed during the postoperative period of specific procedures. A practice can use this data to calculate office overhead expenses (eg, supplies, staff, physician time) associated with the procedure and potentially use the data to negotiate higher payment rates.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Payment of a surgical procedure may be reduced if the physician does not report 99024. For an example of 99024, refer to the Fracture and/or Dislocation Care section later in this chapter.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the physician who performed a procedure provides an unrelated E/M service during the postoperative period, modifier <emphasis role="bold">24</emphasis> (unrelated E/M service by the same physician during a postoperative period) should be appended to the E/M service code.</para>
+               </listitem>
+               <listitem>
+                  <para>When a physician <emphasis role="italics">other than the surgeon</emphasis> provides unrelated services to a patient during the postoperative period, the services are reported without a modifier. Despite the use of different National Provider Identifiers and diagnosis codes, some payers with assigned follow-up surgical periods will deny the service. The claim should be appealed for payment with a letter advising the payer that the service was unrelated to surgical care.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">A patient returns 1 month after initial closed treatment of a non-displaced clavicle fracture with concern of runny nose and cough.</emphasis> History is provided by the child's mother and father. The physician not only diagnoses an acute upper respiratory infection (URI) but also reevaluates and assesses the patient's healing fracture. The patient's parents are instructed on home management of the URI.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0003s01s02">
+            <title>ICD-10-CM | CPT</title>
+            <para>J06.9 (acute URI, unspecified) | 99213 24 S42.024D (nondisplaced fracture of shaft of right clavicle, subsequent encounter for fracture with routine healing) | 99024 A code for the external cause of injury will also be reported (eg, W07.XXXD, fall from chair, subsequent encounter).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Modifier 24 is reported to identify that the service to evaluate the patient's respiratory illness was unrelated to the prior procedure. The MDM of the E/M service was low given the low number and complexity of problems addressed (acute, uncomplicated illness), limited data (history from independent historians), and low risk of complications, morbidity, or mortality associated with recommended home care. The evaluation of the healing fracture during the postoperative period is not included in determining the level of service for the encounter, because it is included in postoperative care when provided during the 90-day global period.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0003s01s03">
+            <title>Suture Removal</title>
+            <para>The Medicare global surgery period of 0 days indicates that payment includes the procedure or service plus any associated care provided <emphasis role="italics">on the same day</emphasis> of service. Therefore, practices may separately report follow-up visits and removal of sutures or staples placed as <emphasis role="italics">part of a procedure assigned a 0-day global period</emphasis>.</para>
+            <para>The Medicare global surgery period of 10 or 90 days include the procedure or service plus any associated follow-up care for 10 or 90 days following the date of the procedure. Therefore, the charge for the procedure already includes suture or staple removal by the same physician or a physician of the same group and specialty as part of the global surgical package, and <emphasis role="bold">99024</emphasis> is reported for this follow-up care during the 10- or 90-day global period.</para>
+            <para>✱ Do not separately report codes for suture or staple removal during the global period of a procedure with a 10- or 90-day global period performed by a physician or qualified health care professional (QHP) in the same group practice except when general anesthesia or moderate sedation is required.</para>
+            <para>✱ Do not separately report codes for suture or staple removal associated with postoperative care following 10- and 90-day global period services when a transfer of care results in postoperative care by a physician or QHP who did not provide the procedure. The code for the procedure is appended with modifier 55 (postoperative management only) and reported for the postoperative care.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0003s01s04">
+            <title>Removal Requiring General Anesthesia or Moderate Sedation</title>
+            <para>
+               <emphasis role="bold">15851</emphasis> Removal of sutures or staples requiring anesthesia (ie, general anesthesia, moderate sedation) Code <emphasis role="bold">15851</emphasis> is reported only when the patient requires general anesthesia or moderate sedation during suture or staple removal. This code is assigned 1.10 physician work RVUs and 1.71 total non-facility RVUs.</para>
+            <para>✱ Do not report <emphasis role="bold">15851</emphasis> for reopening a wound to perform an additional procedure.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0003s01s05">
+            <title>Removal Not Requiring General Anesthesia or Moderate Sedation</title>
+            <para>
+               <emphasis role="bold">#+15853</emphasis> Removal of sutures or staples not requiring anesthesia <emphasis role="bold">#+15854</emphasis> Removal of sutures and staples not requiring anesthesia</para>
+            <para>Codes <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> are</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Reported only when sutures and/or staples are removed in follow-up to a procedure with a 0-day global period (and possibly for codes assigned XXX global period indicator [global period does not apply] if sutures or staples were placed)</para>
+               </listitem>
+               <listitem>
+                  <para>Add-on codes (AOCs) that are reported in addition to an E/M service at the same encounter</para>
+               </listitem>
+               <listitem>
+                  <para>Reported in conjunction with E/M codes <emphasis role="bold">99202–99205, 99211–99215, 99281–99285, 99341–99345, or 99347–99350</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>AOCs are assigned a global period status of ZZZ, which indicates that the global period of the primary procedure is applied to the AOC (ie, a new global period does not begin with removal of sutures or staples).</para>
+            <para>The total non-facility RVUs for codes <emphasis role="bold">15853</emphasis> (0.34) and <emphasis role="bold">15854</emphasis> (0.43) do not include physician work but represent practice expense and professional liability costs.</para>
+            <para>✱ Do not report <emphasis role="bold">15854</emphasis> in conjunction with <emphasis role="bold">15853</emphasis>. As shown in Figure 13-1, the codes represent removal of either sutures or staples (<emphasis role="bold">15853</emphasis>) or removal of both sutures and staples (<emphasis role="bold">15854</emphasis>).</para>
+            <para>✱ Do not report <emphasis role="bold">15853</emphasis> or <emphasis role="bold">15854</emphasis> when provided in a facility setting (eg, place of service code <emphasis role="bold">19</emphasis>, off-campus outpatient hospital).</para>
+            <para>✱ Do not include time related to suture removal when selecting an E/M code according to total time (eg, extended time due to patient's anxiety about the procedure).</para>
+            <para>Some payers may require reporting of HCPCS code <emphasis role="bold">50630</emphasis>. Code <emphasis role="bold">50630</emphasis> is for removal of sutures by a physician other than the one who originally closed the wound. Report <emphasis role="bold">50630</emphasis> in lieu of <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> when required by payer policy.</para>
+            <figure float="0" id="ch0016s0003fg0001">
+               <title/>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="ch0016f01.jpg" scalefit="1" width="100%"/>
+                  </imageobject>
+               </mediaobject>
+            </figure>
+            <para>For aftercare of an injury, assign the acute injury code with the seventh character <emphasis role="bold">D</emphasis> (subsequent encounter). <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">Z48.02</emphasis> (encounter for removal of sutures) <emphasis role="italics">is not</emphasis> reported for removal of sutures previously placed to repair an injury but may be reported when removal of sutures is unrelated to care for an injury (eg, removal of sutures from a wound created during excision of a skin lesion).</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ An 8-year-old sustained a 0.5-cm laceration on her forehead. The wound on her face requires a simple repair. She is seen in follow-up 7 days later. The wound is clean, and the sutures are removed.</para>
+            <table frame="all" id="ch0016s0003ta0004">
+               <title>Removal Not Requiring General Anesthesia or Moderate Sedation</title>
+               <tgroup cols="3">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <thead>
+                     <row>
+                        <entry>Visit</entry>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Initial visit</entry>
+                        <entry>S01.81XA (laceration without foreign body of other part of head, initial encounter)</entry>
+                        <entry>12011 (simple repair of the facial laceration 2.5 cm or less)</entry>
+                     </row>
+                     <row>
+                        <entry>Follow-up visit</entry>
+                        <entry>S01.81XD (laceration without foreign body of other part of head, subsequent encounter)</entry>
+                        <entry>99212–99215 (established patient E/M) according to MDM or the physician's total time not including time of suture removal#✱ 15853 (removal of sutures or staples not requiring anesthesia)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0004">
+      <title>Reporting Terminated Procedures</title>
+      <para>When a procedure is started but cannot be completed because of extenuating circumstances, physicians should consider the individual situation, including the reason for termination of the procedure and the amount of work that was performed, when determining how to report the service rendered.</para>
+      <para>When a procedure is performed but not entirely successful (eg, portion of foreign body removed), it may be appropriate to report the procedure code that represents the work performed without modification.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Report reduced services (modifier <emphasis role="bold">52</emphasis>) or discontinued procedure (modifier <emphasis role="bold">53</emphasis>) only when the service is significantly reduced from the typical service.</para>
+         </listitem>
+         <listitem>
+            <para>If the work performed before discontinuation is insignificant, it may be appropriate to not report the procedure. If you choose to not report the procedure, consider whether the level of a related E/M service was increased given the level of MDM associated with the attempted procedure, any complicating factors, and the revised management or treatment plan.</para>
+         </listitem>
+      </itemizedlist>
+      <para>For an example of a discontinued service, refer to the Removal of Impacted Cerumen section later in this chapter.</para>
+      <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on modifiers including <emphasis role="bold">52</emphasis>, <emphasis role="bold">53</emphasis>, <emphasis role="bold">58</emphasis> (staged procedure), and <emphasis role="bold">76</emphasis> (repeat procedure).</para>
+   </sect2>
+   <sect2 id="ch0016s0003s0005">
+      <title>Common Pediatric Procedures</title>
+      <sect3 id="ch0016s0003s30004">
+         <title/>
+         <sect4 id="ch0016s0003s0005s01s01">
+            <title>Minor Procedures That Do Not Have a Code</title>
+            <para>Some minor procedures are considered inherent to an E/M code or do not have separate <emphasis role="italics">CPT</emphasis> codes. But you may report any supplies used. The following procedures are included in an E/M service:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Insertion or removal of anear wick</para>
+               </listitem>
+               <listitem>
+                  <para>Removal of <emphasis role="italics">nonimpacted</emphasis> cerumen from the ear</para>
+               </listitem>
+               <listitem>
+                  <para>Nasal aspiration</para>
+               </listitem>
+               <listitem>
+                  <para>Nasogastric tube insertion without fluoroscopic guidance</para>
+               </listitem>
+               <listitem>
+                  <para>Removal of an umbilical clamp</para>
+               </listitem>
+               <listitem>
+                  <para>Removal of foreign bodies from skin not requiring an incision</para>
+               </listitem>
+               <listitem>
+                  <para>Puncture of abscess without aspiration</para>
+               </listitem>
+               <listitem>
+                  <para>Wound closure only with adhesive strips (eg, Steri-Strips, butterfly bandages)</para>
+               </listitem>
+               <listitem>
+                  <para>The use of fluorescein dye and a Wood lamp to examine for a corneal abrasion or foreign body of the eye</para>
+               </listitem>
+            </itemizedlist>
+            <para>When significant time is spent performing a service that is not separately reported, documentation of the total time spent on the date of the encounter and code selection based on time may more adequately represent the level of E/M service than code selection based on MDM.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0005s01s02">
+            <title>Identifying Separately Reportable Services</title>
+            <para>Some procedures, such as those requiring an incision and/or repair, are easily understood to be separately reported. For other procedural services, verify separate reporting through your procedure coding reference. There is value in capturing all procedural services that are distinct from E/M services.</para>
+            <para>▶<emphasis role="bold">A physician removes a foreign body from a child's nose.</emphasis> If the physician reports an office E/M visit with low-level MDM (<emphasis role="bold">99213</emphasis>, 2.75 total non-facility RVUs) in lieu of procedure code <emphasis role="bold">30300</emphasis> (foreign body removal from nose, 6.20 total non-facility RVUs), the service may be significantly undervalued.</para>
+            <para>Reporting the appropriate code for the foreign body removal will result in more appropriate payment for the service provided. Both services are reported only if a significant, separately identifiable E/M service, beyond the preservice work of the foreign body removal, is provided.</para>
+            <para>Examples of other procedural services that may be provided in a pediatric practice but are mistakenly included in or reported with an E/M code include the following services:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Burn care for a first-degree burn (<emphasis role="bold">16000</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Treatment of elbow dislocation (<emphasis role="bold">24640</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Incision in lingual frenulum (<emphasis role="bold">41010</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Urinary catheterization, straight (<emphasis role="bold">51701</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Remember that when reporting any procedures containing 0, 10, or 90 global days, modifier <emphasis role="bold">25</emphasis> or <emphasis role="bold">57</emphasis> is required on any separately identifiable E/M service provided on the same day (or, in some instances, the previous day before a planned major surgery).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0006">
+      <title>Integumentary Procedures</title>
+      <sect3 id="ch0016s0003s30005">
+         <title/>
+         <sect4 id="ch0016s0003s0006s01s01">
+            <title>Extraction</title>
+            <para>
+               <emphasis role="bold">New in 2026!</emphasis> Code <emphasis role="bold">10040</emphasis> has been revised to reflect a change from "acne surgery" to a more specific description of the service, "extraction," which may be performed in the treatment of acne.</para>
+            <para>
+               <emphasis role="bold">▲10040</emphasis> Extraction (eg, marsupialization, opening or removal of multiple milia, comedones, cysts, pustules) The service reported with <emphasis role="bold">10040</emphasis> may include extraction of comedones and gentle lancing and draining of the pustular component of acne lesions.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0006s01s02">
+            <title>Incision and Drainage</title>
+            <para>
+               <emphasis role="bold">10060</emphasis> Incision and drainage of abscess (eg, carbuncle, suppurative hidradenitis, cutaneous or subcutaneous abscess, cyst, furuncle, or paronychia); simple or single</para>
+            <para>
+               <emphasis role="bold">10061</emphasis> complicated or multiple</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The global period is 10 days for <emphasis role="bold">10060</emphasis> and <emphasis role="bold">10061</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> does not differentiate between simple and complicated incision and drainage and leaves code selection to the physician's judgment.</para>
+               </listitem>
+               <listitem>
+                  <para>The difference in 2025 total non-facility RVUs for <emphasis role="bold">10060</emphasis> (3.84) and <emphasis role="bold">10061</emphasis> (6.44) indicates the significant additional work and practice expense associated with complicated or multiple incision and drainage procedures. Documentation should support the increased complexity when reporting <emphasis role="bold">10061</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>The simple incision and drainage procedure typically involves administering local anesthetic, making an incision, expressing purulent drainage, obtaining a culture, irrigating the wound, completely opening the cavity, and packing/dressing the wound.</para>
+               </listitem>
+               <listitem>
+                  <para>Complex incision and drainage often typically involves a deeper incision, breakdown of multiple loculations, placement of a drain, and/or debridement of the cavity.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A 12-year-old presents with an abscess on his right lower leg. The decision is made to perform incision and drainage. The physician documents administration of local anesthetic, incision of skin above the abscess, and expression of purulent material. The wound was irrigated and packed. The patient will return in 3 days for reevaluation.</para>
+            <para>Code <emphasis role="bold">10060</emphasis> is reported for the procedure. All related visits (eg, follow-up visit to recheck the wound) within the 10 days following the date of surgery may be reported with <emphasis role="bold">99024</emphasis> and no charge.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0007">
+      <title>Removal of Skin Tags and Congenital Accessory Digits</title>
+      <para>
+         <emphasis role="bold">11200</emphasis> Removal of skin tags, multiple fibrocutaneous tags, any area; up to and including 15 lesions A 10-day global period applies. The 2025 total non-facility RVUs were 2.79.</para>
+      <para>Code <emphasis role="bold">11200</emphasis> is used to report the removal of a sixth digit from a newborn. It is equivalent to a skin tag and is not assigned the code for an actual digit removal. The <emphasis role="italics">ICD-10-CM</emphasis> code for accessory digits would be <emphasis role="bold">Q69.0</emphasis> (accessory fingers), <emphasis role="bold">Q69.1</emphasis> (accessory thumb), <emphasis role="bold">Q69.2</emphasis> (accessory toes), or <emphasis role="bold">Q69.9</emphasis> (unspecified).</para>
+      <sect3 id="ch0016s0003s30006">
+         <title/>
+         <sect4 id="ch0016s0003s0007s01s01">
+            <title>Destruction of Benign Lesions (eg, Warts)</title>
+            <para>
+               <emphasis role="bold">17110</emphasis> Destruction (eg, laser surgery, electrosurgery, cryosurgery, chemosurgery, surgical curettement) of benign lesions other than skin tags or cutaneous vascular proliferative lesions; up to 14 lesions</para>
+            <para>
+               <emphasis role="bold">17111</emphasis> 15 or more lesions A 10-day global period applies to <emphasis role="bold">17110</emphasis> and <emphasis role="bold">17111</emphasis>. The 2025 total non-facility RVUs were 3.40 for <emphasis role="bold">17110</emphasis> and 3.99 for <emphasis role="bold">17111</emphasis>.</para>
+            <para>Report destruction of flat or common warts (<emphasis role="bold">B07.8</emphasis>), plantar warts (<emphasis role="bold">B07.0</emphasis>), or molluscum contagiosum (<emphasis role="bold">B08.1</emphasis>) with <emphasis role="bold">17110</emphasis> or <emphasis role="bold">17111</emphasis> (with 1 unit of service), depending on the number of lesions removed. Do not report both <emphasis role="bold">17110</emphasis> and <emphasis role="bold">17111</emphasis> because they are mutually exclusive.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0007s01s02">
+            <title>Chemical Cauterization of Granulation Tissue</title>
+            <para>
+               <emphasis role="bold">17250</emphasis> Chemical cauterization of granulation tissue (ie, proud flesh) A 0-day global period applies. The 2025 total non-facility RVUs were 2.54.</para>
+            <para>Code <emphasis role="bold">17250</emphasis> is appropriately reported for cauterization of an umbilical granuloma.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When reporting a significant and separately identifiable E/M service on the date, append modifier 25 to the E/M code reported (eg, <emphasis role="bold">99391</emphasis> 25, <emphasis role="bold">99212</emphasis> 25).</para>
+               </listitem>
+            </itemizedlist>
+            <para>❋ Do not report <emphasis role="bold">17250</emphasis> with removal or excision codes for the same lesion, for achieving wound hemostasis, or in conjunction with active wound care management.</para>
+            <para>
+               <emphasis role="bold">A 2-week-old presents for her well-baby check.</emphasis> On examination, a moderate-sized umbilical granuloma is noted. The physician takes a very brief history and decides to cauterize the umbilicus. The routine well-baby check is completed in addition to cauterization of the umbilical granuloma.</para>
+            <table frame="all" id="ch0016s0003ta0005">
+               <title>Chemical Cauterization of Granulation Tissue</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z00.121 (encounter for routine child health examination with abnormal findings)P83.81 (umbilical granuloma)</entry>
+                        <entry>99391 2517250</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0016s0003s0007s01s03">
+            <title>Laceration Repairs</title>
+            <para>
+               <emphasis role="bold">12001–12018</emphasis> Simple repair</para>
+            <para>
+               <emphasis role="bold">12031–12057</emphasis> Intermediate repair</para>
+            <para>
+               <emphasis role="bold">13100–13160</emphasis> Complex repair</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Most repairs performed innon-facility settings are simple or intermediate repairs, which are defined as follows:</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">Simple:</emphasis> Superficial wound and/or subcutaneous wound requiring a simple single-layer closure or tissue adhesives (eg, Dermabond). Wound closure requiring only adhesive strips is included in an E/M service. A 0-day global period applies. When local or topical anesthesia and hemostasis are not reported separately.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">Intermediate:</emphasis> Includes the repair of wounds that, in addition to the requirements for simple repair, require layered closure of one or more of the deeper layers of subcutaneous tissue and superficial (non-muscle) fascia, in addition to skin (epidermal and dermal) closure. Intermediate repair includes limited undermining (defined as a distance less than the maximum width of the defect, measured perpendicular to the closure line, along at least 1 entire edge of the defect). A 10-day global period applies.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Single-layer closure of heavily contaminated wounds that require extensive cleaning or removal of particulate matter also constitutes intermediate repair.</emphasis> Refer to your <emphasis role="italics">CPT</emphasis> reference for the definition of complex repair and additional reporting instructions for wounds that require extensive debridement.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">12001–13160</emphasis> are used to report wound closure using sutures, staples, or tissue adhesives (eg, Dermabond), singly or in combination with adhesive strips.</para>
+               </listitem>
+               <listitem>
+                  <para>Wound closure using chemical cauterization, electrocauterization, or adhesive strips (eg, Steri-Strips, butterfly bandages) only is considered inherent to the E/M service. Supplies may be separately reported, but payers may bundle supplies to the practice expense of the E/M service.</para>
+               </listitem>
+               <listitem>
+                  <para>Some payers may accept HCPCS code <emphasis role="bold">G0168</emphasis> (wound closure using tissue adhesive[s]) in lieu of simple repair codes (eg, <emphasis role="bold">12001</emphasis>, <emphasis role="bold">12011</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Codes are reported according to difficulty of the repair, measured length of the wound, and location. To report wound repair, measure the length of the repaired wound(s) in centimeters.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If multiple wounds belong to the same category of difficulty and location, add the lengths and report with a single code.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>If multiple wounds do not belong in the same category, report each repair separately with the more complicated repair reported as the primary procedure and the less complicated repair reported as the secondary procedure. Modifier <emphasis role="bold">51</emphasis> (multiple procedures) should be appended to the secondary code(s) when the payer does not recommend against reporting modifier 51.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Simple ligation of vessels is considered part of the wound closure.</para>
+               </listitem>
+               <listitem>
+                  <para>Provision of topical or injected local anesthetic is included in the wound repair code.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">▶ A 10-year-old sustained a 1.5-cm laceration on his left knee requiring a simple (single-layer) repair after a fall from playground equipment.</emphasis>
+            </para>
+            <table frame="all" id="ch0016s0003ta0006">
+               <title>Laceration Repairs</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S81.012A (laceration without foreign body left knee, initial encounter)W09.8XXA (fall on or from other playground equipment, initial encounter)Y92.838 (other recreation area as the place of occurrence of the external cause)</entry>
+                        <entry>12001 (simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities [including hands and feet]; 2.5 cm or less)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> A single code is reported when both wounds are in the same family of anatomical sites and both require the same level of repair (ie, simple, intermediate, or complex). If the patient returns for wound follow-up within 10 days following the date of repair, <emphasis role="bold">99024</emphasis> (postoperative follow-up visit) is reported for the encounter because intermediate repair has a 10-day global period. There is no separate charge for care within the global period.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0007s01s04">
+            <title>Other Repairs</title>
+            <para>Code <emphasis role="bold">11760</emphasis> (repair of nail bed) is reported when part or all of the nail plate is lifted and a laceration of the nail bed is repaired. A 10-day global period applies. The 2025 non-facility total RVUs were 5.53.</para>
+            <para>Report <emphasis role="bold">40650</emphasis> (repair of lip, full-thickness, vermilion only) when a laceration of the full thickness of the lip and vermilion is repaired. A 90-day global period applies to this service. For less than full-thickness repair, refer to codes for repair of skin. For repair of a laceration that crosses the vermilion border, refer to <emphasis role="bold">40652</emphasis> (up to half vertical height) and <emphasis role="bold">40654</emphasis> (over half of vertical height).</para>
+            <para>Laceration repairs of the tongue (<emphasis role="bold">41250</emphasis>–<emphasis role="bold">41252</emphasis>) are reported according to size and location (eg, repair of laceration ≤2.5 cm, anterior two-thirds of the tongue, is reported with <emphasis role="bold">41250</emphasis>). These codes are assigned a 10-day global period.</para>
+            <blockquote>
+               <para>Refer to <emphasis role="bold">Chapter 18</emphasis> for discussion of coding for negative pressure wound therapy (<emphasis role="bold">97605</emphasis> and <emphasis role="bold">97606</emphasis> or <emphasis role="bold">97607</emphasis> and <emphasis role="bold">97608</emphasis>).</para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0016s0003s0007s01s05">
+            <title>Burn Care</title>
+            <para>CPT code <emphasis role="bold">16000</emphasis> (initial treatment, first-degree burn, where no more than local treatment is required) is reported for initial treatment for the symptomatic relief of a first-degree burn that is characterized by erythema and tenderness. The 2025 total non-facility RVUs were 2.47. Report a separate E/M service on the same date only when the service is both distinct and separately identifiable from the preservice work of the burn care.</para>
+            <para>
+               <emphasis role="bold">16020</emphasis> Dressings and/or debridement of partial-thickness burns, initial or subsequent; small or less than 5% total body (eg, finger) A 0-day global period applies. The 2025 total non-facility RVUs were 2.58.</para>
+            <para>
+               <emphasis role="bold">Code 16020</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is used to report treatment of burns with dressings and/or debridement of small partial-thickness burns (second degree), whether initial or subsequent.</para>
+               </listitem>
+               <listitem>
+                  <para>An E/M visit with modifier 25 appended may be reported if a significant, separately identifiable E/M service is clinically indicated, performed, and documented in addition to the burn care.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 18</emphasis> for coding of larger partial- or full-thickness burns.</para>
+            <para>▶<emphasis role="bold">A 9-year-old with sunburn on her shoulders is seen by the physician.</emphasis> There is redness and tenderness but no blistering. Topical treatment is applied, and an over-the-counter treatment of the first-degree burn is ordered.</para>
+            <table frame="all" id="ch0016s0003ta0007">
+               <title>Burn Care</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>L55.0 (first-degree sunburn)</entry>
+                        <entry>16000 (first-degree burn requiring local treatment)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> External cause-of-injury codes such as <emphasis role="bold">X15.3XXA</emphasis> are used to report the source, place, and/or intent of a burn injury. These codes are required only when state regulations mandate reporting of cause of injury (typically applies to emergency department [ED] services). But it is appropriate to report external cause-of-injury codes when the cause is known.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0008">
+      <title>Removal of Foreign Bodies</title>
+      <sect3 id="ch0016s0003s30007">
+         <title/>
+         <sect4 id="ch0016s0003s0008s01s01">
+            <title>Integumentary Foreign Bodies</title>
+            <para>
+               <emphasis role="bold">10120</emphasis> Incision and removal of foreign body, subcutaneous tissues; simple</para>
+            <para>
+               <emphasis role="bold">10121</emphasis> complex A 10-day global period applies. The 2025 total non-facility RVUs were 4.55 (<emphasis role="bold">10120</emphasis>) and 7.95 (<emphasis role="bold">10121</emphasis>).</para>
+            <para>Incision and removal of a foreign body from within the subcutaneous tissues above the fascia is reported with a code from the integumentary system regardless of the site (eg, hand, foot).</para>
+            <para>Do not report <emphasis role="bold">10120</emphasis> or <emphasis role="bold">10121</emphasis> when a foreign body is removed with forceps alone, with no incision. Instead, report an E/M service. Incising of the skin can be accomplished by a scalpel or another instrument needed to "break open," or incise, the skin.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">10120</emphasis> includes the removal of splinters or ticks when the physician incises the skin to retrieve the foreign body.</para>
+               </listitem>
+               <listitem>
+                  <para>A complex removal may require extended exploration and removal of multiple foreign bodies (eg, pieces of glass), use of imaging to help locate the foreign body, or removal that is complicated by the anatomical site of the foreign body (eg, area that is not easily seen) and will have a greater intensity of physician work. The difference in physician work RVUs for the procedures may be used as an indicator of the difference—1.22 for <emphasis role="bold">10120</emphasis> versus 2.74 for <emphasis role="bold">10121</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>The removal of anembedded earring or other jewelry requiring an incision would be reported with <emphasis role="bold">10120</emphasis> or <emphasis role="bold">10121</emphasis>, depending on the complexity of the procedure required to remove it. If the jewelry is removed by wiggling it out or another method that does not require incision, this work is included in the E/M service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0003s0008s01s02">
+            <title>Musculoskeletal Foreign Bodies</title>
+            <para>Musculoskeletal codes are reported when a foreign body is removed from <emphasis role="italics">within the fascia, subfascial area, or muscle</emphasis>. Always check the CPT index to ensure you are reporting the most accurate code.</para>
+            <para>Codes in the musculoskeletal system are not reported for removal of foreign bodies within the skin and subcutaneous fat. Examples of codes for removal of foreign bodies within the musculoskeletal system are</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Foot:</emphasis>
+                     <emphasis role="bold">28190</emphasis> for foreign body removal from within the fascia, subfascial area, or muscle (10-day global period); from deep tissue of the foot, <emphasis role="bold">28192</emphasis> (90-day global period); or complex, <emphasis role="bold">28193</emphasis> (90-day global period)</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Upper arm or elbow:</emphasis>
+                     <emphasis role="bold">24200</emphasis> for removal of foreign bodies from subcutaneous tissues within the fascia (10-day global period); from deep tissue, below the fascia, or in the muscle, <emphasis role="bold">24201</emphasis> (90-day global period)</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">An object that is unintentionally placed (eg, trauma, ingestion) is considered a foreign body. An object intentionally placed by a physician or other QHP for any purpose (eg, diagnostic, therapeutic) is considered an implant. A broken or misplaced implant is a foreign body for coding purposes.</emphasis>
+               </para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0016s0003s0008s01s03">
+            <title>Foreign Bodies in Other Body Sites</title>
+            <para>CPT includes codes for reporting removal of foreign bodies from many different body sites. Table 13-2 summarizes foreign body removal services from areas other than skin or muscle.</para>
+            <table frame="all" id="ch0016s0003ta0008">
+               <title>Foreign Bodies in Other Body Sites</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Site</entry>
+                        <entry>Code(s)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Anal foreign body or fecal impaction</entry>
+                        <entry>Use appropriate E/M code or 45999 (unlisted procedure, rectum) except when performed under anesthesia (45915, more than local anesthesia).</entry>
+                     </row>
+                     <row>
+                        <entry>External auditory canal</entry>
+                        <entry>69200 (removal foreign body from external auditory canal; without general anesthesia)(For removal of impacted cerumen, refer to the section by the same name later in this chapter.)</entry>
+                     </row>
+                     <row>
+                        <entry>Eye</entry>
+                        <entry>65205 (removal of foreign body, external eye; conjunctival superficial)65220 (removal of foreign body, external eye; corneal, without slit lamp)</entry>
+                     </row>
+                     <row>
+                        <entry>Nose</entry>
+                        <entry>30300 (removal of intranasal foreign bodies when performed in the office)30310 (removal of intranasal foreign bodies under general anesthesia)</entry>
+                     </row>
+                     <row>
+                        <entry>Vagina</entry>
+                        <entry>Use appropriate E/M code or 58999 (unlisted procedure, female genital system) except when performed under anesthesia (57415, more than local anesthesia).</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Abbreviation: E/M, evaluation and management.</emphasis>
+            </para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0009">
+      <title>Fracture and/or Dislocation Care</title>
+      <sect3 id="ch0016s0003s30008">
+         <title/>
+         <sect4 id="ch0016s0003s0009s01s01">
+            <title>Fracture and Dislocation Care Codes</title>
+            <para>Fracture and dislocation care codes are reported for care that is intended to begin the course of treatment of the injury. If a physician or QHP provides casting or strapping only for stabilization pending restorative treatment by another physician or QHP, refer to 29999-29799 (discussed in the Casts/Strapping/Splints section later in this chapter). A significant, separately identifiable E/M service to diagnose and manage the injury is separately reported.</para>
+            <para>Most fracture and dislocation care codes include a 90-day period of follow-up care under the Medicare global package. Modifiers are required when one physician or QHP provides initial care of a fracture or dislocation (eg, closed treatment of a fracture without manipulation in the ED) and another physician or QHP provides follow-up care.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When a patient presents for follow-up care after initial fracture care is provided in another setting (eg, ED, urgent care), it is necessary to determine whether the provider of initial fracture care reported a code for fracture care with modifier <emphasis role="bold">54</emphasis> (surgical care only) or reported only casting/strapping for the initial care.</para>
+               </listitem>
+               <listitem>
+                  <para>If initial fracture care has been reported with modifier 54, the physician providing continued fracture care reports the fracture care code with modifier <emphasis role="bold">55</emphasis> (postoperative management only) appended.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Unrelated services that are provided during the global surgery period by the same physician (or physician of the same group and specialty) may be reported. Append modifier <emphasis role="bold">24</emphasis> to an unrelated E/M service.</para>
+            <para>Codes for fracture/dislocation care</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are listed by anatomical location.</para>
+               </listitem>
+               <listitem>
+                  <para>Are provided (in most cases) for closed or open treatment, with or without manipulation, and with or without internal fixation.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Closed treatment of a nasal bone fracture without manipulation or stabilization is reported with an E/M code (eg, 99283, 99213) according to the site of service.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include the initial casting, splinting, or strapping.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not include radiographs or E/M to determine the extent of injury and treatment options.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Fractures most seen in a family or pediatric practice include closed fractures (ie, skin is intact on presentation), and treatment is typically closed (ie, fracture site is not surgically opened) without manipulation (an exception is treatment of nursemaid elbow).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Clavicular fracture:</emphasis> Report closed treatment without manipulation with <emphasis role="bold">23500</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Nursemaid elbow:</emphasis> Report closed treatment of radial head subluxation (nursemaid elbow) with manipulation with <emphasis role="bold">24640</emphasis>. (This code has a 10-day global period.)</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Radial fracture:</emphasis> Report <emphasis role="bold">25500</emphasis> for closed treatment of radial shaft fracture without manipulation and <emphasis role="bold">25600</emphasis> for closed treatment of distal radius fracture without manipulation.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Phalanx fracture:</emphasis> Closed treatment of a proximal or middle phalanx, finger, or thumb (each) without manipulation is reported with <emphasis role="bold">26720</emphasis>. Closed treatment of a distal phalangeal fracture (each) without manipulation is reported with <emphasis role="bold">26750</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Great toe fracture:</emphasis> Code <emphasis role="bold">28490</emphasis> is reported for the closed treatment of a fracture of the great toe, phalanx, or phalanges without manipulation.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Metatarsal fracture:</emphasis> Report <emphasis role="bold">28470</emphasis> for closed treatment of a metatarsal fracture without manipulation.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Lesser toe fracture:</emphasis> Closed treatment of fracture, phalanx, or phalanges, other than great toe without manipulation, is coded with <emphasis role="bold">28510</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Documentation matters: fractures not specified as displaced or non-displaced are reported with an ICD-10-CM code for a displaced fracture. Fractures not specified as open or closed are reported with a code for a closed fracture.</emphasis> "Buddy taping" of a fractured digit may be reported as fracture care. When reporting fracture care, the code includes care during the global period. Buddy taping for an injury without fracture is included in the E/M service.</para>
+            <para>▶<emphasis role="bold">An urgent care physician performs and documents a comprehensive evaluation of a child (new patient) to assess for injuries following anunwitnessed fall from the stairs inher home. The child is diagnosed with a fracture of the shaft of the left clavicle and receives closed treatment without manipulation. The child will receive follow-up care from a physician of another practice.</emphasis>
+            </para>
+            <table frame="all" id="ch0016s0003ta0009">
+               <title>Fracture and Dislocation Care Codes</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S42.022A (displaced fracture shaft of clavicle, closed, initial encounter)W10.9XXA (fall [on] [from] unspecified stairs and steps, initial encounter)</entry>
+                        <entry>99202–99205 57</entry>
+                     </row>
+                     <row>
+                        <entry>S42.022AW10.9XXA</entry>
+                        <entry>23500 54 (closed treatment clavicle fracture without manipulation)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>When follow-up care is provided by a physician or QHP of another group practice or specialty, <emphasis role="bold">23500 55</emphasis> is reported.</para>
+            <para>▶ A physician evaluates a 22-month-old established patient whose parents report that she will not move her left arm after falling on steps while holding her father's hand. After obtaining history and performing a physical examination to rule out other injuries, the physician diagnoses subluxation of the radial head that is reduced by manipulation. Reassessment after 10 minutes shows that the child uses both arms without difficulty. The parents are counseled about potential for recurrent injury and prevention. Follow-up will be at a previously scheduled 2-year-old visit unless otherwise indicated.</para>
+            <table frame="all" id="ch0016s0003ta0010">
+               <title>Fracture and Dislocation Care Codes</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S53.023A (nursemaid's elbow, left, initial encounter)W10.9XXA (fall [on] [from] unspecified stairs and steps, initial encounter)</entry>
+                        <entry>99213 25 (low MDM—acute, uncomplicated injury with assessment requiring an independent historian and low risk of morbidity)24640 (closed treatment of radial head subluxation in child, nursemaid elbow, with manipulation)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0016s0003s0009s01s02">
+            <title>Casts/Strapping/Splints</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes for the application of casts, splints, or strapping (29000–29590) are reported only when they are replacements for the initial application or <emphasis role="italics">performed as part of the initial E/M visit and fracture care is not reported.</emphasis> ♦ Do not report codes 29000–29590 for the initial (first) application when a fracture or dislocation care code is reported because they are included as part of the global surgery package.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Strapping</emphasis> refers to the application of overlapping strips of adhesive plaster or tape to a body part to exert pressure on it and hold a structure in place. Strapping may be used to treat strains, sprains, and dislocations, in addition to fractures.</para>
+               </listitem>
+               <listitem>
+                  <para>Refer to the Fracture Care Supplies section later in this chapter for information on reporting supplies such asslings.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The following codes are commonly used when treating a fracture or dislocation:</para>
+            <para>Application of splints — Short arm splint (forearm to hand): static (29125); dynamic (29126)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Finger splint: static (29130); dynamic (29131) — Short leg splint (calf to foot): 29515</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Strapping</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Shoulder: 29240</para>
+               </listitem>
+               <listitem>
+                  <para>Elbow or wrist: 29260 Verify payer policy for coverage of strapping procedures, as some policies prohibit payment for strapping of the shoulder, elbow, or wrist.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ An established adolescent patient returns to a physician for follow-up on an injury to the left wrist. The patient was previously examined and a cast applied for a presumed scaphoid fracture (ie, diagnosed given the examination findings) that was not found on a radiograph. The service was reported with 25622 (closed treatment of carpal scaphoid [navicular] fracture; without manipulation). The diagnosis documented at the first visit was initial encounter for unspecified scaphoid fracture of the left wrist (S62.001A) caused by tripping while playing soccer with friends at a soccer field. The initial cast is removed and a 3-view radiograph of the wrist is ordered and obtained in the office. The physician interprets the radiograph, which now shows a fracture of the middle third (waist) of the left proximal scaphoid. The physician applies a replacement thumb spica cast. The patient will return in 4 weeks for reevaluation.</para>
+            <table frame="all" id="ch0016s0003ta0011">
+               <title>Casts/Strapping/Splints</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S62.025D (nondisplaced fracture of middle third of navicular [scaphoid] bone of left wrist, subsequent encounter for fracture with routine healing)W01.0XXD (fall on same level from slipping, tripping and stumbling without subsequent striking against object, subsequent encounter)</entry>
+                        <entry>99024 (postoperative follow-up visit)29085 S8 (application cast; hand and lower forearm [gauntlet])Q4013 (cast supplies, gauntlet cast [includes lower forearm and hand], adult [11 years +], plaster) or Q4014 (same but fiberglass)73110 (radiologic examination, wrist; complete, minimum of 3 views)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Cast supplies are separately reported with either CPT code 99070 (supplies and materials [except spectacles], provided by the physician or other QHP over and above those usually included with the office visit or other services rendered) or, as shown here, more specific HCPCS codes.</para>
+            <para>If the initial care of the fracture had included only application of a splint to stabilize and protect the injury until a definitive diagnosis could be confirmed, codes for an E/M service and application of a splint would have been appropriate in lieu of the fracture care. In this case, the return visit at which the fracture was diagnosed would have been initial fracture care, and 25622 would have been reported for this encounter in lieu of 99024 and 29085.</para>
+            <para>
+               <emphasis role="bold">When reporting codes for radiographs, documentation should include a report of the indication for the test, number of views, findings, and, when applicable, comparison with previous radiographs.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Do not report a charge for interpretation and report for review of images that have been or will be interpreted with creation of a formal report by a radiologist or other physician or QHP.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">The independent review of previously interpreted images is included in the amount and/or complexity of data to be reviewed and analyzed of an E/M service or in the follow-up during the global period of a service.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0003s0009s01s03">
+            <title>Fracture Care Supplies</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Supplies associated with fracture care may be billed with every application, including the initial casting, splinting, or strapping performed in association with the global surgery procedure code when the service is performed in the private office setting.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS codes A4580, A4590, and Q4001–Q4051 may be reported for cast supplies; E1800–E1841 may be reported for splints. Check with your major payers and/or review their payment policies for reporting these supplies.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS codes are accepted by many Medicaid and commercial payers and are often specific to the age of the patient and type of supply and/or material.</para>
+               </listitem>
+               <listitem>
+                  <para>A description of supplies may be required when reporting special supplies code 99070.</para>
+               </listitem>
+               <listitem>
+                  <para>The following codes are commonly used:</para>
+               </listitem>
+               <listitem>
+                  <para>99070        Supplies and materials (except spectacles)</para>
+               </listitem>
+               <listitem>
+                  <para>A4565        Slings</para>
+               </listitem>
+               <listitem>
+                  <para>A4570        Splint</para>
+               </listitem>
+               <listitem>
+                  <para>13650–13678  Clavicle splints</para>
+               </listitem>
+            </itemizedlist>
+            <para>Q4001–Q4051  Cast and splint supplies S8450–S8452  Splint, prefabricated for finger, wrist, ankle, or elbow</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0010">
+      <title>Ear, Nose, and Throat Procedures</title>
+      <sect3 id="ch0016s0003s30009">
+         <title/>
+         <sect4 id="ch0016s0003s0010s01s01">
+            <title>Control of Nasal Hemorrhage</title>
+            <para>
+               <emphasis role="bold">30901</emphasis> Control nasal hemorrhage, anterior, simple (cautery or packing) <emphasis role="bold">30903</emphasis> Control nasal hemorrhage, anterior, complex (extensive cautery and/or packing) any method A 0-day global period applies. The 2025 total non-facility RVUs were 4.67 (<emphasis role="bold">30901</emphasis>) and 7.22 (<emphasis role="bold">30903</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If performing cautery on both sides, report <emphasis role="bold">30901</emphasis> with modifier 50.</para>
+               </listitem>
+               <listitem>
+                  <para>If bleeding is controlled with manual pressure or placement of a nasal clamp (clip), only the appropriate level of E/M service is reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report <emphasis role="bold">30901</emphasis> when packing is placed in the short term to administer medication (eg, insertion of medicated gauze into the nostrils) and not to serve a hemostatic and/or tamponade role following the encounter. Illumination and instrumentation (eg, suction, nasal speculum, forceps) are typically required for placement of packing to control nasal hemorrhage.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0003s0010s01s02">
+            <title>Removal of Impacted Cerumen</title>
+            <para>
+               <emphasis role="bold">69209</emphasis> Removal of impacted cerumen using irrigation/lavage, unilateral <emphasis role="bold">69210</emphasis> Removal of impacted cerumen requiring instrumentation, unilateral A 0-day global period applies. The 2025 total non-facility RVUs were 0.47 (<emphasis role="bold">69209</emphasis>) and 1.44 (<emphasis role="bold">69210</emphasis>). Additionally, 0.61 work RVUs are assigned to <emphasis role="bold">69210</emphasis>.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Removal of cerumen that is not impacted is included in an E/M code regardless of how it is removed. Documentation of removal of impacted cerumen should include the indication for removal (eg, impairing examination, pain, itching, hearing loss).</emphasis> Append modifier 25 to a significant, separately identifiable E/M service (eg, <emphasis role="bold">99213</emphasis>) provided on the same date as removal of impacted cerumen, as E/M codes are bundled to cerumen removal codes by NCCI edits.</para>
+            </blockquote>
+            <para>Code <emphasis role="bold">69209</emphasis> is used to report removal of impacted cerumen by ear wash without direct visualization and instrumentation. This service may be provided by clinical staff under a physician's or QHP's supervision.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This code is intended to capture the practice expense associated with the service and is not valued to include physician work.</para>
+               </listitem>
+               <listitem>
+                  <para>For a bilateral procedure, report <emphasis role="bold">69209</emphasis> with modifier 50.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report <emphasis role="bold">69209</emphasis> for removal of cerumen that is not impacted.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report <emphasis role="bold">69209</emphasis> in conjunction with <emphasis role="bold">69210</emphasis> when performed on the same ear (modifiers LT and RT may be used to identify contralateral procedures).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">69210</emphasis> is reported <emphasis role="italics">only</emphasis> when the physician or QHP, under direct visualization, removes impacted cerumen with, at a minimum, an otoscope and instruments such aswax curettes or with an operating microscope and suction plus specific ear instruments (eg, cup forceps, right angles).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Medical record documentation must support that the cerumen was impacted and removed by the physician and include a description of what equipment and method were used to perform the procedure. Visualization of the impacted cerumen should also be documented.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">69210</emphasis> with modifier 50 when bilateral procedures are performed.</para>
+               </listitem>
+               <listitem>
+                  <para>NCCI edits bundle impacted cerumen removal (<emphasis role="bold">69209</emphasis>, <emphasis role="bold">69210</emphasis>) with some hearing assessments (eg, <emphasis role="bold">92567</emphasis>, tympanometry). There is no modifier to override this edit.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Note:</emphasis> Medicare does not recognize modifier 50 when reported with <emphasis role="bold">69210</emphasis> (impacted cerumen removal); therefore, payers that follow Medicare payment policy will not recognize it and may deny the claim outright. Check with your payers.</para>
+            <para>
+               <emphasis role="bold">▶</emphasis> A physician orders removal of impacted cerumen from the right ear by lavage. Clinical staff perform the lavage, removing the impacted cerumen. Because the child is uncooperative, the procedure takes 10 minutes.</para>
+            <table frame="all" id="ch0016s0003ta0012">
+               <title>Removal of Impacted Cerumen</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>H61.21 (impacted cerumen, right ear)</entry>
+                        <entry>99202–99215 25 (Report if appropriate and use modifier 25 if required by payer.)
+69209 RT (RT indicates right ear.)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0016s0003s0010s01s03">
+            <title>Coding Conundrum: Unsuccessful Removal of Impacted Cerumen</title>
+            <para>If a physician or other QHP attempts to remove impacted cerumen but finds the impaction too hard for safe removal, what code is reported for the attempt? The answer depends on the individual situation, including the amount of work that was performed and whether another procedure was successful.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If the portion of the procedure completed required insignificant work and practice expense (eg, staff time), report only the services completed on that date (eg, E/M).</para>
+               </listitem>
+               <listitem>
+                  <para>If the patient was instructed to use softening drops and return later for removal, consider whether the effort and practice expense were sufficient to justify reporting the removal with reduced services modifier 52.</para>
+               </listitem>
+               <listitem>
+                  <para>If after significant effort and practice expense, the procedure was discontinued because of extenuating circumstances or concerns that the procedure might threaten the patient's well-being, report the procedure code with modifier 53 (discontinued procedure).</para>
+               </listitem>
+               <listitem>
+                  <para>If, after attempted removal by a physician is discontinued, softening drops were administered in the office and clinical staff performed removal of the impaction by lavage (69209), report only the completed procedure.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> This procedure was unilateral. If it were bilateral, modifier 50 would be appended to 69209. The anatomical modifier RT (right) is informational and may not affect payment. The extended time of service alone is not sufficient to support reporting increased procedural service (ie, modifier 22). Time spent by clinical staff does not contribute to the total time of the E/M service.</para>
+            <para>▶<emphasis role="bold">A physician documents "Impacted cerumen removed from both ears with an otoscope and curette" for a patient with concern of decreased hearing.</emphasis> Following the procedure, the patient's hearing is assessed as normal.</para>
+            <table frame="all" id="ch0016s0003ta0013">
+               <title>Coding Conundrum: Unsuccessful Removal of Impacted Cerumen</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>H61.23 (impacted cerumen, bilateral)</entry>
+                        <entry>99202–99215 25 (Report if appropriate and use modifier 25 if required by payer.)69210 50 (bilateral removal of impacted cerumen using instrumentation)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; ● indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ◆, synchronous interactive audio.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> If a significant and separately identifiable E/M service was provided in addition to the preservice work of the procedure, modifier <emphasis role="bold">25</emphasis> would be appended to the appropriate E/M code. Any related visit within the 10 days following the procedure may be reported (with no charge) with <emphasis role="bold">99024</emphasis>. An unrelated E/M service within 10 days following the procedure may be reported with modifier <emphasis role="bold">24</emphasis> (unrelated E/M service by the same physician or QHP during a postoperative period). When reporting modifier <emphasis role="bold">24</emphasis>, the diagnosis code(s) reported should be of an unrelated indication for the service.</para>
+         </sect4>
+         <sect4 id="ch0016s0003s0010s01s04">
+            <title>Gastrostomy Tube Replacement</title>
+            <para>
+               <emphasis role="bold">43762</emphasis> Replacement of gastrostomy tube, percutaneous, includes removal, when performed, without imaging or endoscopic guidance; not requiring revision of gastrostomy tract</para>
+            <para>
+               <emphasis role="bold">43763</emphasis> requiring revision of gastrostomy tract A 0-day global period is assigned. The 2025 total non-facility RVUs were 6.57 (<emphasis role="bold">43762</emphasis>) and 9.70 (<emphasis role="bold">43763</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">43762</emphasis> and <emphasis role="bold">43763</emphasis> only for percutaneous gastrostomy tube or gastrojejunal tube change without imaging or endoscopic guidance (eg, percutaneous gastrojejunal tube is placed into the stomach and anchored in place by inflating the gastric balloon with water or saline, and peristalsis carries the jejunal portion of the tube into the small intestine).</para>
+               </listitem>
+               <listitem>
+                  <para>Refer to other specific codes (eg, <emphasis role="bold">49450–49452</emphasis> and <emphasis role="bold">43246</emphasis>) for gastrostomy tube or gastrojejunal tube placement, conversion, or replacement <emphasis role="italics">with imaging or endoscopic guidance</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>A significant, separately identifiable E/M service on the same date may be reported with modifier <emphasis role="bold">25</emphasis> appended to the E/M code (eg, <emphasis role="bold">99213 25</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report an E/M service when the encounter is solely for replacement of the gastrostomy tube.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">43762</emphasis> and <emphasis role="bold">43763</emphasis> include the gastrostomy tube kit.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0003s0011">
+      <title>Genitourinary System Procedures</title>
+      <sect3 id="ch0016s0003s30010">
+         <title/>
+         <sect4 id="ch0016s0003s0011s01s01">
+            <title>Urinary Catheterization</title>
+            <para>
+               <emphasis role="bold">51701</emphasis> Urinary catheterization, straight</para>
+            <para>
+               <emphasis role="bold">51702</emphasis> Urinary catheterization, temporary A 0-day global period applies. The 2025 total non-facility RVUs were 1.32 (<emphasis role="bold">51701</emphasis>) and 1.85 (<emphasis role="bold">51702</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">51701</emphasis> is reported when a non-indwelling bladder catheter (straight catheterization) is inserted (eg, for residual urine, for a urine culture collection).</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">51702</emphasis> is reported when a temporary indwelling bladder catheter is inserted (ie, Foley).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Report 51701 when you insert a urinary catheter to collect a clean-catch urine specimen, after which the catheter is removed.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0016s0003s0011s01s02">
+            <title>Lysis/Excision of Labial or Penile Adhesions</title>
+            <para>If lysis of labial or penile adhesions is performed by the application of manual pressure without the use of an instrument to cut the adhesions, it will be considered part of the E/M visit and not reported separately.</para>
+            <para>
+               <emphasis role="bold">54450</emphasis> Foreskin manipulation including lysis of preputial adhesions and stretching A 0-day global period is assigned. The 2025 total non-facility RVUs were 2.10.</para>
+            <para>Code <emphasis role="bold">54450</emphasis> does not require general anesthesia.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This procedure is performed on anuncircumcised foreskin and the head of the penis. Adhesions are broken by stretching the foreskin back over the head of the penis onto the shaft or by inserting a clamp between the foreskin and the head of the penis and spreading the jaws of the clamp.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">54162</emphasis> Lysis or excision of penile post-circumcision adhesions This service includes a 10-day global surgery period. The 2025 total non-facility RVUs were 7.72. Code <emphasis role="bold">54162</emphasis> is reported only when lysis is performed under general anesthesia or regional block, with an instrument, and under sterile conditions.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If post-circumcision adhesions are manually broken during the postoperative period by the physician who performed the procedure or a physician of the same group and specialty, it will be considered part of the global surgical package.</para>
+               </listitem>
+               <listitem>
+                  <para>Report the service with <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">N47.0</emphasis> (adherent prepuce in a newborn) or <emphasis role="bold">N47.5</emphasis> (adhesions of prepuce and glans penis [patients aged &gt;28 days]).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">56441</emphasis> Lysis of labial adhesions This procedure also includes a 10-day global surgery period. The 2025 total non-facility RVUs were 5.47. Code <emphasis role="bold">56441</emphasis> is performed with a blunt instrument or scissors under general or local anesthesia.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">Q52.5</emphasis> (fusion of labia) would be reported with <emphasis role="italics">CPT</emphasis> code <emphasis role="bold">56441</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>When the service is provided without anesthesia, modifier <emphasis role="bold">52</emphasis> may be appended to indicate reduced services. Payer guidance may vary regarding use of modifier <emphasis role="bold">52</emphasis>. Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on use of modifier <emphasis role="bold">52</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0003s0011s01s03">
+            <title>Newborn Circumcision</title>
+            <para>
+               <emphasis role="bold">54150</emphasis> Circumcision, using clamp or other device with regional dorsal penile or ring block This service is assigned a 0-day global period. The 2025 total non-facility RVUs were 4.45.</para>
+            <para>When circumcisions are performed in the office,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If the circumcision using a clamp or other device is performed without either dorsal penile or ring block, append modifier <emphasis role="bold">52</emphasis> (reduced services) to <emphasis role="bold">54150</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>If a payer does not base payment on a global surgical package, the surgical tray and anesthetic agents can be reported with <emphasis role="bold">99070</emphasis>. The description of the supplies (eg, circumcision tray and local anesthetic) would need to be included on the claim form.</para>
+               </listitem>
+               <listitem>
+                  <para>When an E/M service (eg, well-baby visit) is provided on the same date, append modifier <emphasis role="bold">25</emphasis> to the E/M code.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Link the appropriate <emphasis role="italics">ICD-10-CM</emphasis> code (eg, <emphasis role="bold">Z00.110</emphasis>, health check for newborn under 8 days old) to the E/M service and link <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">Z41.2</emphasis> (encounter for routine and ritual male circumcision) to the circumcision code.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">54160</emphasis> and <emphasis role="bold">54161</emphasis> for circumcision performed with surgical excision other than a clamp, device, or dorsal split. These procedures are often provided in facility settings.</para>
+            <para>Refer to <emphasis role="bold">Chapter 15</emphasis> for information on reporting circumcision in a facility setting.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

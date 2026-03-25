@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 2. CODING EDITS AND MODIFIERS</title>
+   <itemizedlist>
+      <listitem>
+         <para>Each surgeon should dictate their own operative report, and it should reflect the medical necessity for team surgery.</para>
+      </listitem>
+      <listitem>
+         <para>Column AC (TEAM SURG) of the MPFS (RBRVS) identifies procedures that may or may not be performed by a team of surgeons. Indicator 1 is assigned to procedures for which team surgery is allowed under the Medicare program.</para>
+      </listitem>
+      <listitem>
+         <para>The operative notes are usually required by the payer.</para>
+      </listitem>
+      <listitem>
+         <para>If a surgeon were assisting another surgeon, modifier <emphasis role="bold">80</emphasis>, <emphasis role="bold">81</emphasis>, or <emphasis role="bold">82</emphasis> would be more applicable.</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0004s0005s20002">
+      <title/>
+      <sect3 id="ch0004s0005s30006">
+         <title/>
+         <sect4 id="ch0004s0005s0001s01s01">
+            <title>Example—Modifier 66</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Multiple surgeons perform different portions of an organ transplant.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>Each physician would report their services with modifier <emphasis role="bold">66</emphasis> appended to the procedure code.</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s02">
+            <title>76—Repeat Procedure or Service by Same Physician or Other QHP</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier <emphasis role="bold">76</emphasis> is used when the same procedure or service is repeated by the same physician or other QHP subsequent to the original procedure or service. Use of this modifier may prevent denial as a duplicate service line.</para>
+               </listitem>
+               <listitem>
+                  <para>When a procedure is repeated on the same date, it may be helpful to include the start times of each procedure in a narrative statement on the claim (eg, field 19 on a paper claim).</para>
+               </listitem>
+               <listitem>
+                  <para>The repeat procedure may be performed on different days. (Payer guidance may vary.)</para>
+               </listitem>
+               <listitem>
+                  <para>This modifier is appended only to non-E/M procedure codes and is not reported when the code definition indicates a repeat procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Use of this modifier advises the payer that this is not a duplicate service. (For a repeat clinical diagnostic laboratory test, refer also to modifier <emphasis role="bold">91</emphasis>—discussed later in this chapter.)</para>
+               </listitem>
+               <listitem>
+                  <para>The CMS recognizes this modifier only for ECGs and radiographs or for a procedure performed in an OR or another location equipped to perform procedures. Medicaid programs or other commercial payers may follow this guideline. Check with payers to determine their policy on use of the modifier.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s03">
+            <title>Examples—Modifier 76</title>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">You see a patient in your office with severe asthma and give them 3 nebulized albuterol treatments and steroids over the course of a visit. You report</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">94640</emphasis> × 1 (pressurized or nonpressurized inhalation treatment for acute airway obstruction for therapeutic purposes and/or for diagnostic purposes such assputum induction with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing [IPPB] device).</para>
+            <para>
+               <emphasis role="bold">94640 76</emphasis> × 1 on 2 separate claims lines to support adjudication of each repeat service.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Most payers will deny services reported as <emphasis role="bold">94640 76</emphasis> with 3 units on a single line because of the lack of an initial service (ie, code reported without modifier <emphasis role="bold">76</emphasis>). Report on a single claim line only when a payer policy instructs to do so. Note that some payers require you to <emphasis role="italics">report each service on a separate line</emphasis>, by using a quantity of 1 and appending modifier <emphasis role="bold">76</emphasis> to the subsequent procedures.</para>
+            <para>The Medicare and Medicaid NCCI manuals contradict CPT instruction for CPT code <emphasis role="bold">94640</emphasis>, stating that <emphasis role="bold">94640</emphasis> be reported once during a single patient encounter regardless of the number of separate inhalation treatments that are administered. Follow individual payer guidance.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">A patient presents to the pediatric clinic in the morning with a nosebleed. Cautery (anterior) and packing are used to control the hemorrhage (</emphasis>30901 <emphasis role="bold">). Later that day, the patient returns because the clot has dislodged and bleeding has resumed. Control of the hemorrhage is again achieved with limited cautery and packing by the same physician. The payer's MUE for </emphasis>30901 <emphasis role="bold"> is 1 unit and is applied per claim line.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">30901</emphasis> Control nasal hemorrhage, anterior, simple (limited cautery and/or packing) any method</para>
+            <para>
+               <emphasis role="bold">30901 76 XE</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The second procedure is billed on a second claim line with modifier <emphasis role="bold">76</emphasis> to alert the payer to the repeat service and allow override of the MUE. Modifier <emphasis role="bold">XE</emphasis> (separate encounter, discussed later in this chapter) may also be appended to provide additional context.</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s04">
+            <title>77—Repeat Procedure or Service by Another Physician or Other QHP</title>
+            <para>Modifier 77 is used when a procedure or service is repeated by another physician or health care professional subsequent to the original procedure or service. Be sure that the same code(s) is reported by each physician to prevent denials when reporting modifier 77.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Payers may require documentation to support the medical necessity of performing the same service or procedure on the same day or during the global surgical period, if applicable.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s05">
+            <title>Example—Modifier 77</title>
+            <para>▶ An orthopedic physician performs re-reduction (closed treatment with manipulation) of radial and ulnar shaft fractures. The initial closed treatment of the fractures was reported by a physician of another specialty or another group practice.</para>
+            <para>Re-reduction: 25565 77 (closed treatment of radial and ulnar shaft fractures; with manipulation).</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s06">
+            <title>78—Unplanned Return to the OR by the Same Physician or Other QHP Following Initial Procedure for a Related Procedure During the Postoperative Period</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 78 is used when another procedure is unplanned and related to the initial procedure, requires a return to the OR, and is performed during the postoperative period of the initial procedure by the same physician.</para>
+               </listitem>
+               <listitem>
+                  <para>The related procedure might be performed on the same day or atany time during the postoperative period. (For repeat procedures, refer to modifier 76, discussed earlier in this chapter.)</para>
+               </listitem>
+               <listitem>
+                  <para>Link the appropriate diagnosis code(s) that best explains the reason for the unplanned procedure.</para>
+               </listitem>
+            </itemizedlist>
+            <para>★ Do not report modifier 78 for treatment of complications that do not require a return to the OR. Payers that use the Medicare description of the global period do not pay separately for additional services caused by complications that do not require a return to the OR.</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s07">
+            <title>Example—Modifier 78</title>
+            <para>▶ A pediatric surgeon returns to the OR to stop bleeding following a tonsillectomy performed 2 days ago.</para>
+            <para>42962 78    Control oropharyngeal hemorrhage, primary or secondary (eg, post-tonsillectomy); with secondary surgical intervention Teaching Point: The second procedure will usually be paid only for the intraoperative service, not for the preoperative or postoperative care already paid for in the original procedure.</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s08">
+            <title>79—Unrelated Procedure/Service by the Same Physician or Other QHP During the Postoperative Period</title>
+            <itemizedlist>
+               <listitem>
+                  <para>The physician may need to indicate that the performance of a procedure or service during the postoperative period was unrelated to the original procedure. This circumstance may be reported with modifier 79.</para>
+               </listitem>
+               <listitem>
+                  <para>The diagnosis must identify the reason for the new procedure within the global period. (For procedures repeated by the same physician on the same day, refer to modifier 76, discussed earlier in this chapter.)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s09">
+            <title>Example—Modifier 79</title>
+            <para>▶ An adolescent patient requires an emergency appendectomy within 90 days of undergoing left-sided laparoscopic inguinal hernia repair (49650).</para>
+            <para>44970 79    Laparoscopy, surgical; appendectomy</para>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s10">
+            <title>80—Assistant Surgeon</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 80 is used when the assistant surgeon is actively involved throughout the procedure. Note: Modifier 62, not 80, is used when 2 surgeons work together as primary surgeons, each performing a distinct part(s) of a procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>The primary surgeon reports the appropriate CPT code for the procedure, and the assistant surgeon reports the same code with modifier 80 appended. Some payers require modifier AS (assistant at surgery) in lieu of 80 when any other QHP (eg, nurse practitioner [NP]) acts as assistant surgeon.</para>
+               </listitem>
+               <listitem>
+                  <para>Payers vary on payment rules. The CMS establishes guidelines for payment of assistant surgery for each procedure code. Most payers, including the CMS, do not pay for nonphysician surgery technicians in this role.</para>
+               </listitem>
+               <listitem>
+                  <para>Many payers require documentation to support the necessity of an assistant surgeon.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0005s0001s01s11">
+            <title>81—Minimum Assistant Surgeon</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 81 is used when an assistant surgeon is required for a short time and minimal assistance is provided.</para>
+               </listitem>
+               <listitem>
+                  <para>The assistant surgeon reports the same procedure code as the surgeon with modifier 81 appended.</para>
+               </listitem>
+               <listitem>
+                  <para>Many payers require documentation to support the use of an assistant surgeon for only a portion of a procedure.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

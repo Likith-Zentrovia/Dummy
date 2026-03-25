@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0018s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0018s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>14. Emergency Department Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Emergency Department Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>Documentation and coding of diagnoses for services in the emergency department (ED)</para>
+      </listitem>
+      <listitem>
+         <para>Overview and examples of evaluation and management (E/M) code selection for ED services</para>
+      </listitem>
+      <listitem>
+         <para>Use of procedure code modifiers</para>
+      </listitem>
+      <listitem>
+         <para>Reporting procedures in the ED</para>
+      </listitem>
+      <listitem>
+         <para>Directing emergency medical technicians</para>
+      </listitem>
+      <listitem>
+         <para>Reporting provision of critical care services in the ED</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0018s0002s0001">
+      <title>Coding for Service Provided in the Emergency Department</title>
+      <para>This chapter reviews the importance of documentation and coding for services provided in the ED. This includes assigning codes based on the documented reason(s) for ED services and the problems addressed, selecting appropriate diagnosis and procedure codes, and determining when multiple services on the same date are separately reported.</para>
+   </sect2>
+   <sect2 id="ch0018s0002s0002">
+      <title>Using Diagnosis Codes to Support the Level of ED Visits</title>
+      <para>ED physicians play critical roles in care and documentation. The reason for visit (ie, the chief complaint) may not be the principal discharge diagnosis. When multiple symptoms are listed as chief complaints during the ED triage process, the physician needs to designate only 1 sign, symptom, disease, or injury as the chief complaint (principal reason for the visit). Hospitals depend on the physician's designation of the chief complaint because only 1 diagnosis code may be reported for this category on the hospital claim form. This diagnosis is used to help support the urgency of the ED visit under prudent layperson guidelines as well as support resource utilization. This may be different from conditions that are "present on admission" that must be tracked by hospitals for inpatient admission.</para>
+      <para>The diagnoses on the physician's claim for professional services are equally important to support the level of ED service reported (<emphasis role="bold">99281-99285</emphasis>). Some health plans now compare diagnosis codes submitted on physician claims, especially those claims that include <emphasis role="bold">99284</emphasis> and <emphasis role="bold">99285</emphasis>, to a predetermined list of diagnosis codes indicating conditions that the plan considers to typically require these levels of service. If no claim for <emphasis role="bold">99284</emphasis> or <emphasis role="bold">99285</emphasis> is submitted with diagnosis codes not included on the list, the claim may be down-coded (eg, changed to <emphasis role="bold">99283</emphasis>) and/or paid at the rate of the lesser code. Billing staff should be alert for payment below the practice's contracted rates.</para>
+      <para>As shown in Figure 14-1, down-coding <emphasis role="bold">99284</emphasis> or <emphasis role="bold">99285</emphasis> to <emphasis role="bold">99283</emphasis> results in a significant corresponding decrease in relative value units (RVUs) and fee-for-service payment. RVUs listed are 2025 RVUs (not geographically adjusted), as 2026 RVUs were unavailable at the time of this publication. To learn more about payment based on RVUs, refer to <emphasis role="bold">Chapter 4</emphasis>.</para>
+      <figure float="0" id="ch0018s0002fg0001">
+         <title/>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="ch0018f01.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+      <sect3 id="ch0018s0002s30001">
+         <title/>
+         <sect4 id="ch0018s0002s0002s01s01">
+            <title>Figure 14-1. Impact of Down-Coded Services by Relative Value Units</title>
+            <para>
+               <emphasis role="bold">99285</emphasis>
+               <emphasis role="bold">99284</emphasis>
+               <emphasis role="bold">99283</emphasis>
+            </para>
+            <para>5.22          3.60          2.11 Medicaid plans also significantly limit the amount paid for any condition not included on a diagnosis list, regardless of the level of service reported. To receive the payment most appropriate under the health plan contract,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>List first the diagnosis that is most responsible for the level of service provided, and report the code for that diagnosis first on your claim.</para>
+               </listitem>
+               <listitem>
+                  <para>Document and report codes for all current conditions that require or affect patient care treatment or management.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Some plans consider only the first 1 or 2 diagnoses listed on the claim.</para>
+            <para>Some plans account for all diagnoses on the claim, including</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Complicating factors (eg, <emphasis role="bold">F84.0</emphasis>, autism spectrum disorder)</para>
+               </listitem>
+               <listitem>
+                  <para>Social determinants of health (SDoH; eg, <emphasis role="bold">Z59.82</emphasis>, transportation insecurity)</para>
+               </listitem>
+               <listitem>
+                  <para>External cause of injury (eg, <emphasis role="bold">W04.XXXA</emphasis>, fall while being carried or supported by other persons, initial encounter)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Physicians should clearly identify all diagnoses, including factors that increased the level of medical decision-making (MDM) of an encounter (eg, in an assessment statement). This documentation can help a professional coder, if used, extract the appropriate diagnosis codes. It is important to note that a coder cannot extract diagnoses from an ED note or assessment when listed with "undetermined" wording such as "consistent with," "possible," or "probable." However, the diagnosis can beextracted by the coder if it is listed as a definitive impression or diagnosis. To appeal a down-coded claim, medical records supporting the higher level of service must typically be submitted to the health plan.</para>
+            <para>For example, if the physician notes that the condition is "consistent with dehydration" in the MDM or assessment statement but lists "dehydration" under the discharge diagnosis, then the coder can use it as a definitive diagnosis.</para>
+            <para>The specificity of the secondary diagnosis can also have an impact on third-party payer determinations. For example, using the diagnosis of "fever" (<emphasis role="bold">R50.9</emphasis>, fever, unspecified) instead of "fever affecting a medical condition" (<emphasis role="bold">R50.81</emphasis>, fever presenting with conditions classified elsewhere) could potentially cause down-coding of the encounter. The more specific fever code is intended to be reported in conjunction with codes for conditions (eg, leukemia, sickle cell disease, or cystic fibrosis) for which fever indicates the need for prompt medical attention because of the patient's underlying medical problem.</para>
+         </sect4>
+         <sect4 id="ch0018s0002s0002s01s02">
+            <title>Coding for Social Determinants of Health</title>
+            <para>When SDoH (eg, homelessness, food insecurity) influence a patient's health and/or limit the management and treatment options for a patient, the SDoH should be documented to support assignment of codes for the SDoH. Clinical staff and/or a patient or caregiver may document the SDoH in the medical record. Codes for SDoH are mainly found in categories <emphasis role="bold">Z55–Z60</emphasis> and <emphasis role="bold">Z62–Z65</emphasis>.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A 10-year-old with severe persistent asthma presents with an acute exacerbation. Twice-daily fluticasone and salmetrol inhaler were prescribed; however, the mother says she has been giving it once every other day because the child lost insurance and the family cannot afford the ED treatment benefits. The child improves after ED treatment. To promote compliance with the child's asthma treatment plan, the patient's mother is referred to an ED social worker for assistance in getting the child's medications filled. The child is discharged to home. Discharge diagnoses are severe persistent asthma with exacerbation and underdosing of fluticasone and salmetrol inhaler due to financial hardship.</para>
+            <table frame="all" id="ch0018s0002ta0001">
+               <title>Coding for Social Determinants of Health</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>J45.51 (severe persistent asthma with (acute) exacerbation)T48.6X6A (underdosing of antiasthmatics, initial encounter)T38.0X6A (underdosing of glucocorticoids and synthetic analogues, initial encounter)Z91.A20 (caregiver's intentional underdosing of patient's medication regimen due to financial hardship)</entry>
+                        <entry>99284 Moderate MDM</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>The level of MDM for this example is supported by the moderate complexity of an exacerbated chronic condition and moderate risk of morbidity or mortality of prescription drug management. Moderate risk is also supported when SDoH significantly limit diagnosis or treatment. The limitation of diagnosis or treatment associated with the SDoH must be documented to support moderate risk.</para>
+         </sect4>
+         <sect4 id="ch0018s0002s0002s01s03">
+            <title>Reporting External Cause of Injury</title>
+            <para>States may require EDs to report codes describing the circumstances of an injury or another morbidity. These codes are referred to as <emphasis role="italics">external cause codes</emphasis> in <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM). These codes capture the cause, intent, place of occurrence, activity of the patient at the time of the event, and patient status (eg, employee, military, volunteer, student). External cause codes (categories <emphasis role="bold">W00–Y99</emphasis>) are indexed in the ICD-10-CM External Cause of Injuries Index and found in Chapter 20 of the tabular list of ICD-10-CM. For example, under the term struck, sub-terms allow reporting of external causes such asstruck by baseball (W21.03) or baseball bat (W21.11). An additional code can be used to show if the striking was intentional (Y08.0). Combination codes allow for reporting multiple details, such as striking against an object with subsequent fall (W18.0). <emphasis role="italics">These codes are never listed as a principal diagnosis.</emphasis>
+            </para>
+            <para>Although the physician may not be required to add the specific external cause code with the discharge diagnosis, there should be sufficient documentation in the record to allow a coder to extract the proper diagnosis code.</para>
+            <para>External cause codes provide information that is valuable for research on the cause and occurrence of injuries as well as evaluation of injury prevention strategies (eg, reporting of head injuries reduced because of campaigns to encourage bicycle helmet use). This is particularly important in pediatrics, as injuries remain the leading cause of death and disability.</para>
+            <para>Examples of assignment of external cause codes are provided in the ED Evaluation and Management Codes section later in this chapter.</para>
+            <para>Key points for reporting external cause codes include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>External cause codes are never the principal or first-listed diagnosis code.</para>
+               </listitem>
+               <listitem>
+                  <para>External cause codes may be reported in conjunction with any health condition that is related to an external cause (eg, adverse effect of medical treatment).</para>
+               </listitem>
+               <listitem>
+                  <para>Report ICD-10-CM codes for the cause and intent of an injury or illness for the duration of treatment. The seventh character of the code indicates the nature of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Initial or <emphasis role="italics">active care</emphasis> (A).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Subsequent care <emphasis role="italics">during the healing phase</emphasis> or follow-up care (D).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Care for a <emphasis role="italics">sequela</emphasis> (S) of the injury or illness.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Seventh characters in some code categories provide additional details (eg, type of open fracture).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>For additional information and examples of seventh characters inuse, refer to Chapter 1.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>External cause codes indicating place of occurrence, activity, and patient status are reported only at the initial encounter for treatment.</para>
+               </listitem>
+               <listitem>
+                  <para>If the intent (eg, accident, self-harm, assault) of the cause of an injury or another condition is unknown or unspecified, code the intent as <emphasis role="italics">accidental</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>No external cause code should be assigned when the cause and intent of an illness or injury are included in another reported code (eg, T58.11XA, initial encounter for toxic effect of carbon monoxide from utility gas, accidental).</para>
+               </listitem>
+               <listitem>
+                  <para>No external cause code should be assigned when an injury is ruled out after examination and observation (eg, Z04.1, encounter for examination and observation following transport accident).</para>
+               </listitem>
+            </itemizedlist>
+            <para>In ICD-10-CM, the X character is used as a placeholder to allow for future expansion and must be included for the code to be valid. Refer to the American Academy of Pediatrics (AAP) <emphasis role="italics">Pediatric ICD-10-CM 2026: A Manual for Provider-Based Coding</emphasis> (www.aap.org/Pediatric-ICD-10-CM-2026-11th-Edition-Paperback) and <emphasis role="italics">ICD-10-CM resources</emphasis> (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/icd-10-cm-resources) for more information on codes and code selection.</para>
+         </sect4>
+         <sect4 id="ch0018s0002s0002s01s04">
+            <title>Reporting Suspected or Confirmed Abuse or Other Maltreatment</title>
+            <para>ICD-10-CM includes codes for reporting suspected or confirmed neglect or abandonment; physical, sexual, or psychological abuse; forced sexual exploitation; and forced labor exploitation. These codes are selected depending on the type of maltreatment, whether the patient is a child or an adult, and whether the maltreatment is suspected, confirmed, or ruled out at the encounter.</para>
+            <para>Suspected (T76.-) or confirmed maltreatment (T74.-) is reported as the first-listed diagnosis when this is the reason for the encounter. Codes for associated mental health or physical injury are reported secondary to the code for suspected or confirmed abuse.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes are selected with documentation as the basis. The record should clearly state whether abuse is suspected, ruled out, or confirmed.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes include seventh characters A, D, and S.</para>
+               </listitem>
+            </itemizedlist>
+            <para>In each example, codes for diagnosed injuries, assault, and perpetrator are reported in addition to the T74 code.</para>
+            <para>▶<emphasis role="bold">Physical abuse is confirmed and initial active treatment is provided at an encounter.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">T74.12XA</emphasis> Child physical abuse confirmed, initial encounter ▶ <emphasis role="bold">Follow-up care during healing of injuries caused by confirmed physical abuse is provided at an encounter.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">T74.12XD</emphasis> Child physical abuse confirmed, subsequent encounter ▶ <emphasis role="bold">A child is evaluated for scar contracture that is a late effect of injuries caused by confirmed physical abuse.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">T74.12XS</emphasis> Child physical abuse confirmed, sequela ● When reporting confirmed abuse (T74.-), also report codes for assault (X92-Y04; Y08, Y09) and, when known, perpetrator (Y07.-).</para>
+            <para>Report T76 (suspected maltreatment or abuse) when maltreatment cannot be confirmed or ruled out. For example, a child says she is being bullied at school. You would code <emphasis role="bold">T76.32-</emphasis> (child psychological abuse, suspected).</para>
+         </sect4>
+         <sect4 id="ch0018s0002s0002s01s05">
+            <title>Reporting Suspected Maltreatment When Ruled Out</title>
+            <para>Report one of the following codes from category Z04 for an encounter at which neglect, abuse, or exploitation is <emphasis role="italics">suspected but ruled out</emphasis> and not a code from category T74 or T76: <emphasis role="bold">Z04.72</emphasis> Encounter for examination and observation following alleged child physical abuse</para>
+            <para>
+               <emphasis role="bold">Z04.42</emphasis> following alleged child rape</para>
+            <para>
+               <emphasis role="bold">Z04.81</emphasis> of victim following forced sexual exploitation</para>
+            <para>
+               <emphasis role="bold">Z04.82</emphasis> of victim following forced labor exploitation When maltreatment is ruled outbut problems are addressed, however, report codes for the problems addressed in lieu of a category Z04 code.</para>
+            <para>Z04 codes may be reported when a patient is brought infor evaluation by a legal authority as well as when the patient presents with a parent or caregiver.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

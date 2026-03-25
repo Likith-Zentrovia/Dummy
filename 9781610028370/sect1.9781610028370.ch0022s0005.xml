@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0022s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0022s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0022s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>18. Common Surgical Procedures and Sedation in Facility Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Percutaneous Transcatheter Closure of Patent Ductus Arteriosus</title>
+   <para>
+      <emphasis role="bold">93582</emphasis> Percutaneous transcatheter closure of patent ductus arteriosus</para>
+   <itemizedlist>
+      <listitem>
+         <para>Includes, when performed (do not separately report)</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Introduction of catheter, right heart or main pulmonary artery (<emphasis role="bold">36013</emphasis>) — Selective catheter placement, left or right pulmonary artery (<emphasis role="bold">36014</emphasis>)</para>
+      </listitem>
+      <listitem>
+         <para>Introduction of catheter, aorta (<emphasis role="bold">36200</emphasis>) — Aortography, thoracic, without serialography, radiological supervision and interpretation (<emphasis role="bold">75600</emphasis>)</para>
+      </listitem>
+      <listitem>
+         <para>Aortography, thoracic, by serialography, radiological supervision and interpretation (<emphasis role="bold">75605</emphasis>) — Heart catheterization or catheter placement for coronary angiography (<emphasis role="bold">93451–94361</emphasis>)</para>
+      </listitem>
+      <listitem>
+         <para>Heart catheterization for congenital cardiac anomalies (<emphasis role="bold">93593–93598</emphasis>) — Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for supravalvular aortography (<emphasis role="bold">93567</emphasis>)</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Separately report when performed at the time of transcatheter patent ductus arteriosus closure</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Pharmacologic agent administration (<emphasis role="bold">93463</emphasis>) — Intracardiac echocardiography during therapeutic/diagnostic intervention, including imaging supervision and interpretation (<emphasis role="bold">93662</emphasis>)</para>
+      </listitem>
+      <listitem>
+         <para>AOCs for injection procedures during cardiac catheterization, including imaging supervision, with interpretation and report, for ◊ Selective coronary angiography during congenital heart catheterization (<emphasis role="bold">93563</emphasis>)</para>
+      </listitem>
+   </itemizedlist>
+   <para>◊ Selective opacification of aortocoronary venous or arterial bypass graft(s) to one or more coronary arteries and insitu arterial conduits, whether native or used for bypass to one or more coronary arteries during congenital heart catheterization, when performed (93564) ◊ Selective left ventricular or left atrial angiography (93565)</para>
+   <para>◊ Selective right ventricular or right atrial angiography (93566) ◊ Nonselective pulmonary arterial angiography (93568) or selective pulmonary angiography (93569, 93573–93575) performed during congenital heart catheterization</para>
+   <para>Modifier 63 may be appended to 93582 when the procedure is performed on an infant weighing less than 4 kg.</para>
+   <sect2 id="ch0022s0005s0001">
+      <title>Vascular Access</title>
+      <para>Many vascular access procedures are included in the services reported with critical or intensive care codes. Refer to <emphasis role="bold">Chapter 17</emphasis> for a list of procedures not separately reported by a physician or QHP who is reporting critical care services on the same date.</para>
+      <sect3 id="ch0022s0005s30010">
+         <title/>
+         <sect4 id="ch0022s0005s0001s01s01">
+            <title>Central Venous Access</title>
+            <para>There is no distinction between venous access achieved percutaneously or via cutdown. Report the venous access code appropriate to the ● Type of insertion (ie, centrally inserted or peripherally inserted)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Type of catheter (eg, non-tunneled or tunneled)</para>
+               </listitem>
+               <listitem>
+                  <para>Device (eg, with or without port)</para>
+               </listitem>
+               <listitem>
+                  <para>Age of child Innon-facility settings, 96522 may be reported for refilling and maintenance of an implantable pump or reservoir for systemic (intravenous, intra-arterial) drug delivery.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Irrigation of an implanted venous access device for drug delivery (96523) is reported only innon-facility settings and when no other service is reported by the same individual on the same date.</para>
+            <para>✖ Do not report codes for refilling and maintenance and/or irrigation by physicians in facility settings.</para>
+            <para>If an existing central venous access device is removed and a new one placed via a separate venous access site, appropriate codes for both procedures (removal and old, if code exists, and insertion of new device) should be reported. Refer to replacement codes for removal with replacement via the same venous access site.</para>
+         </sect4>
+         <sect4 id="ch0022s0005s0001s01s02">
+            <title>Insertion or Replacement of Centrally Inserted Central Venous Access Device</title>
+            <para>Refer to "Centrally Inserted Central Venous Catheter: Codes for Insertion and Replacement" at www.aap.org/cfp2026 for a comparison of codes by procedure and the patient's age.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes 36555–36558 and 36560 and 36561 are selected according to the patient's age on the date of the procedure to insert the catheter.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes for insertion of a tunneled centrally inserted central venous catheter (36563–36566) are not selected according to the patient's age.</para>
+               </listitem>
+               <listitem>
+                  <para>To qualify as a centrally inserted central venous access device, both the following circumstances must be true: — The entry site must be the jugular, subclavian, or femoral vein or the inferior vena cava.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The tip of the catheter must terminate in the subclavian, brachiocephalic (innominate), or iliac veins; the superior or inferior vena cava; or the right atrium.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Moderate sedation services are separately reportable with 99151–99157. For more information on reporting moderate sedation, refer to the Moderate Sedation section in <emphasis role="bold">Chapter 13</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Report imaging guidance for gaining access to venous entry site or manipulating the catheter into final central position (in addition to 36555–36558) with either of the following codes: — 76937 (ultrasound guidance for vascular access requiring ultrasound evaluation of potential access sites, documentation of selected vessel patency, concurrent real-time ultrasound visualization of vascular needle entry, with permanent recording and reporting)</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>77001 (fluoroscopic guidance for central venous access device placement, replacement [catheter only or complete], or removal [includes fluoroscopic guidance for vascular access and catheter manipulation, any necessary contrast injections through access site or catheter with related venography radiologic supervision and interpretation, and radiographic documentation of final catheter position]) ✱ Do not separately report ultrasonography when performed only for vessel identification.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Report replacement of the catheter only with 36578, or report complete replacement with 36578–36583.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0001s01s03">
+            <title>Insertion of Peripherally Inserted Central Venous Access Device</title>
+            <para>Refer to "Peripherally Inserted Central Venous Catheter: Codes" at www.aap.org/cfp2026 for comparison of codes for PICC insertion procedures and codes for PICC replacement procedures.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>To qualify as a PICC, both the following circumstances must be true: — The entry site must be a peripheral vein (eg, axillary, basilic, or cephalic).</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The tip of the catheter <emphasis role="italics">must terminate in the subclavian, brachiocephalic (innominate), or iliac veins; the superior or inferior vena cava; or the right atrium.</emphasis> Midline catheters terminate in the peripheral venous system. Midline catheter insertion is not reported as a PICC insertion. Refer to 36400, 36406, and 36410 for midline catheter insertion. Note that 36400, 36406, and 36410 are not separately reported when the same physician or QHP is reporting neonatal or pediatric critical or intensive care services.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes 36568 and 36569 are reported for PICC insertion without a subcutaneous port <emphasis role="italics">and without imaging guidance</emphasis> according to the patient's age. This includes placement through magnetic guidance or any guidance modality that does not include imaging with image documentation.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report imaging guidance (76937, 77001) in conjunction with 36568 and 36569.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If imaging guidance is used in PICC insertion, refer to 36572, 36573, and 36584. Imaging guidance is included in the placement (36572, 36573) or complete replacement (36584) of a PICC without subcutaneous port or pump.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report chest radiographs (71045–71048) for the purpose of documenting the final catheter position by the same physician on the same date of service as the PICC insertion (36572, 36573, or 36584). If PICC insertion is performed without confirmation of the catheter tip location, append modifier 52 (reduced service) to the code for catheter insertion (36572, 36573, or 36584).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Documentation of services includes — Images from all modalities used (eg, ultrasonography, fluoroscopy) stored in the patient record</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Associated supervision and interpretation — Venography performed through the same venous puncture</para>
+               </listitem>
+               <listitem>
+                  <para>The final central position of the catheter with imaging ● Report PICC insertion <emphasis role="italics">with a subcutaneous port</emphasis> with 36570 and 36571.</para>
+               </listitem>
+               <listitem>
+                  <para>Ultrasound (76937) or fluoroscopic guidance (77001) may be separately reported when performed and documented. Documentation of ultrasound guidance for PICC placement should include evaluation of the potential puncture sites, patency of the entry vein, and real-time ultrasound visualization of needle entry into the vein.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0001s01s04">
+            <title>Repair of Central Venous Catheters</title>
+            <para>36575    Repair of tunneled or non-tunneled central venous access catheter, without subcutaneous port or pump, central or peripheral insertion site 36576    Repair of central venous access device, with subcutaneous port or pump, central or peripheral insertion site</para>
+            <para>36593    Declotting by thrombolytic agent of implanted vascular access device or catheter 36595    Mechanical removal of pericatheter obstructive material (eg, fibrin sheath) from central venous device via separate venous access For radiological supervision and interpretation of mechanical removal of pericatheter obstructive material from a central venous device via separate venous access, report 75901.</para>
+            <para>36596    Mechanical removal of intraluminal (intracatheter) obstructive material from central venous device through device lumen 36598    Contrast injection(s) for radiologic evaluation of existing central venous access device, including fluoroscopy, image documentation and report</para>
+            <para>Repair of a central venous catheter includes fixing the device without replacement of the catheter or port/pump.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For the repair of a multi-catheter device, with or without subcutaneous ports or pumps, use the appropriate code describing the service with 2 units of service.</para>
+               </listitem>
+               <listitem>
+                  <para>Repair of any central venous access catheter <emphasis role="italics">without a port or pump</emphasis> is reported with <emphasis role="bold">36575</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Repair of any central venous access catheter <emphasis role="italics">with a port or pump</emphasis> is reported with <emphasis role="bold">36576</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">36593</emphasis> is reported for declotting of an implanted vascular device or catheter <emphasis role="italics">by thrombolysis</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">36593</emphasis> is <emphasis role="italics">not reported</emphasis> for declotting of a pleural catheter. Use unlisted procedure code <emphasis role="bold">32999</emphasis> for declotting of a pleural catheter.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">36595</emphasis> and <emphasis role="bold">36596</emphasis> are reported for a procedure with <emphasis role="italics">mechanical removal</emphasis> of pericatheter or intraluminal obstructive material.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Radiological supervision and interpretation are separately reported with <emphasis role="bold">75901</emphasis>.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>✖ Do not report <emphasis role="bold">36595</emphasis> or <emphasis role="bold">36596</emphasis> in conjunction with <emphasis role="bold">36593</emphasis> or <emphasis role="bold">36598</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>When the patency of a central venous catheter is evaluated under fluoroscopy, <emphasis role="bold">36598</emphasis> is reported for the contrast injection, image documentation, and report.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Fluoroscopy (<emphasis role="bold">76000</emphasis>) is not separately reported.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Refer to <emphasis role="bold">75820–75827</emphasis> for complete venography studies.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0001s01s05">
+            <title>Removal of Central Venous Catheters</title>
+            <para>
+               <emphasis role="bold">36589</emphasis>    Removal of tunneled central venous catheter, without subcutaneous port or pump <emphasis role="bold">36590</emphasis>    Removal of tunneled central venous access device, with subcutaneous port or pump, central or peripheral insertion</para>
+            <para>Removal codes are reported for removal of the entire device. Refer to replacement codes for partial replacement (catheter only) or complete exchange <emphasis role="italics">in the same venous access site</emphasis> of central venous access devices.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For removal of both catheters (placed from separate venous access sites) of a multi-catheter device, with or without subcutaneous ports/pumps, use the appropriate code describing the procedure with 2 units of service.</para>
+               </listitem>
+               <listitem>
+                  <para>When removal of an existing central venous access device is performed in conjunction with placement of a new device <emphasis role="italics">via a separate venous access site</emphasis>, report both procedures.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0001s01s06">
+            <title>Arterial Access</title>
+            <para>
+               <emphasis role="bold">36600</emphasis>    Arterial puncture, withdrawal of blood for diagnosis <emphasis role="bold">36620</emphasis>    Arterial catheterization or cannulation for sampling, monitoring or transfusion (separate procedure); percutaneous</para>
+            <para>
+               <emphasis role="bold">36625</emphasis>    cutdown</para>
+            <itemizedlist>
+               <listitem>
+                  <para>An arterial puncture for diagnosis is reported with <emphasis role="bold">36600</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">36620</emphasis> and <emphasis role="bold">36625</emphasis> differentiate reporting for peripheral arterial catheterization by percutaneous insertion from when a cutdown is performed.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0005s0002">
+      <title>Transfusions</title>
+      <para>
+         <emphasis role="bold">36430</emphasis>    Transfusion, blood or blood components <emphasis role="bold">36440</emphasis>    Push transfusion; blood, 2 years or younger</para>
+      <para>Push transfusion (<emphasis role="bold">36440</emphasis>) is used only for patients younger than 3 years.</para>
+      <para>
+         <emphasis role="bold">36450</emphasis>    Exchange transfusion, blood, newborn</para>
+      <para>
+         <emphasis role="bold">36455</emphasis>    other than newborn <emphasis role="bold">36456</emphasis>    Partial exchange transfusion, blood, plasma, or crystalloid necessitating the skill of a physician or other QHP; newborn The placement of catheters to support exchange transfusions may be reported separately with the appropriate vascular access codes.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Transfusion (36430) or push transfusion (36440) should be used only if the physician personally infuses the substance and not if the blood is administered by nursing personnel and allowed to enter the vessel via gravity ormeter flow. Codes 36430 and 36440 are not separately reported when the same physician or physicians of the same specialty and same group practice are reporting neonatal or pediatric critical care (99468–99472, 99475, 99476).</para>
+         </listitem>
+         <listitem>
+            <para>Complete exchange transfusions (double volume) performed during the neonatal period are reported with 36450; exchange transfusions for all other age groups are reported with 36455.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The assumption is that the exchange for the neonate is performed via the umbilical vein, whereas an exchange for an older child or adult is performed via a peripheral vessel.</para>
+               </listitem>
+               <listitem>
+                  <para>The actual placement of catheters to support the exchange transfusion may be reported separately with the appropriate vascular access codes.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Partial exchange transfusions (eg, for hyperviscosity syndrome in the neonate) should be reported with 36456.</para>
+         </listitem>
+      </itemizedlist>
+      <para>✱ Do not report other transfusion codes (36430, 36440, or 36450) with 36456.</para>
+      <para>✱ Do not append modifier 63 (procedure performed on infants &lt;4 kg) when reporting 36450 or 36456.</para>
+      <para>Diagnosis codes Z67.R1–Z67.R4 are reported when a patient's Duffy phenotype influences MDM related to transfusions.</para>
+   </sect2>
+   <sect2 id="ch0022s0005s0003">
+      <title>Ear, Nose, and Throat Procedures</title>
+      <para>69421    Myringotomy including aspiration and/or eustachian tube inflation requiring general anesthesia 69433    Tympanostomy (requiring insertion of ventilating tube), local or topical anesthesia</para>
+      <para>69436    Tympanostomy (requiring insertion of ventilating tube), general anesthesia</para>
+      <itemizedlist>
+         <listitem>
+            <para>For bilateral procedure, report code 69436 with modifier 50. Refer to Chapter 2 for further discussion of modifier 50.</para>
+         </listitem>
+         <listitem>
+            <para>Insertion of ventilating tube(s) is not separately reported when performed in conjunction with another middle ear procedure (eg, tympanoplasty) without significant increase in work.</para>
+         </listitem>
+         <listitem>
+            <para>Cleaning debris from the lateral drum, including a pars flaccida retraction pocket, is inclusive to the tube placement code.</para>
+         </listitem>
+         <listitem>
+            <para>Use of an operating microscope is included in the procedure described by 69436.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Code 69436 may be reported without a modifier (eg, 52, reduced service) when a ventilating tube is replaced under general anesthesia. Report 69433 (tympanostomy requiring insertion of a ventilation tube) for replacement under local or topical anesthesia.</para>
+      <sect3 id="ch0022s0005s30011">
+         <title/>
+         <sect4 id="ch0022s0005s0003s01s01">
+            <title>Nasopharyngoscopy</title>
+            <para>92511    Nasopharyngoscopy with endoscope (separate procedure) Code 92511 is designated as a "separate procedure" and should not be reported in addition to the code for the total procedure or service of which it is considered an integral component.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When carried out independently, report 92511.</para>
+               </listitem>
+               <listitem>
+                  <para>When considered to be unrelated or distinct from other procedures or services provided at that time, report 92511 59 in addition to other procedures or services.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0005s0004">
+      <title>Laryngoplasty</title>
+      <para>#31551    Laryngoplasty; for laryngeal stenosis, with graft, without indwelling stent placement, younger than 12 years of age</para>
+      <para>#31552    age 12 years or older</para>
+      <para>#31553    Laryngoplasty; for laryngeal stenosis, with graft, with indwelling stent placement, younger than 12 years of age</para>
+      <para>#31554    age 12 years or older 31580     Laryngoplasty; for laryngeal web, with indwelling keel or stent insertion</para>
+      <para>31584     Laryngoplasty; with open reduction and fixation of (eg, plating) fracture, includes tracheostomy, if performed ✱ Do not report the graft separately if harvested through the laryngoplasty incision (eg, thyroid cartilage graft).</para>
+      <itemizedlist>
+         <listitem>
+            <para>Report only 1 of the following codes for a single operative session: 31551-31554 or 31580.</para>
+         </listitem>
+         <listitem>
+            <para>Codes for treatment of laryngeal stenosis by laryngoplasty with the graft are selected depending on whether the procedure includes indwelling stent placement and on the age of the patient (&lt;12 years or ≥12 years).</para>
+         </listitem>
+         <listitem>
+            <para>Open treatment of a hyoid fracture is reported with <emphasis role="bold">31584</emphasis> (repair procedure on the larynx).</para>
+         </listitem>
+         <listitem>
+            <para>To report tracheostomy, refer to <emphasis role="bold">31600, 31601, 31603, 31605</emphasis>, or <emphasis role="bold">31610</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Report laryngoplasty, not otherwise specified or for removal of a keel or stent, with <emphasis role="bold">31599</emphasis>.</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0022s0005s30012">
+         <title/>
+         <sect4 id="ch0022s0005s0004s01s01">
+            <title>Adenoidectomy and Tonsillectomy</title>
+            <para>
+               <emphasis role="bold">42820</emphasis>    Tonsillectomy and adenoidectomy; younger than age 12</para>
+            <para>
+               <emphasis role="bold">42821</emphasis>        age 12 or over <emphasis role="bold">42825</emphasis>    Tonsillectomy, primary or secondary; younger than age 12</para>
+            <para>
+               <emphasis role="bold">42826</emphasis>        age 12 or over</para>
+            <para>
+               <emphasis role="bold">42830</emphasis>    Adenoidectomy, primary; younger than age 12</para>
+            <para>
+               <emphasis role="bold">42831</emphasis>        age 12 or over</para>
+            <para>
+               <emphasis role="bold">42835</emphasis>    Adenoidectomy, secondary; younger than age 12</para>
+            <para>
+               <emphasis role="bold">42836</emphasis>        age 12 or over Report only the code for the combined tonsillectomy and adenoidectomy (<emphasis role="bold">42820–42821</emphasis>) when both are provided.</para>
+            <para>For partial ablation of the tonsils with a laser, report the appropriate code from <emphasis role="bold">42820</emphasis> or <emphasis role="bold">42821</emphasis>, or <emphasis role="bold">42825</emphasis> or <emphasis role="bold">42826</emphasis>, with modifier 52 (reduced service).</para>
+            <para>For control of hemorrhage following tonsillectomy or adenoidectomy, refer to <emphasis role="bold">42960–42972</emphasis>. Modifier 22 (increased service) may be reported in conjunction with tonsillectomy codes when significant bleeding during <emphasis role="italics">the procedure</emphasis> requires extensive dissection.</para>
+            <para>⚹ Do not append modifier 52 (reduced service) when intracapsular tonsillectomy is performed. Report the procedure (tonsillectomy or tonsillectomy with adenoidectomy) with the appropriate code without a modifier, as the work of the procedure and outcome are unchanged.</para>
+            <para>⚹ Do not separately report incision and drainage of a peritonsillar abscess (<emphasis role="bold">42700</emphasis>) when performed in conjunction with tonsillectomy.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0005s0005">
+      <title>Digestive System Procedures</title>
+      <sect3 id="ch0022s0005s30013">
+         <title/>
+         <sect4 id="ch0022s0005s0005s01s01">
+            <title>Gastric Intubation and Aspiration</title>
+            <para>
+               <emphasis role="bold">43752</emphasis>    Naso- or orogastric tube placement, requiring physician's skill and fluoroscopic guidance (includes fluoroscopy, image documentation and report) <emphasis role="bold">43753</emphasis>    Gastric intubation and aspiration(s) therapeutic (eg, for ingested poisons), including lavage if performed</para>
+            <para>Do not report <emphasis role="bold">43752</emphasis> or <emphasis role="bold">43753</emphasis> in conjunction with critical or intensive care services (<emphasis role="bold">99291, 99292; 99466–99469; 99471–99476; or 99477–99480</emphasis>). Append modifier 25 to codes for other significant, separately identifiable E/M services (eg, hospital care, consultation).</para>
+            <para>Note that <emphasis role="bold">43752</emphasis> is reported when a physician's skill and fluoroscopic guidance are required for placement of a nasogastric or orogastric tube. Use of fluoroscopic guidance must be documented (ie, image documentation and report).</para>
+            <para>⚹ Do not separately report <emphasis role="bold">43752</emphasis> for tube placement to insufflate the stomach before percutaneous gastrointestinal tube placement.</para>
+            <para>⚹ Do not report <emphasis role="bold">43752</emphasis> when a physician's skill is not required or placement is performed without fluoroscopic guidance.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A patient requires placement of a nasogastric tube.</emphasis> Attempts by nursing staff are unsuccessful, so placement by the physician is required. The physician places the tube using fluoroscopic guidance.</para>
+            <para>▶<emphasis role="bold">A child is brought to the ED after having ingested drugs.</emphasis> Gastric intubation and lavage are performed.</para>
+            <para>Code <emphasis role="bold">43753</emphasis> is reported in addition to the appropriate E/M service (eg, ED services [<emphasis role="bold">99281–99285</emphasis>]).</para>
+         </sect4>
+         <sect4 id="ch0022s0005s0005s01s02">
+            <title>Appendectomy</title>
+            <para>
+               <emphasis role="bold">44950</emphasis>    Appendectomy <emphasis role="bold">♦44955</emphasis>        when done for indicated purpose at time of other major procedure</para>
+            <para>
+               <emphasis role="bold">44960</emphasis> for ruptured appendix with abscess or generalized peritonitis</para>
+            <para>
+               <emphasis role="bold">44970</emphasis> Laparoscopy, surgical, appendectomy</para>
+            <para>
+               <emphasis role="bold">44979</emphasis> Unlisted laparoscopy procedure, appendix As a sole procedure, appendectomy coding is fairly straightforward, with 3 code choices: <emphasis role="bold">44950</emphasis>, <emphasis role="bold">44960</emphasis>, and <emphasis role="bold">44970</emphasis>.</para>
+            <para>CPT instructs that incidental appendectomy (ie, not caused by disease or symptom) during intra-abdominal surgery does not usually warrant reporting a code for the appendectomy procedure.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If it is necessary to report an incidental appendectomy performed during another intra-abdominal procedure, append modifier 52 (reduced service).</para>
+               </listitem>
+               <listitem>
+                  <para>The Medicaid NCCI manual also instructs that incidental removal of a normal appendix during another abdominal surgery is not separately reportable. This instruction is likely followed by other payers.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Appendectomy performed for an indicated purpose (ie, problem with the appendix) in conjunction with another procedure is separately reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report AOC <emphasis role="bold">44955</emphasis> in addition to the code for the primary procedure when open appendectomy is performed (because clinically indicated) in conjunction with another procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>For a laparoscopic appendectomy when done for an indicated purpose at the time of another major procedure, report <emphasis role="bold">44979</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>A separate diagnosis code (distinct from the diagnoses for which other intra-abdominal procedures were performed) should be linked to the appendectomy procedure code to indicate the medical necessity of the procedure.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0005s01s03">
+            <title>Inguinal Hernia Repair</title>
+            <para>Diagnosis codes for reporting an inguinal hernia are shown in Table 18-3. Report additional codes that specify preterm birth/gestational age (<emphasis role="bold">P07.3-</emphasis>, additional character required to designate completed weeks of gestation) and/or comorbidities that affect patient management in addition to codes for inguinal hernia.</para>
+            <table frame="all" id="ch0022s0005ta0001">
+               <title>Inguinal Hernia Repair</title>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>Laterality</entry>
+                        <entry>Without Obstruction or Gangrene</entry>
+                        <entry>With Obstruction</entry>
+                        <entry>With Gangrene</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Unilateral</entry>
+                        <entry>K40.90</entry>
+                        <entry>K40.30</entry>
+                        <entry>K40.40</entry>
+                     </row>
+                     <row>
+                        <entry>Unilateral, recurrent</entry>
+                        <entry>K40.91</entry>
+                        <entry>K40.31</entry>
+                        <entry>K40.41</entry>
+                     </row>
+                     <row>
+                        <entry>Bilateral</entry>
+                        <entry>K40.20</entry>
+                        <entry>K40.00</entry>
+                        <entry>K40.10</entry>
+                     </row>
+                     <row>
+                        <entry>Bilateral, recurrent</entry>
+                        <entry>K40.21</entry>
+                        <entry>K40.01</entry>
+                        <entry>K40.11</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0022s0005s0005s01s04">
+            <title>Laparoscopic Inguinal Hernia Repair</title>
+            <para>For laparoscopic inguinal hernia repair, report either <emphasis role="bold">49650</emphasis> or <emphasis role="bold">49651</emphasis>. Append modifier 50 (bilateral procedure) to the code for inguinal hernia repair performed bilaterally. Modifier 63 (procedure performed in infants less than 4 kg) may be appended to codes <emphasis role="bold">49650</emphasis>–<emphasis role="bold">49651</emphasis> when the procedures are performed in neonates and infants up to a present body weight of 4 kg.</para>
+            <para>
+               <emphasis role="bold">49650</emphasis> Laparoscopy, surgical; repair initial inguinal hernia</para>
+            <para>
+               <emphasis role="bold">49651</emphasis> repair recurrent inguinal hernia</para>
+         </sect4>
+         <sect4 id="ch0022s0005s0005s01s05">
+            <title>Open Inguinal Hernia Repair</title>
+            <para>For open hernia repair, refer to the procedure codes in Table 18-4.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For the purpose of reporting inguinal hernia repair codes <emphasis role="bold">49491</emphasis>–<emphasis role="bold">49492</emphasis> and <emphasis role="bold">49495</emphasis>–<emphasis role="bold">49496</emphasis>, selection is based, in part, on preterm or full-term birth andage at the time of the procedure. For preterm neonates and infants, postconception age equals gestational age at birth plus age of newborn/infant in weeks at the time of the hernia repair.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0005s0005s01s06">
+            <title>Table 18-4. Codes for Open Repair of Inguinal Hernia in Infants and Children</title>
+            <table frame="all" id="ch0022s0005ta0002">
+               <title/>
+               <tgroup cols="3">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <thead>
+                     <row>
+                        <entry>Infant's Birth Status (preterm/term) and Age at Time of Surgery</entry>
+                        <entry>Reducible Hernia</entry>
+                        <entry>Incarcerated or Strangulated Hernia</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Preterm (up to 50 wk PCage)—initial repair</entry>
+                        <entry>494911</entry>
+                        <entry>494921,3</entry>
+                     </row>
+                     <row>
+                        <entry>Term 50 wk PCage and &lt;6 mo old—initial repair</entry>
+                        <entry>494952</entry>
+                        <entry>494962,3</entry>
+                     </row>
+                     <row>
+                        <entry>Any infant 6 mo to &lt;5 y old—initial repair</entry>
+                        <entry>495003</entry>
+                        <entry>495012,3</entry>
+                     </row>
+                     <row>
+                        <entry>Child ≥5 y—initial repair</entry>
+                        <entry>495055</entry>
+                        <entry>495072,*</entry>
+                     </row>
+                     <row>
+                        <entry>Anyage, recurrent hernia</entry>
+                        <entry>49520</entry>
+                        <entry>495213</entry>
+                     </row>
+                     <row>
+                        <entry>Anyage, sliding</entry>
+                        <entry>49525</entry>
+                        <entry/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Abbreviation: PC, postconception.</para>
+            <para>
+               <superscript>1</superscript> Procedures reported with codes 49491–49501 include hydrocelectomy, when performed.</para>
+            <para>
+               <superscript>2</superscript> Excision or repair of strangulated organ or structure (eg, 44120) is reported in addition to the repair of a strangulated hernia.</para>
+            <para>
+               <superscript>3</superscript> Separately report simple orchiopexy (54520) or excision of hydrocele (55040 or 55041), when performed, in conjunction with 49505 or 49507.</para>
+            <para>
+               <emphasis role="bold">Examples of Calculating Postconception Age</emphasis> ▶ Postconception age up to 50 weeks (eg, 35-weeks'–gestational age infant now 6 weeks old = 41 weeks' postconception age)</para>
+            <para>▶ Postconception age greater than 50 weeks (eg, 35-weeks'–gestational age infant now 16 weeks old = 51 weeks' postconception age) ✱ Do not append modifier 63 (procedure performed on infants &lt;4 kg) to 49491, 49492, 49495, or 49496.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Separately report inguinal hernia repair (49495–49525) performed in conjunction with inguinal orchiopexy (54640).</para>
+               </listitem>
+               <listitem>
+                  <para>Append modifier 50 when procedures are performed bilaterally.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to 49591–49618 for reporting anterior abdominal hernia(s) (ie, epigastric, incisional, ventral, umbilical, spigelian) and 49621 or 49622 for reporting repair of parastomal hernia.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0001s0008">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0001s0006</risprev>
+         <riscurrent>sect1.9781610028370.ch0001s0008</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>1</chapternumber>
+         <chapterid>ch0001</chapterid>
+         <chaptertitle>Front Matter</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Foreword</title>
+   <para>The American Academy of Pediatrics (AAP) is pleased to publish the 31st edition of <emphasis role="italics">Coding for Pediatrics</emphasis>, an instructional manual and reference tool for use by primary care pediatricians, pediatric subspecialists, and others involved in the provision and reporting of care provided to children. This manual supports the delivery of quality care to children by providing the pediatric practitioner with the knowledge to best support appropriate business practices. This edition includes the 2026 <emphasis role="italics">Current Procedural Terminology</emphasis> (<emphasis role="italics">CPT</emphasis>) code changes with guidelines for their application.</para>
+   <para>This edition introduces a range of new codes and guidelines, including new codes for reporting immunization counseling services when immunizations are not administered on the same date, remote physiologic monitoring treatment management services of 10 to 20 minutes, new and revised codes for immunization products including for clesrovimab (monoclonal antibody for passive immunization against respiratory syncytial virus), and percutaneous electrical nerve field stimulation of the cranial nerves, without implantation, used in treatment of functional abdominal pain disorders. In addition, this manual provides pediatric-specific guidance and examples of documentation and code selection using current coding guidelines for evaluation and management (E/M) and other procedural services.</para>
+   <para>For ease of reference, <emphasis role="italics">Coding for Pediatrics 2026</emphasis> is divided into the following parts:</para>
+   <itemizedlist>
+      <listitem>
+         <para>
+            <emphasis role="bold">Part 1, Coding Basics and Business Essentials</emphasis>, includes information on code sets, modifiers, compliance, and business topics such as billing and payment methodologies.</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Part 2, Primarily for the Office and Other Outpatient Settings</emphasis>, includes information on coding and billing for services such as office visits, outpatient consultations, and preventive services.</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Part 3, Primarily for Hospital Settings</emphasis>, includes information on coding for facility-based services including emergency department and other hospital E/M services and surgical procedures.</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Part 4, Digital Medicine Services</emphasis>, includes discussion of the evolving codes for reporting telemedicine services and remote monitoring and interpretation of patient data.</para>
+      </listitem>
+      <listitem>
+         <para>A quick reference to <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (<emphasis role="italics">ICD-10-CM</emphasis>) code changes applicable to pediatrics is provided in <emphasis role="bold">Appendix I</emphasis>.</para>
+      </listitem>
+      <listitem>
+         <para>A <emphasis role="bold">continuing education quiz</emphasis> to earn 4.0 continuing education units from the American Academy of Professional Coders is included at www.aap.org/cfp2026.</para>
+      </listitem>
+      <listitem>
+         <para>Supplemental material providing a wealth of information can be found on the <emphasis role="italics">Coding for Pediatrics</emphasis> website (www.aap.org/cfp2026).</para>
+      </listitem>
+   </itemizedlist>
+   <para>Each chapter includes "Test Your Knowledge!" questions (answers are in <emphasis role="bold">Appendix II</emphasis>). Additionally, resources for more information on each chapter's contents can be located at the end of chapter.</para>
+   <para>The AAP is also pleased to offer <emphasis role="italics">Coding for Pediatrics 2026</emphasis> as an eBook on a searchable platform.</para>
+   <para>
+      <emphasis role="italics">Coding for Pediatrics 2026</emphasis> does not replace <emphasis role="italics">CPT</emphasis>, <emphasis role="italics">ICD-10-CM</emphasis>, or the Healthcare Common Procedure Coding System; rather, it supplements those manuals. Every effort has been made to include the 2026 codes and their respective guidelines; however, revised codes and/or guidelines may have been published after the date of this printing. Errata to this manual will be posted as appropriate on the <emphasis role="italics">Coding for Pediatrics</emphasis> website (www.aap.org/cfp2026) and www.aap.org/errata.</para>
+   <para>The AAP actively works with the American Medical Association (AMA) <emphasis role="italics">CPT</emphasis> Editorial Panel and the AMA/Specialty Society Relative Value Scale Update Committee (RUC) to develop pediatric specialty codes and assign them appropriate relative value units. Since 1995, the AAP has contributed to the process that evaluates and reviews changes to the Medicare Resource-Based Relative Value Scale (RBRVS). Pediatricians have been actively involved in the RUC process to develop work valuation and direct practice expense input recommendations for all existing codes. The AAP is also represented on the AMA <emphasis role="italics">CPT</emphasis> Editorial Panel and on the <emphasis role="italics">ICD-10-CM</emphasis> Editorial Advisory Board. The AAP continues to be involved in all areas of payment. The AAP Committee on Coding and Nomenclature oversees all areas of coding related to pediatrics, including <emphasis role="italics">CPT</emphasis> procedure coding, <emphasis role="italics">ICD-10-CM</emphasis> diagnosis coding, and the valuation of <emphasis role="italics">CPT</emphasis> services through the Medicare RBRVS.</para>
+   <para>The AAP will continue to request new code changes and attempt to expeditiously notify membership of changes through various means.</para>
+   <itemizedlist>
+      <listitem>
+         <para>The AAP <emphasis role="italics">Pediatric Coding Newsletter</emphasis>®, a monthly newsletter available in print and online formats, provides up-to-date coding and payment information. The newsletter and other online resources can be accessed through the AAP <emphasis role="italics">Pediatric Coding Newsletter</emphasis> website (https://publications.aap.org/codingnews).</para>
+      </listitem>
+      <listitem>
+         <para>AAP coding seminars presented at the AAP National Conference &amp; Exhibition (https://aapexperience.org).</para>
+      </listitem>
+      <listitem>
+         <para>AAP coding webinars (https://publications.aap.org/codingnews/resources/27969).</para>
+      </listitem>
+      <listitem>
+         <para>AAP <emphasis role="italics">News</emphasis>®, including the Coding Corner (https://publications.aap.org/search-results?f_ArticleTypeDisplayName=Coding+Corner).</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="italics">Pediatric ICD-10-CM 2026: A Manual for Provider-Based Coding</emphasis> (www.aap.org/Pediatric-ICD-10-CM-2026-11th-Edition-Paperback).</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="italics">Pediatric Evaluation and Management Coding Revisions: Facility and Office Services</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Revisions-Facility-and-Office-Services-Paperback).</para>
+      </listitem>
+      <listitem>
+         <para>AAP coding cards (www.aap.org/en/shopaap/shop-by-topic/coding).</para>
+      </listitem>
+   </itemizedlist>
+   <para>Use of these resources should provide pediatricians with the skills needed to report their services appropriately. The AAP Pediatric Health Care Systems &amp; Finance Transformation staff stands ready to assist with coding problems and questions not covered in this manual. The AAP Coding and Payment Hotline can be found at www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline.</para>
+   <sect2 id="ch0001s0008s0001">
+      <title>Acknowledgments</title>
+      <para>
+         <emphasis role="italics">Coding for Pediatrics 2026</emphasis> is the product of the efforts of many dedicated individuals.</para>
+      <para>Our mission is to make coding easier to understand so pediatric providers can continue to serve children well. We have sought to make this book easier to understand by categorizing care areas and by using many examples (vignettes) of different coding situations. This knowledge is key to helping all pediatric providers stay in compliance and correctly code with confidence. We hope you enjoy reading this book, and we will continue to strive to always serve you with excellence.</para>
+      <para>This work has been made immeasurably easier and the final edition significantly improved by the dedicated work of many collaborators. First and foremost, I must thank Cindy Hughes, CPC, CPDC, consulting editor, for her professional input. Additionally, I must thank the Committee on Coding and Nomenclature (COCN) support staff at the American Academy of Pediatrics (AAP), particularly Stefanie Muntean-Turner, CPC, CPMA, for her review of major portions of the project. Thank you also to Teri Salus, MPA, CPC, CPEDC, for her contributions and advice regarding new <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> codes. I would also like to thank the members of COCN and the AAP Coding Publications Editorial Advisory Board. The members of these groups have each contributed extensive time in reviewing and updating content in the manual.</para>
+      <para>None of this work is possible without the support of the COCN members who work tirelessly to develop and value codes and fight for pediatrics "at the table." The committee strives to keep pediatrics at the forefront of coding and valuation. The excellent teams that follow are truly experts in these areas and are devoted to representing the AAP and its members:</para>
+      <sect3 id="ch0001s0008s30002">
+         <title/>
+         <sect4 id="ch0001s0008s0001s01s01">
+            <title>CPT Editorial Panel Advisory Committee Team</title>
+            <para>Renee F. Slade, MD, FAAP (<emphasis role="italics">CPT</emphasis> Advisor) Kathryn B. Lalor, MD, FAAP (<emphasis role="italics">CPT</emphasis> Alternate Advisor)</para>
+            <para>Teri Salus, MPA, CPC, CPEDC (AAP Staff to <emphasis role="italics">CPT</emphasis>) <emphasis role="bold">American Medical Association/Specialty Society Relative Value Scale Update Committee (RUC) Team</emphasis>
+            </para>
+            <para>Steven E. Krug, MD, FAAP (RUC Advisor)</para>
+            <para>Margie C. Andreae, MD, FAAP (RUC Representative) Eileen D. Brewer, MD, FAAP (RUC Alternate Representative)</para>
+            <para>Marsha Schofield, MS, RD, LD, FAND (AAP RUC Consultant)</para>
+            <para>
+               <emphasis role="bold">International Classification of Diseases (ICD) Team</emphasis> Jeffrey F. Linzer Sr, MD, FAAP (AAP Representative to <emphasis role="italics">ICD</emphasis>)</para>
+            <para>Edward A. Liechty, MD, FAAP (AAP Alternate Representative to <emphasis role="italics">ICD</emphasis>) Stefanie Muntean-Turner, CPC, CPMA (AAP Staff to <emphasis role="italics">ICD</emphasis>)</para>
+            <para>
+               <emphasis role="bold">I am most grateful to the invaluable input of the following AAP committees and individuals:</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Committee on Medical Liability and Risk Management, specifically Steve Bondi, JD, MD; David Horowitz, MD; and AAP staff Teresa Salaway, senior health policy analyst, Child Health Finance &amp; Quality</para>
+               </listitem>
+               <listitem>
+                  <para>Committee on Child Health Financing, specifically Alison Amidei Galbraith, MD, FAAP</para>
+               </listitem>
+               <listitem>
+                  <para>Section on Neonatal-Perinatal Medicine coding trainers</para>
+               </listitem>
+            </itemizedlist>
+            <para>In addition, we reached out to other AAP members for their expertise on specific content areas.</para>
+            <para>This project would not have been completed were it not for the outstanding work of AAP staff. In Membership, Marketing, and Publishing, Laura Underhile, senior editor, professional/clinical publishing; Grace Klooster, editor, professional/clinical publishing; Grace Pease, senior manager, production and editorial services; Leesa Levin-Doroba, production manager, practice management; Amanda Helmholz, medical copy editor; Peg Mulcahy, manager, art direction and production; Soraya Alem, manager, digital publishing; and Mary Louise Carr, MBA, marketing manager, professional resources deserve special recognition for their outstanding skill and dedication to this project. I especially appreciate the support and professional expertise of AAP staff support to the AAP COCN, dedicated advocates for all of us who medically care for children.</para>
+            <para>These are challenging times for pediatric physicians, but this manual has been developed to provide guidance on coding that is necessary to gain payment, show quality, and demonstrate the value of pediatric care. We are deeply dedicated to serving children and would like to give a big thank-you to all our readers, billers, coders, medical team, and dedicated pediatric providers who work tirelessly around the clock to best care for all children. Your work inspires us to work very hard behind the scenes to provide you with the latest and most accurate coding information. We are always open to ideas to better serve you and welcome your suggestions. By all of us working together, we can accomplish the highest standards of care and be a voice for our children and their future.</para>
+            <para>Respectfully, Linda D. Parsi, MD, MBA, CPEDC, FAAP</para>
+            <para>Editor in Chief, COCN Editorial Advisory Board</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0001s0008s0002">
+      <title>Quick Reference to 2026 CPT® Pediatric Code Changes</title>
+      <para>We have made every effort to include changes to procedures and services that apply to pediatric practices. Revisions and/or additional codes, also, may have been published after the date of this printing. This list does not include all changes made to <emphasis role="italics">Current Procedural Terminology (CPT) 2026</emphasis>. Additionally, not all codes included in the quick reference table are further discussed in this publication, typically because of their limited use by most pediatricians. Always refer to <emphasis role="italics">CPT 2026</emphasis> for a complete listing of new codes, complete descriptions, and revisions. For questions or additional information on codes not discussed in this publication, please contact the American Academy of Pediatrics Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline). Any errata to <emphasis role="italics">CPT 2026</emphasis> will be posted to the American Medical Association website (www.ama-assn.org/practice-management/cpt/errata-technical-corrections). These changes take effect January 1, 2026. Do not report the changes or codes before that date.</para>
+      <table frame="all" id="ch0001s0008ta0001">
+         <title>Quick Reference to 2026 CPT® Pediatric Code Changes</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>2025</entry>
+                  <entry>2026</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry nameend="c2" namest="c1">Category III (Emerging Technology)</entry>
+               </row>
+               <row>
+                  <entry>No specific code</entry>
+                  <entry>The following codes were released December 30, 2024; implemented July 1, 2025; and published in CPT 2026:
+      ●0973T Selective enzymatic debridement, partial-thickness and/or full-thickness burn eschar, requiring anesthesia (ie, general anesthesia, moderate sedation), including patient monitoring, trunk, arms, legs; first 100 sq cm
++●0974T each additional 100 sq cm ●0975T Selective enzymatic debridement, partial-thickness and/or full-thickness burn eschar, requiring anesthesia (ie, general anesthesia, moderate sedation), including patient monitoring, scalp, neck, hands, feet, and/or multiple digits; first 100 sq cm
+      ●0976T each additional 100 sq cm</entry>
+               </row>
+               <row>
+                  <entry nameend="c2" namest="c1">Immunization (Codes for vaccines, toxoids, and immunoglobulins are released in April, July, and October with implementation at ≤3 or 6 months following release or upon authorization for use by the FDA when approved for immediate release.)</entry>
+               </row>
+               <row>
+                  <entry>No specific code</entry>
+                  <entry>The following code was released April 1, 2025; implemented July 1, 2025; and published in CPT 2026:
+      ●90382 RSV, monoclonal antibody, seasonal dose, 0.7 mL, for IMuse</entry>
+               </row>
+               <row>
+                  <entry>#▲90480 IA by IM injection, of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, single dose</entry>
+                  <entry>An errata to CPT 2025 removed the symbol for resequenced code (#) from 90480.
+      ▲90480 IA by IM injection, of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine; first or only component of each vaccine administered
+      #+●90481 each additional component administered</entry>
+               </row>
+               <row>
+                  <entry>No specific code</entry>
+                  <entry>The following code was released October 18, 2024; implemented January 1, 2025; and published in CPT 2026:
+      #●90593 Chikungunya virus vaccine, recombinant, for IMuse</entry>
+               </row>
+               <row>
+                  <entry>#90620 Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), 2 dose schedule, for IMuse</entry>
+                  <entry>The following code revision was released April 1, 2025; implemented July 1, 2025; and published in CPT 2026: ▲90620 Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), 2 dose schedule, for IMuse</entry>
+               </row>
+               <row>
+                  <entry>No specific code</entry>
+                  <entry>The following code was released April 1, 2025; implemented July 1, 2025; and published in CPT 2026:
+      #●90635 Influenza virus vaccine, H5N1, derived from cell cultures, adjuvanted, for IMuse</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sect3 id="ch0001s0008s30003">
+         <title/>
+         <sect4 id="ch0001s0008s0002s01s01">
+            <title>Immunization (continued)</title>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | ⚡●90612 Influenza virus vaccine (IIV), H5, pandemic formulation, split virus, adjuvanted, for IMuse <emphasis role="bold">No specific code</emphasis> | The following codes were released April 1, 2025; implemented July 1, 2025; and published in CPT 2026:</para>
+            <para>⚡●90612 Influenza virus vaccine, trivalent, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 31.7 mcg/0.32 mL dosage, for IMuse ⚡●90613 Influenza virus vaccine, quadrivalent, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 40 mcg/0.4 mL dosage, for IMuse</para>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | The following code was released April 1, 2025; implemented July 1, 2025; and published in CPT 2026: ⚡●91323 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 10 mcg/0.2 mL dosage, for IMuse</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s02">
+            <title>Immunization Counseling</title>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | ★●90482 Immunization counseling by physician or other QHP when immunization(s) is not administered by provider on the same date of service; 3 minutes up to 10 minutes ★●90483 greater than 10 minutes up to 20 minutes</para>
+            <para>★●90484 greater than 20 minutes</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s03">
+            <title>Integumentary</title>
+            <para>
+               <emphasis role="bold">10040 Acne surgery (eg, marsupialization, opening or removal of multiple milia, comedones, cysts, pustules)</emphasis> | ▲10040 Extraction (eg, marsupialization, opening or removal of multiple milia, comedones, cysts, pustules)</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s04">
+            <title>Laboratory</title>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | ●87812 Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) and influenza virus types A and B <emphasis role="bold">No specific code</emphasis> | ●87494 Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia trachomatis and Neisseria gonorrhoeae, multiplex amplified probe technique</para>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | ●81354 Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of structural and copy number variants, optical genome mapping <emphasis role="bold">No specific code</emphasis> | ●86XX1 Streptococcus pneumoniae antibody (IgG), serotypes, multiplex immunoassay, quantitative</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s05">
+            <title>Mechanical Scalp Cooling Services</title>
+            <para>
+               <emphasis role="bold">Deleted for services on and after January 1, 2026</emphasis>
+               <emphasis role="bold">0662T Scalp cooling, mechanical; initial measurement and calibration of cap</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">+0663T placement of device, monitoring, and removal of device</emphasis> | ●97007 Mechanical scalp cooling, including individual cap supply with head measurement, fitting, and patient education ●97008 Mechanical scalp cooling, including hair preparation, individual cap placement, therapy initiation, and pre-cooling period</para>
+            <para>★●97009 scalp cooling provided after discontinuation of chemotherapy, each 30 minutes</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s06">
+            <title>Musculoskeletal</title>
+            <para>
+               <emphasis role="bold">No specific code</emphasis> | #●27458 Osteotomy(ies), femur, unilateral, with insertion of an externally controlled intramedullary lengthening device, including iliotibial band release when performed, imaging, alignment assessments, computations of adjustment schedules, and management of the intramedullary lengthening device <emphasis role="bold">No specific code</emphasis> | #●27713 Osteotomy(ies), tibia, including fibula when performed, unilateral, with insertion of an externally controlled intramedullary lengthening device, including imaging, alignment assessments, computations of adjustment schedules, and management of the intramedullary lengthening device</para>
+            <para>
+               <emphasis role="bold">27468</emphasis> Osteoplasty, femur; combined, lengthening and shortening with femoral segment transfer | Deleted (Procedure is seldom provided. When performed, report distinct codes for each osteoplasty of bilateral femurs.)</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s07">
+            <title>Modifiers</title>
+            <para>
+               <emphasis role="bold">33 Preventive Services:</emphasis> When the primary purpose of the service is the delivery of an evidence-based service in accordance with a USPSTF A or B rating in effect or is another preventive services identified in preventive services mandates (legislative or regulatory), the service may be identified by adding 33 to the procedure. For separately reported services specifically identified as preventive, the modifier should not be used. | <emphasis role="bold">33 Preventive Services:</emphasis> When the primary purpose of the service is the delivery of an evidence-based service in accordance with a USPSTF A or B rating in effect or is another preventive services identified in preventive services mandates (legislative or regulatory), the service may be identified by adding 33 to the procedure. For separately reported services specifically identified as preventive, the modifier should not be used.</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s08">
+            <title>Nervous System</title>
+            <para>
+               <emphasis role="bold">Deleted in 2026</emphasis>
+               <emphasis role="bold">0720T</emphasis> Percutaneous electrical nerve field stimulation, cranial nerves, without implantation | ●<emphasis role="bold">64567</emphasis> Percutaneous electrical nerve field stimulation, cranial nerves, without implantation</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s09">
+            <title>Pulmonary Medicine</title>
+            <para>
+               <emphasis role="bold">94662</emphasis> Continuous negative pressure ventilation, initiation and management | Deleted in 2026</para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s10">
+            <title>Remote Monitoring Services</title>
+            <para>#<emphasis role="bold">99453</emphasis> Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate), initial; set-up and patient education on use of equipment | #▲<emphasis role="bold">99453</emphasis> Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate); initial set-up and patient education on use of equipment</para>
+            <para>#<emphasis role="bold">99454</emphasis> Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate), initial; device(s) supply with daily recording(s) or programmed alert(s) transmission, each 30 days | #●<emphasis role="bold">99445</emphasis> device(s) supply with daily recording(s) or programmed alert(s) transmission, 2—15 days in a 30-day period</para>
+            <para>| #▲<emphasis role="bold">99454</emphasis> device(s) supply with daily recording(s) or programmed alert(s) transmission, 16—30 days in a 30-day period</para>
+            <para>| #●<emphasis role="bold">99470</emphasis> Remote physiologic monitoring treatment management services, clinical staff/physician/other QHP time in a calendar month requiring 1 real-time interactive communication with the patient/caregiver during the calendar month; first 10 minutes</para>
+            <para>#<emphasis role="bold">99457</emphasis> Remote physiologic monitoring treatment management services, clinical staff/physician/other QHP time in a calendar month requiring interactive communication with the patient/caregiver during the month; first 20 minutes | #▲<emphasis role="bold">99457</emphasis> first 20 minutes</para>
+            <para>#+▲<emphasis role="bold">99458</emphasis> each additional 20 minutes | #+▲<emphasis role="bold">99458</emphasis> each additional 20 minutes <emphasis role="italics">(unchanged from 2025)</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0001s0008s0002s01s11">
+            <title>Remote Monitoring Services (continued)</title>
+            <para>
+               <emphasis role="bold">▲98975</emphasis> Remote therapeutic monitoring (eg, therapy adherence, therapy response, digital therapeutic intervention); initial set-upand patient education on use of equipment</para>
+            <para>98975 is unchanged in 2026.</para>
+            <para>
+               <emphasis role="bold">#●98984</emphasis> device(s) supply for data access or data transmissions to support monitoring of respiratory system, 2–15 days in a 30-day period <emphasis role="bold">▲98976</emphasis> device(s) supply for data access or data transmissions to support monitoring of respiratory system, each 30 days</para>
+            <para>
+               <emphasis role="bold">▲98976</emphasis> device(s) supply for data access or data transmissions to support monitoring of respiratory system, 16–30 days in a 30-day period <emphasis role="bold">#●98985</emphasis> device(s) supply for data access or data transmissions to support monitoring of musculoskeletal system, 2–15 days in a 30-day period</para>
+            <para>
+               <emphasis role="bold">▲98977</emphasis> device(s) supply for data access or data transmissions to support monitoring of musculoskeletal system, each 30 days <emphasis role="bold">▲98977</emphasis> device(s) supply for data access or data transmissions to support monitoring of musculoskeletal system, 16–30 days in a 30-day period</para>
+            <para>
+               <emphasis role="bold">#●98986</emphasis> device(s) supply for data access or data transmissions to support monitoring of cognitive behavioral therapy, 2–15 days in a 30-day period <emphasis role="bold">▲98978</emphasis> device(s) supply for data access or data transmissions to support monitoring of cognitive behavioral therapy, each 30 days</para>
+            <para>
+               <emphasis role="bold">▲98978</emphasis> device(s) supply for data access or data transmissions to support monitoring of cognitive behavioral therapy, 16–30 days in a 30-day period <emphasis role="bold">●98979</emphasis> Remote therapeutic monitoring treatment management services, physician/other QHP time in a calendar month requiring at least 1 real-time interactive communication with the patient/caregiver during the calendar month; first 10 minutes</para>
+            <para>
+               <emphasis role="bold">98980</emphasis> Remote therapeutic monitoring treatment management services, physician or other QHP time in a calendar month requiring at least one interactive communication with the patient or caregiver during the calendar month; first 20 minutes</para>
+            <para>
+               <emphasis role="bold">+98981</emphasis> each additional 20 minutes</para>
+            <para>
+               <emphasis role="bold">▲98980</emphasis> first 20 minutes <emphasis role="bold">+▲98981</emphasis> each additional 20 minutes <emphasis role="italics">(unchanged from 2025)</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Abbreviations: CPT, Current Procedural Terminology; FDA, US Food and Drug Administration; IA, immunization administration; IM, intramuscular; QHP, qualified health care professional; RSV, respiratory syncytial virus; USPSTF, US Preventive Services Task Force.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">#</emphasis>
+               <emphasis role="italics">indicates pending US FDA approval.</emphasis>
+            </para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0001s0008s0003">
+      <title>How to Use This Manual</title>
+      <para>
+         <emphasis role="bold">Step 1.</emphasis> Use the table of contents or the index to locate information on specific services, codes, or broader subjects. (If unfamiliar with codes and conventions, read <emphasis role="bold">Chapter 1</emphasis> to learn important information on the use of each code set.) <emphasis role="bold">Step 2.</emphasis> Use chapter content to review code descriptors and instructions for reporting.</para>
+      <para>Before reporting, verify current codes and complete selection and reporting instructions in the appropriate code set manual or application.</para>
+      <para>
+         <emphasis role="bold">Step 3.</emphasis> Examples are used as guidance on meeting the criteria specified by codes and reporting instructions. However, note that codes must be assigned based on the service provided and supporting documentation.</para>
+      <para>
+         <emphasis role="bold">Step 4.</emphasis> Note highlights and takeaways in each chapter.</para>
+      <para>
+         <emphasis role="bold">Step 5.</emphasis> Resources for additional information are listed at the end of each chapter and are included at www.aap.org/cfp2026.</para>
+      <para>
+         <emphasis role="bold">Step 6.</emphasis> Although every effort is made to provide accurate and up-to-date coding guidance, changes do happen. Any corrections and code or instruction changes published subsequent to the date of this printing are included at www.aap.org/cfp2026 or www.aap.org/errata.</para>
+      <para>
+         <emphasis role="bold">99239</emphasis> more than 30 minutes on the date of the encounter</para>
+      <itemizedlist>
+         <listitem>
+            <para>Same date admission and discharge services for a patient stay of 8 hours or more, performed at 2 distinct encounters, are reported with <emphasis role="bold">99234–99236</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>For admission and discharge services provided during a stay of less than 8 hours, report only <emphasis role="bold">99221–99223</emphasis>.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶<emphasis role="bold">A 14-month-old new patient presents following an ED encounter for complex febrile seizure.</emphasis>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (undiagnosed new problem with uncertain prognosis)</para>
+      <para>
+         <emphasis role="italics">Teaching Point:</emphasis> Differential diagnoses for the complex febrile seizure include possibility of epilepsy resulting from a brain lesion or other life-threatening cause.</para>
+      <itemizedlist>
+         <listitem>
+            <para>The 4 code sets that are used for reporting professional services are <emphasis role="italics">ICD-10-CM</emphasis>, HCPCS, CPT, and the NDC.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0001s0008s0004">
+      <title>Coding for Pediatrics 2026 Road Map</title>
+      <para>This road map was developed to help you quickly locate information in <emphasis role="italics">Coding for Pediatrics 2026</emphasis> by selecting your specialty and/or setting. Results are sorted into essential information and supplemental information to help find your relevant coding content.</para>
+      <table frame="all" id="ch0001s0008ta0002">
+         <title>Coding for Pediatrics 2026 Road Map</title>
+         <tgroup cols="45">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <colspec colname="c5"/>
+            <colspec colname="c6"/>
+            <colspec colname="c7"/>
+            <colspec colname="c8"/>
+            <colspec colname="c9"/>
+            <colspec colname="c10"/>
+            <colspec colname="c11"/>
+            <colspec colname="c12"/>
+            <colspec colname="c13"/>
+            <colspec colname="c14"/>
+            <colspec colname="c15"/>
+            <colspec colname="c16"/>
+            <colspec colname="c17"/>
+            <colspec colname="c18"/>
+            <colspec colname="c19"/>
+            <colspec colname="c20"/>
+            <colspec colname="c21"/>
+            <colspec colname="c22"/>
+            <colspec colname="c23"/>
+            <colspec colname="c24"/>
+            <colspec colname="c25"/>
+            <colspec colname="c26"/>
+            <colspec colname="c27"/>
+            <colspec colname="c28"/>
+            <colspec colname="c29"/>
+            <colspec colname="c30"/>
+            <colspec colname="c31"/>
+            <colspec colname="c32"/>
+            <colspec colname="c33"/>
+            <colspec colname="c34"/>
+            <colspec colname="c35"/>
+            <colspec colname="c36"/>
+            <colspec colname="c37"/>
+            <colspec colname="c38"/>
+            <colspec colname="c39"/>
+            <colspec colname="c40"/>
+            <colspec colname="c41"/>
+            <colspec colname="c42"/>
+            <colspec colname="c43"/>
+            <colspec colname="c44"/>
+            <colspec colname="c45"/>
+            <thead>
+               <row>
+                  <entry>First</entry>
+                  <entry>Office</entry>
+                  <entry>Inpatient</entry>
+                  <entry>Outpatient</entry>
+                  <entry>Emergency</entry>
+                  <entry>Consultation</entry>
+                  <entry>Preventive</entry>
+                  <entry>Immunization</entry>
+                  <entry>Radiology</entry>
+                  <entry>Laboratory</entry>
+                  <entry>Pathology</entry>
+                  <entry>Anesthesia</entry>
+                  <entry>Surgery</entry>
+                  <entry>Ophthalmology</entry>
+                  <entry>Otolaryngology</entry>
+                  <entry>Orthopedics</entry>
+                  <entry>Urology</entry>
+                  <entry>Dermatology</entry>
+                  <entry>Psychiatry</entry>
+                  <entry>Neurology</entry>
+                  <entry>Cardiology</entry>
+                  <entry>Pulmonology</entry>
+                  <entry>Gastroenterology</entry>
+                  <entry>Endocrinology</entry>
+                  <entry>Nephrology</entry>
+                  <entry>Hematology</entry>
+                  <entry>Oncology</entry>
+                  <entry>Rheumatology</entry>
+                  <entry>Allergy</entry>
+                  <entry>Infectious Disease</entry>
+                  <entry>Critical Care</entry>
+                  <entry>Neonatology</entry>
+                  <entry>Genetics</entry>
+                  <entry>Developmental</entry>
+                  <entry>Behavioral</entry>
+                  <entry>Adolescent</entry>
+                  <entry>Sports Medicine</entry>
+                  <entry>Pain Management</entry>
+                  <entry>Palliative Care</entry>
+                  <entry>Home Health</entry>
+                  <entry>Hospice</entry>
+                  <entry>Telehealth</entry>
+                  <entry>Quality</entry>
+                  <entry>Research</entry>
+                  <entry>Administration</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>American Academy of Pediatrics</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+               </row>
+               <row>
+                  <entry>Hospital and Health System</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Subspecialty</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Surgical Specialty</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Ancillary Services</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Behavioral Health</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Therapeutic Services</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Preventive Services</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Non-Physician</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Evaluation and Management</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+                  <entry>↑</entry>
+               </row>
+               <row>
+                  <entry>Anesthesia</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Surgery</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Radiology</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Pathology and Laboratory</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Medicine</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Category II</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+               <row>
+                  <entry>Category III</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+                  <entry>•</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+</sect1>

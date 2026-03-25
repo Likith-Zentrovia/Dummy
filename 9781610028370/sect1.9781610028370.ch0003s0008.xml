@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0008">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0007</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0008</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0009</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Reporting Codes for Payment</title>
+   <figure float="0" id="ch0003s0008fg0001">
+      <title>Reporting Codes for Payment</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="ch0003f01.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <para>Example 1500 Claim Form</para>
+   <para>ABC Health Plan</para>
+   <para>123 Money St</para>
+   <para>Anywhere, AK 00000</para>
+   <para>HEALTH INSURANCE CLAIM FORM APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCC) 02/12</para>
+   <para>PICA</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>MEDICARE    MEDICAID    TRICARE    CHAMPVA    GROUP    FECA    OTHER 1a. INSURED'S I.D. NUMBER    (For Program in Item 1)</para>
+      </listitem>
+   </orderedlist>
+   <para>CHAMPUS     (Medicaid #)   (Sponsor's SSN)   (VA File #)   HEALTH PLAN   BLK LUNG   123456789 (Medicare #)  (ID#)        (SSN or ID)       (SSN)        (SSN or ID)    (SSN)      (ID)</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>PATIENT'S NAME (Last Name, First Name, Middle Initial)    3. PATIENT'S BIRTH DATE    4. INSURED'S NAME (Last Name, First Name, Middle Initial)</para>
+      </listitem>
+      <listitem>
+         <para>Smith, Patient                                            MM  DD  YY    SEX        Smith, Parent</para>
+      </listitem>
+      <listitem>
+         <para>08  22  2024   M  F</para>
+      </listitem>
+      <listitem>
+         <para>PATIENT'S ADDRESS (No., Street)                          6. PATIENT RELATIONSHIP TO INSURED    7. INSURED'S ADDRESS (No., Street)</para>
+      </listitem>
+      <listitem>
+         <para>123 Main St                                              Self  Spouse  Child  Other</para>
+      </listitem>
+      <listitem>
+         <para>PATIENT STATUS                                           CITY                                   STATE</para>
+      </listitem>
+      <listitem>
+         <para>Single  Married  Other                                   Anywhere                               KS</para>
+      </listitem>
+      <listitem>
+         <para>OTHER INSURED'S NAME (Last Name, First Name, Middle Initial)    ZIP CODE                      TELEPHONE (Include Area Code)</para>
+      </listitem>
+      <listitem>
+         <para>12345                          (555) 555-5555</para>
+      </listitem>
+      <listitem>
+         <para>IS PATIENT'S CONDITION RELATED TO:                     11. INSURED'S POLICY GROUP OR FECA NUMBER</para>
+      </listitem>
+      <listitem>
+         <para>Smith, Parent                                           9876543210</para>
+      </listitem>
+      <listitem>
+         <para>EMPLOYMENT? (Current or Previous)                        12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE I authorize the release of any medical or other information necessary</para>
+      </listitem>
+   </orderedlist>
+   <para>YES    NO                                               to process this claim. I also request payment of government benefits either to myself or to the party who accepts assignment below.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>AUTO ACCIDENT?    PLACE (State)</para>
+      </listitem>
+      <listitem>
+         <para>YES    NO                                               Signature on file                      DATE</para>
+      </listitem>
+      <listitem>
+         <para>02/22/2026</para>
+      </listitem>
+      <listitem>
+         <para>OTHER ACCIDENT?</para>
+      </listitem>
+   </orderedlist>
+   <para>YES    NO                                               13. INSURED'S OR AUTHORIZED PERSON'S SIGNATURE I authorize payment of medical benefits to the undersigned physician or supplier for</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>INSURANCE PLAN NAME OR PROGRAM NAME                     services described below.</para>
+      </listitem>
+      <listitem>
+         <para>Another Good Plan</para>
+      </listitem>
+   </orderedlist>
+   <para>Signature on file READ BACK OF FORM BEFORE COMPLETING &amp; SIGNING THIS FORM.</para>
+   <para>10d. RESERVED FOR NUCC USE                                14. DATE OF CURRENT ILLNESS, INJURY, or PREGNANCY (LMP)    15. OTHER DATE</para>
+   <itemizedlist>
+      <listitem>
+         <para>MM  DD  YY                                                   MM  DD  YY</para>
+      </listitem>
+      <listitem>
+         <para>01  01  1994</para>
+      </listitem>
+   </itemizedlist>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>DATES PATIENT UNABLE TO WORK IN CURRENT OCCUPATION</para>
+      </listitem>
+      <listitem>
+         <para>FROM                    TO</para>
+      </listitem>
+      <listitem>
+         <para>MM  DD  YY             MM  DD  YY</para>
+      </listitem>
+      <listitem>
+         <para>NAME OF REFERRING PROVIDER OR OTHER SOURCE            17a.                                    18. HOSPITALIZATION DATES RELATED TO CURRENT SERVICES</para>
+      </listitem>
+      <listitem>
+         <para>I.D. NUMBER OF REFERRING PROVIDER        FROM                    TO</para>
+      </listitem>
+      <listitem>
+         <para>MM  DD  YY             MM  DD  YY</para>
+      </listitem>
+      <listitem>
+         <para>ADDITIONAL CLAIM INFORMATION (Designated by NUCC)     20. OUTSIDE LAB?    $ CHARGES</para>
+      </listitem>
+      <listitem>
+         <para>YES    NO</para>
+      </listitem>
+      <listitem>
+         <para>DIAGNOSIS OR NATURE OF ILLNESS OR INJURY (Relate A-L to service line below) (24E)    22. RESUBMISSION</para>
+         <orderedlist continuation="restarts" inheritnum="ignore">
+            <listitem>
+               <para>Z00.129    B. Z29.11    C. Z23                                                    CODE        ORIGINAL REF. NO.</para>
+            </listitem>
+         </orderedlist>
+      </listitem>
+      <listitem>
+         <para>PRIOR AUTHORIZATION NUMBER</para>
+      </listitem>
+      <listitem>
+         <para>A.    DATE(S) OF SERVICE    B.    C.    D. PROCEDURES, SERVICES, OR SUPPLIES    E.    F.    G.    H.    I.    J.</para>
+      </listitem>
+   </orderedlist>
+   <para>FROM    TO                  PLACE MODIFIER (Explain Unusual Circumstances)    DIAGNOSIS    DAYS    EPSDT    ID.    RENDERING MM DD YY MM DD YY          OF    CPT/HCPCS        MODIFIER    POINTER    OR    Family    QUAL.    PROVIDER ID. #</para>
+   <para>SERVICE                                              UNITS    Plan 1   02  22  26                 11                      99392    25         A      150.00   1        NPI  123456789O</para>
+   <para>2   02  22  26                 11                      96110              A       20.00   1        NPI  123456789O 3   M4928106741G ML1           11                      90381    SL        AB      25.00   2        NPI  123456789O</para>
+   <para>02  22  26 4   M4581600954G ML05          11                      90633              AC      25.00   1        NPI  123456789O</para>
+   <itemizedlist>
+      <listitem>
+         <para>02  22  26</para>
+      </listitem>
+   </itemizedlist>
+   <para>5                                                                                                   NPI</para>
+   <para>6                                                                                                   NPI</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>FEDERAL TAX I.D. NUMBER    SSN EIN    26. PATIENT'S ACCOUNT NO.    27. ACCEPT ASSIGNMENT?    28. TOTAL CHARGE    29. AMOUNT PAID    30. Rsvd for NUCC Use</para>
+      </listitem>
+      <listitem>
+         <para>12-4567897                     X                                    YES    NO                 $ 220.00           $</para>
+      </listitem>
+      <listitem>
+         <para>SIGNATURE OF PHYSICIAN OR SUPPLIER    32. SERVICE FACILITY LOCATION INFORMATION    33. BILLING PROVIDER INFO &amp; PH #</para>
+      </listitem>
+   </orderedlist>
+   <para>INCLUDING DEGREES OR CREDENTIALS                                                   Pediatric Practice (I certify that the statements on the reverse                                     111 Some St</para>
+   <itemizedlist>
+      <listitem>
+         <para>apply to this bill and are made a part thereof.)                                 Anywhere, US 99999</para>
+      </listitem>
+      <listitem>
+         <para>Signature on file                      Pediatric Practice                        NPI  01234567890</para>
+      </listitem>
+      <listitem>
+         <para>111 Some St</para>
+      </listitem>
+      <listitem>
+         <para>DATE                                  Anywhere, US 99999</para>
+      </listitem>
+   </itemizedlist>
+   <para>02/23/2026 NUCC Instruction Manual available at: www.nucc.org                                   PLEASE PRINT OR TYPE</para>
+   <para>Documentation of diagnoses, signs and symptoms, or other reasons for a service is not accomplished through code assignment. Per official guidance from <emphasis role="italics">Coding Clinic</emphasis>, selection of a code cannot replace a written diagnostic statement. Multiple clinical conditions may be represented by a single diagnosis code, and more than one code may be required to fully describe a condition. Codes should be assigned to the documented diagnostic statement.</para>
+   <itemizedlist>
+      <listitem>
+         <para>When codes are selected by physicians at the time of EHR documentation, it is advised to have trained administrative staff verify the levels of service, need for modifiers, and compliance with <emphasis role="italics">ICD-10-CM</emphasis>, <emphasis role="italics">CPT</emphasis>, and payer policies. EHRs fail to show complete code descriptors and/or <emphasis role="italics">ICD-10-CM</emphasis> instructions (eg, exclusion notes).</para>
+      </listitem>
+      <listitem>
+         <para>For practices that use a printed encounter form, including 50 to 100 of the most used diagnoses and their respective codes on the encounter form allows the physician or QHP to mark the appropriate code(s), indicating which is primary.</para>
+      </listitem>
+      <listitem>
+         <para>If a specific diagnosis code is not included on the form, write it in.</para>
+      </listitem>
+   </itemizedlist>
+   <para>✖ Do not select a diagnosis code that is "closest to" the diagnosis.</para>
+   <para>
+      <emphasis role="italics">Pediatric Office Superbill 2026</emphasis> is a convenient card that includes the most-reported <emphasis role="italics">CPT</emphasis> and <emphasis role="italics">ICD-10-CM</emphasis> codes (www.aap.org/Pediatric-Office-Superbill-2026).</para>
+   <sect2 id="ch0003s0008s20001">
+      <title/>
+      <sect3 id="ch0003s0008s30001">
+         <title/>
+         <sect4 id="ch0003s0008s0001s01s01">
+            <title>Reporting Codes for Payment</title>
+            <para>In addition to standard code sets, HIPAA has established electronic transaction standards for patient benefit inquiries and submission of health claims and related reports.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Claims for professional services are typically submitted electronically in a format known as 837P (professional claim) as currently configured in version 5010 (ASC X12N).</para>
+               </listitem>
+               <listitem>
+                  <para>Paper claim form submissions using the 1500 claim form, version 02/12, are allowed for providers who meet an exception to the HIPAA requirements for electronic claim submission (eg, provider with &lt;10 full-time employees).</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Paper claim submissions increase the length of time between submission and payment and the chance of error in either form completion or claims processing. It is advisable to submit electronic claims whenever possible.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The 1500 claim form contains the same information as an electronic claim and is valuable for demonstrating how codes and other information necessary for claims processing must berelayed to payers. An example of a completed 1500 claim form is found in <emphasis role="bold">Figure 1-1</emphasis>.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0008s0001s01s02">
+            <title>Linking the Diagnosis to the Service</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Every claim line for a physician service must be linked to the appropriate <emphasis role="italics">ICD-10-CM</emphasis> code that represents the reason for the service.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Each <emphasis role="italics">ICD-10-CM</emphasis> code is placed into a diagnosis field labeled "21A–L."</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>A diagnosis pointer in field "24E" indicates which diagnosis codes relate to each service line by indicating the letter(s) of the related diagnosis field. Up to 4 diagnosis fields may be linked to a service line.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>The first-listed code on the claim should be the principal reason for the service unless the tabular instructions direct the user to "code first" another reason (eg, code first routine child health examination [<emphasis role="bold">Z00.121</emphasis>, <emphasis role="bold">Z00.129</emphasis>] when immunizations [<emphasis role="bold">Z23</emphasis>] are provided at the time of a preventive E/M service).</para>
+               </listitem>
+               <listitem>
+                  <para>When using an EHR, physicians should list the primary diagnosis first in the EHR and make certain that the software does not reorder the codes alphabetically or numerically. In addition, the EHR should beable to link diagnosis codes to the appropriate services.</para>
+               </listitem>
+               <listitem>
+                  <para>The diagnosis code may be the same or different for each service performed.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ When a child is diagnosed with a UTI, the <emphasis role="italics">ICD-10-CM</emphasis> code for UTI (<emphasis role="bold">N39.0</emphasis>) is linked to the E/M service (eg, <emphasis role="bold">99213</emphasis>) and to an in-office dipstick urinalysis performed without microscopy (<emphasis role="bold">81002</emphasis>).</para>
+         </sect4>
+         <sect4 id="ch0003s0008s0001s01s03">
+            <title>Other Coding and Billing Information</title>
+            <para>Correct code assignment and claim completion are 2 important steps in compliant and effective practice management. But many other processes and policies are required. Refer to <emphasis role="bold">Chapter 4</emphasis> for additional guidance on coding and billing procedures.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier51 exempt; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>. Add to your knowledge through the information provided in other chapters that discuss codes for specific types of service.</para>
+            <para>Readers of this chapter should generally know the code sets used to report professional services. Following are takeaways from this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The 4 code sets that are used for reporting professional services are <emphasis role="italics">ICD-10-CM</emphasis>, HCPCS, <emphasis role="italics">CPT</emphasis>, and the NDC.</para>
+               </listitem>
+               <listitem>
+                  <para>To correctly select codes in <emphasis role="italics">ICD-10-CM</emphasis>, it is important to recognize and follow instructions found in the alphabetical index and tabular list to locate the most specific code for documented diagnoses.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS procedure codes may be reported when no <emphasis role="italics">CPT</emphasis> code describes the service provided or when the narrative (descriptor) differs from and more accurately describes the service provided than a similar <emphasis role="italics">CPT</emphasis> code.</para>
+               </listitem>
+               <listitem>
+                  <para>Use of <emphasis role="italics">CPT</emphasis> guidelines and full code descriptors is important incorrect coding. Correct coding is critical to obtain correct claims payment.</para>
+               </listitem>
+               <listitem>
+                  <para>Every claim line for a physician service must be linked to the appropriate <emphasis role="italics">ICD-10-CM</emphasis> code that represents the reason for the service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0003s0008s0002">
+      <title>Resources</title>
+      <sect3 id="ch0003s0008s30011">
+         <title/>
+         <sect4 id="ch0003s0008s0002s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Coding and Payment Hassle Hotline Form (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline)</para>
+            <para>AAP <emphasis role="italics">ICD-10-CM</emphasis> resources (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/icd-10-cm-resources) <emphasis role="italics">Pediatric Coding Q&amp;A: Expert Advice From the AAP Coding Hotline</emphasis> (www.aap.org/en/catalog/categories/coding/pediatric-coding-qa-expert-advice-from-the-aap-coding-hotline-paperback)</para>
+            <para>
+               <emphasis role="italics">Pediatric ICD-10-CM 2026: A Manual for Provider-Based Coding</emphasis> (www.aap.org/Pediatric-ICD-10-CM-2026-11th-Edition-Paperback)</para>
+            <para>
+               <emphasis role="italics">Pediatric Office Superbill 2026</emphasis> (www.aap.org/Pediatric-Office-Superbill-2026)</para>
+         </sect4>
+         <sect4 id="ch0003s0008s0002s01s02">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Back to Basics: Reporting National Drug Codes," September 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book233</emphasis> document003) "Coding Review: Preparticipation Physical Evaluations," July 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book243</emphasis> document003)</para>
+            <para>"<emphasis role="italics">CPT</emphasis> 2024: Reporting Unlisted Procedure Codes," December 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book236</emphasis> document004)</para>
+            <para>
+               <emphasis role="italics">ICD-10-CM</emphasis> article collection (https://publications.aap.org/codingnews/collection/510/ICD-10-CM) "Use Diagnosis Coding Conventions to Avoid Denied Claims," June 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book242</emphasis> document003)</para>
+            <para>"Understanding Age Ranges in <emphasis role="italics">Current Procedural Terminology</emphasis>," May 2023 (https://doi.org/10.1542/pcco <emphasis role="italics">book229</emphasis> document005)</para>
+         </sect4>
+         <sect4 id="ch0003s0008s0002s01s03">
+            <title>Current Procedural Terminology</title>
+            <para>AAP <emphasis role="italics">CPT</emphasis> resources (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/cpt-coding)</para>
+            <para>AMA <emphasis role="italics">CPT</emphasis> general information (www.ama-assn.org/practice-management/cpt-current-procedural-terminology)</para>
+            <para>Category I immunization codes (www.ama-assn.org/practice-management/cpt/category-i-immunization-codes) Category II code descriptors and clinical topics listing (www.ama-assn.org/practice-management/cpt/category-ii-codes)</para>
+            <para>Category III codes (www.ama-assn.org/practice-management/cpt/category-iii-codes) ● indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

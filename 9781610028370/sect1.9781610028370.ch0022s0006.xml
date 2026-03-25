@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0022s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0022s0006</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>18. Common Surgical Procedures and Sedation in Facility Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Genitourinary System Procedures</title>
+   <sect2 id="ch0022s0006s20004">
+      <title/>
+      <sect3 id="ch0022s0006s30014">
+         <title/>
+         <sect4 id="ch0022s0006s0001s01s01">
+            <title>Anogenital Examination</title>
+            <para>
+               <emphasis role="bold">99170</emphasis> Anogenital examination, magnified, in childhood for suspected trauma including image recording when performed ▶ A child is brought to the ED for concern of sexual abuse after blood was found in the child's underpants. The physician performs a comprehensive history and physical examination. Because of the findings on general examination, the physician elects to further examine the child's genitalia with magnification to document findings.</para>
+         </sect4>
+         <sect4 id="ch0022s0006s0001s01s02">
+            <title>Correction of Chordee and Hypospadias</title>
+            <para>
+               <emphasis role="bold">54300</emphasis> Plastic operation of penis for straightening of chordee (eg, hypospadias), with or without mobilization of urethra <emphasis role="bold">54304</emphasis> Plastic operation on penis for correction of chordee or for first stage hypospadias repair with or without transplantation of prepuce and/or skin flaps</para>
+            <para>
+               <emphasis role="bold">54340</emphasis> Repair of hypospadias complication(s) (ie, fistula, stricture, diverticula); by closure, incision, or excision, simple <emphasis role="bold">54344</emphasis> requiring mobilization of skin flaps and urethroplasty with flap or patch graft</para>
+            <para>
+               <emphasis role="bold">54348</emphasis> requiring extensive dissection, and urethroplasty with flap, patch or tubed graft (including urinary diversion, when performed) <emphasis role="bold">54352</emphasis> Revision of prior hypospadias repair requiring extensive dissection and excision of previously constructed structures including re-release of chordee and reconstruction of urethra and penis by use of local skin as grafts and island flaps and skin brought in as flaps or grafts</para>
+            <para>Code <emphasis role="bold">54300</emphasis> is appropriately reported for straightening of the chordee to correct congenital concealed penis (<emphasis role="bold">Q55.64</emphasis>). This procedure may also be performed to correct anentrapped penis after newborn circumcision (eg, release of concealed penis with coverage of deficient penile ventral skin by penile skin-raised Byars flaps and re-circumcision).</para>
+            <para>Codes <emphasis role="bold">54304–54352</emphasis> and <emphasis role="bold">54356</emphasis> describe procedures performed to correct hypospadias in either single- or multiple-stage procedures.</para>
+            <para>✱ Do not separately report <emphasis role="bold">54300</emphasis>, <emphasis role="bold">54304</emphasis>, or <emphasis role="bold">54360</emphasis> (plastic operation on penis to correct angulation) when reporting single-stage repair of hypospadias.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Correction of penile chordee or penile curvature is included in all single-stage repairs of hypospadias.</para>
+               </listitem>
+               <listitem>
+                  <para>Repair or revision of hypospadias complication is reported with <emphasis role="bold">54340–54352</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not separately report the following procedures when reporting <emphasis role="bold">54352</emphasis>: application of skin substitute graft (<emphasis role="bold">15275</emphasis>); formation of direct or tubed pedicle (<emphasis role="bold">15574</emphasis>); island pedicle flap (<emphasis role="bold">15740</emphasis>); excision of urethral diverticulum (<emphasis role="bold">53235</emphasis>); one-stage urethroplasty of anterior urethra (<emphasis role="bold">53410</emphasis>); repair of hypospadias or hypospadias correction described by codes <emphasis role="bold">54300</emphasis>, <emphasis role="bold">54336</emphasis>, <emphasis role="bold">54340</emphasis>, <emphasis role="bold">54344</emphasis>, and <emphasis role="bold">54348</emphasis>; or plastic operation to correct penile angulation (<emphasis role="bold">54360</emphasis>).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0006s0002">
+      <title>Sedation</title>
+      <sect3 id="ch0022s0006s30015">
+         <title/>
+         <sect4 id="ch0022s0006s0002s01s01">
+            <title>Moderate Sedation</title>
+            <para>Moderate sedation is reported with <emphasis role="bold">99151–99153</emphasis> (provided by the same physician or QHP performing the diagnostic or therapeutic service) and <emphasis role="bold">99155–99157</emphasis> (provided by a different physician or QHP who is not performing the diagnostic or therapeutic service). Refer to Table 13-3 for full code descriptors and time requirements.</para>
+            <para>Moderate sedation codes are not used to report administration of medications for pain control, minimal sedation (anxiolysis), deep sedation, or monitored anesthesia care (<emphasis role="bold">00100–01999</emphasis>).</para>
+            <para>For more detailed discussion of moderate sedation, refer to <emphasis role="bold">Chapter 13</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0022s0006s0002s01s02">
+            <title>Deep Sedation/Anesthesia Services</title>
+            <para>Deep sedation/analgesia is a drug-induced depression of consciousness during which patients cannot be easily aroused but respond purposefully after repeat verbal or painful stimulation (eg, purposefully pushing away the noxious stimuli). A state of deep sedation may be accompanied by partial or complete loss of protective airway reflexes. Cardiovascular function is usually maintained.</para>
+            <para>
+               <emphasis role="italics">CPT codes</emphasis> for reporting anesthesia services, including deep sedation, monitored anesthesia care, or general anesthesia, are <emphasis role="bold">00100–01999</emphasis>. These codes are not as specific as codes for other services and generally identify a body area or type of procedure.</para>
+            <para>
+               <emphasis role="bold">00102</emphasis> Anesthesia for procedures involving plastic repair of cleft lip <emphasis role="bold">01820</emphasis> Anesthesia for all closed procedures on radius, ulna, wrist, or hand bones</para>
+            <para>Anesthesia services include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Preoperative evaluation of the patient</para>
+               </listitem>
+               <listitem>
+                  <para>Administration of anesthetic, other medications, blood, and fluids</para>
+               </listitem>
+               <listitem>
+                  <para>Monitoring of physiologic parameters</para>
+               </listitem>
+               <listitem>
+                  <para>Other supportive services</para>
+               </listitem>
+               <listitem>
+                  <para>Postoperative E/M related to the surgery (Ongoing critical care services by an anesthesiologist may be separately reportable.)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Pediatricians who provide deep sedation services for procedures performed outside the operating suite should follow the same anesthesia policies and coding instructions as other providers of anesthesia services.</para>
+            <para>If surgery is canceled subsequent to the preoperative evaluation, payment may be allowed to the anesthesiologist for an E/M service and the appropriate E/M code (eg, consultation) may be reported. Refer to <emphasis role="bold">Chapter 16</emphasis> for information on reporting these services.</para>
+            <para>AQCs may be reported to identify special circumstances that increase the complexity of providing anesthesia care, including <emphasis role="bold">+99100</emphasis> Patient under 1 year or older than 70 years (not reported in conjunction with codes <emphasis role="bold">00326</emphasis>, <emphasis role="bold">00561</emphasis>, <emphasis role="bold">00834</emphasis>, or <emphasis role="bold">00836</emphasis>)</para>
+            <para>
+               <emphasis role="bold">+99116</emphasis> Anesthesia complicated by total body hypothermia</para>
+            <para>
+               <emphasis role="bold">+99135</emphasis> Anesthesia complicated by controlled hypotension</para>
+            <para>
+               <emphasis role="bold">+99140</emphasis> Emergency conditions <emphasis role="italics">Emergency</emphasis> is defined by <emphasis role="italics">CPT</emphasis> as a situation in which delay in treatment of the patient would lead to a significant increase in the threat to life or body part.</para>
+            <para>Modifiers are reported in addition to anesthesia codes to indicate the physical status of the patient. The American Society of Anesthesiologists classification of the patient's physical status is represented by the following HCPCS modifiers:</para>
+            <para>
+               <emphasis role="bold">P1</emphasis> Normal healthy patient</para>
+            <para>
+               <emphasis role="bold">P2</emphasis> Patient with mild systemic disease</para>
+            <para>
+               <emphasis role="bold">P3</emphasis> Patient with severe systemic disease <emphasis role="bold">P4</emphasis> Patient with severe systemic disease that is a constant threat to life</para>
+            <para>
+               <emphasis role="bold">P5</emphasis> Moribund patient who is not expected to survive without the operation <emphasis role="bold">P6</emphasis> Declared brain-dead patient whose organs are being removed for donor purposes</para>
+            <para>Base units for anesthesia services are published in the American Society of Anesthesiologists <emphasis role="italics">Relative Value Guide</emphasis> and by the CMS for each anesthesia procedure code. Payers do not typically require reporting of base units on the claim for services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Many private payers will allow additional base units for physical status modifiers <emphasis role="bold">P3</emphasis> (1 unit), <emphasis role="bold">P4</emphasis> (2 units), and <emphasis role="bold">P5</emphasis> (3 units).</para>
+               </listitem>
+               <listitem>
+                  <para>Anesthesia time is reported in minutes unless a payer directs to report units (eg, 1 unit per 15 minutes). Start and stop times must be documented, including multiple start and stop times when anesthesia services are discontinuous.</para>
+               </listitem>
+               <listitem>
+                  <para>Other modifiers that may be required by payers for anesthesia services by pediatric physicians are those identifying the type of anesthesia or anesthesia provider.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">AA</emphasis> Anesthesia services performed personally by anesthesiologist Payers may also require this modifier for services personally rendered by physicians other than anesthesiologists. This signifies that services were not rendered by a nonphysician provider, such as a certified registered nurse anesthetist.</para>
+            <para>
+               <emphasis role="bold">GC</emphasis> This service has been performed in part by a resident under the direction of a teaching physician <emphasis role="bold">G8</emphasis> Monitored anesthesia care for deep complex, complicated, or markedly invasive surgical procedure</para>
+            <para>
+               <emphasis role="bold">G9</emphasis> Monitored anesthesia care for patient who has history of severe cardiopulmonary condition</para>
+            <para>
+               <emphasis role="bold">QS</emphasis> Monitored anesthesia care service Medicare considers deep sedation equivalent to monitored anesthesia care. Private payers may vary.</para>
+         </sect4>
+         <sect4 id="ch0022s0006s0002s01s03">
+            <title>Postoperative Pain Management</title>
+            <para>Generally, the surgeon is responsible for postoperative pain management. However, a surgeon may request assistance with postoperative pain management (eg, epidural or peripheral nerve block).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Payers may require a written order by the surgeon for postoperative pain management by the anesthesia provider.</para>
+               </listitem>
+               <listitem>
+                  <para>When a catheter is placed as the mode of anesthesia (eg, epidural catheter) and retained for use in postoperative pain management, this is not separately reported.</para>
+               </listitem>
+               <listitem>
+                  <para>When separately reporting postoperative pain management, append modifier <emphasis role="bold">59</emphasis> (distinct procedural service) to indicate the separate service and document this service distinctly (and preferably separately) from the anesthesia record.</para>
+               </listitem>
+               <listitem>
+                  <para>When an epidural catheter is used for postoperative pain management, <emphasis role="bold">01996</emphasis> (daily management of epidural) may be reported on days subsequent to the day of surgery. Daily management of other postoperative pain management devices may be reported with subsequent hospital care codes (<emphasis role="bold">99231-99233</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">An orthopedic surgeon requests preanesthetic insertion of a catheter to provide a continuous infusion of the femoral nerve for postoperative pain relief for a patient undergoing anarthroscopy of the knee with lateral meniscectomy. The anesthesiologist uses ultrasound guidance to insert a catheter for continuous infusion before inducing general anesthesia for the surgical procedure.</emphasis>
+            </para>
+            <table frame="all" id="ch0022s0006ta0001">
+               <title>Postoperative Pain Management</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Appropriate diagnosis code</entry>
+                        <entry>01400 (anesthesia for open or surgical arthroscopic procedures on knee joint; not otherwise specified)64448 59 (injection, anesthetic agent[s] and/or steroid; femoral nerve, continuous infusion by catheter [including catheter placement])</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <para>This chapter addressed many aspects of coding for surgical care in a facility setting. Following are some takeaways from this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Surgical services are packaged to include all the necessary services normally furnished by a surgeon before, during, and after a procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Payers may assign a global period (eg, 0, 10, or 90 days) according to the periods published in the MPFS or assign other global periods. It is important to identify the global periods when contracting with payers.</para>
+               </listitem>
+               <listitem>
+                  <para>Report 99024 (postoperative follow-up visit) for follow-up care during the global surgery period.</para>
+               </listitem>
+               <listitem>
+                  <para>Report other modifiers as needed to indicate circumstances such as distinct procedures performed by the same physician or QHP on the same date (59), increased (22) or decreased (52) procedural services, assistant surgeon (80, 81, or 82), or procedures performed in infants less than 4 kg (63).</para>
+               </listitem>
+               <listitem>
+                  <para>Teaching physicians should follow policies for physical presence during all or key portions of a procedure and be sure that the required presence is documented in the surgical record.</para>
+               </listitem>
+               <listitem>
+                  <para>CPT instructions preceding codes for surgical procedures provide important details on what services are or are not separately reported. These instructions should be reviewed when reporting multiple services on the same date or within a global period.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0006s0003">
+      <title>Resources</title>
+      <sect3 id="ch0022s0006s30016">
+         <title/>
+         <sect4 id="ch0022s0006s0003s01s01">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"CPT 2024: Reporting Unlisted Procedure Codes," December 2023 (https://doi.org/10.1542/pccn <emphasis role="italics">book236</emphasis> document004) "Procedure and Diagnosis Modifiers Report Site and Laterality," January 2025 (https://doi.org/10.1542/pccn <emphasis role="italics">book249</emphasis> document005)</para>
+            <para>"Q&amp;A: Coding for Pediatric Echocardiography," August 2023 (https://doi.org/10.1542/pccn <emphasis role="italics">book232</emphasis> document003) "What Stories Do the Modifiers on Your Claims Tell?" July 2023 (https://doi.org/10.1542/pccn <emphasis role="italics">book231</emphasis> document003)</para>
+            <para>"Centrally Inserted Central Venous Catheter: Codes for Insertion and Replacement" "Codes and Instructions for Reporting Preparation for and Skin Grafting"</para>
+            <para>"Echocardiography Code List"</para>
+            <para>"Peripherally Inserted Central Venous Catheter: Codes"</para>
+         </sect4>
+         <sect4 id="ch0022s0006s0003s01s02">
+            <title>Surgery</title>
+            <para>American Urological Association policy and advocacy brief, "Pediatric Hypospadias Repair: A New Consensus Document on Coding" (www.auanet.org/Documents/practices-resources/coding-tips/Pediatric-Hypospadias-Repair.pdf) CMS-designated global periods, Medicare Resource-Based Relative Value Scale Physician Fee Schedule (www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files, refer to Column O in the PPRRVU Excel file included in the file for the most recent version of the fee schedule)</para>
+         </sect4>
+         <sect4 id="ch0022s0006s0003s01s03">
+            <title>Teaching Physician</title>
+            <para>
+               <emphasis role="italics">Medicare Claims Processing Manual</emphasis>, Chapter 12 (www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/clm104c12.pdf)</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is a difference between the CPT surgical package and Medicare policy for postoperative care provided within the global period?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>CPT does not describe any postoperative care in the surgical package.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Medicare does not recognize global periods and pays separately for preoperative and postoperative care.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Medicare policy includes services to address complications that do not include a return to the operating room in the surgical package during the global period.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Medicare policy includes all services to address complications in the surgical package during the global period.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What codes are reported when stabilization (eg, temporary cast/splint/strap) is performed to protect an injury and provide comfort to the patient until another physician performs initial fracture or dislocation care?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Only an E/M service (eg, emergency department E/M service)</para>
+                     </listitem>
+                     <listitem>
+                        <para>An E/M service and any application of a cast/splint/strap</para>
+                     </listitem>
+                     <listitem>
+                        <para>An appropriate fracture care code appended with modifier 54</para>
+                     </listitem>
+                     <listitem>
+                        <para>An appropriate fracture care code appended with modifier 52</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false? Codes for cardiac catheterization for congenital heart defect are reported only when the procedure is performed in a neonate or infant.</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What type of code(s) is reported when an existing central venous access device is removed and a new one placed via a separate venous access site?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A code for removal of central venous access device</para>
+                     </listitem>
+                     <listitem>
+                        <para>A code for insertion</para>
+                     </listitem>
+                     <listitem>
+                        <para>Separate codes for removal and insertion</para>
+                     </listitem>
+                     <listitem>
+                        <para>A code for replacement</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true when selecting codes for open repair of a strangulated inguinal hernia?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Codes do not differentiate strangulated hernia from a reducible hernia.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Codes for excision/repair of strangulated organs or structures are not separately reported.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Repair of a strangulated inguinal hernia is included in the procedure reported for excision or repair of the strangulated organs or structures.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Excision or repair of strangulated organs or structures is reported in addition to the repair of a strangulated hernia.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

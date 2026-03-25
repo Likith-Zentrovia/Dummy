@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Non-Preventive Evaluation and Management Services in Outpatient Settings</title>
+   <itemizedlist>
+      <listitem>
+         <para>Identifying evaluation and management (E/M) codes selected on the basis of guidelines for an outpatient site of service</para>
+      </listitem>
+      <listitem>
+         <para>Determining when visit complexity code G2211 is reported</para>
+      </listitem>
+      <listitem>
+         <para>Distinguishing new and established patients, when applicable</para>
+      </listitem>
+      <listitem>
+         <para>Reporting services provided under incident-to policy</para>
+      </listitem>
+      <listitem>
+         <para>Using time in code selection for outpatient E/M services</para>
+      </listitem>
+      <listitem>
+         <para>Selecting codes based on medical decision-making (MDM)</para>
+      </listitem>
+      <listitem>
+         <para>Reporting prolonged or unusual E/M services</para>
+      </listitem>
+   </itemizedlist>
+</sect1>

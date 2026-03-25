@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0003s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0003s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0003s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>1. The Basics of Coding</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Appropriate Use of Unspecified Codes</title>
+   <para>Unspecified codes are valid and ICD-10-CM codes used to report conditions for which a more specific diagnosis has not yet been determined and/or when testing to determine that a more specific diagnosis would not be medically necessary. Misuse of unspecified codes may result in claim denials, underpayment, and unnecessary delays in receiving prior authorizations for testing or procedures.</para>
+   <para>Do not report the default code (first code listed in the alphabetical index) when more detail about the patient's condition(s) should be documented to support another, more specific code. For example, do not report <emphasis role="bold">J45.909</emphasis> for unspecified asthma, uncomplicated, for reevaluation of asthma, which includes clinical classification of intermittent, mild persistent, moderate persistent, or severe persistent asthma. The diagnosis code reported should reflect what is known at the end of the current encounter. Unspecified codes are not appropriate when information to support a more specific code would generally be known (eg, laterality, type of attention-deficit/hyperactivity disorder).</para>
+   <para>
+      <emphasis role="bold">▶ Unspecified codes that may be acceptable are as follows:</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>Viral intestinal infection, unspecified <emphasis role="bold">(A08.4)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Infectious gastroenteritis and colitis, unspecified <emphasis role="bold">(A09)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Acute pharyngitis, unspecified <emphasis role="bold">(J02.9)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Pneumonia, unspecified organism <emphasis role="bold">(J18.9)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Unspecified convulsions <emphasis role="bold">(R56.9)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Sprain of unspecified site of right knee <emphasis role="bold">(S83.91X-)</emphasis>
+         </para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">▶ The following examples of unspecified codes indicate inappropriate coding caused by failure to document information (eg, location) that would typically be known at the time of the encounter and/or inappropriate code selection:</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>Acute suppurative otitis media without spontaneous rupture of eardrum, unspecified ear <emphasis role="bold">(H66.009)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Otitis media, unspecified, unspecified ear <emphasis role="bold">(H66.90)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Cutaneous abscess of limb, unspecified <emphasis role="bold">(L02.419)</emphasis>
+         </para>
+      </listitem>
+      <listitem>
+         <para>Extremely low birth weight newborn, unspecified weight <emphasis role="bold">(P07.00)</emphasis>
+         </para>
+      </listitem>
+   </itemizedlist>
+   <para>In short, unspecified codes are necessary and should be reported when appropriate. Physicians must document in enough detail to capture what is known at the time of the encounter, and codes selected must reflect the documented diagnosis(es). At the time of code selection, if documentation does not appear to include information that would be known at the time of the encounter, it is appropriate for coders to query the physician for more information and/or request an addendum to the documentation to more fully describe the conditions addressed at the encounter.</para>
+   <sect2 id="ch0003s0005s20002">
+      <title/>
+      <sect3 id="ch0003s0005s30005">
+         <title/>
+         <sect4 id="ch0003s0005s0001s01s01">
+            <title>More About ICD-10-CM</title>
+            <para>You can find additional resources from the AAP on <emphasis role="italics">ICD-10-CM</emphasis> topics at www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/icd-10-cm-resources.</para>
+            <para>
+               <emphasis role="italics">Pediatric ICD-10-CM 2026</emphasis> (www.aap.org/Pediatric-ICD-10-CM-2026-11th-Edition-Paperback) is a condensed version of the entire <emphasis role="italics">ICD-10-CM</emphasis> manual and provides only the guidelines and codes that are applicable and important to pediatric physicians and QHPs. The manual was designed for use in conjunction with the complete <emphasis role="italics">ICD-10-CM</emphasis> code set. The <emphasis role="italics">ICD-10-CM</emphasis> codes and guidelines are found at www.cdc.gov/nchs/icd/icd-10-cm/files.html.</para>
+            <para>
+               <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis>™ provides timely articles on diagnosis coding for pediatric conditions (www.aap.org/AAP-Pediatric-Coding-Newsletter).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0003s0005s0002">
+      <title>Healthcare Common Procedure Coding System</title>
+      <para>The Healthcare Common Procedure Coding System (HCPCS) includes Level I codes (<emphasis role="italics">CPT</emphasis>) and Level II codes (CMS national codes). HCPCS Level II codes are the standardized coding system for describing and identifying health care services, equipment, medications, and supplies (eg, <emphasis role="bold">E0114</emphasis>, crutches underarm, other than wood, adjustable or fixed, pair, with pads, tips and handgrips) that are not identified by HCPCS Level I (<emphasis role="italics">CPT</emphasis>) codes. To differentiate discussion of <emphasis role="italics">CPT</emphasis> and HCPCS Level II codes, the abbreviation HCPCS is typically used in reference to Level II codes unless otherwise stated.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; †, re-sequenced; ✱, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <para>HCPCS procedure codes may be reported when no <emphasis role="italics">CPT</emphasis> code describes the service provided or when the narrative (code descriptor) differs from and more accurately describes the service provided than a similar <emphasis role="italics">CPT</emphasis> code. Payer policies, particularly Medicaid plan policies, often drive the decision between reporting with <emphasis role="italics">CPT</emphasis> and reporting with HCPCS.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ A physician provides critical care services to a pediatric patient via a real-time audiovisual telecommunications system. <emphasis role="italics">CPT</emphasis> does not contain codes for critical care services (<emphasis role="bold">99291</emphasis> and <emphasis role="bold">99292</emphasis>, <emphasis role="bold">99468</emphasis>–<emphasis role="bold">99472</emphasis>) as services reportable with modifier <emphasis role="bold">95</emphasis> (synchronous telemedicine service rendered via a real-time interactive audio and video telecommunications system). As an alternative, the payer has adopted policy requiring HCPCS codes for critical care provided via telemedicine.</para>
+      <para>
+         <emphasis role="bold">G0508</emphasis>    Telehealth consultation, critical care, initial, physicians typically spend 60 minutes communicating with the patient and providers via telehealth <emphasis role="bold">G0509</emphasis>    Telehealth consultation, critical care, subsequent, physicians typically spend 50 minutes communicating with the patient and providers via telehealth</para>
+      <para>Teaching Point: The physician reports either <emphasis role="bold">G0508</emphasis> or <emphasis role="bold">G0509</emphasis> based on the service provided (first or subsequent episode of critical care).</para>
+      <sect3 id="ch0003s0005s30006">
+         <title/>
+         <sect4 id="ch0003s0005s0002s01s01">
+            <title>Reporting Medications Supplied by the Billing Provider</title>
+            <para>HCPCS <emphasis role="italics">J</emphasis> codes (eg, <emphasis role="bold">J0696</emphasis>, injection, ceftriaxone sodium, per 250 mg) represent only the medication and not the administration of the medication.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The term <emphasis role="italics">injection</emphasis> is included in the descriptor to specify that the medication code is reported for the medication that is labeled for administration via injection or infusion. This does not limit reporting of these codes when delivered via an alternative route.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A physician orders and clinical staff deliver an oral administration of 9 mL of injectable dexamethasone sodium phosphate (from a 10-mg/mL single-dose vial) diluted in a flavor solution to a concentration of 2 mg/mL to a patient in the office. The physician reports <emphasis role="bold">J1100</emphasis> (injection, dexamethasone sodium phosphate, 1 mg) with 9 units (1 unit per milligram administered). Also, they include a note on the claim (field 19 of a paper claim or the electronic equivalent) that the drug was orally administered. Additional codes are reported for other services (eg, office visit) provided on the same date.</para>
+            <para>When using a dexamethasone product labeled for oral administration, report <emphasis role="bold">J8540</emphasis> with 1 unit per 0.25 mg (eg, 4 mg equals 16 units).</para>
+            <para>Refer to discussion of modifiers <emphasis role="bold">JW</emphasis> and <emphasis role="bold">JZ</emphasis> in Chapter 2 for information on reporting provision of medications supplied in single-dose containers.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Separate procedure codes, typically <emphasis role="italics">CPT</emphasis> codes, are used to report each medication administration by injection (<emphasis role="bold">96372</emphasis>) or infusion.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS codes for drugs specify the unit of measure for each unit reported on the claim (eg, 250 mg of ceftriaxone sodium is reported with 1 unit on the claim line reporting provision of the medication).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Units reported with HCPCS codes often vary from those reported with a corresponding National Drug Code (NDC). Refer to the National Drug Code section later in this chapter for information on reporting units of service in conjunction with NDC reporting.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A physician administers 1,250 mg of ceftriaxone sodium by 2 separate injections. Code <emphasis role="bold">J0696</emphasis> (injection, ceftriaxone sodium, per 250 mg) is reported with 5 units in addition to <emphasis role="bold">96372</emphasis> × 2 (therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular). Additional codes may be reported for E/M and other services provided at the encounter.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Do not report the number of milligrams (mg) as the unit of service on a claim. Reporting 1,250 mg of ceftriaxone sodium with 1,250 units would be incorrect; 1,250 mg of ceftriaxone sodium is reported per 250 mg with 5 units. Refer to the National Drug Codes section later in this chapter for additional codes submitted in conjunction with medications and immunization products.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0003s0005s0003">
+      <title>Current Procedural Terminology</title>
+      <para>
+         <emphasis role="italics">CPT</emphasis> is published annually by the American Medical Association (AMA). <emphasis role="italics">CPT</emphasis> codes are Level I codes of HCPCS but are commonly treated as a separate code set. This is the primary procedural coding system for professional services by physicians and other QHPs. <emphasis role="italics">CPT</emphasis> codes are commonly included in electronic health record (EHR) systems, but instructions for reporting may not be included. <emphasis role="italics">CPT</emphasis> manuals and code applications or software provide important instructions for appropriate code selection.</para>
+      <para>
+         <emphasis role="italics">CPT</emphasis> includes 3 categories of codes.</para>
+      <para>Category I <emphasis role="italics">CPT</emphasis> codes (commonly performed services and procedures with documented clinical efficacy) are divided into 6 sections of codes.</para>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>Evaluation and Management Services (<emphasis role="bold">98000–98016, 99202–99499</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Anesthesia (<emphasis role="bold">00100–01999</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Surgery (<emphasis role="bold">10004–66990</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Radiology (<emphasis role="bold">70010–79999</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Pathology and Laboratory (<emphasis role="bold">80047–89398, 0001U–0438U</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Medicine (<emphasis role="bold">90281–99607</emphasis>)</para>
+         </listitem>
+      </orderedlist>
+      <para>Category II <emphasis role="italics">CPT</emphasis> codes (supplemental tracking used for performance measurement) are reported on a voluntary basis, in addition to Category I codes, to describe clinical conditions, performance measure sets, and screening measures. Category II <emphasis role="italics">CPT</emphasis> codes are not directly tied to payment for services.</para>
+      <blockquote>
+         <para>Refer to <emphasis role="bold">Chapter 3</emphasis> for more discussion and illustration of Category II codes.</para>
+      </blockquote>
+      <para>Category III <emphasis role="italics">CPT</emphasis> codes represent emerging technology, services, procedures, and service paradigms. Category III <emphasis role="italics">CPT</emphasis> codes are not assigned RVUs, and payment for these services is based strictly on payer policies. If you are performing any procedure or service identified with a Category III <emphasis role="italics">CPT</emphasis> code, work with your payers to determine their coverage and payment policies.</para>
+      <para>The AMA hosts a website devoted to <emphasis role="italics">CPT</emphasis>, www.ama-assn.org/practice-management/cpt, with information on code development and maintenance, summaries of recent <emphasis role="italics">CPT</emphasis> Editorial Panel actions, and newly released codes.</para>
+      <sect3 id="ch0003s0005s30007">
+         <title/>
+         <sect4 id="ch0003s0005s0003s01s01">
+            <title>Current Procedural Terminology Code Updates</title>
+            <para>
+               <emphasis role="bold">Although most <emphasis role="italics">CPT</emphasis> code updates are annual with implementation on January 1 of each year, certain codes are updated more frequently and published online ahead of implementation as follows. Refer to Table 1-1 for the frequency of updates to <emphasis role="italics">CPT</emphasis> codes.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Newly released immunization codes</emphasis> are posted to www.ama-assn.org/practice-management/cpt/category-i-immunization-codes.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Proprietary laboratory analyses codes</emphasis> are released quarterly at www.ama-assn.org/practice-management/cpt/cpt-pla-codes.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">New molecular pathology tier 2 codes</emphasis> (www.ama-assn.org/practice-management/cpt/molecular-pathology-tier-2-codes) <emphasis role="bold">and codes for administrative multianalyte assays with algorithmic analyses</emphasis> (www.ama-assn.org/practice-management/cpt/administrative-multianalyte-assays-algorithmic-analyses-codes) <emphasis role="bold">are updated 3 times per year.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Category II <emphasis role="italics">CPT</emphasis> codes (supplemental tracking used for performance measurement)</emphasis> are released online up to 3 times a year at www.ama-assn.org/practice-management/cpt/category-ii-codes.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Category III codes, released biannually with an implementation date 6 months after the release date, are found at</emphasis> www.ama-assn.org/practice-management/cpt/category-iii-codes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0003s0005s0003s01s02">
+            <title>CPT® Guidelines Applicable to All Services</title>
+            <para>Correct coding is critical to obtain correct claims payment. Always read the applicable guidelines and instructions before selecting a code.</para>
+            <para>The following general guidelines apply to selecting and reporting all <emphasis role="italics">CPT</emphasis> codes:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> guidelines do not establish documentation requirements or standards of care.</para>
+               </listitem>
+               <listitem>
+                  <para>Inthe <emphasis role="italics">CPT</emphasis> code set, the term <emphasis role="italics">procedure</emphasis> describes services, including diagnostic tests. The section of the book in which a code is placed does not indicate whether the service is a surgery or not a surgery for insurance or other purposes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

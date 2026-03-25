@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0020s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0020s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>20</chapternumber>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>16. Noncritical Hospital Evaluation and Management Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Noncritical Hospital Evaluation and Management Services</title>
+   
+   <itemizedlist>
+      <listitem>
+         <para>Guidelines and descriptors for codes used to report services provided in hospital inpatient and observation settings other than normal newborn, intensive, or critical care services</para>
+      </listitem>
+      <listitem>
+         <para>How 2 of 3 elements of medical decision-making (MDM) are used to select a level of MDM</para>
+      </listitem>
+      <listitem>
+         <para>Code selection based on time including continuous time crossing midnight and prolonged service</para>
+      </listitem>
+      <listitem>
+         <para>Guidelines for reporting split or shared visits</para>
+      </listitem>
+      <listitem>
+         <para>Selecting the appropriate category of hospital evaluation and management (E/M) services</para>
+      </listitem>
+      <listitem>
+         <para>Codes for reporting face-to-face consultations and interprofessional consultations through internet, telephone, or electronic health record (EHR)</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0020s0002s0001">
+      <title>Coding for Noncritical Hospital Evaluation and Management Services</title>
+      <para>This chapter discusses codes and guidelines for all E/M services that are provided in a hospital inpatient or observation setting except normal newborn, intensive care, and critical care services. (Refer to <emphasis role="bold">Chapter 15</emphasis> for hospital care of the newborn and <emphasis role="bold">Chapter 17</emphasis> for discussion of critical care services.) Hospital inpatient or observation care codes are used to report partial hospitalization services in addition to inpatient and observation services.</para>
+      <para>Codes for reporting hospital inpatient and observation services (other than consultations reported with <emphasis role="bold">99252–99255</emphasis>) are shown in <emphasis role="bold">Table 16-1</emphasis>. For separate discussion of consultation codes, refer to the Inpatient and Observation Consultations section and <emphasis role="bold">Table 16-7</emphasis> in this chapter.</para>
+      <para>Refer to the American Academy of Pediatrics (AAP) <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026).</para>
+      <para>Refer to <emphasis role="bold">Chapter 6</emphasis> for E/M guidelines for selecting a level of MDM and determining total time and <emphasis role="bold">Chapter 1</emphasis> for specific documentation requirements. Refer to <emphasis role="bold">Chapter 1</emphasis> for guidelines for reporting hospital services provided in part by a resident.</para>
+      <para>Although E/M codes for hospital inpatient and observation care are combined, admission orders should distinctly designate the patient's admission status, as this may be important for payer coverage and payment rates. Because observation care is considered an outpatient encounter, when a patient transitions from observation to inpatient status, an order for inpatient admission should be clearly documented in the patient record.</para>
+      <para>Except for same-date admission and discharge services, <emphasis role="italics">Current Procedural Terminology (CPT)</emphasis> does not limit reporting of hospital inpatient or observation care codes to the admitting physician. But some payer policies may require submission of outpatient E/M services for services provided to patients in observation status when provided by any physician or qualified health care professional (QHP) other than the admitting physician(s) or QHPs of the same specialty and same group practice.</para>
+      <table frame="all" id="ch0020s0002ta0001">
+         <title>Coding for Noncritical Hospital Evaluation and Management Services</title>
+         <tgroup cols="4">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <thead>
+               <row>
+                  <entry>Category of Service</entry>
+                  <entry>Straightforward or Low MDM</entry>
+                  <entry>Moderate MDM</entry>
+                  <entry>High MDM</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Admit/discharge on the same date</entry>
+                  <entry>99234Total time: ≥45 min</entry>
+                  <entry>99235Total time: ≥70 min</entry>
+                  <entry>99236Total time: ≥85 min</entry>
+               </row>
+               <row>
+                  <entry>Initial inpatient or observation care</entry>
+                  <entry>99221Total time: ≥40 min</entry>
+                  <entry>99222Total time: ≥55 min</entry>
+                  <entry>99223Total time: ≥75 min</entry>
+               </row>
+               <row>
+                  <entry>Subsequent inpatient or observation care</entry>
+                  <entry>99231Total time: ≥25 min</entry>
+                  <entry>99232Total time: ≥35 min</entry>
+                  <entry>99233Total time: ≥50 min</entry>
+               </row>
+               <row>
+                  <entry>Inpatient or observation discharge management</entry>
+                  <entry>99238 ≤30 min99239 &gt;30 min</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>All levels of initial and subsequent hospital or observation care include a medically appropriate history and/or examination, but neither is a component of code selection.</para>
+      <para>Abbreviation: MDM, medical decision-making.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0020s0002s0002">
+      <title>Guidelines for Inpatient and Observation Services</title>
+      <para>Professional services are the face-to-face services, including telemedicine services, rendered by physicians and other QHPs who may report E/M services.</para>
+      <para>Following are basic guidelines for reporting hospital inpatient or observation E/M services with the codes in <emphasis role="bold">Table 16-1</emphasis>:</para>
+      <itemizedlist>
+         <listitem>
+            <para>There are no distinctions between new and established patients. But most codes differentiate initial from subsequent hospital or observation care.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Report an initial hospital or observation service when the patient has not received any professional services from the reporting physician or QHP or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice (ie, has the same tax ID number or group National Provider Identifier [NPI]) during the current admission and stay.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Report a subsequent hospital or observation service when the patient has received professional service(s) from the physician or QHP or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice, on a prior date during the current admission and stay.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>When physicians and QHPs are working together, they are considered to be in the same specialty and subspecialty (eg, endocrinology, hospital medicine).</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>A physician or QHP who is covering for another physician or QHP reports a service as if provided by the physician or QHP who is unavailable.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>A hospital stay that includes a transition between observation and inpatient is considered a single stay.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>Hospital inpatient and observation services are reported for face-to-face services, including services via telemedicine. A physician's initial hospital E/M service may occur on a date after the hospital's admission date (eg, the day after either admission orders are provided via telephone or initial care is provided by a resident without teaching physician supervision).</para>
+      <para>
+         <emphasis role="bold">▶</emphasis> A neonate was born by cesarean delivery on Monday and received normal newborn care from Dr Parker of Pediatric Hospitalists, Inc, on Monday. On Tuesday, the neonate is evaluated by Dr Drake (also an employee of Pediatric Hospitalists, Inc, and of the same exact specialty and subspecialty as Dr Parker) and found to have developed hyperbilirubinemia requiring initiation of phototherapy. Dr Drake's service includes clinically indicated history and examination with moderate MDM. The diagnosis is jaundice caused by ABO incompatibility.</para>
+      <table frame="all" id="ch0020s0002ta0002">
+         <title>Guidelines for Inpatient and Observation Services</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Z38.01 (single liveborn infant, delivered by cesarean)P55.1 (ABO isoimmunization of newborn)</entry>
+                  <entry>99232 (subsequent hospital inpatient or observation with moderate MDM)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <emphasis role="bold">▶</emphasis> An adolescent was admitted late on Monday and received initial hospital care from Dr Ahmad of Pediatric Hospitalists, Inc, on that day. On Tuesday, Dr Ahmad requests that a neurologist evaluate the patient for a possible neurological condition. To this point, neither the neurologist nor any other physician or QHP of the same specialty and same group practice has provided a professional service to the patient during this stay.</para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Dr Ahmad reports an initial hospital E/M service (<emphasis role="bold">99221–99223</emphasis>) for the services on Monday and subsequent hospital care (<emphasis role="bold">99231–99233</emphasis>) for the services on Tuesday.</para>
+         </listitem>
+         <listitem>
+            <para>The neurologist's service is an initial service. If all requirements for reporting a consultation are met, a hospital consultation (<emphasis role="bold">99252–99255</emphasis>) is reported. If, however, the service does not meet the requirements of a consultation or the payer does not pay for services reported with consultation codes, the neurologist reports initial hospital services (<emphasis role="bold">99221–99223</emphasis>). Refer to the Medicare Consultation Guidelines section later in this chapter for further discussion of reporting to payers that do not allow payment for consultation codes.</para>
+         </listitem>
+         <listitem>
+            <para>Codes are reported according to the cumulative inpatient or observation services (<emphasis role="italics">MDM or total time on the date of service [DOS]</emphasis>) provided by one or more physicians or QHPs</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Of the same exact specialty — With the same tax ID number (or group NPI)</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">On a single calendar date</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Services may be performed and reported by any physician of any specialty (eg, hospitalist, primary care physician, specialist) or QHPs.</para>
+         </listitem>
+         <listitem>
+            <para>Any professional service (eg, procedure, interpretation and report) with a <emphasis role="italics">CPT</emphasis> code may be reported separately when performed by the reporting provider or group and documented.</para>
+         </listitem>
+         <listitem>
+            <para>Do not include the time spent performing separately reported procedures in the time of the E/M service.</para>
+         </listitem>
+         <listitem>
+            <para>E/M services may be provided by the same physician or QHP in an outpatient (eg, office, emergency department [ED]) or other facility (eg, nursing facility) setting before admission to observation or inpatient status on the same date. <emphasis role="italics">CPT</emphasis> guidelines instruct that these services <emphasis role="italics">be separately reported</emphasis> with modifier 25 appended to the E/M code for the initial encounter on that date. Individual payer policies for more than one E/M service provided on the same date may vary.</para>
+         </listitem>
+         <listitem>
+            <para>Refer to the "Multiple Sites of Evaluation and Management Services" box later in this chapter for further discussion of this topic.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶<emphasis role="bold">A physician provides an office E/M service for a 4-year-old in an office setting and determines that hospital admission is indicated for treatment and further evaluation of dehydration associated with fever, vomiting, and diarrhea for 3 days and a rash that first appeared on the date of the visit. Later that day, a QHP who is of the exact same specialty and same group practice visits the patient and provides initial hospital care.</emphasis>
+         <emphasis role="bold">Teaching Point:</emphasis> The physician should report the outpatient E/M service with modifier 25 appended to the appropriate E/M code (eg, <emphasis role="bold">99215 25</emphasis>) and the QHP reports an initial hospital inpatient or observation E/M service code (without a modifier or, when required, with modifier AI, principal physician of record).</para>
+      <itemizedlist>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>If only 1 service is reported (eg, to comply with payer policy), the combined total time on the date of the encounter or aggregate MDM determines the level of service reported with a single code by 1 individual. Refer to the Reporting Services Split or Shared by a Physician and a QHP section later in this chapter for guidance on determining which individual reports the combined services.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Multiple Sites of Evaluation and Management Services</emphasis> If after providing care to a patient in an encounter in another site of service (eg, ED, office, nursing facility), a physician or QHP (or individuals of the same specialty and same group practice) provides initial hospital or observation care on that same date, the code for the E/M service provided prior to admission is separately reported with modifier 25 (significant, separately identifiable E/M service) appended (eg, <emphasis role="bold">99215 25, 99223</emphasis>).</para>
+      <para>Note that some payer policies may not align with <emphasis role="italics">CPT</emphasis> guidance for reporting more than one E/M service on a single DOS. When a physician or QHP has provided care in another setting, including the ED, before providing inpatient or observation care on the same date <emphasis role="italics">and does not separately report each service</emphasis> (eg, to comply with payer policy), the code reported may be selected according to the total time on the date of the encounter or the aggregate MDM of the visits.</para>
+      <para>For separate discussion of consultations provided before admission to inpatient or observation status, refer to the Consultation Guidelines section later in this chapter.</para>
+   </sect2>
+   <sect2 id="ch0020s0002s0003">
+      <title>General E/M Code Selection Guidelines</title>
+      <para>As detailed in Chapter 6, any initial or subsequent hospital inpatient or observation care service code <emphasis role="italics">may be selected according to either MDM or total time</emphasis>. The reported code is determined through whichever method most benefits the reporting physician or QHP. The following sections provide some key points about using either MDM or total time on the DOS to select codes.</para>
+      <para>Refer also to the AAP publication <emphasis role="italics">Pediatric Evaluation and Management Coding Revisions: Facility and Office Services</emphasis> (www.aap.org/pediatric-evaluation-and-management-coding-revisions-facility-and-office-services-paperback) for code selection guidance.</para>
+      <sect3 id="ch0020s0002s30001">
+         <title/>
+         <sect4 id="ch0020s0002s0003s01s01">
+            <title>Medical Decision-Making</title>
+            <para>Code selection based on MDM always requires that 2 of 3 elements bemet at the level reported. As a reminder, the 3 elements of MDM are</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Number and complexity of <emphasis role="italics">problems addressed</emphasis> (problems addressed)</para>
+               </listitem>
+               <listitem>
+                  <para>Amount and/or complexity of <emphasis role="italics">data to be reviewed and analyzed</emphasis> (data)</para>
+               </listitem>
+               <listitem>
+                  <para>Risk of complications and/or morbidity or mortality of <emphasis role="italics">patient management</emphasis> (risk)</para>
+               </listitem>
+            </orderedlist>
+            <para>Do not select a code based on 1 element of MDM (eg, high risk alone does not support high MDM).</para>
+         </sect4>
+         <sect4 id="ch0020s0002s0003s01s02">
+            <title>Problems Addressed</title>
+            <para>For subsequent hospital inpatient and observation care services, the problem addressed is the problem status on the date of the encounter, which may significantly differ from that prompted by admission (eg, a physician addresses a new problem that manifested after admission, or a consultant is asked to evaluate a problem that was not the problem that prompted admission).</para>
+            <para>A problem is addressed or managed when evaluated or treated at the encounter by the reporting physician or QHP. Do not count problems that are not evaluated and/or do not affect MDM at the current encounter.</para>
+            <para>Determining the highest-complexity problem(s) addressed is key to selecting the number and complexity of problems addressed. Addressing multiple problems of the same complexity affects the level of problems addressed only when addressing 2 or more self-limited or minor problems or 2 or more stable chronic illnesses. Otherwise, multiple problems of the same complexity (eg, 2 acute, uncomplicated illnesses) do not affect the number and complexity of problems addressed.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis>
+               <emphasis role="bold">▶</emphasis> A patient is <emphasis role="bold">admitted with a diagnosis of type 1 diabetic ketoacidosis without coma (E10.10)</emphasis>.</para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">*High</emphasis>* (one or more chronic illnesses with severe exacerbation, progression, or side effects of treatment) On the next date, the patient's condition has improved, but they are receiving follow-up care for the uncontrolled (or new) diagnosis of type 1 diabetes with hyperglycemia <emphasis role="bold">(E10.65)</emphasis>.</para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">*Moderate</emphasis>* (one or more chronic illnesses with exacerbation, progression, or side effects of treatment) <emphasis role="bold">Teaching Point:</emphasis> The problem addressed is the problem status on the date of the encounter; at subsequent encounters, the problem addressed may significantly differ from that on admission. It is the problem being managed or commanded by the reporting physician or QHP, and not necessarily the cause of the admission or continued stay, that is to be coded on the encounter date.</para>
+            <para>
+               <emphasis role="bold">▶</emphasis> A patient with <emphasis role="bold">cerebral palsy was admitted as an inpatient for orthopedic surgery</emphasis> and, during the hospital stay, <emphasis role="bold">developed a urinary tract infection (UTI)</emphasis>. A hospitalist who has been managing the patient's conditions unrelated to the surgery provides a subsequent hospital inpatient or observation service to address the UTI.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The problem addressed by the hospitalist (UTI) was not the reason for the admission. The hospitalist's code selection, when based on MDM, will include selecting the number and complexity of the problem addressed (ie, the UTI and any other problems addressed at the encounter).</para>
+            <para>The underlying chronic condition, cerebral palsy, may influence the level of MDM when addressed and results in an increased amount and/or complexity of data to be reviewed and analyzed or an increased risk of complications and/or morbidity or mortality of patient management. An <emphasis role="italics">International Classification of Diseases, Tenth Revision, Clinical Modification</emphasis> (ICD-10-CM) diagnosis code for cerebral palsy will be reported in addition to the code for the UTI when the cerebral palsy influences MDM.</para>
+         </sect4>
+         <sect4 id="ch0020s0002s0003s01s03">
+            <title>Data</title>
+            <para>Following are important guidelines for determining the amount and/or complexity of data to be reviewed and analyzed:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The data counted toward the level of MDM are data that are analyzed (ie, used as part of the MDM) at the current encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Review of tests ordered by the same physician or QHP (or individuals covering for or of the same specialty and group practice) at a prior encounter are not counted toward the data analyzed at the current encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Each unique test is counted once toward the amount and/or complexity of data. Do not count both the order for and the review of the same unique test.</para>
+            <para>When a test with multiple components can be reported with a single code (eg, basic metabolic panel, complete blood cell count [CBC] with differential, or a test with a specific number of images), count the test once for the purpose of data to be reviewed and analyzed.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Any test for which the reporting individual or another individual of the same specialty and same group practice will separately report a code for interpretation and report is not counted toward the data analyzed at the encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>A test may contribute to both Category 1 (includes tests ordered) and Category 2 (independent interpretation of tests) of the amount and/or complexity of data to be reviewed and analyzed when a physician or QHP orders and performs independent interpretation of the test. When the physician or QHP separately reports interpretation and report, the service does not contribute to the amount and/or complexity of data to be reviewed and analyzed.</para>
+            <para>▶ A cardiologist who provides subsequent hospital care to a patient also reports the interpretation and report of an electrocardiogram.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Teaching Point: The cardiologist does not include the order for or review of the electrocardiogram in the amount and/or complexity of data to be reviewed and analyzed because the interpretation and report of test results are separately reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A physician independently views and documents an informal interpretation of an image or tracing for which a formal interpretation and report will be provided by a subspecialist.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Teaching Point: The physician's independent interpretation, used in MDM of an E/M visit but not separately reported, is included in the amount and/or complexity of data to be reviewed and analyzed when determining a level of MDM.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

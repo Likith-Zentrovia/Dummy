@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0007s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0007s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0007s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0007s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>7</chapternumber>
+         <chapterid>ch0007</chapterid>
+         <chaptertitle>5. Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Steps to Developing a Compliance Program</title>
+   <para>The CMS has described the steps to create an effective compliance and ethics program. A key aspect is that the organization exercises due diligence to prevent and detect criminal conduct and promotes a culture that encourages ethical conduct and a commitment to compliance with the law. Small practices may structure their compliance program to encompass the 7 elements of a compliance program within the constraints under which the practice operates (eg, use a template developed by an external source to create policies and procedures).</para>
+   <para>The CMS specifies that in creating the compliance program, the practice</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Develop and then distribute and/or notify staff of digital access to written policies, procedures, and standards of conduct to prevent and detect inappropriate behavior. (Physicians and QHPs working within hospital or health care systems should know whom to contact regarding compliance concerns.)</para>
+      </listitem>
+   </orderedlist>
+   <para>The HHS OIG <emphasis role="italics">General Compliance Program Guidance</emphasis> as of November 2023 (https://oig.hhs.gov/compliance/general-compliance-program-guidance/) includes a code of conduct as an element of the compliance program. The code of conduct is described as a tool that communicates the organization's mission, goals, and ethical requirements central to its operations and that governs the conduct of its officers, employees, contractors, medical staff, and others who work with or on behalf of the organization.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Designate a chief compliance officer and other appropriate bodies (eg, a corporate compliance committee) charged with the responsibility of operating and monitoring the compliance program and reporting directly to high-level personnel and the governing body. (A small practice may appoint a compliance contact to work under the practice owner's supervision.)</para>
+      </listitem>
+      <listitem>
+         <para>Use reasonable efforts to not include any individual in the substantial authority personnel whom the organization knew, or should have known, had engaged inillegal activities or other conduct inconsistent with an effective compliance and ethics program.</para>
+      </listitem>
+      <listitem>
+         <para>Develop and implement regular, effective education and training programs for (a) the governing body; (b) all employees, including high-level personnel and; as appropriate, (c) the organization's agents. (Compliance training resources from reliable sources, such as state medical societies, may be used in lieu of those developed by a practice.)</para>
+      </listitem>
+      <listitem>
+         <para>Maintain a process, such as a hotline, to receive complaints and adopt procedures to protect the anonymity of complainants and protect whistleblowers from retaliation. (In a small practice, a hotline could be replaced with an "anonymous complaint box.")</para>
+      </listitem>
+      <listitem>
+         <para>Develop a system to respond to allegations of improper conduct and enforce appropriate disciplinary action against employees who have violated internal compliance policies, applicable statutes, regulations, or federal health care program requirements.</para>
+      </listitem>
+      <listitem>
+         <para>Use audits and/or other evaluation techniques to monitor compliance and assist in the reduction of identified problem areas.</para>
+      </listitem>
+      <listitem>
+         <para>Investigate and remediate identified systemic problems, including making any necessary modifications to the organization's compliance and ethics program.</para>
+      </listitem>
+   </orderedlist>
+   <sect2 id="ch0007s0004s20002">
+      <title/>
+      <sect3 id="ch0007s0004s30004">
+         <title/>
+         <sect4 id="ch0007s0004s0001s01s01">
+            <title>Written Policies and Procedures</title>
+            <para>A compliance program should include the practice's written compliance standards, policies, and procedures. The standards and policies should specifically describe the lines of responsibility for implementing the compliance program.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Standards, policies, and procedures should reduce the likelihood of fraudulent activity while helping identify any incorrect billing practices.</para>
+               </listitem>
+               <listitem>
+                  <para>Small practices may use policy and procedure templates and training resources from other entities, such as consultants or professional organizations. Such resources should beedited to address the practice's identified compliance concerns and support documentation and billing in compliance with current standards (eg, current telemedicine coding guidance).</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="bold">Standard:</emphasis> It is a standard of XYZ Pediatrics to conduct business with vendors and/or referral sources in an ethical manner, avoiding any activity that may be perceived as anintention to influence or potentially influence purchasing, prescribing, or referral activities through gifts or business courtesies.</para>
+            <para>
+               <emphasis role="bold">Policy:</emphasis> XYZ Pediatrics never accepts gifts from vendors, physicians, or other referral sources in exchange for patient referrals or any other businesses. Gifts of nominal value (eg, notepads), as described in the definitions section of this policy statement, may be accepted with manager/administrator approval. The administrator maintains a record of all accepted gifts.</para>
+            <para>
+               <emphasis role="bold">Procedure:</emphasis> XYZ Pediatrics personnel shall request approval from their manager/administrator before accepting any gifts or business courtesies offered to them from business vendors and other external organizations/individuals.</para>
+            <para>▶<emphasis role="bold">Standard:</emphasis> XYZ Pediatrics will maintain current and accurate health records for all patients with sufficient detail and accuracy to inform future health care needs of each patient and to support accurate code assignment and billing for services provided.</para>
+            <para>
+               <emphasis role="bold">Policy:</emphasis> XYZ Pediatrics requires each clinician to accurately and completely document patient health communications and services.</para>
+            <para>
+               <emphasis role="bold">Procedure:</emphasis> XYZ Pediatrics personnel will complete documentation training prior to providing services to our patients and may be required to complete additional training, as indicated by changes in electronic health record (EHR) functionality, addition of new services, or changes in regulations.</para>
+            <para>
+               <emphasis role="bold">Procedure:</emphasis> XYZ Pediatrics personnel will accurately document and attest to the accuracy and completeness of each entry in a patient's health record in a timely manner upon completion of services or within the state-mandated 72 hours after provision of services).</para>
+            <para>
+               <emphasis role="italics">Note: Actual policies may vary depending on any state regulations for timeliness of physician documentation.</emphasis>
+               <emphasis role="bold">Procedure:</emphasis> XYZ Pediatrics will conduct reviews of documentation practices to determine the accuracy, completeness, and timing of documentation completion for services provided to individual patients. Any findings not consistent with practice standards and policy will result in corrective action.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Policies and procedures should be updated periodically to address newly identified areas of risk, new regulations, or process changes in the practice.</para>
+               </listitem>
+               <listitem>
+                  <para>All staff should receive periodic education on policies and procedures to maintain up-to-date knowledge.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0007s0004s0001s01s02">
+            <title>Designate a Compliance Officer or Compliance Contact</title>
+            <para>The practice should designate an individual responsible for overseeing the compliance program. More than one employee may be designated with the responsibility of compliance monitoring, or a practice may outsource all or part of the functions of a compliance officer to a third party. Not all practices can support the designation of a compliance officer. For more on this topic, refer to the Compliance Contact Alternative for Small Practices section that follows.</para>
+            <para>Attributes and qualifications of a compliance officer include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Independent position to protect against any conflicts of interest between "regular" position responsibilities and compliance officer duties</para>
+               </listitem>
+               <listitem>
+                  <para>Experience inleadership and stature to interact as an equal with senior leaders of the entity</para>
+               </listitem>
+               <listitem>
+                  <para>Effective communication skills (oral and written) with employees, physicians, and carriers</para>
+               </listitem>
+               <listitem>
+                  <para>Demonstrated integrity, good judgment, assertiveness, anapproachable demeanor, and the ability to elicit the respect and trust of employees</para>
+               </listitem>
+            </itemizedlist>
+            <para>In large practices, the compliance officer must have sufficient funding to staff and operate the compliance program with capabilities of identifying, preventing, mitigating, and remediating the entity's compliance risk.</para>
+            <para>The primary responsibilities of a compliance officer include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Overseeing and monitoring the implementation of the compliance program.</para>
+               </listitem>
+               <listitem>
+                  <para>Establishing methods, such as periodic audits, to improve the practice's efficiency and quality of services and reduce the practice's vulnerability to fraud and abuse.</para>
+               </listitem>
+               <listitem>
+                  <para>Revising the compliance program in response to changes in the needs of the practice or changes in the law and in the policies and procedures of government and private payer health plans.</para>
+               </listitem>
+               <listitem>
+                  <para>Developing, coordinating, and participating in a training program that focuses on the elements of the compliance program and seeks to ensure that training materials are appropriate.</para>
+               </listitem>
+               <listitem>
+                  <para>Coordinating or personally checking the HHS OIG Excluded Individuals and Entities List (https://exclusions.oig.hhs.gov) and the federal System for Award Management (https://sam.gov/content/exclusions) to ascertain that any potential new hires, current employees, medical staff, or independent contractors are not listed; advising management of findings; and seeing that appropriate action is taken as described in the compliance program.</para>
+               </listitem>
+               <listitem>
+                  <para>Informing employees and physicians of pertinent federal and state statutes, regulations, and standards and monitoring their compliance.</para>
+               </listitem>
+               <listitem>
+                  <para>Investigating any report or allegation concerning suspected unethical or improper business practices and monitoring subsequent corrective action, compliance, or both.</para>
+               </listitem>
+               <listitem>
+                  <para>Assessing the practice's situation and determining what best suits the practice for compliance oversight.</para>
+               </listitem>
+               <listitem>
+                  <para>Maintaining records of compliance-related activities, including meetings, educational activities, and internal audits. Particular attention should be given to documenting violations found by the compliance program and documenting the remedial actions.</para>
+               </listitem>
+            </itemizedlist>
+            <para>In large practices, the compliance officer may advise a board or senior leadership on compliance risks related to strategic and operational decisions.</para>
+         </sect4>
+         <sect4 id="ch0007s0004s0001s01s03">
+            <title>Compliance Contact Alternative for Small Practices</title>
+            <para>The HHS OIG includes advice for small practices that cannot support a full- or part-time compliance officer that allows the option of designating one person as the practice's compliance contact. The compliance contact will be responsible for ensuring that the practice's compliance activities (eg, documenting a compliance plan and conducting medical record reviews) are completed. The compliance contact will report at least quarterly to the practice owner(s) or administrator regarding the status of the practice's compliance activities. The owner remains ultimately responsible for the practice's compliance with health care regulations.</para>
+            <para>The compliance contact might also betasked with either identifying potential risks associated with practice decisions such as purchase of equipment to perform a new service within the practice or adding a new type of health care professional to the practice's clinical staff.</para>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">Practice XYZ's front office manager, who is also the practice's compliance contact, finds a concern regarding potential improper documentation practices in the Practice XYZ compliance box.</emphasis> The concern is that a physician has instructed billing office staff to report all services to established patients under the physician's name and ID number, even services provided by the practice's nurse practitioner. The front office manager reviews the practice's policy for addressing billing concerns and directs a question regarding the appropriateness of the physician's billing instruction to the American Academy of Pediatrics (AAP) Coding and Payment Hotline. After receiving a response from AAP coding staff, the manager determines that the physician's instruction to the billing office could put the practice at risk of billing inappropriately when the service does not meet incident-to billing policy that allows a physician to report services provided by another NPP working under the physician's direct supervision and incontinuance of an ongoing plan of care. The manager meets with the physician to confirm that the billing staff correctly understood the physician's instruction and informs the physician of the AAP Coding and Payment Hotline's advice. The physician agrees to review Chapter 7 of <emphasis role="italics">Coding for Pediatrics</emphasis> to learn more about incident-to services and correct the instructions provided to billing office staff. The discussion is documented.</para>
+            <para>The front office manager also meets with the billing office manager to discuss the complaint, findings, and proposed resolution. The billing office manager advises that bills for recent services by the nurse practitioner will require review for billing compliance and possibly submission of corrected claims. The front office manager asks for a report of the results of the review and notification of any ongoing concern that may require additional corrective action.</para>
+            <para>▶<emphasis role="bold">Practice XYZ's owner physicians are considering addition of a new medical device to screen patients for a particular condition.</emphasis> The salesperson for the product provided information on how the service is performed by clinical staff. The salesperson states that after brief training, the service can be reported with a code that promises significant revenue and quick return on investment. The owners approach the clinical staff team lead, who is also the practice's compliance contact, to inquire what compliance risks might be associated with adding this service.</para>
+            <para>The compliance contact reviews the product information, which includes secure transfer of patient data to anoff-site facility for test interpretation and references the practice's HIPAA policy manual regarding potential privacy and security concerns and the need for a business associates' agreement with the off-site facility. The compliance contact also discusses the new service with the billing and coding manager and learns first that the proposed code is not appropriate (because it describes the physician work of interpreting and reporting test results, not to be provided by the practice) and second that an unspecified code would be indicated for the new service, with coverage and payment determined by individual payer policy. The compliance contact provides the information to the owners for use in their decision-making regarding the new service.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

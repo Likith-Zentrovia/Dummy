@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0007">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0006</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0007</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0008</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CPT</title>
+   <para>
+      <emphasis role="bold">99244</emphasis> is supported by the time exceeding 40 minutes but not reaching the 55 minutes required for <emphasis role="bold">99245</emphasis>.</para>
+   <para>★<emphasis role="bold">99245</emphasis> Office or other outpatient consultation for a new or established patient, which requires a medically appropriate history and/or examination and high level of medical decision making.</para>
+   <para>When using total time on the date of the encounter for code selection, 55 minutes must bemet or exceeded.</para>
+   <para>(For services ≥70 minutes, use prolonged services code <emphasis role="bold">99417</emphasis>, discussed in the Prolonged Outpatient E/M Service, Physician or Other Qualified Health Care Professional section later in this chapter.)</para>
+   <para>
+      <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A neurologist is consulted by a primary care pediatrician to evaluate a patient who has Down syndrome and tingling of the hands possibly caused by cervical atlantoaxial instability and is requesting clearance to participate in the Special Olympics.</emphasis> The neurologist reviews the patient's history provided by the referring physician. Additional history is provided by the patient's parents, who state that the patient sometimes describes her hands as "tingling" after sleeping or playing a game or a tablet. Following examination of the patient, the neurologist orders radiography of the patient's cervical spine. Later that day, after receiving the radiologist's interpretation of the cervical spine radiographs, the neurologist views the images and then contacts the primary care pediatrician to discuss that there is no evidence of atlantoaxial instability on radiography and, after discussion, recommends clearing the child for participation. The neurologist's total time on the date of the encounter is 65 minutes.</para>
+   <para>
+      <emphasis role="bold">Problem(s) addressed</emphasis> ⟹ <emphasis role="bold">Moderate</emphasis> (1 undiagnosed new problem with uncertain prognosis) <emphasis role="bold">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="bold">High</emphasis> (independent interpretation of tests and discussion of management)</para>
+   <para>
+      <emphasis role="bold">Risk of patient management</emphasis> ⟹ <emphasis role="bold">Low to moderate</emphasis> (decision for participation) <emphasis role="bold">Z03.89</emphasis> (encounter for observation for other suspected diseases and conditions ruled out)</para>
+   <para>
+      <emphasis role="bold">R20.2</emphasis> (paresthesia of skin)</para>
+   <para>
+      <emphasis role="bold">Q90.2</emphasis> (trisomy 21, translocation)</para>
+</sect1>

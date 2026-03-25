@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0016s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0016s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0016s0004</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>16</chapternumber>
+         <chapterid>ch0016</chapterid>
+         <chaptertitle>13. Surgery, Infusion, and Sedation in the Outpatient Setting</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Nervous System</title>
+   <sect2 id="ch0016s0004s20002">
+      <title/>
+      <sect3 id="ch0016s0004s30011">
+         <title/>
+         <sect4 id="ch0016s0004s0001s01s01">
+            <title>Neurostimulators (Peripheral Nerve)</title>
+            <para>
+               <emphasis role="bold">New in 2026!</emphasis> Code <emphasis role="bold">64567</emphasis> replaces temporary code <emphasis role="bold">0270T</emphasis> for reporting noninvasive cranial nerve field stimulation.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">64567</emphasis> Percutaneous electrical nerve field stimulation, cranial nerves, without implantation Code <emphasis role="bold">64567</emphasis> is reported for percutaneous periauricular placement of a non-implanted electrical nerve field stimulator. The nerve field stimulation may be a covered service when provided for treatment of functional abdominal disorders in older children and adolescents.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>As with any new code, verification of coverage and fee schedule amounts prior to provision of services is recommended. Prior authorization and submission of records demonstrating failure of other treatment options (eg, diet modification, probiotics, medications) may be required.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0004s0002">
+      <title>Contraception</title>
+      <para>This section discusses codes for reporting contraceptive procedures such as injection, insertion, or implant of a contraceptive product. For discussion of codes for reporting contraceptive counseling, refer to the Preventive Medicine E/M for Contraceptive Counseling section in <emphasis role="bold">Chapter 8</emphasis>.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Diagnosis codes in category <emphasis role="bold">Z30</emphasis> for contraceptive counseling or surveillance should be linked to the procedure code for contraceptive services. Refer to "Contraception: Diagnosis Codes for Counseling, Initiation, and Surveillance by Method" at www.aap.org/cfp2026.</para>
+         </listitem>
+         <listitem>
+            <para>Refer to diagnosis codes in category <emphasis role="bold">T83</emphasis> for services to address complications associated with a contraceptive device and implant (eg, hemorrhage, pain, displacement, malposition). Codes for symptoms addressed (eg, <emphasis role="bold">N64.4</emphasis>, mastodynia) should be reported, when applicable.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Medication and supplies are separately reported when purchased by the practice. Examples include</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Etonogestrel (contraceptive) implant system, including implant and supplies (<emphasis role="bold">J7307</emphasis>) — Injection, medroxyprogesterone acetate, per 1 mg (<emphasis role="bold">J1050</emphasis>)</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Intrauterine device (IUD) (<emphasis role="bold">J7296–J7298, J7300–J7301</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>When reporting supply of medications, including a contraceptive implant system, include the National Drug Code (NDC) and appropriate NDC units for the product supplied.</para>
+         </listitem>
+         <listitem>
+            <para>Append modifier <emphasis role="bold">25</emphasis> to an E/M code when reporting an injection (<emphasis role="bold">96372</emphasis>) or other contraceptive procedure on the same date.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>As with other procedures, codes for contraceptive services include typical preservice work. When patient was previously counseled and now presents for the procedure without an indication for counseling or other E/M service, report only the procedure and supply.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Separately report an E/M code only when a preventive medicine service or a significant problem-oriented E/M service is provided and documented. Link the appropriate diagnosis code for the preventive service or problem addressed to the E/M code.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0016s0004s30012">
+         <title/>
+         <sect4 id="ch0016s0004s0002s01s01">
+            <title>Injectable Contraceptive</title>
+            <para>When a contraceptive is administered by injection, <emphasis role="bold">96372</emphasis> (subcutaneous or intramuscular injection) is reported in addition to the appropriate code for the medication (eg, <emphasis role="bold">J1050</emphasis>), an 11-digit NDC, and NDC units (eg, 1 unit per mL).</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0002s01s02">
+            <title>Long-Acting Reversible Contraception</title>
+            <para>Long-acting reversible contraception procedures include insertion, removal, or removal with reinsertion of an implantable subdermal contraceptive (<emphasis role="bold">11981–11983</emphasis>) or an IUD (<emphasis role="bold">58300–58301</emphasis>). Codes and 2025 total non-facility RVUs include <emphasis role="bold">11981</emphasis>    Insertion, drug-delivery implant (ie, bioresorbable, biodegradable, nonbiodegradable) (3.03 RVUs)</para>
+            <para>
+               <emphasis role="bold">11982</emphasis>    Removal, nonbiodegradable drug delivery implant (3.31 RVUs) <emphasis role="bold">11983</emphasis>    Removal with reinsertion, nonbiodegradable drug delivery implant (4.25 RVUs)</para>
+            <para>
+               <emphasis role="bold">58300</emphasis>    Insertion of IUD (3.25 RVUs)</para>
+            <para>
+               <emphasis role="bold">58301</emphasis>    Removal of IUD (3.28 RVUs) For a coding quick reference, refer to "Contraception: Codes for Services Related to Long-Acting Reversible Contraceptives" at www.aap.org/cfp2026.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A single code, <emphasis role="bold">11983</emphasis>, is reported for a procedure to remove and replace an implantable subdermal contraceptive when performed on the same date.</para>
+               </listitem>
+               <listitem>
+                  <para>Include a code for the implantable subdermal contraceptive (<emphasis role="bold">J7307</emphasis>) or IUD product (<emphasis role="bold">J7296–J7298, J7300–J7301</emphasis>) in addition to the code for an insertion or removal and reinsertion.</para>
+               </listitem>
+               <listitem>
+                  <para>Report both <emphasis role="bold">58300</emphasis> and <emphasis role="bold">58301</emphasis>, removal and reinsertion of an IUD at the same encounter.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Be aware of payer policies when insertion and removal of an IUD take place on the same date. Some payers will allow payment for only 1 service despite the absence of NCCI code edits for IUD insertion (<emphasis role="bold">58300</emphasis>) and IUD removal (<emphasis role="bold">58301</emphasis>).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>When a payer bundles same-date IUD insertion and removal, it may beadvantageous to report first the higher-valued procedure. IUD removal (<emphasis role="bold">58301</emphasis>) was assigned 3.28 total non-facility RVUs in 2025, whereas IUD insertion (<emphasis role="bold">58300</emphasis>) was assigned 3.25 total non-facility RVUs.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Clinically indicated ultrasonography services are separately reported. Although not commonly required, report limited pelvic ultrasonography (<emphasis role="bold">76857</emphasis>) or transvaginal ultrasonography (<emphasis role="bold">76830</emphasis>) to confirm placement following a difficult IUD insertion.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0004s0003">
+      <title>Hydration, Injections, and Infusions</title>
+      <para>Services included as inherent to an infusion or injection are the use of local anesthetic, starting the intravenous (IV) catheter, access to indwelling IV catheters or a subcutaneous catheter or port, flushing catheters at the conclusion of an infusion or between infusions, standard tubing, syringes and supplies, and preparation of chemotherapy agents.</para>
+      <para>These services are not assigned a global period.</para>
+      <itemizedlist>
+         <listitem>
+            <para>These codes are intended for reporting by the physician or other QHP in an office setting. They are not reported by a physician or other QHP when performed in a facility setting, because the physician work associated with these procedures involves only affirmation of the treatment plan and direct supervision of the staff performing the services.</para>
+         </listitem>
+         <listitem>
+            <para>If a significant, separately identifiable E/M service is performed, the appropriate code may be reported with modifier <emphasis role="bold">25</emphasis> appended. The diagnosis may be the same for the E/M service and infusion or injection (<emphasis role="bold">96360–96379</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Documentation of medications administered in the outpatient pediatric practice should include</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Order for medication</para>
+         </listitem>
+         <listitem>
+            <para>Date and time of administration (Include start/stop times for timed procedures.)</para>
+         </listitem>
+         <listitem>
+            <para>Medication, manufacturer, lot number, and expiration date</para>
+         </listitem>
+         <listitem>
+            <para>NDC, if not captured elsewhere</para>
+         </listitem>
+         <listitem>
+            <para>Dose</para>
+         </listitem>
+         <listitem>
+            <para>Route (eg, intramuscular [IM]) and site of administration (eg, left deltoid)</para>
+         </listitem>
+         <listitem>
+            <para>Observations (eg, held by mother, no sign of adverse reaction after 5 minutes)</para>
+         </listitem>
+         <listitem>
+            <para>Signature and credentials of individual administering medication</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0016s0004s30013">
+         <title/>
+         <sect4 id="ch0016s0004s0003s01s01">
+            <title>Subcutaneous or Intramuscular Injection (Therapeutic, Prophylactic, and Diagnostic)</title>
+            <para>
+               <emphasis role="bold">96372</emphasis> Therapeutic, prophylactic, or diagnostic injection (specify substance or drug): subcutaneous or IM The 2025 total non-facility RVUs were 0.43.</para>
+            <para>Report <emphasis role="bold">96372</emphasis> for the administration of a diagnostic, prophylactic, or therapeutic (eg, antibiotic) subcutaneous or IM injection.</para>
+            <para>✱ Do not report for the administration of a purified protein derivative test.</para>
+            <para>For administration of immunizations, including administration of an immune globulin for passive immunization, refer to the Categories of Immunization Products and Associated Codes section in <emphasis role="bold">Chapter 8</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s02">
+            <title>Hydration, Push Injections, and Infusions</title>
+            <para>The hydration and infusion codes reported are based on the time when medication administration begins to the time when administration ends. Time must be documented.</para>
+            <para>When reporting multiple infusions on the same date, physicians select an initial service on the basis of the service that is the primary reason for infusion services on that date. Refer to "Primary and Additional Infusion Codes" at www.aap.org/cfp2026 for a table of primary and additional IV infusion and IV push codes.</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s03">
+            <title>Hydration</title>
+            <para>Codes <emphasis role="bold">96360</emphasis> (IV infusion, hydration; initial, 31 minutes to 1 hour) and <emphasis role="bold">96361</emphasis> (each additional hour)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Were assigned 0.93 (<emphasis role="bold">96360</emphasis>) and 0.36 (<emphasis role="bold">96361</emphasis>) 2025 total non-facility RVUs.</para>
+               </listitem>
+               <listitem>
+                  <para>Are intended to report IV hydration infusion using prepackaged fluid and/or electrolyte solutions (eg, physiological [normal] saline solution, D5 0.45% physiological saline solution with potassium). HCPCS codes and NDCs for hydration solutions may be reported in addition to the procedure codes. Note that some plans may require submission of the invoice price paid for the hydration solution and will pay the lesser of a contractual rate or the amount of the invoice.</para>
+               </listitem>
+               <listitem>
+                  <para>Typically require direct physician supervision for the purpose of consent, safety oversight, or supervision of staff with little special handling for preparation or disposal of materials.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not typically require advanced training of staff because there is usually little risk involved and little patient monitoring required.</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported according to the actual time over which the infusion is administered and do not include the time spent starting the IV and monitoring the patient after infusion.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Are not reported when IV infusions are 30 minutes or less.</para>
+            <para>Codes <emphasis role="bold">96360</emphasis> and <emphasis role="bold">96361</emphasis> are neither used to report infusion of drugs or other substances nor reported when hydration is incidental to non-chemotherapeutic/diagnostic or chemotherapeutic services.</para>
+            <para>Medical record documentation must support the time and service reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">96360</emphasis> may be reported for hydration infusion lasting longer than 31 minutes and up to 1 hour.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">96361</emphasis> is reported for each additional hour of hydration infusion and for a final interval of 31 to 59 minutes beyond the most recent hour reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">96361</emphasis> is reported if an IV hydration infusion is provided secondary or subsequent to a therapeutic, prophylactic, or diagnostic infusion <emphasis role="italics">and administered through the same IV access</emphasis>.</para>
+            <para>✱ Do not report <emphasis role="bold">96360</emphasis> or <emphasis role="bold">96361</emphasis> when hydration is provided for the purpose of maintaining IV patency or when it is provided as a free-flowing IV infusion during a therapeutic or chemotherapy infusion.</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s04">
+            <title>Intra-Arterial and Intravenous Push Injections</title>
+            <para>
+               <emphasis role="bold">96373</emphasis> Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); intra-arterial Report 96373 for an initial intra-arterial injection. The 2025 total non-facility RVUs were 0.57.</para>
+            <para>
+               <emphasis role="bold">96374</emphasis> IV push, single or initial substance/drug ♦<emphasis role="bold">96375</emphasis> each additional sequential IV push of a new substance/drug</para>
+            <para>Codes <emphasis role="bold">96374</emphasis> and <emphasis role="bold">96375</emphasis> are reported for IV push or other short infusions of less than 15 minutes. The 2025 total non-facility RVUs were 1.05 (<emphasis role="bold">96374</emphasis>) and 0.44 (<emphasis role="bold">96375</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">96374</emphasis> and <emphasis role="bold">96375</emphasis> are used only when the health care professional administering the substance or drug is in constant attendance during the administration <emphasis role="italics">and</emphasis> observing the patient. The IV push must beless than 15 minutes.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Short infusions of less than 15 minutes are reported as a push (eg, 96374).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Sequential IV push of a new substance or drug is reported with AOC <emphasis role="bold">96375</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Each drug administered is reported separately with the appropriate infusion code.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">96375</emphasis> is reported in addition to codes for IV infusion (<emphasis role="bold">96365</emphasis>), initial IV push (<emphasis role="bold">96374</emphasis>), or chemotherapy administration (<emphasis role="bold">96409</emphasis>, <emphasis role="bold">96413</emphasis>), when performed.</para>
+               </listitem>
+               <listitem>
+                  <para>Additional sequential IV push of the same substance or drug (<emphasis role="bold">96376</emphasis>) is not reported for services provided in the physician office (ie, is reported only by a facility).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s05">
+            <title>Intravenous Infusions</title>
+            <para>
+               <emphasis role="bold">96365</emphasis> IV infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); initial, up to 1 hour</para>
+            <para>♦<emphasis role="bold">96366</emphasis> each additional hour ♦<emphasis role="bold">96367</emphasis> additional sequential infusion of a new drug/substance, up to 1 hour</para>
+            <para>♦<emphasis role="bold">96368</emphasis> concurrent infusion</para>
+            <para>
+               <emphasis role="bold">96365–96368</emphasis>
+            </para>
+            <para>Are for infusions for the purpose of administering drugs or substances.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Typically require direct physician supervision and special attention to prepare, calculate dose, and dispose of materials.</para>
+               </listitem>
+               <listitem>
+                  <para>If fluid infusions are used to administer the drug(s), they are considered incidental hydration and are not reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Each drug administered is reported separately with the appropriate infusion code.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s06">
+            <title>Subcutaneous Infusion</title>
+            <para>
+               <emphasis role="bold">96369</emphasis> Subcutaneous infusion for therapy or prophylaxis (specify substance or drug); initial, up to 1 hour, including pump setup and establishment of subcutaneous infusion site(s)</para>
+            <para>♦<emphasis role="bold">96370</emphasis> each additional hour ♦<emphasis role="bold">96371</emphasis> additional pump setup with establishment of new subcutaneous infusion site(s)</para>
+            <para>Subcutaneous infusion, <emphasis role="bold">96369</emphasis>, is reported for services of 16 minutes to 1 hour and includes the pump setup and establishment of the infusion site. Report <emphasis role="bold">96372</emphasis> for a subcutaneous infusion of less than 16 minutes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report AOC <emphasis role="bold">96370</emphasis> with 1 unit for each additional 31- to 60-minute period beyond the first hour reported with <emphasis role="bold">96369</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report a unit of <emphasis role="bold">96370</emphasis> for a final period of 30 minutes or less.</para>
+               </listitem>
+               <listitem>
+                  <para>Report AOC <emphasis role="bold">96371</emphasis> when an additional pump setup and the establishment of a new subcutaneous infusion site are provided on the same date as the initial service reported with <emphasis role="bold">96369</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s07">
+            <title>Multiple Infusion Services</title>
+            <para>When services are performed in the physician's office, report as follows:</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s08">
+            <title>Initial Infusion</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Report the code that best describes the key or primary reason for the service regardless of the order in which the infusions or injections occur. Only 1 initial service code (eg, <emphasis role="bold">96365</emphasis>) should be reported <emphasis role="italics">unless the protocol or patient condition requires using 2 separate IV sites</emphasis>. The difference in time and effort in providing this second IV site access is also reported with the initial service code with modifier 59 (distinct procedural service) appended (eg, <emphasis role="bold">96365</emphasis>, <emphasis role="bold">96365 59</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>If an injection or infusion is of a subsequent or concurrent nature, even if it is the first such service within that group of services, a subsequent or concurrent code from the appropriate section should be reported. For example, the first IV push given after an initial 1-hour infusion is reported with a subsequent IV push code.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report a second initial service on the same date caused by an IV catheter requiring a restart, an IV rate not being able to be achieved without 2 catheters, or a port of a multi-lumen catheter requiring access.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s09">
+            <title>Sequential Infusion</title>
+            <para>This is an infusion or IV push of a new substance or drug following a primary or initial service. For example, if an IV push was performed on the same IV access after an IV infusion for therapy, the appropriate codes to report would be <emphasis role="bold">96365</emphasis> and <emphasis role="bold">96375</emphasis>. If an IV push was performed through a different IV access route, the services would be reported with <emphasis role="bold">96365</emphasis> and <emphasis role="bold">96374</emphasis>.</para>
+            <para>Sequential infusions are reported only 1 time for the same infusate. But if additional hours were required for the infusion, the appropriate "each additional hour" AOC would be reported. Different infusates can be reported with the same code as the original sequential code. All sequential services require that there be a new substance or drug; only a facility may report a sequential IV push of the same drug with <emphasis role="bold">96376</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s10">
+            <title>Concurrent Infusion</title>
+            <para>AOC <emphasis role="bold">96368</emphasis> is used to report an infusion of a new substance or drug at the same time as another drug or substance, not including fluids for hydration. It is not time based and is reported only once perday. Concurrent administration of another new drug or substance (the third substance or drug) is not reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not report hydration concurrently with any other infusion service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A 3-year-old established patient is seen with a concern of vomiting and fever for the past 24 hours. She declined all food and liquids and last voided 12 hours before the visit. Her diagnosis is bilateral suppurative otitis media with fever and dehydration. Intravenous fluids are initiated with physiological (normal) saline solution, and IV ceftriaxone (750 mg) is infused over 30 minutes for her otitis media. After 1 hour 45 minutes of IV hydration, she urinates, begins tolerating liquids, and is released home. The problem addressed is 1 acute illness with systemic symptoms, and the risk of morbidity resulting from treatment is moderate, supporting moderate MDM.</para>
+            <table frame="all" id="ch0016s0004ta0001">
+               <title>Concurrent Infusion</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>E86.0 (dehydration)H66.003 (acute suppurative otitis media without spontaneous rupture of ear drum, bilateral)R11.10 (vomiting)R50.81 (fever in conditions classified elsewhere)</entry>
+                        <entry>99214 25 (established patient office E/M)96365 (IV infusion, for therapy)96361 × 1 (IV infusion, hydration, each additional hour)J0696 × 3 units (ceftriaxone sodium, per 250 mg)J7030 (infusion, normal saline solution, 1,000 cc)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Link the appropriate diagnosis code to each procedure (eg, <emphasis role="bold">H66.003</emphasis> is linked to <emphasis role="bold">J0696</emphasis>). The medication should be reported with the appropriate NDC and NDC units in addition to the HCPCS codes. The fluid used to administer ceftriaxone is not reported because it is considered incidental hydration.</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s11">
+            <title>Other Injection and Infusion Services</title>
+            <para>
+               <emphasis role="bold">96523</emphasis> Irrigation of implanted venous access device for drug delivery systems Code <emphasis role="bold">96523</emphasis> is used to report irrigation required for implanted venous access devices for drug delivery systems when services are provided on a separate day from the injection or infusion service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not report <emphasis role="bold">96523</emphasis> in conjunction with other services.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0016s0004s0003s01s12">
+            <title>Chemotherapy and Other Highly Complex Drug/Biologic Agent Administration</title>
+            <para>Codes 96401–96549 are used for chemotherapy administration. CPT defines parenteral administration of non-radionuclide antineoplastic drugs, antineoplastic agents provided for treatment of non-cancer diagnoses and to substances such ascertain monoclonal antibody agents and other biologic response modifiers.</para>
+            <para>Codes 96401–96549 represent services that require direct physician supervision of staff who have advanced practice training and competency as well as other considerations for preparation, dosage, or disposal. Commonly, these services entail significant patient risk and frequent monitoring. Although the codes may be appropriate for reporting administration of certain monoclonal antibody agents or other biologic response modifiers, the reporting physician or QHP should base code selection (eg, 96401, administration of non-hormonal anti-neoplastic versus 96372, subcutaneous or IM injection) on the complexity of the drug administration. Payer policies may also limit code selection.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">New in 2020!</emphasis> To report mechanical scalp-cooling services that may be associated with chemotherapy, refer to CPT codes 97007–97009.</para>
+            </blockquote>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0016s0004s0004">
+      <title>Moderate Sedation</title>
+      <para>Moderate sedation codes 99151–99153 and 99155–99157 are used for reporting moderate sedation when intraservice time is 10 minutes or more. <emphasis role="bold">Table 13-3</emphasis> contains sedation codes and descriptors.</para>
+      <table frame="all" id="ch0016s0004ta0002">
+         <title>Moderate Sedation</title>
+         <tgroup cols="3">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <thead>
+               <row>
+                  <entry morerows="1">Moderate Sedation by the Physician or QHP Performing the Diagnostic or Therapeutic Procedure</entry>
+                  <entry nameend="c3" namest="c2">Intraservice Time</entry>
+               </row>
+               <row>
+                  <entry>First 15 min (10–22 min)</entry>
+                  <entry>Each Additional 15 min and Last 8–22 min</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Moderate sedation services provided by the same physician or other QHP performing the diagnostic or therapeutic service that the sedation supports, requiring the presence of an independent trained observer to assist in the monitoring of the patient's level of consciousness and physiological status; initial 15 minutes of intraservice time, patient younger than 5 years of age</entry>
+                  <entry>99151</entry>
+                  <entry>+99153 (Report only in addition to 99151 or 99152.)</entry>
+               </row>
+               <row>
+                  <entry>5 years or older</entry>
+                  <entry>99152</entry>
+                  <entry>+99153</entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">Moderate Sedation by a Physician or QHP Other Than the Individual Performing the Diagnostic or Therapeutic Procedure</entry>
+               </row>
+               <row>
+                  <entry>Moderate sedation services (other than those services described by 00100–01999) provided by a physician other than the health care professional performing the diagnostic or therapeutic service that the sedation supports; patient younger than 5 years</entry>
+                  <entry>99155</entry>
+                  <entry>+99157 (Report only in addition to 99155 or 99156.)</entry>
+               </row>
+               <row>
+                  <entry>5 years or older</entry>
+                  <entry>99156</entry>
+                  <entry>+99157</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>Abbreviation: QHP, qualified health care professional.</para>
+      <para>Moderate sedation is a drug-induced depression of consciousness. No interventions are required to maintain cardiovascular functions or a patent airway, and spontaneous ventilation is adequate.</para>
+      <para>Codes for moderate sedation are not assigned a global period. Code selection is based, in part, on the age of the patient (ie, &lt;5 years or ≥5 years).</para>
+      <para>✱ Do not report moderate sedation codes for medication administration for pain control, for minimal sedation (anxiolysis), or for deep sedation or monitored anesthesia care (00100–01999).</para>
+      <para>Report 99151–99153 when: ● The administration of moderate sedation is provided by the physician who is simultaneously performing a procedure (eg, fracture reduction, vessel cutdown, central catheter placement, wound repair).</para>
+      <itemizedlist>
+         <listitem>
+            <para>An independent trained observer is present (required element of service) to assist the physician in monitoring the patient during the procedure or diagnostic service.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">An independent trained observer is an individual qualified to monitor the patient during the procedure but lacking other duties (eg, assisting at surgery) during the procedure.</emphasis>
+      </para>
+      <para>Report <emphasis role="bold">99155–99157</emphasis> for moderate sedation</para>
+      <itemizedlist>
+         <listitem>
+            <para>By a second physician or QHP, other than the health care professional performing the diagnostic or therapeutic services, who administers the sedating agent(s) and monitors the patient (face-to-face) throughout the procedure and until the patient is stable for recovery status</para>
+         </listitem>
+         <listitem>
+            <para>Codes are selected according to intraservice time. Intraservice time</para>
+         </listitem>
+         <listitem>
+            <para>Begins with the administration of the sedating agent(s)</para>
+         </listitem>
+         <listitem>
+            <para>Ends when the procedure is completed, the patient is stable for recovery status, and the physician or other QHP providing the sedation ends personal continuous face-to-face time with the patient</para>
+         </listitem>
+      </itemizedlist>
+      <para>Refer to your <emphasis role="italics">CPT</emphasis> reference for activities included in intraservice time.</para>
+      <para>For each additional 15 minutes of intraservice time, report either of the following codes:<emphasis role="bold">99153</emphasis> in addition to either <emphasis role="bold">99151</emphasis> or <emphasis role="bold">99152</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">99157</emphasis> in addition to either <emphasis role="bold">99155</emphasis> or <emphasis role="bold">99156</emphasis> The midpoint between the end of the previous 15-minute period must be passed to report an additional unit of intraservice time (ie, intraservice time must continue for at least 8 minutes beyond the last full 15 minutes of intraservice time).</para>
+      <itemizedlist>
+         <listitem>
+            <para>Do not report moderate sedation service of less than 10 minutes of intraservice time.</para>
+         </listitem>
+         <listitem>
+            <para>Do not separately report the preservice work of moderate sedation services and do not include time spent in preservice work in the intraservice time. Refer to your <emphasis role="italics">CPT</emphasis> reference for activities included in preservice work.</para>
+         </listitem>
+         <listitem>
+            <para>Do not separately report or include the time of postservice work in the intraservice time. Postservice work of moderate sedation includes</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Assessment of the patient's vital signs, level of consciousness, and neurological, cardiovascular, and pulmonary stability in the post-sedation recovery period — Assessment of the patient's readiness for discharge following the procedure</para>
+         </listitem>
+         <listitem>
+            <para>Preparation of documentation for sedation service — Communication with the family or caregiver about sedation service</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Do not separately report pulse oximetry (<emphasis role="bold">94760–94762</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Documentation of moderate sedation services must include all the following items:</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="bold">The description of the procedure</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">Name and dosage(s) of the sedation agent(s)</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">Route of administration of the sedation agent(s) and who administered the agent (physician or independent observer)</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">The ongoing assessment of the child's level of consciousness and physiological status (eg, heart rate, oxygen saturation levels) during and after the procedure</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">The presence, name, and title of the independent observer or performing physician or other QHP</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">Total time from administration of the sedation agent(s) (start time) until the physician's face-to-face service is no longer required (end time)</emphasis>
+            </para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A 3-year-old requires incision and removal of a piece of glass from a puncture wound of the right foot.</emphasis> Moderate sedation is required and is performed by the Pediatric Advanced Life Support–trained physician with an independent observer who has been trained in pediatric basic life support. The physician supervises the administration of the sedating agent; assesses the child until an effective, safe level of sedation is achieved; and continues to assess the child's level of consciousness and physiological status while performing the procedure. The procedure takes a total of 28 minutes from the time of administration of the agent until the physician completes the procedure and determines that the child's condition is stable and face-to-face physician time is no longer required.</para>
+      <table frame="all" id="ch0016s0004ta0003">
+         <title>Moderate Sedation</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>S91.341A (puncture wound with foreign body, right foot)Codes for external cause, activity, and place of injury are reported when documented.</entry>
+                  <entry>10121 (incision and removal of foreign body, subcutaneous tissues; complex)99151 (moderate [conscious] sedation, patient younger than 5 years, first 15 minutes)✦99153 (moderate [conscious] sedation, each additional 15 minutes of intraservice time)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; †, re-sequenced; ✦, add-on; ✱, modifier 51 exempt; ⊕, telemedicine; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> If a medically necessary, significant, and separately identifiable E/M service had also been performed, an E/M visit with modifier <emphasis role="bold">25</emphasis> appended could have been reported. The agent itself should also be reported.</para>
+      <para>▶<emphasis role="bold">Same patient as previous example, except moderate sedation is performed by the Pediatric Advanced Life Support–trained physician while another physician performs the procedure.</emphasis> The procedure, from the time of administration of the agent until the repair is complete and the child's condition is stable and no longer requires face-to-face physician time, takes a total of 28 minutes.</para>
+      <table frame="all" id="ch0016s0004ta0004">
+         <title>Moderate Sedation</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>S91.341A (puncture wound with foreign body, right foot)Codes for external cause, activity, and place of injury are reported when documented.</entry>
+                  <entry>The physician repairing the wound reports10121 (incision and removal of foreign body, subcutaneous tissues; complex)The physician performing moderate sedation reports99155 (moderate [conscious] sedation, patient younger than 5 years, first 15 minutes)+99157 (moderate [conscious] sedation, each additional 15 minutes of intraservice time)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>For virtual reality procedural dissociation services to support and optimize patient comfort and tolerance during a procedure, refer to codes 0771T–0774T. To learn more about these codes, read the December 2022 <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis> article "Category III Procedure Code Updates for January 2023" (https://doi.org/10.1542/pccn <emphasis role="italics">book224</emphasis> document002).</para>
+      <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+      <para>This chapter provided an overview of coding for procedures in the office and other outpatient settings. Following are some takeaways from this chapter:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Many, but not all, payers use the RVUs and global periods assigned by the Medicare program. Learn how individual payers value and pay for procedural services.</para>
+         </listitem>
+         <listitem>
+            <para>The practice expense component of RVUs assigned to procedural services includes supplies such as surgical trays and local anesthetics. Other supplies such as medications and splints may be separately reported when purchased by the practice.</para>
+         </listitem>
+         <listitem>
+            <para>When a global service is provided, report follow-up visits during a global period with <emphasis role="bold">99024</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Append modifier <emphasis role="bold">24</emphasis> to codes for unrelated E/M services during a postoperative period.</para>
+         </listitem>
+         <listitem>
+            <para>Some minor procedures are included in E/M services and not separately reported (eg, removal of nonimpacted ear wax).</para>
+         </listitem>
+         <listitem>
+            <para>All procedures include some preservice and postservice work. Only report an E/M service that is significant and separately identifiable in the documentation.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0016s0004s0005">
+      <title>Resources</title>
+      <sect3 id="ch0016s0004s30014">
+         <title/>
+         <sect4 id="ch0016s0004s0005s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP coding webinar, "Burns, Foreign Bodies, and Beyond: Coding Acute Procedures in Pediatrics," May 2024 (https://publications.aap.org/codingnews/resources/27969/aap-coding-webinars)</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0005s01s02">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Procedural Services: Modifiers to Report Site and Laterality," January 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book249</emphasis> document005) "Reporting Care of Stubborn Evaluation and Management or Procedure?" July 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book243</emphasis> document002)</para>
+         </sect4>
+         <sect4 id="ch0016s0004s0005s01s03">
+            <title>Global Periods and Relative Value Units</title>
+            <para>MPFS Relative Value Files (www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files)</para>
+            <para>"Common Office Procedures and Global Days" "Contraception: Codes for Services Related to Long-Acting Reversible Contraceptives"</para>
+            <para>"Contraception: Diagnosis Codes for Counseling, Initiation, and Surveillance by Method"</para>
+            <para>"Primary and Additional Infusion Codes"</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">What modifier is reported to indicate that an E/M visit on the day of surgery was significant and separately identifiable from the preservice and postservice work of a procedure?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Modifier 25</para>
+                     </listitem>
+                     <listitem>
+                        <para>Modifier 57</para>
+                     </listitem>
+                     <listitem>
+                        <para>Modifier 24</para>
+                     </listitem>
+                     <listitem>
+                        <para>None. An E/M service on the day before or day of surgery at which the decision for surgery is made is included in the surgical package.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is correct for reporting a visit for postoperative follow-up with removal of sutures (without anesthesia)?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> are reported whenever sutures and/or staples are removed.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> are reported when a physician or QHP accepts a transfer of postoperative care and removes sutures and/or staples.</para>
+                     </listitem>
+                     <listitem>
+                        <para>An E/M code and both <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> are reported when provided for postoperative care of a procedure that has a 0-day global period.</para>
+                     </listitem>
+                     <listitem>
+                        <para>An E/M code and either <emphasis role="bold">15853</emphasis> or <emphasis role="bold">15854</emphasis> are reported when provided for postoperative care of a procedure that has a 0-day global period.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which procedure is included in an E/M service (ie, not separately reported)?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Burn care for a first-degree burn</para>
+                     </listitem>
+                     <listitem>
+                        <para>Incision in lingual frenulum</para>
+                     </listitem>
+                     <listitem>
+                        <para>Urinary catheterization for specimen collection</para>
+                     </listitem>
+                     <listitem>
+                        <para>Removal of an umbilical clamp</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is true of laceration repair?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>If multiple wounds belong to the same category of difficulty and location, add the lengths and report with a single code.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Report separate codes for repair of each noncontiguous wound.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Wound repair by dermal adhesive is included in an E/M service.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Topical or injected local anesthetic is separately reported.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of code 96360, initial hour of hydration infusion?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">96360</emphasis> is reported if an IV hydration infusion is provided secondary or subsequent to a therapeutic, prophylactic, or diagnostic infusion.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">96360</emphasis> includes time spent starting the IV and monitoring the patient after infusion is completed.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">96360</emphasis> may be reported for hydration infusion lasting longer than 31 minutes and up to 1 hour.</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">96360</emphasis> may be reported for hydration infusion of 15–30 minutes.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

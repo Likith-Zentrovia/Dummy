@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0008s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0008s0003</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>8</chapternumber>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>6. Evaluation and Management Documentation Guidelines</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 6. EVALUATION AND MANAGEMENT DOCUMENTATION GUIDELINES</title>
+   <para>Each of the categories and subcategories of E/M service to which these general guidelines apply may also have additional guidelines presented before the list of codes and/or as parenthetical instructions after the codes in <emphasis role="italics">CPT 2025</emphasis>. For instance, for audio-only codes <emphasis role="bold">98008–98015</emphasis>, the total time of service must include more than 10 minutes of medical discussion. These additional guidelines, specific to each category of E/M code, are discussed in other chapters devoted to reporting these services (eg, <emphasis role="bold">Chapter 20</emphasis>).</para>
+   <sect2 id="ch0008s0003s20001">
+      <title/>
+      <sect3 id="ch0008s0003s30003">
+         <title/>
+         <sect4 id="ch0008s0003s0001s01s01">
+            <title>History and Examination</title>
+            <para>
+               <emphasis role="bold">History and examination are included components of all E/M services addressed by the E/M guidelines. The history and examination, although supporting the amount of time spent or the level of MDM, are not directly used in code selection. A medically appropriate history and/or examination, as determined by the reporting physician or QHP, should be documented for each E/M service.</emphasis>
+               <emphasis role="bold">History and examination are important elements of documentation to support that medical services provided were clinically indicated and to support quality initiatives (eg, verification of timely immunization and review of current medications and supplements). History documented by a patient, caregiver, or clinical staff member should be reviewed, expanded (when indicated), and authenticated by the reporting physician or QHP.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s02">
+            <title>Code Selection Options</title>
+            <para>Once you have determined the correct code category (eg, outpatient consultation) or subcategory (eg, initial hospital inpatient or observation care), there are 2 options for selecting the appropriate codes based on these guidelines. However, ED services (<emphasis role="bold">99281–99285</emphasis>) are an exception, with selection based on MDM alone and no option for selection based on time.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Select the code based on the reporting physician's or QHP's <emphasis role="italics">documented total time</emphasis> directed to care of the individual patient <emphasis role="italics">on the date of the encounter</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Select a code based on meeting at least 2 of 3 elements of MDM.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s03">
+            <title>Time and Emergency Department Services</title>
+            <para>
+               <emphasis role="bold">Per <emphasis role="italics">CPT</emphasis>, time is not a descriptive component for the ED levels of E/M because ED services are typically provided on a variable-intensity basis, often involving multiple encounters with several patients over an extended period. The level of MDM determines the level of ED service.</emphasis> Box 6-1 provides an overview of code selection based on total time or MDM. For each method of code selection, the documentation should support the clinical indication for the level of service reported.</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s04">
+            <title>Time Guidelines and Application</title>
+            <para>Time may be used to select a code level in the E/M services to which these guidelines apply <emphasis role="italics">whether or not</emphasis> counseling and/or or coordination of care dominates the service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time is the physician's and/or QHP's total time on the DOS, not their time in a 24-hour period.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">The total time should be documented in the medical record when used as the basis for code selection. No specific verbiage is required by <emphasis role="italics">CPT</emphasis>. A documentation example is "My total time on this date was X minutes."</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Only time spent in activities directed to care of the individual patient is counted in total time on the date of a visit. Time before, during, and after the visit but on the same DOS is included in the total time used in code selection.</para>
+               </listitem>
+               <listitem>
+                  <para>Both face-to-face and non–face-to-face time or time on or off the unit/floor spent on the DOS are included in the time of the encounter.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s05">
+            <title>Code Descriptors and Total Time</title>
+            <para>
+               <emphasis role="bold">It is important to identify the time required in each code's descriptor to accurately assign codes based on total time. There are differences inhow time is described across various categories of service.</emphasis>
+               <emphasis role="bold">For codes that may be selected according to a physician's or QHP's total time on the date of the encounter, a specific time must bemet or exceeded.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Box 6-1. Code Selection Based on Total Time or Medical Decision-Making</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Other codes, such as hourly critical care codes 99291 and 99292, have different guidelines and code descriptors that include only the time spent providing critical care services (ie, not the total time spent on the date of the encounter).</emphasis> Select an E/M code level based on the pediatrician's or QHP's total time on the date of the encounter or on the MDM.</para>
+            <para>
+               <emphasis role="bold">Time:</emphasis> May be used to select a code level whether or not counseling and/or coordination of care dominates the service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time includes total time on the date of the encounter, face-to-face and non–face-to-face, personally spent by the physician and/or QHP focused on the care of 1 patient.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not include time in activities performed or normally performed by clinical staff (eg, rooming the patient).</para>
+               </listitem>
+               <listitem>
+                  <para>Time does not need to be continuous. Total time spent on 1 calendar date (ie, not all time in a 24-hour period). Continuous time spanning 2 calendar dates (ie, before and after midnight) is reported as a single service on 1 calendar date inclusive of the total continuous time.</para>
+               </listitem>
+               <listitem>
+                  <para>The following activities are included when performed by a physician/QHP:</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Preparing to see the patient (eg, reviewing previous test results)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Obtaining and/or reviewing separately obtained history — Performing a medically appropriate examination and/or evaluation</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Counseling and educating the patient, family, or caregiver</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Ordering medications, tests, or procedures — Referring to/communicating with other QHPs (when not separately reported)</para>
+               </listitem>
+               <listitem>
+                  <para>Documenting clinical information in the electronic or other health record — Independently interpreting results (when not separately reported) and communicating results to the patient, family, or caregiver</para>
+               </listitem>
+               <listitem>
+                  <para>Coordinating care (when not separately reported) <emphasis role="bold">MDM:</emphasis> Four levels of MDM complexity are straightforward, low, moderate, and high.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Determine the level of MDM based on the highest 2 of 3 elements.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Number and complexity of problems addressed. Include problems addressed or managed by the reporting physician/QHP as part of the encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Amount and/or complexity of data reviewed and analyzed. Data include</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Tests, documents, orders, and/or requirement for an independent historian(s)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Independent interpretation of tests (not separately reported)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Discussion of management/test interpretation with an external physician, QHP, or appropriate source (not separately reported)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Risk of complications, morbidity, and/or mortality of patient management decisions made during the encounter, including decisions against a considered management option.</para>
+               </listitem>
+            </orderedlist>
+            <para>
+               <emphasis role="italics">Abbreviations: E/M, evaluation and management; MDM, medical decision-making; QHP, qualified health care professional.</emphasis> ▶ <emphasis role="bold">A physician spends 10 minutes reviewing laboratory results and consultation reports before an E/M visit with an established patient on the same date. Later that day, a face-to-face visit with the patient and caregivers lasts 20 minutes. After the visit but on the same date, the physician spends 10 minutes in discussion with a consulting subspecialist and another 10 minutes in follow-up with the caregivers and in documentation. The physician's total time on the DOS is 50 minutes.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The physician reports <emphasis role="bold">99215</emphasis> (40 minutes). All the physician's time spent in activities directed to the care of the single patient is counted. If the time had exceeded the required 40 minutes' total time assigned to <emphasis role="bold">99215</emphasis> by 15 minutes or more, <emphasis role="bold">99417</emphasis> (prolonged outpatient E/M service) would have been reported in addition to <emphasis role="bold">99215</emphasis>.</para>
+            <para>
+               <emphasis role="italics">CPT does not require documentation of each segment of time spent on the DOS or documentation inany specific format. But the physician must document the total amount of time spent on the date of the encounter and should beable to account for the time spent. Some physicians and QHPs elect to document each segment of time as advised by a consultant or based on practice policy.</emphasis> ▶ <emphasis role="bold">A physician spends 10 minutes reviewing laboratory results and medical records before an outpatient consultation on the same date. Later that day, a face-to-face visit with the patient and caregivers lasts 20 minutes, and another 10 minutes is spent documenting the encounter and preparing a report to the QHP who requested the consultation. The physician's total time on the date of the face-to-face E/M service is 40 minutes. On the next day, the physician spends 10 minutes in discussion with the QHP who requested the consultation and another 10 minutes in follow-up with the caregivers and in documentation.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ◆, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">99244</emphasis> (40 minutes must bemet or exceeded) is reported for the time on the date of the face-to-face visit.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The time spent on the date following the visit date is not included in total time on the date of the encounter. But when a physician or QHP spends at least 30 minutes inpatient care and coordination related to a previous or future face-to-face E/M service on a date other than the date of that E/M service, <emphasis role="bold">99358</emphasis> (prolonged E/M service before and/or after direct patient care; first hour) is reported. <emphasis role="italics">CPT</emphasis> instruction states that prolonged service code <emphasis role="bold">99358</emphasis> is not reported for less than 30 minutes' total duration on a given date.</para>
+            <para>▶<emphasis role="bold">On the second day of a patient's hospital stay, the attending physician spends 25 minutes on the unit/floor reviewing consultation reports and test results, reevaluating the patient, and discussing care with the patient and the patient's mother. Another 10 minutes is spent entering orders and documenting the encounter. Later, when not on the patient's unit, the physician also spends 10 minutes on the phone with the patient's father explaining current findings and the plan for further E/M.</emphasis> Total time on the date of the encounter is 45 minutes, supporting subsequent hospital inpatient or observation care code <emphasis role="bold">99232</emphasis> (35 minutes). If the total time met or exceeded 50 minutes, <emphasis role="bold">99233</emphasis> would be reported.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Total time on the date of the encounter includes time regardless of the location of the physician (eg, whether on or off the inpatient unit or in or out of the outpatient office). But the time must be directed to the care of that single patient and must require the skills of a physician or QHP.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>No time spent by clinical staff or time spent by a physician or QHP in activities typically performed by clinical staff is included.</para>
+               </listitem>
+               <listitem>
+                  <para>When the physician and a QHP of the same specialty and same group practice meet with a patient and caregiver at the same time (incident-to or split/shared encounter), only the reporting individual's time is counted. <emphasis role="italics">Each minute of time is counted only once for overlapping or concurrent care time.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A nurse practitioner (NP) provides initial observation care to a patient. After initially evaluating the patient, the NP spends 5 minutes discussing the patient with a physician in the same group practice and specialty and documents a total time of 25 minutes, including the time of the phone call with the physician. Later, on the same date, the physician of the same group practice and specialty reviews the patient's progress notes and test results since admission to observation and, after reevaluating the patient, agrees with continuing the current management overnight. The physician's total time is 20 minutes *not including the time of the phone conversation with the NP.</emphasis>*</para>
+            <para>Code <emphasis role="bold">99221</emphasis> (initial hospital inpatient or observation care; 40 minutes must bemet or exceeded) is reported for the 45-minute service. The 5-minute conversation between the physician and NP is counted by only 1 of the providers.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> For further discussion of this example, refer to the Split or Shared Visits section later in this chapter.</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s06">
+            <title>MDM: Guidelines for Selecting a Level</title>
+            <para>Physicians and QHPs make medical decisions at each patient encounter. MDM includes the work of establishing or confirming a diagnosis, assessing the status of a condition, and selecting a management option. The complexity of MDM may vary with each encounter for the same patient even when the patient's condition remains the same. This complexity is determined by assessing the level at which 2 of 3 elements of MDM are performed and supported in the documentation of an encounter. The 3 elements of MDM are</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>The number and complexity of problem(s) addressed during the encounter</para>
+               </listitem>
+               <listitem>
+                  <para>The amount and/or complexity of data to be reviewed and analyzed</para>
+               </listitem>
+               <listitem>
+                  <para>The risk of complications, morbidity, and/or mortality of patient management choices and decisions made at the visit</para>
+                  <figure float="0" id="ch0008s0003fg0001">
+                     <title/>
+                     <mediaobject>
+                        <imageobject>
+                           <imagedata fileref="ch0008f01.jpg" scalefit="1" width="100%"/>
+                        </imageobject>
+                     </mediaobject>
+                  </figure>
+               </listitem>
+            </orderedlist>
+            <para>Four levels of MDM complexity are recognized, as follows: Each level of MDM is based on the same criteria whether the patient is new or established or the encounter is initial or subsequent.</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s07">
+            <title>Number and Complexity of Problems Addressed</title>
+            <para>The first step in determining the level of MDM for an encounter is identification of the number and complexity of problems addressed, with emphasis on the condition(s). A problem is a disease, condition, illness, injury, symptom, sign, finding, concern, or other matter addressed at the encounter, with or without a diagnosis being established at the time of the encounter.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include all problems addressed at an encounter in the number and complexity of problems. Refer to the "Coding Conundrum: Addressed or Not Addressed" box that follows for guidance on problems considered to have been addressed.</para>
+               </listitem>
+               <listitem>
+                  <para>Complexity is determined by the type of problem(s) addressed. CPT instructs that</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The final diagnosis for a condition does not, inand of itself, determine the complexity or risk of the problem, as extensive evaluation may be required to reach the conclusion that the signs or symptoms do not represent a highly morbid condition.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Manifesting symptoms that are likely to represent a highly morbid condition may drive MDM even when the ultimate diagnosis is not highly morbid.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s08">
+            <title>Coding Conundrum: Addressed or Not Addressed</title>
+            <para>A problem is considered addressed or managed when evaluated or treated at the encounter by the physician or other QHP reporting the service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This includes consideration of further testing or treatment that may not be performed because of the risk-benefit analysis or choice of the patient, parent, guardian, or surrogate.</para>
+               </listitem>
+               <listitem>
+                  <para>When determining the level of MDM, do not consider the following addressed or managed by the physician or QHP reporting the service:</para>
+               </listitem>
+            </itemizedlist>
+            <para>× A notation in the patient's medical record that another professional is managing the problem without additional assessment or care coordination × Referral without evaluation (by history, examination, or ≥1 diagnostic studies) or consideration of treatment</para>
+            <para>× Problems listed in the medical record but not addressed at the current encounter <emphasis role="bold">Defining Problems Addressed for Inpatient and Observation Services</emphasis> For hospital inpatient and observation care services, select the complexity of the problem addressed according to the problem status on the date of the encounter, which may differ significantly from that on admission. For example, an encounter with a patient who was admitted in respiratory distress but who presents with no distress at the current encounter may include a lower number and complexity of problems addressed than that of prior encounters in the same admission. Likewise, a patient's condition may deteriorate such that problems at subsequent encounters are of higher complexity than at admission.</para>
+            <para>Problem(s) managed or comanaged by a reporting physician or QHP may not be the cause of admission or continued stay (eg, addressing a coexisting condition).</para>
+            <para>CPT does not provide examples of problems included in each level of MDM and instead leaves the determination to the reporting individual's clinical judgment. Examples included in this manual may not apply to all patient encounters.</para>
+            <para>The level of problem addressed for services reported with 99211 or 99281, in which the presence of the physician or QHP is not required, is not defined because the concept of the level of MDM does not apply.</para>
+            <para>Following are definitions for the types of problems identified in each level of MDM:<emphasis role="bold">Straightforward or minimal:</emphasis> Self-limited or minor. A problem that runs a definite and prescribed course, is transient in nature, and is not likely to permanently alter health status.</para>
+            <para>
+               <emphasis role="bold">Low</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Two or more self-limited or minor problems.</para>
+               </listitem>
+               <listitem>
+                  <para>Acute, uncomplicated illness or injury. A recent or new short-term problem with low risk of morbidity for which treatment is <emphasis role="italics">considered</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Little to no risk of mortality with treatment and full recovery without functional impairment are expected.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The problem may be a self-limited or minor one that is not resolving consistently with a definite and prescribed course.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Examples may include herpetic whitlow, viral pharyngitis, or a simple sprain.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Acute, uncomplicated illness or injury requiring hospital inpatient or observation-level care. A recent or new short-term problem with low risk of morbidity for which treatment is <emphasis role="italics">required</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Little to no risk of mortality with treatment and full recovery without functional impairment are expected.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The treatment required is delivered in a hospital inpatient or observation-level setting.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Stable acute illness.</emphasis> A problem that is new or recent for which treatment has been initiated. The patient is improved and, although resolution may not be complete, is stable with respect to this condition.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Stable chronic illness.</emphasis> A problem <emphasis role="italics">with an expected duration of at least 1 year or until the death of the patient, for whom the risk of morbidity is significant without treatment.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>
+                           <emphasis role="italics">Stable</emphasis> is defined by the individual patient's specific treatment goals. A patient who is not at their treatment goal is not stable, even if the condition has not changed and there is no short-term threat to life or function.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Examples of stable chronic illness may include well-controlled attention-deficit/hyperactivity disorder, asthma, cystic fibrosis, allergic rhinitis, or diabetes.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Conditions are considered chronic whether or not stage or severity changes (eg, uncontrolled diabetes and controlled diabetes are a single chronic condition).</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Moderate</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Two or more stable chronic illnesses.</para>
+               </listitem>
+               <listitem>
+                  <para>Chronic illness with exacerbation, progression, or side effects of treatment. Acutely worsening, poorly controlled, or progressing with an intent to control progression, <emphasis role="italics">requiring additional supportive care or requiring attention to treatment or side effects.</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Examples include mild to moderate exacerbation of asthma, generalized anxiety disorder now with school avoidance, and attention-deficit/hyperactivity disorder with weight loss secondary to treatment.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Acute, complicated injury.</emphasis> Requires evaluation of body systems that are not directly part of the injured organ, extensive injury, multiple treatment options, and/or association with risk of morbidity (eg, head injury with brief loss of consciousness).</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Acute illness with systemic symptoms.</emphasis> An illness causing systemic symptoms and <emphasis role="italics">carrying a high risk of morbidity without treatment.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>For systemic general symptoms (eg, fever, body aches, fatigue) in a minor illness that may be treated to alleviate symptoms, refer to <emphasis role="italics">self-limited or minor or acute, uncomplicated illness.</emphasis> — Systemic symptoms may not be general but may be single system (eg, <emphasis role="italics">Clostridioides difficile</emphasis> colitis with just diarrhea).</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Examples may include pyelonephritis or bacterial gastroenteritis.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Undiagnosed new problem with uncertain prognosis.</emphasis> A problem in the differential diagnosis that represents a condition <emphasis role="italics">likely to result in a high risk of morbidity without treatment.</emphasis> Examples may include unexplained bruising, anterior neck mass, unexpected weight loss, and school failure.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Coding Conundrum: Acute, Uncomplicated, or Acute Illness With Systemic Symptoms</emphasis> When a patient presents with a systemic symptom such as fever, the physician or QHP must determine whether the condition is an acute, uncomplicated illness (ie, a low-complexity problem) with systemic symptoms that are managed to alleviate the patient's discomfort or an acute illness with systemic symptoms that requires treatment because the risk of morbidity is high without treatment (ie, a moderate-complexity problem). For instance, when the problem addressed at the encounter requires medication to prevent complications, such as with pyelonephritis (when not requiring hospitalization), the problem meets the criteria for an acute illness with systemic symptoms. But fever in conjunction with a common cold with advice to use an over-the-counter medication to alleviate fever and discomfort does not change an acute, uncomplicated problem to an acute illness with systemic symptoms. When indoubt of the risk of morbidity and complexity of the problem addressed, a coder should seek the clinical judgment of the reporting physician or QHP.</para>
+            <para>Physicians and QHPs are not required to document risks commonly associated with a condition, but appropriate documentation of the assessment and plan of care supports the number and complexity of problems addressed at each visit. Factors that are unique to the patient presentation and that increase the risk of not treating a problem should be documented (eg, temporary change in asthma care to prevent exacerbation due to influenza, a congenital condition such as Bicuspid aortic valve that influences management, severity of the problem [eg, moderate to severe bulging of tympanic membrane with temperature of 39.0°C (102.2°F) in otitis media]). Codes for complicating conditions should be included on the claim.</para>
+            <para>Fever has different indications based on factors such as a patient's age, developmental status, and medical history. To review an illustration of acute illness with fever across the spectrum of MDM, refer to the "Continuum Model for Fever in the Emergency Department" in <emphasis role="bold">Chapter 14.</emphasis> Although the risk of morbidity without treatment is a consideration in determining the nature of the problem addressed, this problem-related risk is different from the separate element of risk of mortality or morbidity of management (ie, problem risk vs patient management risk).</para>
+            <para>
+               <emphasis role="bold">High</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Chronic illness with severe exacerbation, progression, or side effects of treatment. Severe exacerbation or progression of chronic illness or severe side effects of treatment with significant risk of morbidity that may require escalation in the level of care.</para>
+               </listitem>
+               <listitem>
+                  <para>Acute or chronic illness or injury posing a threat to life or bodily function. Acute illness with systemic symptoms or an acute, complicated injury, or a chronic illness or injury with exacerbation and/or progression or side effects of treatment, that poses a threat to life or bodily function in the near term without treatment.</para>
+               </listitem>
+               <listitem>
+                  <para>Some symptoms may represent a condition that is significantly probable and poses a potential threat to life or bodily function. These may be included in this category when the evaluation and treatment is consistent with this degree of potential severity.</para>
+               </listitem>
+               <listitem>
+                  <para>Examples may include severe respiratory distress, psychiatric illness with threat to self or others, acute renal failure, or anabrupt change in neurological status.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Determination of the type of problem addressed may require a pediatrician's clinical judgment. Coding staff should query the pediatrician when unsure of the appropriate types of problems addressed at an encounter (eg, self-limited vs acute, uncomplicated illness).</para>
+            <para>
+               <emphasis role="bold">Table 6-1</emphasis> provides a quick reference to the number and complexity of problems for each level of MDM.</para>
+            <table frame="all" id="ch0008s0003ta0001">
+               <title>Coding Conundrum: Addressed or Not Addressed</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Level of Medical Decision-Making</entry>
+                        <entry>Problem(s) Addressed</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Not applicable</entry>
+                        <entry>(Refer to 99211, 99281.)</entry>
+                     </row>
+                     <row>
+                        <entry>Straightforward</entry>
+                        <entry>Minimal 1 self-limited or minor problem</entry>
+                     </row>
+                     <row>
+                        <entry>Low</entry>
+                        <entry>≥2 self-limited or minor problems1 acute, uncomplicated illness or injury1 stable chronic illness1 stable acute illness1 acute, uncomplicated illness or injury requiring hospital inpatient or observation level of care</entry>
+                     </row>
+                     <row>
+                        <entry>Moderate</entry>
+                        <entry>2 stable chronic illnesses1 chronic illness with exacerbation, progression, or side effects of treatment1 acute, complicated injury1 acute illness with systemic symptoms1 undiagnosed new problem with uncertain prognosis</entry>
+                     </row>
+                     <row>
+                        <entry>High</entry>
+                        <entry>1 chronic illness with severe exacerbation, progression, or side effects of treatment1 acute/chronic illness or injury posing a threat to life or bodily function</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">Parents bring a newborn to the pediatrician with concerns regarding a rash on the newborn's face.</emphasis> Examination reveals uncomplicated neonatal acne.</para>
+            <para>
+               <emphasis role="bold">*Problem(s) addressed</emphasis>* ➤ <emphasis role="italics">Minimal</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The uncomplicated neonatal acne is a self-limited or minor problem.</para>
+            <para>▶<emphasis role="bold">A patient presents for follow-up evaluation of upper respiratory symptoms.</emphasis> The patient's symptoms are consistent with a mild upper respiratory infection (URI).</para>
+            <para>
+               <emphasis role="bold">*Problem(s) addressed</emphasis>* ➤ <emphasis role="italics">Low</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The cold is an acute, uncomplicated problem.</para>
+            <para>
+               <emphasis role="bold">Hyperbilirubinemia requiring therapy is diagnosed in a neonate 30 hours after birth.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The patient has an acute illness with systemic symptoms.</para>
+            <para>
+               <emphasis role="bold">A patient presents to a pediatrician's office in moderate respiratory distress that worsens, requiring management before emergency transport.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">High</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The worsening respiratory distress in this patient represents a high-complexity problem.</para>
+            <para>
+               <emphasis role="bold">A 16-month-old patient is admitted for E/M of new-onset neurological inflammatory disease with transverse myelitis, optic neuritis, and negative infectious disease workup.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">High</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The patient's injuries pose a threat to life or bodily function.</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s09">
+            <title>Amount and/or Complexity of Data to Be Reviewed and Analyzed</title>
+            <para>Data are divided into the following 3 categories:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Tests, documents, orders, or requirement for an independent historian(s) (Each unique test, order, or document is counted to meet a threshold number.)</para>
+               </listitem>
+               <listitem>
+                  <para>Independent interpretation of tests not separately reported</para>
+               </listitem>
+               <listitem>
+                  <para>Discussion of management or test interpretation with external physician or QHP or appropriate source when not separately reported</para>
+               </listitem>
+            </orderedlist>
+            <para>In straightforward MDM, minimal or no data review is performed. When data are used in support of higher levels of MDM, the categories for either 1 or 2 categories of data must bemet. Instructions are provided for each level of data.</para>
+            <para>
+               <emphasis role="bold">Table 6-2</emphasis> shows the data requirements for limited, moderate, and extensive amounts and/or complexity of data that correspond to low, moderate, and high MDM, respectively, when either the problems addressed or data reviewed support that level of MDM.</para>
+            <para>Note that Category 1 includes multiple types of data that may be combined to meet a limited, moderate, or extensive amount and/or complexity of data. Following are examples of data combinations that would support a limited level of data:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Review of external notes from 2 unique sources</para>
+               </listitem>
+               <listitem>
+                  <para>Order or review of results of 2 unique tests (represented by separate <emphasis role="italics">CPT</emphasis> codes)</para>
+               </listitem>
+               <listitem>
+                  <para>Review of external notes from 1 unique source and order or review of results of 1 unique test</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">CPT</emphasis> E/M guidelines include definitions for these types of data. Most of these definitions are included in the examples provided later in this section.</para>
+            <para>It is important to understand how tests contribute to the amount and/or complexity of data to be reviewed and analyzed.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Tests include imaging, laboratory, or psychometric/physiologic data. Pulse oximetry is not a test for purposes of the amount and/or complexity of data to be reviewed and analyzed.</para>
+               </listitem>
+               <listitem>
+                  <para>Each unique test is counted once toward the amount and/or complexity of data. Do not count both the order and the review of the same test as 2 unique tests.</para>
+               </listitem>
+               <listitem>
+                  <para>When a test with multiple components can be reported with a single code (eg, <emphasis role="bold">80047</emphasis>, basic metabolic panel or a test with a specific number of images), count the test once for the purpose of data to be reviewed and analyzed.</para>
+               </listitem>
+               <listitem>
+                  <para>Any test for which the reporting individual or another individual of the same specialty and same group practice will separately report a code for interpretation and report is not counted toward the data analyzed at the encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The following examples illustrate different levels of data to be reviewed and analyzed. Can you identify the amount and/or complexity of data to be reviewed in each example?</para>
+            <para>
+               <emphasis role="bold">A 17-year-old presents with poison ivy.</emphasis>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Minimal or none</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s10">
+            <title>Table 6-2. Amount and Complexity of Data in Medical Decision-Making</title>
+            <table frame="all" id="ch0008s0003ta0002">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>LimitedMust meet the requirements of 1 of 2 categories</entry>
+                        <entry>Category 1: Tests and documentsAny combination of 2 from the following data:• Review of prior external note(s) from each unique source¹• Review of the result(s) of each unique test¹• Ordering of each unique test¹Category 2: Assessment requiring an independent historian(s)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>ModerateMust meet the requirements of 1 of 3 categories</entry>
+                        <entry>Category 1: Tests, documents, or independent historian(s)Any combination of 3 from the following data:• Review of prior external note(s) from each unique source¹• Review of the result(s) of each unique test¹• Ordering of each unique test¹• Assessment requiring an independent historian(s)Category 2: Independent interpretation of tests performed by another physician/other QHP (not separately reported)Category 3: Discussion of management or test interpretation with external physician/other QHP/appropriate source (not separately reported)</entry>
+                     </row>
+                     <row>
+                        <entry>ExtensiveMust meet the requirements of at least 2 of 3 categories</entry>
+                        <entry>Category 1: Tests, documents, or independent historian(s)Any combination of 3 from the following data:• Review of prior external note(s) from each unique source¹• Review of the result(s) of each unique test¹• Ordering of each unique test¹• Assessment requiring an independent historian(s)Category 2: Independent interpretation of tests performed by another physician/other QHP (not separately reported)Category 3: Discussion of management or test interpretation with external physician/other QHP/appropriate source (not separately reported)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Abbreviation: QHP, qualified health care professional.</para>
+            <para>¹ Each unique test, order, or document is counted.</para>
+            <para>▶ A 16-year-old established patient presents for follow-up of URI symptoms. The patient was evaluated at an urgent care practice 2 days ago. Symptoms have increased. The physician reviews records of the urgent care visit, which include a diagnosis of viral URI. An influenza test is ordered and its results are positive.</para>
+            <para>Data reviewed and analyzed ⟹ Limited (Category 1) Teaching Point: The combination of a review of external records from 1 source and an order for 1 test supports a limited amount and complexity of data to be reviewed and analyzed. If an independent historian were required (eg, to provide details of medical history that the patient cannot) in addition to the external records reviewed and test ordered, the level of data would be moderate.</para>
+            <para>External records, communications, and/or test results are those from an external physician, QHP, facility, or health care organization or from another appropriate source (eg, teacher, lawyer, case manager). Review of all materials from any unique source counts once toward MDM.</para>
+            <para>▶ A 3-year-old patient presents with a splinter of the thumb. The patient's mother advises that removal attempts at home were unsuccessful. The splinter is removed without incision.</para>
+            <para>Data reviewed and analyzed ⟹ Limited (Category 2) Teaching Point: Data are limited because assessment requires an independent historian.</para>
+            <para>
+               <emphasis role="bold">CHAPTER 6. EVALUATION AND MANAGEMENT DOCUMENTATION GUIDELINES</emphasis> An independent historian is an individual (eg, parent, guardian, surrogate, witness) who provides a history in addition to one provided by a patient who is unable to do so completely or reliably (eg, because of developmental stage or loss of consciousness) or because of a confirmatory history that is judged to be necessary.</para>
+            <para>If there may beconflict or poor communication between multiple historians and more than one historian is needed, the independent historian(s) requirement is met, but no higher level of data is met with multiple independent historians.</para>
+            <para>▶ An established patient presents for follow-up regarding persistent headaches and fatigue. Results of tests ordered at the previous visit were reviewed between visits, and 2 additional tests were ordered and completed before this visit. The physician reviews the results of the additional tests and discusses the findings and treatment recommendation with the patient and parents.</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Limited</emphasis> (Category 1) <emphasis role="bold">Teaching Point:</emphasis> The review of 2 unique test results supports a limited level of data to be reviewed and analyzed. Even though 4 total tests were reviewed, the credit for ordering and reviewing the first 2 tests was applied to the initial visit and may not be counted again.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If obtaining history from the parents was required, the combination of 2 tests ordered and requirement for an independent historian would support a moderate complexity of data by meeting 3 items included in Category 1.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When tests are ordered between encounters, the new test results are counted toward the level of data reviewed and analyzed. Review of results for tests ordered at a prior E/M service is included in the order and not counted again at the next encounter.</para>
+            <para>▶ A 5-month-old presents with suspected viral bronchiolitis. The parents provide the patient's medical, family, and social history. Respiratory viral panel (eg, <emphasis role="bold">87631</emphasis>, infectious agent detection by nucleic acid [DNA or RNA]; 3–5 targets) and chest radiography with 2 views (<emphasis role="bold">71046</emphasis>) are ordered. A radiologist will interpret the radiograph and report the findings.</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (3 items in Category 1) <emphasis role="bold">Teaching Point:</emphasis> A moderate level of data may be supported by any combination of 3 of the following Category 1 data: review of prior external note(s) from each unique source, order or review of the result(s) of each unique test, or assessment requiring an independent historian(s). In this example, the patient's parents are independent historians and the physician orders 2 unique tests (respiratory viral panel and chest radiography).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If the individual reporting the E/M service also reported the professional component of interpretation and report of the chest radiograph, the test would not be included in the amount and/or complexity of data for this encounter. When billing for interpretation and report of test findings, do not include the order or review of test findings in the data element of MDM.</para>
+               </listitem>
+               <listitem>
+                  <para>If the individual reporting the E/M service independently reviewed the images and documented an impression to inform MDM prior to receipt of a radiologist's formal interpretation, the independent interpretation (Category 2 data) in combination with the Category 1 data would support a high amount and/or complexity of data.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The differentiation between single or multiple unique tests is defined in accordance with the <emphasis role="bold">CPT code assignment</emphasis>. Services reported with 1 code (imaging with multiple views) are 1 test.</para>
+            <para>Tests considered but not ordered or performed after shared decision-making with the patient/caregivers may be counted toward the amount and complexity of data. Shared decision-making includes soliciting preferences, providing education, and explaining risks and benefits associated with testing.</para>
+            <para>▶ A patient is seen by an attending physician for initial care following admission the previous evening for altered mental status with history of headache for the past 4 days. The parents provide the patient's history. The attending physician discusses the case with an infectious disease consultant before ordering a lumbar puncture and magnetic resonance imaging.</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">High</emphasis> (Categories 1 and 3) <emphasis role="bold">Teaching Point:</emphasis> A high level of data may be supported not only by Category 1 given the history from an independent historian and 2 tests ordered but also by Category 3 given the discussion of management or test interpretation with an external physician, other QHP, or other appropriate source when the discussion is not separately reported (eg, not reported as an interprofessional consultation [99452]).</para>
+            <para>
+               <emphasis role="italics">External physicians or other QHPs are individuals who are not in the same group practice or are of a different specialty or subspecialty, including licensed professionals who are practicing independently. A facility or organizational provider such as a hospital, nursing facility, or home health care agency may also be an independent source.</emphasis>
+               <emphasis role="italics">Appropriate sources are professionals who are not in health care but may be involved in the treatment of the patient. Examples include lawyers, case managers, nonfederal social workers, or teachers. Family or informal caregivers are inappropriate sources, although they may be independent historians. Documents from an appropriate source may be counted for the purpose of documents reviewed.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Discussion requires all the following components: is an interactive and direct exchange between the reporting individual and external physician, QHP, or other appropriate source; may be asynchronous but completed within a short period; and is used in MDM of the encounter. Sending medical record notes (eg, consultation report) or a written exchange within medical record notes is not an interactive exchange.</emphasis> ▶ A 15-year-old established patient presents for follow-up regarding type 1 diabetes with poor control. The physician reviews results of 2 tests performed as a recurring order from a prior visit (eg, testing repeated 1 week before each visit). The parents provide the patient's medical, family, and social history since the previous visit.</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (3 items in Category 1) <emphasis role="bold">Teaching Point:</emphasis> The review of 2 unique test results and use of an independent historian support a moderate amount and complexity of data. With a recurring order, only the initial result is included in the order. Count each additional result toward the level of data reviewed and analyzed in the visit in which it is analyzed. For example, an order for a blood glucose test to be performed every 2 months includes review of the initial test result, but future blood glucose test results count in the encounter at which the result is used inpatient management.</para>
+            <para>
+               <emphasis role="italics">Comparison of multiple results of the same unique test (eg, a new blood glucose test result is compared with previous results) is counted as review of 1 unique test result.</emphasis> ▶ A 6-year-old new patient presents with fever, cough, and vomiting for 2 days. The parents provide history of fever as high as 39 °C (102 °F) that started yesterday, coughing for 2 weeks, and now vomiting for 2 days. Chest radiography and an influenza test are ordered. The physician independently reviews the chest radiograph (pending receipt of the radiologist's report).</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Extensive</emphasis> (Categories 1 and 2) <emphasis role="bold">Teaching Point:</emphasis> In this example, the requirements of categories 1 and 2 are met, supporting an extensive level of data. Category 1 is met with orders for 2 unique tests and an assessment requiring an independent historian. Category 2 is met by independent interpretation of a test reported by another physician or QHP. The order for and independent interpretation of the same test (eg, chest radiography) contribute separately to the amount and/or complexity of data.</para>
+            <para>
+               <emphasis role="italics">Independent interpretation is the interpretation of a test for which there is a CPT code and an interpretation or report is included in the code descriptor. It does not apply when the same physician or QHP (or physician or QHP of the same group practice and same specialty) is providing or has previously provided an interpretation and report for the test.</emphasis>
+               <emphasis role="italics">Documentation of pertinent findings from review of an image or a tracing is sufficient, rather than the typical documentation completed when providing and billing for an interpretation and report.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Both independent interpretation of a test and discussion of the test result with the interpreting physician can be counted when both are performed for the same encounter.</emphasis> ▶ A 12-year-old patient presents to a pediatrician with intermittent chest pain and pallor. History is obtained from the patient's mother. A complete blood cell count and ECG are ordered. The ECG tracing is independently reviewed prior to formal interpretation and report by a cardiologist.</para>
+            <para>
+               <emphasis role="bold">Data reviewed and analyzed</emphasis> (Categories 1 and 2) <emphasis role="bold">Teaching Point:</emphasis> The extensive level of data reviewed and analyzed is based on 2 unique tests ordered, assessment requiring an independent historian, and independent interpretation of a test by a physician not reporting a code for the interpretation and report of the findings.</para>
+            <para>The independent history does not need to be obtained in person but does need to be obtained directly from the historian providing the independent information (eg, via telephone).</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s11">
+            <title>Risk of Complications and/or Morbidity or Mortality of Patient Management</title>
+            <para>Risk is the probability and/or consequences of an event. For the purpose of code selection, the level of risk considers the risk of morbidity from additional diagnostic testing or treatment considered at that encounter. Risk also includes MDM related to the need to initiate or forgo further testing, treatment, and/or hospitalization.</para>
+            <para>
+               <emphasis role="bold">Morbidity is a state of illness or functional impairment that is expected to be of substantial duration during which function is limited, quality of life is impaired, or organ damage may not be transient despite treatment.</emphasis> The risk of patient management criteria applies to the reporting physician's or QHP's patient management decisions associated with the diagnostic procedure(s) and treatment(s) during the reported encounter. <emphasis role="italics">Although condition risk and management risk may often correlate, the risk resulting from the condition is distinct from the risk of the management.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Definitions of risk are based on the usual behavior and thought processes of a physician or QHP in the same specialty. That includes the risk of a decision regarding parenteral controlled substances that may or may not be associated with high risk of morbidity.</para>
+               </listitem>
+               <listitem>
+                  <para>Trained clinicians apply common meanings to terms such as <emphasis role="italics">high, medium, low,</emphasis> or <emphasis role="italics">minimal risk</emphasis> and do not require quantification for these definitions (quantification may be provided when evidence-based medicine has established probabilities).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">CPT provides some examples of risk for purposes of code selection. However, these are examples only and are not requirements or restrictions on the physician's or QHP's assessment of risk.</emphasis>
+               <emphasis role="italics">CPT does not include examples of minimal or low risk. Coders should seek guidance from a physician or QHP if unsure of the risk associated with a treatment or management option. For example, a decision to use an over-the-counter medication for a patient who is younger than the age indicated on the product label may carry higher risk than a decision to use it in a patient who is within the indicated age range.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Assessment of the level of risk is affected by the nature of the event under consideration. For example, a low probability of death may be high risk, whereas a high chance of a minor, self-limited adverse effect of treatment may below risk. <emphasis role="italics">Social determinants of health (SDoH) may also influence the risk of management decisions.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">SDoH are economic and social conditions that influence the health of people and communities. Examples may include food, housing, or transportation insecurity.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Risk includes the possible management options selected, and those considered but not selected, after shared decision-making with the patient and/or family. For example, a decision about hospitalization includes consideration of alternative levels of care.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Shared decision-making is soliciting patient and/or family preferences and patient and/or family education and explaining risks and benefits of management options.</emphasis> Risk levels are minimal, low, moderate, and high. <emphasis role="bold">Table 6-3</emphasis> lists examples of each level of risk. The following examples provide information to identify a level of risk of management or treatment decisions made at an encounter. Can you identify the level of risk for each example?</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0001s01s12">
+            <title>Table 6-3. Examples of Levels of Risk</title>
+            <table frame="all" id="ch0008s0003ta0003">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Risk Level</entry>
+                        <entry>Examples</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Minimal</entry>
+                        <entry>Rest and plenty of fluidsDiaper ointmentSuperficial wound dressing</entry>
+                     </row>
+                     <row>
+                        <entry>Low</entry>
+                        <entry>Over-the-counter medication(s) following directions as labeledRemoval of suturesPhysical, speech, or occupational therapy</entry>
+                     </row>
+                     <row>
+                        <entry>Moderate</entry>
+                        <entry>Prescription drug management or recommendation for off-label use of an over-the-counter medicationDecision about minor surgery with identified patient or procedure risk factorsDecision about elective major surgery without identified patient or procedure risk factorsDiagnosis or treatment significantly limited by SDoH</entry>
+                     </row>
+                     <row>
+                        <entry>High</entry>
+                        <entry>Drug therapy requiring intensive monitoring for toxicity (eg, monitoring for a cytopenia in the use of an antineoplastic agent between dose cycles)Decision about hospitalization or escalation of hospital level of careDecision regarding elective major surgery with identified patient or procedure risk factorsDecision about emergency major surgery (immediately performed or minimally delayed to allow for patient stabilization)Decision not to resuscitate or to de-escalate care because prognosis is poorDecision regarding parenteral controlled substances</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Abbreviation: SDoH, social determinants of health.</para>
+            <para>¹ Examples are subject to clinical judgment for each individual patient and encounter.</para>
+            <para>▶ A patient presents for follow-up after treatment of <emphasis role="bold">impetigo</emphasis>. The patient appears well and the parents have no concerns but need clearance to return to child care. Clearance to return to child care is provided. The patient is to return as needed or at the next scheduled preventive visit.</para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Minimal to none</emphasis> ▶ A 6-year-old patient presents with <emphasis role="bold">resolving chronic constipation</emphasis>. A pediatrician recommends continued daily use of an over-the-counter laxative until regular bowel movements are established.</para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Low</emphasis> ▶ A physician sees a 6-year-old patient who <emphasis role="bold">presents with an injury to their left leg</emphasis>. A fracture is diagnosed, and repair under general anesthesia is recommended. The parents agree to proceed with the procedure.</para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Moderate or High</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> Decision for major surgery supports moderate risk when elective or high-risk when performed immediately or with minimal delay to allow for patient stabilization.</para>
+            <para>
+               <emphasis role="bold">Risk of Surgery</emphasis> In determining risk associated with a decision about surgery, the surgical package classification does not determine whether the procedure is minor or major. CPT states that the classification of surgery into minor or major is based on the common meaning of such terms when used by trained clinicians. Risk factors are those relevant to the patient and the procedure.</para>
+            <para>▶ A 14-year-old presents for follow-upfor <emphasis role="bold">asthma</emphasis>. The patient's asthma is well controlled, and a refill of control medication is prescribed.</para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The prescription medication presents a moderate risk.</para>
+            <para>▶<emphasis role="bold">A 6-year-old patient is evaluated for symptoms of acute gastroenteritis. After examination, the pediatrician recommends hospitalization for management of dehydration.</emphasis>
+            </para>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">High</emphasis>
+               <emphasis role="bold">Teaching Point:</emphasis> The risk associated with the decision to hospitalize the ill child is high. A decision for aggressive outpatient follow-up as an alternative to hospitalization may also support a high level of risk.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0008s0003s0002">
+      <title>Selection of Codes Based on MDM</title>
+      <para>To select a code for E/M services based on MDM (rather than the physician's or QHP's total time), you must determine which code is supported by 2 of 3 elements of MDM. Refer to Table 6-4 for an at-a-glance reminder of the levels of MDM. Following are key points to remember in code selection:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Examples given are not clinical recommendations, and levels of service supported may vary depending on documentation and patient age and presentation (eg, patient immunization status).</para>
+         </listitem>
+         <listitem>
+            <para>Select a code on the basis of either total physician and/or QHP time on the DOS or MDM.</para>
+         </listitem>
+         <listitem>
+            <para>Use of new versus established patient codes is based on whether the patient has received any face-to-face professional service from the same physician or a physician in the same group practice of the same exact specialty and subspecialty in the 3 years before the DOS.</para>
+         </listitem>
+         <listitem>
+            <para>Use of initial versus subsequent care codes is based on whether the patient has received any professional services from the physician or QHP or another physician or QHP of the same exact specialty and subspecialty who belongs to the same group practice during the current inpatient or observation or nursing facility admission/stay.</para>
+         </listitem>
+         <listitem>
+            <para>Although <emphasis role="italics">CPT</emphasis> does not specify required documentation to support a level of MDM, the documentation should include the medically appropriate history and/or examination findings and support the diagnostic, management, and treatment decisions made during the encounter.</para>
+         </listitem>
+      </itemizedlist>
+      <para>The following examples provide information sufficient to select a level of service according to the level of MDM. The actual code assigned will vary depending on the site of service. Can you identify the level of MDM in each example?</para>
+      <para>▶<emphasis role="bold">A patient encounter includes instruction to keep anuninfected bugbite clean and apply a simple bandage to prevent scratching. No tests are ordered and no results are reviewed. History is obtained from the patient's mother given the patient's developmental status.</emphasis>
+      </para>
+      <sect3 id="ch0008s0003s30004">
+         <title/>
+         <sect4 id="ch0008s0003s0002s01s01">
+            <title>Problem(s) addressed ⟹ Minimal (self-limited problem) Data reviewed and analyzed ⟹ Limited (independent historian)</title>
+            <para>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Minimal</emphasis> (simple wound cleansing and bandage) <emphasis role="bold">Teaching Point:</emphasis> The level of MDM is straightforward. Although the amount and/or complexity of data to be reviewed and analyzed could support a low level of MDM, 2 of 3 elements must bemet to support a level of MDM. The problems and risk at this encounter limit the level of MDM to straightforward.</para>
+            <para>▶<emphasis role="bold">A patient encounter includes addressing stable type 1 diabetes with history from parents, orders for and review of results for 2 unique tests (eg, hemoglobin A₁c level and urinalysis), reviewed insulin management, and renewed prescription of insulin.</emphasis>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ⟹ <emphasis role="italics">Low</emphasis> (single stable chronic illness)</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (Category 1—independent historian and order/review of 2 tests) <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (prescription drug management)</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The level of MDM is moderate because both data reviewed and risk support this level of service.</para>
+            <para>▶<emphasis role="bold">Parents of a child with a life-threatening condition receive counseling regarding options for continuing hospitalization versus home care directed by a palliative care physician. The parents elect palliative care, and the attending physician requests a palliative care consultation.</emphasis>
+               <emphasis role="italics">Problem(s) addressed</emphasis> ⟹ <emphasis role="italics">High</emphasis> (1 acute or chronic illness or injury that poses a threat to life or bodily function)</para>
+            <para>
+               <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Not indicated in this scenario</emphasis>
+               <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">High</emphasis> (decision to de-escalate care because of poor prognosis)</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The level of MDM is high given the problem addressed and the risk. Two of 3 elements are sufficient to support the level of MDM.</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0002s01s02">
+            <title>Table 6-4. Medical Decision-Making Requirements</title>
+            <table frame="all" id="ch0008s0003ta0004">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c4" namest="c1">Medical Decision-Making (2 of 3 Required: Data,ᵃ Problems, Risk)</entry>
+                     </row>
+                     <row>
+                        <entry>Level of MDM</entry>
+                        <entry>Problems Addressed</entry>
+                        <entry>Data Reviewed and Analyzedᵇ</entry>
+                        <entry>Risk</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Straightforward</entry>
+                        <entry>1 self-limited or minor problem</entry>
+                        <entry>Minimal or none</entry>
+                        <entry>MinimalExamples• Rest and plenty of fluids• Diaper ointment• Superficial wound dressing</entry>
+                     </row>
+                     <row>
+                        <entry>Low</entry>
+                        <entry>Low—Any 1 of≥2 self-limited or minor problems1 stable chronic illness1 acute, uncomplicated illness or injury1 stable acute illness1 acute, uncomplicated illness or injury requiring hospital inpatient or observation level of care</entry>
+                        <entry>Limited (Meet 1 of 2 categories)Category 1: Tests and documents (Any 2)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique testCategory 2: Assessment requiring an independent historian(s)</entry>
+                        <entry>LowExamples• Over-the-counter medication(s)• Removal of sutures• Physical, language, or occupational therapy• Decision regarding minor surgery without identified patient or procedure risk factors</entry>
+                     </row>
+                     <row>
+                        <entry>Moderate</entry>
+                        <entry>Moderate—Any 1 of≥1 chronic illness with exacerbation, progression, or side effects of treatment≥2 stable chronic illnesses1 undiagnosed new problem with uncertain prognosis1 acute illness with systemic symptoms1 acute, complicated injury</entry>
+                        <entry>Moderate (Meet 1 of 3 categories)Category 1 (Any 3)• Review of prior external note(s)—each unique source• Review of the result(s) of each unique test• Ordering of each unique test• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPCategory 3: Discussion of management or test interpretation with external physician/other QHP/appropriate sourceᶜ</entry>
+                        <entry>ModerateExamples• Prescription drug management or off-label use of an over-the-counter medication• Decision about minor surgery with identified patient or procedure risk factors• Decision about elective major surgery without identified patient or procedure risk factors• Diagnosis or treatment significantly limited by SDoH</entry>
+                     </row>
+                     <row>
+                        <entry>High</entry>
+                        <entry>High—Any 1 of≥1 chronic illness with severe exacerbation, progression, or side effects of treatment1 acute or chronic illness or injury that poses a threat to life or bodily function</entry>
+                        <entry>Extensive (Meet 2 of 3 categories)Category 1 (Any 3)• Review of prior external note(s) from each unique source• Review of the result(s) of each unique test• Ordering of each unique test• Assessment requiring an independent historian(s)Category 2: Independent interpretation of a test performed by another physician/other QHPᶜCategory 3: Discussion of management or test interpretation with external physician/other QHP/appropriate sourceᶜ</entry>
+                        <entry>HighExamples• Drug therapy requiring intensive monitoring for toxicity• Decision about hospitalization or escalation of hospital level of care• Decision regarding elective major surgery with identified patient or procedure risk factors• Decision about emergency major surgery• Decision not to resuscitate or to de-escalate care because prognosis is poor• Decision regarding parenteral controlled substances</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>ᵃ Each unique test, order, or document contributes to the combination of 2 or combination of 3 in Category 1.</para>
+            <para>ᵇ Do not count data review or communications reported with other codes (eg, test interpretation, interprofessional consultation).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to other chapters discussing specific types of E/M services for more examples. For a quick reference to E/M coding, refer to the American Academy of Pediatrics (AAP) <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0008s0003s0003">
+      <title>Split or Shared Visits</title>
+      <para>
+         <emphasis role="italics">CPT</emphasis> guidelines define a split or shared visit asone during which physicians and QHPs act as a team providing an E/M service (all work performed on a single DOS). Unlike Medicare policy, the <emphasis role="italics">CPT</emphasis> guideline does not limit application of the split/shared visit guidelines to services provided in a facility setting. (Medicare applies an incident-to policy to split/shared visits in an office or other outpatient setting as discussed in Chapter 7.) The <emphasis role="italics">CPT</emphasis> guidelines apply to all split/shared E/M services. When physicians and QHPs work as a team providing an E/M service, the service is reported by the professional who performed the substantive portion of it. The substantive portion of the service is defined in either of the following ways:</para>
+      <itemizedlist>
+         <listitem>
+            <para>When code selection is based on time, the professional who spent the most time on that date in activities of an E/M service provided to the individual patient will report the service.</para>
+         </listitem>
+         <listitem>
+            <para>When code selection for a split/shared visit is based on MDM, the professional who performed 2 of 3 elements of MDM has performed the substantive portion and reports the E/M service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the number and complexity of problems addressed at the encounter are one of the elements supporting the level of MDM, the professional who approved the management plan for the problem(s) addressed and who accepts the inherent risks of the management plan is considered to have performed the substantive portion of the service.</para>
+               </listitem>
+               <listitem>
+                  <para>When the amount and/or complexity of data to be reviewed and analyzed is one of the elements by which the level of MDM is determined, the following guidance applies:</para>
+               </listitem>
+               <listitem>
+                  <para>◊ Consider the documented history from an independent historian and documented tests ordered or results/documents reviewed to have been used by the professional in formulating the management plan. The professional reporting the service does not have to personally perform these activities.</para>
+               </listitem>
+               <listitem>
+                  <para>◊ An independent interpretation of a test or discussion of management with an external physician is used only in selecting the amount and/or complexity of data to be reviewed and analyzed <emphasis role="italics">when personally performed by the individual reporting the service</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Modifier FS (split/shared E/M visit) must be appended to E/M codes when reporting to a payer that has adopted Medicare policy for split/shared visits. Modifier FS may not be required by all payers.</emphasis>
+         <emphasis role="italics">CPT</emphasis> does not address documentation of split/shared visits. A physician and QHP may each personally document their work in a split/shared visit; this may be 2 separate entries in the medical record or an initial entry with an addendum by the individual who provides services later on the same date. Medicare policy requires that documentation identify the physician and other QHP who performed the visit and that the individual reporting the service sign and date the documentation of the split/shared visit.</para>
+      <para>
+         <emphasis role="bold">▶</emphasis> An NP provides initial observation care to a patient in the hospital. After initially evaluating the patient, the NP spends 5 minutes discussing the patient's condition and management options with a physician inher same group practice and specialty and documents a total time of 25 minutes, including the time of the phone call with the physician. Later, on the same date, the physician of the same group practice and specialty reviews the patient's progress notes and test results since admission to observation and, after reevaluating the patient, agrees with continuing the current management overnight. The physician's total time is 25 minutes <emphasis role="italics">including the 5 minutes of phone conversation with the NP earlier that day</emphasis>.</para>
+      <para>Code 99221 (initial hospital inpatient or observation care; 40 minutes must bemet or exceeded) is reported for the 45-minute total time of service.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> The 5-minute conversation between the physician and NP is counted by only 1 of the professionals for purposes of determining the combined total time of 45 minutes. If beneficial for the physician to report the service, adding the time on the phone call to the physician's time would support the substantive portion of the service (ie, 25 minutes vs the NP's 20 minutes) and support billing under the name and National Provider Identification number of the physician.</para>
+      <para>The individual providing the first visit may not document with an expectation that another visit will be provided by someone in the same specialty and same group practice later on that same date. Beware of overlap in separately documented total time.</para>
+      <para>Whether the physician or NP reports the service may depend on policy established by the individual payer or billing and compliance policies of the group practice.</para>
+      <para>▶<emphasis role="bold">An NP provides initial hospital care to a patient who is admitted from the ED under observation status for ongoing management of a moderate asthma exacerbation.</emphasis> The NP reviews the ED record, including results of tests ordered in the ED, and documents history from the patient's parents. The NP orders inhalation treatments to be administered every 2 hours and continuation of oxygen and enteral steroids. The NP's documentation supports moderate MDM.</para>
+      <para>A few hours later, a physician from the same group practice and same specialty as the NP is called to see the patient, who is not responding adequately to treatment. The physician examines the patient, reviews the patient's hospital record, and decides to admit the patient to the pediatric intensive care unit for impending respiratory failure. The physician's documentation supports high MDM.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> A single initial hospital inpatient and observation care code for the service is reported according to the level of MDM supported in the combined documentation of the NP and physician.</para>
+      <para>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ➤ <emphasis role="bold">High</emphasis> (an illness that poses a threat to life or bodily function in the near term without treatment) <emphasis role="italics">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Moderate</emphasis> (Category 1—based on the NP's documentation of history from the parents and review of multiple laboratory results)</para>
+      <para>
+         <emphasis role="italics">Risk of patient management</emphasis> ➤ <emphasis role="bold">High</emphasis> (based on decision regarding escalation in the level of hospital care) The physician reports <emphasis role="bold">99223</emphasis> because there is a high level of MDM supported by the problems addressed and risk of management decisions made at the physician's visit. Modifier <emphasis role="bold">25</emphasis> is appended to indicate the split/shared visit, when required by the payer.</para>
+      <para>Payer policies for reporting split/shared visits may vary. Practices should learn and monitor updates to payer policies to support appropriate documentation and reporting.</para>
+      <para>Refer to <emphasis role="bold">Chapter 17</emphasis> for more information on reporting split/shared services in a hospital setting.</para>
+   </sect2>
+   <sect2 id="ch0008s0003s0004">
+      <title>Teaching Physician Guidelines for Reporting E/M Services</title>
+      <para>Refer to <emphasis role="bold">Chapter 18</emphasis> for the teaching physician guidelines for billing surgical, high-risk, or other complex procedures.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Payment is made when a teaching physician involves a resident in providing care only if the teaching physician is present for the key or critical portions of the service except when a primary care exception, as discussed in the Primary Care Exception Rule section later in this chapter, applies.</para>
+         </listitem>
+      </itemizedlist>
+      <para>For residency training sites of a teaching setting that are rural (outside a metropolitan statistical area), the CMS allows use of real-time audiovisual communication to interact with the resident to meet the requirement of being present for the key portion of a service, including telehealth services. This provision does not allow use of audio-only (eg, telephone) communication, and the communication must be real-time to allow the teaching physician to observe the resident providing the service.</para>
+      <itemizedlist>
+         <listitem>
+            <para>The level of service billed depends on the level of work performed and documented by the resident and the teaching physician in combination, or by the teaching physician if seen independent of the resident.</para>
+         </listitem>
+         <listitem>
+            <para>The teaching physician, resident, or nurse must document that the physician not only was physically present (ie, in the same room as the patient) during the key or critical portions of the service performed by the resident but also participated in the management of the patient. The selected key or critical portion of the visit is at the discretion of the physician.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Medicare requires that modifier GC (service performed in part by a resident under the direction of a teaching physician) be reported for each service unless the service is furnished under the primary care exception (reported with modifier GE). Other payers may or may not require a modifier.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Only the teaching physician's total time is counted when total time is used to determine the E/M visit level, not including time spent by the resident furnishing care without the presence of the teaching physician.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Only time spent by the teaching physician performing qualifying activities listed by CPT (with or without direct patient contact on the date of the encounter), including time the teaching physician is present when the resident is performing those activities, may be counted in selecting a level of service. This excludes teaching time that is general and not limited to discussion required for the treatment of a specific patient.</para>
+         </listitem>
+      </itemizedlist>
+      <para>A resident may provide initial hospital or observation care without the teaching physician present; the teaching physician may then see the patient later, including on the next day. The date on which the teaching physician saw the patient is the teaching physician's DOS.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Medicare guidelines stipulate that when documenting in an EHR, the teaching physician may use a macro (ie, entry of predetermined and unedited text by typing only a combination of keys such as Alt and A to add a predetermined attestation statement) as the required personal documentation if it is personally entered by the teaching physician. The resident or teaching physician must enter customized information to support medical necessity. The documentation is not sufficient if both the resident and teaching physician use only macros.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Examples</emphasis> ▶ A resident admits a patient at 6:30 pm. The teaching physician's initial visit is performed the following morning at 8:00 am. The teaching physician documents, "I saw and evaluated the patient. Discussed with resident and agree with the findings and plan as documented in Dr Resident's note except asper my addendum and edits within Dr Resident's note." Note: Edits should bedistinguishable in the note.</para>
+      <itemizedlist>
+         <listitem>
+            <para>The teaching physician reports an initial hospital care service based on the work personally performed that morning.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶ The teaching physician sees the same patient for follow-up inpatient care subsequent to the resident's visit. The teaching physician documents, "I saw and evaluated the patient. Discussed with Dr Resident and agree with Dr Resident's findings and plan as documented in the resident's note."</para>
+      <para>▶ The teaching physician and resident jointly admit the same patient. The resident documents, "Dr Teacher was present during the history and exam. I discussed the case with Dr Teacher, who agreed with the findings and plan as documented."</para>
+      <sect3 id="ch0008s0003s30005">
+         <title/>
+         <sect4 id="ch0008s0003s0004s01s01">
+            <title>Medical Student Documentation</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Any contribution and participation by a student to the performance of a billable service (other than obtaining history, which is not separately billable but is taken as part of an E/M service) must be performed in the physical presence of a teaching physician or resident in a service meeting the requirements set forth in this section for teaching physician billing.</para>
+               </listitem>
+               <listitem>
+                  <para>Students may document services in the medical record. However,</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The teaching physician must verify in the medical record all student documentation or findings, including history, physical examination, and/or MDM.</para>
+               </listitem>
+               <listitem>
+                  <para>The teaching physician must personally perform (or re-perform) the physical examination and MDM activities of the E/M service being billed but may verify any student documentation in the medical record, rather than re-documenting this work.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0008s0003s0004s01s02">
+            <title>Primary Care Exception Rule</title>
+            <para>
+               <emphasis role="italics">The primary care exception rule in the teaching physician guidelines allows teaching physicians to bill for services, without being present during the key or critical portions of the service, when provided by residents under their supervision who have completed at least 6 months of approved graduate medical education.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>To qualify for this exception, services must be provided in a teaching hospital or ambulatory care entity. If the services are provided outside a hospital, there must be a written agreement with the teaching hospital that includes a contract outlining the payment for the teaching services or written documentation that the services will be "donated." In general, this exception cannot be applied in a private physician's office or patient's home.</para>
+               </listitem>
+               <listitem>
+                  <para>The CMS includes its Medicare annual wellness visits in the primary care exception rule. However, because Medicare does not recognize the <emphasis role="italics">CPT</emphasis> preventive medicine visit codes, the CMS does not mention these codes in the primary care exception rule. Some Medicaid programs allow the primary care exception rule for preventive medicine services.</para>
+               </listitem>
+               <listitem>
+                  <para>No more than 4 residents can be supervised at a time by a teaching physician. Residents with less than 6 months in a graduate medical education–approved residency program may be included in the mix of 4 residents under the teaching physician's supervision. However, the teaching physician must be physically present for the critical or key portions of services furnished by the resident with less than 6 months in a graduate medical education–approved residency program. That is, the primary care exception does not apply to the resident with less than 6 months in a graduate medical education–approved residency program.</para>
+               </listitem>
+               <listitem>
+                  <para>Patients seen should consider this practice their primary location for health care.</para>
+               </listitem>
+               <listitem>
+                  <para>The teaching physician</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Must be physically present in the clinic or office and immediately available to the residents and may not have other responsibilities, including supervising other personnel or seeing patients</para>
+                     </listitem>
+                     <listitem>
+                        <para>Must review the care provided (ie, history, findings on physical examination, assessment, and treatment plan) during or immediately after each visit; the documentation must reflect the teaching physician's participation in the review and direction of the services performed</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">The teaching physician is supervising a second-year resident in the clinic under the primary care exception rule. An established patient is diagnosed with acute otitis media.</emphasis>
+            </para>
+            <table frame="all" id="ch0008s0003ta0005">
+               <title>Primary Care Exception Rule</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Unacceptable</entry>
+                        <entry>Acceptable</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Countersignature</entry>
+                        <entry>"I reviewed Dr Resident's note and agree with Dr Resident's findings and plans as written." Signature"I reviewed Dr Resident's note and agree but will refer to ENT for consultation." Signature</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>The exception applies only to low-level services, including <emphasis role="bold">99202</emphasis> and <emphasis role="bold">99203</emphasis> for new patient visits or <emphasis role="bold">99211–99213</emphasis> for established patient visits. If a higher-level E/M service is necessary and performed, the teaching physician must personally participate in the care of the patient as outlined in the guidelines.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">E/M code selection is based only on MDM and not on total time when the service is provided under the primary care exception rule.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier <emphasis role="bold">GE</emphasis> (service performed by a resident without the presence of a teaching physician under the primary care exception) may be required by a payer that follows Medicare guidelines for teaching physician services.</para>
+               </listitem>
+            </itemizedlist>
+            <para>*The AAP continues to advocate for the preventive medicine service codes (<emphasis role="bold">99381–99385</emphasis> and <emphasis role="bold">99391–99395</emphasis>) to be included under the primary care exception rule. In some instances, Medicaid plans already consider preventive medicine service codes as part of their primary care exception, so be sure to check with your payers. Look for updates in the AAP Pediatric Coding Newsletter.* You can access the current guidelines addressing the primary care exception rule in Chapter 12, Section 100.1.1c, of the Medicare Claims Processing Manual (www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/clm104c12.pdf).</para>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>. Add to your knowledge through the information provided in other chapters that discuss specific categories of E/M service.</para>
+            <para>Readers of this chapter should generally understand the CPT E/M guidelines and the CMS teaching physician rules. Following are takeaways from this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>CPT provides general and specific E/M guidelines for many codes and code categories. It is important to recognize the guidelines that apply to each E/M service.</para>
+               </listitem>
+               <listitem>
+                  <para>Time must be documented when selecting a code on the basis of time. It is important to note the time required in a code descriptor (eg, time range or required minimum time for reporting).</para>
+               </listitem>
+               <listitem>
+                  <para>Each of the 4 levels of MDM is based on the same criteria whether the patient is new or established or the encounter is initial or subsequent.</para>
+               </listitem>
+               <listitem>
+                  <para>The level of MDM is determined by assessing the level at which 2 of 3 elements of MDM are performed and supported in the documentation of an encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>CPT includes definitions of many terms used in selecting a level of MDM, as well askey instructions regarding what activities are counted for MDM versus activities that are reported separately.</para>
+               </listitem>
+               <listitem>
+                  <para>The substantive portion of a split/shared E/M service is defined as either the greater portion of the total time of the service or the performance of 2 of 3 elements of MDM.</para>
+               </listitem>
+               <listitem>
+                  <para>Teaching physicians should maintain awareness of guidelines and primary care exception rules published by the CMS.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0008s0003s0005">
+      <title>Resources</title>
+      <sect3 id="ch0008s0003s30006">
+         <title/>
+         <sect4 id="ch0008s0003s0005s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>"Evaluation and Management" (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/evaluation-and-management) <emphasis role="italics">Pediatric Evaluation and Management: Coding Quick Reference Card 2026</emphasis> (www.aap.org/Pediatric-Evaluation-and-Management-Coding-Quick-Reference-Card-2026)</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0005s01s02">
+            <title>AAP News™</title>
+            <para>"Understanding updated E/M coding guidelines can prevent underbilling, loss of revenue," August 1, 2024 (https://publications.aap.org/aapnews/news/29460) "What constitutes 'acute illness with systemic symptoms'?" March 1, 2023 (https://publications.aap.org/aapnews/news/23562)</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0005s01s03">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Compliance Corner: Documentation Authentication," March 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book239</emphasis> document002)</para>
+            <para>"Compliance Corner: Incident-to Services," November 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book247</emphasis> document003)</para>
+         </sect4>
+         <sect4 id="ch0008s0003s0005s01s04">
+            <title>Teaching Physician and Primary Care Exception</title>
+            <para>
+               <emphasis role="italics">Medicare Claims Processing Manual</emphasis>, Chapter 12, Section 100.1.1c (www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/clm104c12.pdf)</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">To which category of service below does the concept of new or established patient apply?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Outpatient consultation</para>
+                     </listitem>
+                     <listitem>
+                        <para>Initial inpatient or observation care</para>
+                     </listitem>
+                     <listitem>
+                        <para>Office E/M services</para>
+                     </listitem>
+                     <listitem>
+                        <para>Emergency department services</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false: Two different diagnoses are required when reporting an E/M and another service provided by the same physician or QHP on the same date.</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of a physician's and/or QHP's total time used in E/M code selection?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Time only of the encounter is included in the total time.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Total time includes only the time spent face-to-face with the patient and/or parent/caregiver</para>
+                     </listitem>
+                     <listitem>
+                        <para>Total time includes all time spent by a physician, QHP, and clinical staff on the date of the encounter.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Only time on the date of the encounter is included in the total time.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is correct regarding how tests contribute to the amount and/or complexity of data to be reviewed and analyzed?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A test that is ordered with results reviewed at the same encounter counts twice, once for the order and once for the review of the result.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Review of results of a test that was ordered by the same physician at a prior encounter contributes to the data of the current encounter.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A test panel (eg, metabolic panel or complete blood count) is considered multiple tests for the purpose of the number of tests ordered.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A test panel is considered a single test for the purpose of the number of tests ordered.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is true of determining the level of MDM of an E/M service?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>2 of 3 elements of MDM must support the level of MDM.</para>
+                     </listitem>
+                     <listitem>
+                        <para>3 of 3 elements of MDM must support the level of MDM.</para>
+                     </listitem>
+                     <listitem>
+                        <para>1 of 3 elements of MDM must support the level of MDM.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The level of MDM is based solely on the number and complexity of problems addressed.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

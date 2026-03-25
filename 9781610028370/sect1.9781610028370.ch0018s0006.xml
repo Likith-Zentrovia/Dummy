@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0018s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0018s0006</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>14. Emergency Department Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Resources</title>
+   <sect2 id="ch0018s0006s20003">
+      <title/>
+      <sect3 id="ch0018s0006s30008">
+         <title/>
+         <sect4 id="ch0018s0006s0001s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP <emphasis role="italics">ICD-10-CM</emphasis> resources (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-and-valuation/icd-10-cm-resources)</para>
+            <para>
+               <emphasis role="italics">AAP Payer Advocacy: Prepayment Downloading Checklist</emphasis> (https://downloads.aap.org/AAP/PDF/Downcoding%20Checklist.pdf) <emphasis role="italics">Pediatric ICD-10-CM 2026: A Manual for Provider-Based Coding</emphasis> (www.aap.org/Pediatric-ICD-10-CM-2026-11th-Edition-Paperback)</para>
+         </sect4>
+         <sect4 id="ch0018s0006s0001s01s02">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"Coding for Conditions Due to Heat Overexposure," July 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book243</emphasis> document001) "Coding Hotline," April 2025 (<emphasis role="italics">CPT</emphasis>: Prescription Drug Management) (https://doi.org/10.1542/pcco <emphasis role="italics">book252</emphasis> document005)</para>
+            <para>"Coding Hotline," October 2024 (<emphasis role="italics">CPT</emphasis>: Emergency Department Observation) (https://doi.org/10.1542/pcco <emphasis role="italics">book246</emphasis> document006) "Connecting Coding and Clinical Reports: Oral and Dental Aspects of Child Abuse and Neglect," February 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book250</emphasis> document001)</para>
+            <para>"Critical Care: What's Included? What's Not?" June 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book254</emphasis> document004) "Learning Through Examples: Coding for Concerns Related to Child Abuse or Neglect," February 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book250</emphasis> document005)</para>
+            <para>"Procedural Services: Modifiers to Report Site and Laterality," January 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book249</emphasis> document005) "You Code It! Cannabis Poisoning in a 4-Year-Old," April 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book240</emphasis> document005)</para>
+            <para>"You Code It! Answers: Cannabis Poisoning in a 4-Year-Old," April 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book240</emphasis> document006) ● indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <para>"Asthma, Head Injury, and Laceration: Coding Continuums"</para>
+            <para>"Common Emergency Department Procedures"</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following must be designated in the documentation of an ED visit to help support the urgency of the ED visit under prudent layperson guidelines?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>1 sign, symptom, disease, or injury as the chief complaint</para>
+                     </listitem>
+                     <listitem>
+                        <para>All signs and symptoms noted during triage</para>
+                     </listitem>
+                     <listitem>
+                        <para>1 definitive diagnosis (ie, not a sign or symptom)</para>
+                     </listitem>
+                     <listitem>
+                        <para>A diagnosis that typically requires at least moderate MDM</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which service is appropriately reported with Z04.72, encounter for examination and observation following alleged child physical abuse?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A visit at which child physical abuse is suspected but not confirmed.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A visit at which child physical abuse is confirmed.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A visit at which a child's signs or symptoms of illness or injury are addressed and determined to not bedue to abuse.</para>
+                     </listitem>
+                     <listitem>
+                        <para>A visit at which the child, who presents without signs or symptoms, is observed for alleged child abuse that is ruled out at the visit.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is the starting point for initial hospital inpatient or observation services (99221–99223) initiated by an ED physician or QHP?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>The time at which the patient presented to the ED facility for care</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time at which the ED physician or QHP first provided face-to-face care to the patient</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time at which the ED physician or QHP wrote an order for the patient's admission to observation status</para>
+                     </listitem>
+                     <listitem>
+                        <para>Time beyond the first hour spent in the ED</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which procedure would not be reported by a physician or QHP providing care in the ED?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>General supervision of services performed by hospital personnel</para>
+                     </listitem>
+                     <listitem>
+                        <para>Hydration, infusion, and/or injection procedures</para>
+                     </listitem>
+                     <listitem>
+                        <para>Procedures involving use of hospital-owned equipment and have no associated professional component that would be reported with modifier 26</para>
+                     </listitem>
+                     <listitem>
+                        <para>All of the above</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Per CPT instruction, what is the minimum time of critical care service required to report 99292 in addition to 99291?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>104 minutes</para>
+                     </listitem>
+                     <listitem>
+                        <para>61 minutes</para>
+                     </listitem>
+                     <listitem>
+                        <para>75 minutes</para>
+                     </listitem>
+                     <listitem>
+                        <para>89 minutes</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

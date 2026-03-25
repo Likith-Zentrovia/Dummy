@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0013s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0013s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>10. Mental and Behavioral Health Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Mental and Behavioral Health Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>Who may provide mental and behavioral health services</para>
+      </listitem>
+      <listitem>
+         <para>Important payment considerations</para>
+      </listitem>
+      <listitem>
+         <para>Diagnosis coding guidelines for mental and behavioral health services</para>
+      </listitem>
+      <listitem>
+         <para>Integration of behavioral health into primary care practice</para>
+      </listitem>
+      <listitem>
+         <para>Codes for evaluation and treatment of alcohol and substance use</para>
+      </listitem>
+      <listitem>
+         <para>Differentiation of codes for testing for neuropsychological and psychological conditions</para>
+      </listitem>
+      <listitem>
+         <para>Coding for psychiatric evaluation, psychotherapy, and other psychiatric services</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0013s0002s0001">
+      <title/>
+      <para>This chapter focuses on services that are provided to diagnose, manage, or treat mental and behavioral health conditions. Mental and behavioral health services are an important part of pediatric medicine. In recent years, strategies to address issues with access to mental and behavioral health care have included integration of mental health and substance use treatment into primary care settings and expansion of access to care through telephone and digital platforms. Yet obtaining/providing mental and behavioral health services for/to children still involves complexities that physicians must understand to help their patients access needed services.</para>
+      <para>Pediatric mental and behavioral health conditions may be recognized through preventive screening for anxiety or depression or evaluation of signs and symptoms. Screening and/or assessment for mental and behavioral conditions (<emphasis role="bold">96127</emphasis>) and screening for social determinants of health (health risk assessment, <emphasis role="bold">96160–96161</emphasis>) that may influence diagnosis and treatment are discussed in Chapter 8. Standardized instruments may also be used for diagnosis and follow-up of mental and behavioral health conditions and reported in addition to office visits and/or psychotherapy, when performed. Use of standardized instruments is included in behavioral health integration services (ie, not separately reported).</para>
+      <sect3 id="ch0013s0002s30001">
+         <title/>
+         <sect4 id="ch0013s0002s0001s01s01">
+            <title>Physicians and Other Mental/Behavioral Health Professionals</title>
+            <para>Services included in this chapter may be provided by</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Physicians, other qualified health care professionals (QHPs, whose scope of practice includes evaluation and management [E/M] services). State regulations and payment policies are often least restrictive for these professionals.</para>
+               </listitem>
+               <listitem>
+                  <para>Nonphysician qualified health care professionals (NQHCPs), who are licensed clinical psychologists (LCPs) and licensed clinical social workers (LCSWs) and may include licensed therapists (eg, licensed marriage and family therapists) and counselors. State regulations and payment policies may vary, but often these professionals may provide and independently report services other than E/M services.</para>
+               </listitem>
+               <listitem>
+                  <para>Allied health care professionals, such as registered behavior technicians and licensed master social workers who provide services ordered by and under the general supervision of physicians, QHPs, and NQHCPs. State regulations and payment policies are often somewhat restrictive for these professionals.</para>
+               </listitem>
+               <listitem>
+                  <para>Clinical staff (eg, registered nurse, medical assistant, behavioral health care manager [BHCM]) working under direct (immediately available in the office or, when allowed, by real-time audio-video communication) supervision of a physician, QHP, or NQHCP. State regulations and payment policies are typically most restrictive for these professionals.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0013s0002s0001s01s02">
+            <title>Including Nonphysician Professionals in Your Practice</title>
+            <para>Services such as behavioral health assessment by an LCSW or licensed psychologist may be provided within a general pediatric group practice and can be an integral part of providing a full scope of care in the medical home. Billing and coding of these services, however, must align not only with coding guidelines but also state scope of practice and individual payer policies on credentialing, contracting, and billing for services of the specific NQHCP. Know your state regulations and payer policies when integrating mental/behavioral health professionals into your practice.</para>
+         </sect4>
+         <sect4 id="ch0013s0002s0001s01s03">
+            <title>Payment and Coverage Issues for Mental/Behavioral Health Services</title>
+            <para>Behavioral health services may be covered through a plan and provider network separate from other health care services. When arranging for or providing behavioral health services, it is very important to explore the patient's health plan policy options.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; and ♦, synchronous interactive audio.</para>
+               </listitem>
+               <listitem>
+                  <para>Failure to credential and, when applicable, contract with behavioral health plans may lead to unpaid or underpaid charges or unanticipated takebacks of previously paid amounts.</para>
+               </listitem>
+               <listitem>
+                  <para>Payer policies may allow specific licensed professionals, such as LCPs and LCSWs, to directly provide and report certain services. Other NQHCPs (eg, licensed master social workers) may be limited to providing services under direct supervision and reporting in the name of the participating health care professional (eg, LCP or psychiatrist).</para>
+               </listitem>
+               <listitem>
+                  <para>General pediatricians and other QHPs may be ineligible to participate in the behavioral health plan network and limited to reporting E/M (eg, 99214) services to the health plan. Likewise, psychiatrists and QHPs specializing in mental health but able to provide medical services may participate in both medical and behavioral health networks.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The American Academy of Pediatrics (AAP) Council on Early Childhood, Committee on Psychosocial Aspects of Child and Family Health, and Section on Developmental and Behavioral Pediatrics included the following information about treatment coverage for emotional and behavioral health problems in the policy statement "Addressing Early Childhood Emotional and Behavioral Problems" (https://doi.org/10.1542/peds.2016-3023).</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">American Academy of Pediatrics Policy Statement</emphasis>
+               </para>
+               <para>"Without adequate payment for screening and assessment by primary care providers and management by specialty providers with expertise in early childhood mental health, treatment of very young children with emotional and behavioral problems will likely remain inaccessible for many children. Given existing knowledge regarding the importance of early childhood brain development on lifelong health, adequate payment for early childhood preventive services will benefit not only the patients but society as well and should be supported. Mental health care should beeliminated because they provide a significant barrier to access to mental health care for children. Additional steps toward equal access to mental health and physical health care include efficient prior authorization processes; adequate panels of early childhood mental health providers; payment to all providers, including primary care providers, for mental health diagnoses; sustained payment for extended mental health providers and care coordination; payment for evidence-based approaches focused on parents; and payment for the necessary collection of information from children's many caregivers and for same-day services. Advocacy for true mental health parity must continue."</para>
+            </blockquote>
+            <para>Integration of psychiatric/behavioral health care professionals into the primary care practice may also require an understanding of health plan payment policies. Payer edits may not allow separate payment for mental and behavioral health services when E/M services are provided in the same practice on the same date. Verify coverage and billing options before provision of services.</para>
+            <blockquote>
+               <para>To learn more about payer edits, refer to <emphasis role="bold">Chapter 2</emphasis>. To learn more about AAP payer advocacy, refer to <emphasis role="bold">Chapter 4</emphasis>.</para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>Payers often place limitations on the diagnoses that may be paid under a patient's health benefits versus a separate behavioral health benefit.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Pediatricians may be required to report codes for symptoms rather than diagnosed conditions (eg, sadness in lieu of depression). This conflicts with <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) guidelines, which instruct, "Codes that describe symptoms and signs, as opposed to diagnoses, are acceptable for reporting purposes when a related definitive diagnosis has not been established (confirmed) by the provider." Adherence to ICD-10-CM guidelines when assigning diagnosis codes is required under the Health Insurance Portability and Accountability Act (HIPAA) of 1996. Payers are required to accept codes reported in compliance with the official guidelines for code selection and reporting.</para>
+                     </listitem>
+                     <listitem>
+                        <para>When payers deny claims appropriately reported with codes <emphasis role="bold">F01–F99</emphasis> (mental, behavioral, and neurodevelopmental disorders), pediatricians may report the issue through the AAP Coding and Payment Hotline (www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline) or seek the assistance of an AAP pediatric council (www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils). HIPAA code set violations may also be reported with the Centers for Medicare &amp; Medicaid Services complaint form at https://asett.cms.gov/ASETT <emphasis role="italics">ST</emphasis> CMP_HomePage.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Healthcare Common Procedure Coding System (HCPCS) modifiers identifying the type of health care professional (eg, AJ, clinical social worker) may be necessary to override edits that bundle E/M services provided by a physician/QHP and mental/behavioral health services provided by an NQHCP on the same date.</para>
+            <para>Relevant HCPCS modifiers include</para>
+            <para>
+               <emphasis role="bold">AH</emphasis>        Clinical psychologist</para>
+            <para>
+               <emphasis role="bold">AJ</emphasis>        Clinical social worker</para>
+            <para>
+               <emphasis role="bold">AM</emphasis>        Physician, team member service</para>
+            <para>
+               <emphasis role="bold">FQ</emphasis>        Furnished using audio-only communication technology ● indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <para>
+               <emphasis role="bold">GT</emphasis> Via interactive audio and video telecommunication systems</para>
+            <para>
+               <emphasis role="bold">HA</emphasis> Child/adolescent program</para>
+            <para>
+               <emphasis role="bold">HN</emphasis> Bachelor's degree level</para>
+            <para>
+               <emphasis role="bold">HO</emphasis> Master's degree level</para>
+            <para>
+               <emphasis role="bold">HP</emphasis> Doctoral level</para>
+            <para>
+               <emphasis role="bold">HQ</emphasis> Group setting</para>
+            <para>
+               <emphasis role="bold">TL</emphasis> Early intervention/individualized family service plan (IFSP)</para>
+            <para>
+               <emphasis role="bold">UN</emphasis> Two patients served</para>
+            <para>
+               <emphasis role="bold">UP</emphasis> Three patients served</para>
+            <para>
+               <emphasis role="bold">UQ</emphasis> Four patients served</para>
+            <para>
+               <emphasis role="bold">UR</emphasis> Five patients served</para>
+            <para>
+               <emphasis role="bold">US</emphasis> Six or more patients served</para>
+         </sect4>
+         <sect4 id="ch0013s0002s0001s01s04">
+            <title>Telemedicine for Mental Health Services</title>
+            <para>In 2025, codes for office or other outpatient E/M visits via synchronous audio-visual (<emphasis role="bold">98000–98006</emphasis>) or audio-only (<emphasis role="bold">98008–98015</emphasis>) communications technology were added to CPT*. However, the Medicare program elected to continue paying for telemedicine office/ outpatient E/M visits reported with E/M office visit codes (<emphasis role="bold">99202–99215</emphasis>) appended with telemedicine modifiers. Payer policies for telemedicine services vary and may require use of an E/M service performed in conjunction with psychotherapy. Verification of payer policy is advised prior to claim submission. Another code, <emphasis role="bold">98016</emphasis>, is reported for a brief communication technology-based service (eg, telephone call) of 5 to 10 minutes' duration to determine if a more extensive service is indicated.</para>
+            <para>Access to health care services via electronic communication technology has advanced significantly since the COVID-19 public health emergency. Although many advances were short-term amendments to payer policies, payment policies for services provided for mental health and substance use diagnoses have changed permanently in many areas. It is important for physicians and other providers of these services to be aware of changing regulations and payment policies that may support greater use of telemedicine.</para>
+            <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on use of modifiers and <emphasis role="bold">Chapters 19</emphasis> and <emphasis role="bold">20</emphasis> for discussion of coding and documentation for telemedicine services.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0013s0002s0002">
+      <title>Reporting Codes F01–F99</title>
+      <para>Diagnosis of behavioral and mental health conditions is typically based on the criteria set forth in the <emphasis role="italics">Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision</emphasis> (DSM-5-TR) classification system.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Often, a simple crosswalk from the <emphasis role="italics">DSM-5-TR</emphasis> diagnosis to the <emphasis role="italics">ICD-10-CM</emphasis> code supporting the diagnosis can be made. However, the classifications are not always equivalent.</para>
+         </listitem>
+         <listitem>
+            <para>It is important that documentation clearly reflects a diagnostic statement separate from the assignment of an <emphasis role="italics">ICD-10-CM</emphasis> code as required by official guidance for <emphasis role="italics">ICD-10-CM</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Documentation should include the findings supporting the diagnosis (eg, observations made during the appointment, history, standardized rating scale results, pertinent physical examination findings).</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Failure to document the information supporting the diagnostic statement could affect the patient's access to care and the physician's payment for services provided.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">ICD-10-CM</emphasis> includes codes for specifying how an accident or injury happened (eg, unintentional or accidental; intentional, such assuicide or assault).</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Treatment of patients who sustained injury or illness (eg, poisoning) resulting from intentional self-harm are reported with codes signifying the intent—for example, <emphasis role="bold">T52.92XA</emphasis> (toxic effect of unspecified organic solvent, intentional self-harm, initial encounter) or <emphasis role="bold">R45.89</emphasis> (nonsuicidal self-harm).</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>If the intent of the cause of an injury or another condition is unknown or unspecified, code the intent as accidental intent. All transport accident categories assume accidental intent.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes for events of undetermined intent are for use only if the documentation in the record specifies that the intent cannot be determined at the encounter (eg, suspected abuse under investigation).</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>To fully report conditions such as poisoning, follow <emphasis role="italics">ICD-10-CM</emphasis> instructions in the tabular list. For example, instructions for <emphasis role="bold">T52.92XA</emphasis> include "Use additional code(s) for all associated manifestations of toxic effect, such as: respiratory conditions due to external agents (<emphasis role="bold">J60–J70</emphasis>)."</para>
+   </sect2>
+   <sect2 id="ch0013s0002s0003">
+      <title>Current Procedural Terminology Add-On Codes</title>
+      <para>Many mental and behavioral health services are described by a combination of a base code with add-on codes (AOCs) representing extended services. AOCs (marked with a ✚ before the code) are always performed in addition to a primary procedure and are never reported as a stand-alone service. Like most other codes, AOCs describe additional intraservice work and are not valued to include preservice and postservice work.</para>
+   </sect2>
+   <sect2 id="ch0013s0002s0004">
+      <title>Behavioral Health Integration</title>
+      <para>Integration of mental/behavioral health care into primary care pediatrics has been identified as a means of providing early and ongoing access to behavioral health services. Integration of medical and behavioral health services does not always mean inclusion and/or colocation of behavioral health professionals in a medical practice. Integration may include care management services provided under the supervision of a physician or QHP to initiate a plan of care, coordinate care, and monitor and/or respond to changes in the status of mental/behavioral health conditions.</para>
+      <para>Following are 2 sets of codes that describe integrated behavioral health services:</para>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>Psychiatric collaborative care management services (<emphasis role="bold">99492-99494</emphasis>) include a defined team of health care professionals providing care through a specific method.</para>
+         </listitem>
+         <listitem>
+            <para>General behavioral health integration (<emphasis role="bold">99484</emphasis>) services do not include specific types of professionals or a specified method of delivery.</para>
+         </listitem>
+      </orderedlist>
+      <para>These behavioral health integration services are differentiated by the required elements of service.</para>
+      <sect3 id="ch0013s0002s30002">
+         <title/>
+         <sect4 id="ch0013s0002s0004s01s01">
+            <title>Psychiatric Collaborative Care Management Services</title>
+            <para>Psychiatric collaborative care management services are reported by a physician or QHP who supervises a BHCM who delivers the services in collaboration with a psychologist or other mental health professional (QHP) who can prescribe a full range of medications. Psychiatric collaborative care management services are provided to patients who have a new or existing psychiatric disorder that requires a behavioral health assessment; care plan implementation, revision, or monitoring; and provision of brief interventions. The treating physician or QHP reports codes <emphasis role="bold">99492-99494</emphasis> when all requirements for reporting are met. QM and other services may be reported separately by the same physician or QHP during the same calendar month.</para>
+            <para>
+               <emphasis role="bold">99492</emphasis> Initial psychiatric collaborative care management, first 70 minutes in the first calendar month of BHCM activities, in consultation with a psychiatric consultant, and directed by the treating physician or other QHP, with the following required elements:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>outreach to and engagement in treatment of a patient directed by the treating physician or other QHP,</para>
+               </listitem>
+               <listitem>
+                  <para>initial assessment of the patient, including administration of validated rating scales, with the development of an individualized treatment plan,</para>
+               </listitem>
+               <listitem>
+                  <para>review by the psychiatric consultant with modifications of the plan if recommended,</para>
+               </listitem>
+               <listitem>
+                  <para>entering patient in a registry and tracking patient follow-upand progress using the registry, with appropriate documentation, and participation in weekly caseload consultation with the psychiatric consultant, and</para>
+               </listitem>
+               <listitem>
+                  <para>provision of brief interventions using evidence-based techniques such as behavioral activation, motivational interviewing, and other focused treatment strategies.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Payer policies vary in coverage of psychiatric collaborative care management. For instance, some programs allow one unit of 99492 per year rather than once per lifetime per physician or other QHP. Billing staff should regularly review payer policies to inform correct coding.</emphasis>
+               <emphasis role="bold">99493</emphasis> Subsequent psychiatric collaborative care management, first 60 minutes in a subsequent month of BHCM activities, in consultation with a psychiatric consultant, and directed by the treating physician or other QHP, with the following required elements:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>tracking patient follow-upand progress using the registry, with appropriate documentation,</para>
+               </listitem>
+               <listitem>
+                  <para>participation in weekly caseload consultation with the psychiatric consultant,</para>
+               </listitem>
+               <listitem>
+                  <para>ongoing collaboration with and coordination of the patient's mental health care with the treating physician or other QHP and any other treating mental health providers,</para>
+               </listitem>
+               <listitem>
+                  <para>additional review of progress and recommendations for changes in treatment, as indicated, including medications, based on recommendations provided by the psychiatric consultant,</para>
+               </listitem>
+               <listitem>
+                  <para>provision of brief interventions using evidence-based techniques such as behavioral activation, motivational interviewing, and other focused treatment strategies,</para>
+               </listitem>
+               <listitem>
+                  <para>monitoring of patient outcomes using validated rating scales, and</para>
+               </listitem>
+               <listitem>
+                  <para>relapse prevention planning with patients as they achieve remission of symptoms and/or other treatment goals and are prepared for discharge from active treatment.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">+99494</emphasis> Initial or subsequent psychiatric collaborative care management, each additional 30 minutes in a calendar month of BHCM activities, in consultation with a psychiatric consultant, and directed by the treating physician or other QHP (List separately in addition to code for primary procedure) (Use <emphasis role="bold">99494</emphasis> in conjunction with <emphasis role="bold">99492</emphasis> or <emphasis role="bold">99493</emphasis>.)</para>
+            <para>Medicaid plans and other payers may also accept HCPCS code <emphasis role="bold">G2214</emphasis>, which requires less time within a calendar month than <emphasis role="bold">99492</emphasis> or <emphasis role="bold">99493</emphasis>. Report <emphasis role="bold">G2214</emphasis> for either initial or subsequent psychiatric collaborative care management.</para>
+            <para>
+               <emphasis role="bold">G2214</emphasis> Initial or subsequent psychiatric collaborative care management, first 30 minutes in a month of BHCM activities, in consultation with a psychiatric consultant, and directed by the treating physician or other QHP Other payers that follow the <emphasis role="italics">CPT</emphasis> midpoint rule for time may allow reporting of <emphasis role="bold">99492</emphasis> for 36 minutes or more and <emphasis role="bold">99493</emphasis> for 51 minutes or more. Verify the policies and initiatives of plans in your area to determine the correct codes, payment policies, and fee schedules for these services.</para>
+            <para>As shown in Figure 10-1, codes <emphasis role="bold">99492</emphasis>–<emphasis role="bold">99494</emphasis> represent services provided by a team that includes 3 distinct roles.</para>
+            <figure float="0" id="ch0013s0002fg0001">
+               <title/>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="ch0013f01.jpg" scalefit="1" width="100%"/>
+                  </imageobject>
+               </mediaobject>
+            </figure>
+         </sect4>
+         <sect4 id="ch0013s0002s0004s01s02">
+            <title>Figure 10-1. Psychiatric Collaborative Care Team</title>
+            <para>Each team member's role is defined in <emphasis role="italics">CPT</emphasis> as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The treating physician or QHP</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Directs the BHCM and continues to oversee the patient's care, including prescribing medications, treating medical conditions, and making referrals for specialty care when needed.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Engages the services of the psychiatric consultant, who does not directly bill for psychiatric collaborative care management services (ie, the treating physician's or QHP's practice contracts with the psychiatric consultant for this component of the psychiatric collaborative care management service).</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Acts in a supervisory role to the BHCM (may be a direct employee or contractual employee but should represent a practice expense, as other clinical staff and NQHCPs do).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>May personally perform behavioral health care management activities. When those activities are not used to meet criteria for a separately reported service (eg, office E/M), their time may be counted toward the required time for psychiatric collaborative care management.</para>
+               </listitem>
+               <listitem>
+                  <para>Is ultimately responsible for delivery, documentation, and billing of psychiatric collaborative care management services in compliance with CPT and payer policies.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The BHCM is an NQHCP or clinical staff member with master- or doctoral-level education or specialized training in behavioral health who provides behavioral health care management services under the treating physician's or QHP's supervision and in consultation with a psychiatric consultant. The BHCM provides the following services, as needed:</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Assessment of needs, including the administration of validated rating scales.</para>
+               </listitem>
+               <listitem>
+                  <para>Development of a care plan.</para>
+               </listitem>
+               <listitem>
+                  <para>Provision of brief face-to-face and non–face-to-face interventions.</para>
+               </listitem>
+               <listitem>
+                  <para>Ongoing collaboration with the treating physician or QHP.</para>
+               </listitem>
+               <listitem>
+                  <para>Consultation with the psychiatric consultant at least weekly (typically non–face-to-face).</para>
+               </listitem>
+               <listitem>
+                  <para>Maintenance of a registry.</para>
+               </listitem>
+               <listitem>
+                  <para>Sometimes, provision and reporting of other services (within the BHCM's scope of practice) in the same calendar month as psychiatric collaborative care management. These may include psychiatric diagnosis, psychotherapy, smoking and tobacco use cessation counseling (<emphasis role="bold">99406, 99407</emphasis>), and alcohol and/or substance use structured screening and brief intervention services (<emphasis role="bold">99408, 99409</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>State initiatives may include support of primary care practices as they implement psychiatric collaborative care management. For instance, some Medicaid programs provide training and technical assistance to help physicians and QHPs adopt the collaborative care model, including access to and use of a patient registry.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The psychiatric consultant is a medical professional trained in psychiatry or behavioral health <emphasis role="italics">and qualified to prescribe a full range of medications</emphasis>. The psychiatric consultant does not typically see the patient or prescribe medications, except inrare circumstances. The psychiatric consultant offers advice and makes recommendations to the treating physician or QHP, typically via consultation with the BHCM. The psychiatric consultant's services include recommending the following services, as needed:</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Psychiatric and other medical differential diagnosis</para>
+               </listitem>
+               <listitem>
+                  <para>Treatment strategies addressing appropriate therapies</para>
+               </listitem>
+               <listitem>
+                  <para>Medication management — Medical management of complications associated with treatment of psychiatric disorders</para>
+               </listitem>
+               <listitem>
+                  <para>Referral for specialty services The psychiatric consultant may directly provide and separately report E/M or psychiatric services, such as psychiatric evaluation (<emphasis role="bold">90791, 90792</emphasis>), to a patient within a calendar month when the same patient receives psychiatric collaborative care management services.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Reporting requirements for psychiatric collaborative care management services include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time of service is met when the midpoint is passed for <emphasis role="bold">99492–99494</emphasis>. Documentation must support provision of psychiatric collaborative care management services for the required time.</para>
+               </listitem>
+               <listitem>
+                  <para>When service time does not meet the midpoint (ie, ≥36 minutes for <emphasis role="bold">99492</emphasis>, ≥31 minutes for <emphasis role="bold">99493</emphasis>, ≥16 minutes beyond most recent full period for <emphasis role="bold">99494</emphasis>), do not report these codes. Refer to discussion of <emphasis role="bold">G2214</emphasis> earlier in this section for a potential alternative.</para>
+               </listitem>
+               <listitem>
+                  <para>Services are provided for an episode of care defined as beginning when the treating physician or QHP directs the patient to the BHCM and ending with</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The attainment of targeted treatment goals, which typically results in the discontinuation of care management services and continuation of usual follow-up with the treating physician or other QHP — Failure to attain targeted treatment goals, culminating in referral to a psychiatric care provider for ongoing treatment</para>
+               </listitem>
+               <listitem>
+                  <para>Lack of continued engagement, with no psychiatric collaborative care management services provided over a consecutive 6-month calendar period (break in episode of care)</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>A new episode of care starts after a break in an episode of care of 6 calendar months or more.</para>
+               </listitem>
+               <listitem>
+                  <para>Following are typical indications of medical necessity for psychiatric collaborative care management services, when documented. Other reasons for services may support medical necessity.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>A newly diagnosed condition — A patient's need for help engaging in treatment</para>
+               </listitem>
+               <listitem>
+                  <para>A patient who has not responded to standard care delivered in a nonpsychiatric setting or who requires further assessment and engagement before consideration of referral to a psychiatric care setting — Documentation of the patient's behavioral health conditions, psychosocial needs, and other factors influencing patient care may help support the necessity of services when health plans implement specific coverage criteria and/ or prior authorization for psychiatric collaborative care management services</para>
+               </listitem>
+            </itemizedlist>
+            <para>Psychiatric collaborative care management services do not require establishment of a care plan for <emphasis role="italics">all</emphasis> the patient's health care needs. The services are directed to behavioral health needs. Patients may or may not have coexisting conditions that affect treatment and management.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Psychiatric collaborative care management services may be reported in the same month as chronic care management or principal care management services (<emphasis role="bold">99439, 99487, 99489–99491, 99424–99427, 99437</emphasis>) when the requirements for each service are met without overlap.</para>
+               </listitem>
+               <listitem>
+                  <para>Remote therapeutic monitoring treatment management services for cognitive behavioral therapy (<emphasis role="bold">99980, 99981</emphasis>) are separately reported when they are provided and the time is not overlapping with that of psychiatric collaborative care management.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 21</emphasis> for discussion of <emphasis role="bold">99980</emphasis> and <emphasis role="bold">99981</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Provision of psychiatric collaborative care management services may support quality initiatives such asuse of an electronic clinical data system to track care and administration of a validated rating scale (eg, depression screening instrument) during a 4-month period for patients diagnosed with major depression or dysthymia.</para>
+               </listitem>
+               <listitem>
+                  <para>Psychiatric collaborative care management includes use of validated rating scales in monitoring patient outcomes.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not separately report use of standardized rating scales (eg, <emphasis role="bold">96127</emphasis>).</para>
+            <para>✱ Do not include any time spent in separately reported services in the time of psychiatric collaborative care management.</para>
+            <para>✱ Do not separately report interprofessional consultation (eg, <emphasis role="bold">99446–99449, 99451</emphasis>, or <emphasis role="bold">G0546–G0551</emphasis>) for consultations between the treating physician, BHCM, and consulting psychiatrist.</para>
+            <para>▶ A pediatrician orders psychiatric collaborative care management services for a 15-year-old patient diagnosed with moderate depression, single episode. An LCSW, as the BHCM, discusses psychiatric collaborative care management services with the patient and performs an initial assessment. Standardized assessment instruments are used in the assessment, and a treatment plan including psychotherapy is agreed on. Later, the LCSW enters the patient information into a registry that will be used to track medication adherence and progress. At a regularly scheduled conference call between the BHCM and a consulting psychiatrist, the patient's assessment is reviewed and the treatment plan approved. The supervising pediatrician is also consulted and approves the treatment plan. The LCSW documents the time and activities directed to the patient's care throughout the calendar month. The LCSW, whose scope of practice includes psychotherapy, provides 3 separately reported individual psychotherapy sessions within the calendar month in addition to psychiatric collaborative care management services. During the calendar month, the BHCM documents 60 minutes of time spent in psychiatric collaborative care management services.</para>
+            <para>Throughout the month, the treating physician or QHP directs the BHCM and continues to oversee the patient's care, including prescribing medications, treating medical conditions, and making referrals for specialty care when needed. When the treating physician or QHP personally performs activities of psychiatric collaborative care management that are not included in an E/M or other separately reported service, the physician's or QHP's time contributes to the psychiatric collaborative care management service time. The treating physician or QHP documents review of patient progress and approval of change in treatment, as indicated, based on recommendations of the psychiatric consultant.</para>
+            <table frame="all" id="ch0013s0002ta0001">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>F32.1 (major depressive disorder, single episode, moderate)</entry>
+                        <entry>The treating physician or QHP reports99492 (initial month psychiatric collaborative care management service, first 70 minutes)The LCSW reports (when provided)90832, 90834, or 90837 (psychotherapy without E/M based on time of service; 30, 45, or 60 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Psychotherapy services may be reported on a separate claim before fulfilling the time requirement for psychiatric collaborative care management. No time spent in providing separately reported psychotherapy may be attributed to the time of psychiatric collaborative care management services. If psychotherapy services were not within the scope of practice for the BHCM, the patient might be referred to another provider (eg, the consulting psychiatrist), who would report the services rendered.</para>
+         </sect4>
+         <sect4 id="ch0013s0002s0004s01s03">
+            <title>General Behavioral Health Integration Care Management</title>
+            <para>General behavioral health integration care management (99484) is reported by a physician or QHP for supervision of clinical staff who provide at least 20 minutes of outpatient general behavioral health integration services within a calendar month to a patient with a behavioral health condition (including substance use). The individual reporting 99484 must beable to perform and report E/M services, including an initiating visit. A treatment plan must be documented and address the patient's behavioral health condition(s), but a comprehensive health care plan is not required. Code 99484 does not include requirements for a BHCM or collaboration with a psychiatrist.</para>
+            <para>
+               <emphasis role="bold">#99484</emphasis> Care management services for behavioral health conditions, at least 20 minutes of clinical staff time, directed by a physician or other QHP, per calendar month, with the following required elements:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Initial assessment or follow-up monitoring, including the use of applicable validated rating scales,</para>
+               </listitem>
+               <listitem>
+                  <para>Behavioral health care planning in relation to behavioral/psychiatric health problems, including revision for patients who are not progressing or whose status changes,</para>
+               </listitem>
+               <listitem>
+                  <para>Facilitating and coordinating treatment such as psychotherapy, pharmacotherapy, counseling and/or psychiatric consultation, and</para>
+               </listitem>
+               <listitem>
+                  <para>Continuity of care with a designated member of the care team</para>
+               </listitem>
+            </itemizedlist>
+            <para>Clinical staff providing general behavioral health integration services are not required to have qualifications that would permit them to separately report services (eg, psychotherapy), but if they are qualified and they perform such services, they may report such services separately. The time of the separately reported service is not used to support reporting 99484. Services must be provided under general physician supervision and in accordance with the licensing and scope of practice requirements of the state where services are provided. The individual supervising and reporting general behavioral health integration care management services must beable to report E/M services.</para>
+            <para>All the required elements of service listed in the code descriptor must be provided and documented.</para>
+            <para>When psychologists and/or LCSWs are integrated into a medical practice, the NQHCPs may provide and report behavioral health care management services with G0323 (care management services for behavioral health conditions, at least 20 minutes of clinical psychologist or clinical social worker time, per calendar month). These services include coordination with and/or referral to physicians and QHPs whose scope of practice includes prescribing medications and furnishing E/M services; counseling; and/or psychiatric consultation in addition to the required elements of general behavioral health integration. Refer to individual payer policies for guidance on coverage, billing, and documentation. Codes 99484 and G0323 would not be reported for the same patient by health care professionals in the same group practice.</para>
+            <para>▶ A 15-year-old established patient presents to a primary care pediatrician with concerns of social anxiety and lack of interest in previously enjoyed activities. In addition to obtaining the patient's history, the physician uses scores from 2 patient-completed standardized behavioral health assessment instruments (eg, depression and anxiety rating scales) and a standardized suicide risk assessment instrument to inform the diagnostic and treatment considerations. The primary care physician diagnoses the patient with a behavioral health disorder and prescribes medication. The physician also recommends that the patient receive behavioral health care management as part of the treatment plan. The physician reports the appropriate code for the E/M service (eg, <emphasis role="bold">99214</emphasis>), <emphasis role="bold">96127</emphasis> × 2 (brief emotional/behavioral assessment [eg, depression inventory, attention-deficit/hyperactivity disorder (ADHD) scale], with scoring and documentation, per standardized instrument), and <emphasis role="bold">96160</emphasis> (administration of patient-focused health risk assessment instrument [eg, health hazard appraisal] with scoring and documentation, per standardized instrument) for the services provided on that date.</para>
+            <para>A few days later, clinical staff (eg, a nurse with specialized training in behavioral health services) meets with the patient and parents to develop a behavioral health plan of care based on the physician's orders. During the calendar month, clinical staff, working under the physician's supervision, provide coordination of care with a psychologist in another practice and with a school counselor. At least 20 minutes of clinical staff time is documented for activities of general behavioral health integration during the calendar month to assess adherence to the plan of care, assess progress through standardized rating scales, and coordinate care, including facilitating access to community resources, as needed.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> If clinical staff time of less than 20 minutes is documented in a calendar month, <emphasis role="bold">99484</emphasis> is not reported. Provision and scoring of standardized rating scales is not separately reported when performed in conjunction with behavioral health integration services. Physician services are separately reportable when the time and activities of those services are not included toward meeting the criteria of <emphasis role="bold">99484</emphasis>.</para>
+            <para>Refer to individual payer policies for reporting general behavioral health integration services on the same date that a physician provides a significant and separately identifiable E/M service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time may be face-to-face but more typically may benon–face-to-face. Clinical staff must be available to provide face-to-face services to the patient when requested.</para>
+               </listitem>
+               <listitem>
+                  <para>E/M and/or psychiatric services may be reported on the same date or in the same calendar month as general behavioral health integration services when performed, but the time of separately reported services is not counted toward the time of general behavioral health integration services.</para>
+               </listitem>
+               <listitem>
+                  <para>General behavioral health integration (<emphasis role="bold">99484</emphasis>) may be reported in the same month as chronic care management or principal care management services (<emphasis role="bold">99439</emphasis>, <emphasis role="bold">99487</emphasis>, <emphasis role="bold">99489</emphasis>–<emphasis role="bold">99491</emphasis>, <emphasis role="bold">99424</emphasis>–<emphasis role="bold">99427</emphasis>, <emphasis role="bold">99437</emphasis>) when the requirements for each service are met without overlap. Psychiatric collaborative care management (<emphasis role="bold">99492</emphasis>–<emphasis role="bold">99494</emphasis>, <emphasis role="bold">G2214</emphasis>) may not be reported by the same provider in the same month as general behavioral health integration.</para>
+               </listitem>
+               <listitem>
+                  <para>The reporting individual may personally provide elements of general behavioral health integration services and combine the time of service with that of clinical staff to support reporting <emphasis role="bold">99484</emphasis>. However, the time of services that are separately reported (eg, 20 minutes' total time spent providing an E/M service reported with <emphasis role="bold">99213</emphasis>) cannot be included in the time supporting <emphasis role="bold">99484</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Clinical staff time spent coordinating care with the emergency department (ED) may be reported with <emphasis role="bold">99484</emphasis>, but time spent while the patient is in the ED or is admitted to observation status may not be reported with <emphasis role="bold">99484</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>★<emphasis role="italics">Use of validated rating scales is required and is not separately reported</emphasis> (ie, do not report <emphasis role="bold">96127</emphasis> for rating scales administered during the period of behavioral health care management services).</para>
+            <para>★ Do not include time spent in separately reported services in the time of general behavioral health integration services.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0013s0002s0005">
+      <title>Evaluation and Treatment of Alcohol and Substance Use</title>
+      <para>The initial evaluation of a child for alcohol and/or substance use is often in the context of an E/M service (eg, office and other outpatient E/M <emphasis role="bold">99202</emphasis>–<emphasis role="bold">99205</emphasis> or <emphasis role="bold">99212</emphasis>–<emphasis role="bold">99215</emphasis>). E/M codes may be selected according to the total time spent by the physician or QHP in care of the individual patient on the date of service (DOS).</para>
+      <para>Additionally, codes <emphasis role="bold">99408</emphasis> and <emphasis role="bold">99409</emphasis> are reported for screening and an initial brief assessment and intervention for alcohol or substance use of <emphasis role="italics">at least 15 minutes</emphasis> (known as screening, brief intervention, and referral for treatment, or SBIRT). This behavior change service involves specific validated interventions of assessing readiness for change and barriers to change, advising a change in behavior, assisting by specifically suggesting actions and motivational counseling, and arranging for services and follow-up. The AAP policy statement "Substance Use Screening, Brief Intervention, and Referral to Treatment" (https://doi.org/10.1542/peds.2016-1210) recommends that pediatricians become familiar with adolescent SBIRT practices and notes the potential to be incorporated into universal screening and comprehensive care of adolescents in the medical home.</para>
+      <para>★<emphasis role="bold">99408</emphasis> Alcohol and/or substance (other than tobacco) abuse structured screening (eg, Alcohol Use Disorder Identification Test, Drug Abuse Screening Test), and brief intervention (SBI) services; 15 to 30 minutes</para>
+      <para>★<emphasis role="bold">99409</emphasis> greater than 30 minutes</para>
+      <itemizedlist>
+         <listitem>
+            <para>Services are time based, so the time spent providing the service must be documented and may not overlap with any time spent providing other services on the same date.</para>
+         </listitem>
+         <listitem>
+            <para>Append modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) to codes for other E/M services (eg, <emphasis role="bold">99214 25</emphasis>) when a significant E/M service is provided on the same date as the service described by <emphasis role="bold">99408</emphasis> and <emphasis role="bold">99409</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>When performed, counseling regarding use of naloxone is included in the brief intervention service. Counseling about and prescription of naloxone may also be included in total time or medical decision-making (MDM) of other E/M services provided to address substance use.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Codes <emphasis role="bold">99408</emphasis> and <emphasis role="bold">99409</emphasis> are included in the list of codes that may be reported with telemedicine modifiers <emphasis role="bold">93</emphasis> (audio-only telemedicine service) and <emphasis role="bold">95</emphasis> (synchronous audiovisual telemedicine service), when applicable.</para>
+      <blockquote>
+         <para>
+            <emphasis role="bold">CPT instruction allows reporting of behavior change intervention codes 99406–99409 when provided on the same date as a preventive E/M service. Append modifier 25 to codes 99381–99397 when reporting on the same date as 99406–99409. Behavior change interventions are preventive services that may be covered without out-of-pocket cost (eg, deductible or coinsurance) to the patient.</emphasis>
+         </para>
+      </blockquote>
+      <sect3 id="ch0013s0002s30003">
+         <title/>
+         <sect4 id="ch0013s0002s0005s01s01">
+            <title>ICD-10-CM Coding for Use, Abuse, and Dependence</title>
+            <para>The guidelines for <emphasis role="italics">ICD-10-CM</emphasis> offer specific guidance for reporting diagnoses of mental and behavioral disorders caused by psychoactive substance use.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">Z71.41</emphasis> is reported as the first-listed code when an encounter is primarily focused on alcohol abuse counseling and surveillance. A code for alcohol abuse or dependence (F10.-) is additionally reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">Z71.51</emphasis> is reported as the first-listed code when an encounter is primarily for counseling on drug abuse and surveillance of a person with drug abuse. Codes for drug abuse or dependence (F11–F16, F18, or F19) are reported in addition to Z71.51.</para>
+               </listitem>
+               <listitem>
+                  <para>When substance use is addressed and/or affects patient management during an encounter that is primarily for management or treatment of other conditions, report a code for management of the other condition(s) first, followed by a code for substance use.</para>
+               </listitem>
+               <listitem>
+                  <para>The codes for unspecified psychoactive substance <emphasis role="italics">use</emphasis> disorders (F10.9-, F11.9-, F12.9-, F13.9-, F14.9-, F15.9-, F16.9-) are to be used only when the psychoactive substance use is associated with a physical, mental, or behavioral disorder and such a relationship is documented by the provider. Note that codes for inhalant use (F18.9-) and polysubstance or indiscriminate drug use (F19.9-) are not included in this instruction.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">For a diagnosis of nicotine vaping, assign a code from subcategory F17.29- (nicotine dependence, other tobacco products) that includes noncombustible electronic nicotine delivery systems.</emphasis>
+               </para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>Subcategories of codes for mental and behavioral disorders caused by psychoactive substance use indicate <emphasis role="italics">use</emphasis> and <emphasis role="italics">abuse</emphasis> of and <emphasis role="italics">dependence</emphasis> on various psychoactive substances. These categories do not include abuse of nonpsychoactive substances such asantacids, laxatives, or steroids that are reported with category <emphasis role="bold">F55</emphasis>. Each subcategory offers a spectrum of <emphasis role="italics">use</emphasis>, <emphasis role="italics">abuse</emphasis>, and <emphasis role="italics">dependence</emphasis> with extended information such as <emphasis role="italics">with intoxication</emphasis>, <emphasis role="italics">with withdrawal</emphasis>, and <emphasis role="italics">with delusions</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>For each encounter, only 1 code should be assigned to identify the pattern of use (use, abuse, or dependence) based on the hierarchy shown in <emphasis role="bold">Figure 10-2</emphasis>. Report a code for the condition furthest to the right in the figure.</para>
+                  <figure float="0" id="ch0013s0002fg0002">
+                     <title/>
+                     <mediaobject>
+                        <imageobject>
+                           <imagedata fileref="ch0013f02.jpg" scalefit="1" width="100%"/>
+                        </imageobject>
+                     </mediaobject>
+                  </figure>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0013s0002s0005s01s02">
+            <title>Figure 10-2. Coding Hierarchy for Substance Use, Abuse, or Dependence</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Selection of codes for mental and behavioral disorders caused by psychoactive substance use for substance abuse or dependence in remission (categories <emphasis role="bold">F10–F19</emphasis> with <emphasis role="bold">.11, .21</emphasis>) requires the provider's clinical judgment. The appropriate codes for in remission are assigned only according to provider documentation unless otherwise instructed by the classification.</para>
+               </listitem>
+               <listitem>
+                  <para>Mild substance use disorders in early or sustained remission are classified to the appropriate codes for substance abuse in remission, and moderate or severe substance use disorders in early or sustained remission are classified to the appropriate codes for substance dependence in remission.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0013s0002s0005s01s03">
+            <title>Management/Treatment of Alcohol and/or Substance Use Disorders</title>
+            <para>Treatment of alcohol and/or substance use disorders may be covered only when provided by physicians with certification in addiction medicine or by other licensed health care professionals whose scope of practice includes treating substance use disorders. Verify health plan benefits and eligible providers before beginning treatment services. Prior authorization of services is often required.</para>
+            <para>Coding for management/treatment of alcohol and/or substance use disorders is largely payer driven. Psychotherapy codes may be applicable, or E/M codes may be selected according to time of counseling and/or coordination for ongoing counseling or alcohol and/or substance use disorders. Yet many health plans and Medicaid programs require use of HCPCS codes and/or modifiers for reporting assessments and management/treatment of alcohol and/or substance use disorders.</para>
+            <para>Examples of HCPCS codes include <emphasis role="bold">H0016</emphasis> Alcohol and/or drug services; medical/somatic (medical intervention in ambulatory setting)</para>
+            <para>
+               <emphasis role="bold">T1007</emphasis> Alcohol and/or substance abuse services, treatment plan development and/or modification Modifiers <emphasis role="bold">HF–HI</emphasis> provide details such as whether the program is an integrated mental health/substance abuse program. Refer to payer guidelines for use of these modifiers.</para>
+            <para>Opportunities may exist to treat alcohol and substance use through integrated behavioral health such as psychiatric collaborative care management services (for discussion of these, refer to the Psychiatric Collaborative Care Management Services section earlier in this chapter).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

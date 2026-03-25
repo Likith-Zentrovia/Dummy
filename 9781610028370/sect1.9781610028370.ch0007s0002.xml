@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0007s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0007s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0007s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>7</chapternumber>
+         <chapterid>ch0007</chapterid>
+         <chaptertitle>5. Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Preventing Fraud and Abuse: Compliance, Audits, and Paybacks</title>
+   <para>
+      <emphasis role="italics">This chapter was contributed by the American Academy of Pediatrics Committee on Medical Liability and Risk Management.</emphasis>
+      <emphasis role="italics">CPT copyright 2025 American Medical Association. All rights reserved.</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>The importance of safeguarding the health care system from fraud and abuse</para>
+      </listitem>
+      <listitem>
+         <para>The importance of protecting a pediatric practice from the consequences of failing to recognize and appropriately respond to noncompliant activities within the practice</para>
+      </listitem>
+      <listitem>
+         <para>How in-practice compliance programs can protect medical practices from unintentional billing errors and revenue loss</para>
+      </listitem>
+      <listitem>
+         <para>How to respond to overpayment notices and inquiries from auditors</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0007s0002s0001">
+      <title>What Compliance Means in a Medical Practice</title>
+      <para>Compliance, when used in a medical setting, means actively working to be sure that all staff follow the requirements of federal and state regulations that govern medical practice and billing for medical services and supplies. It also means knowing and honoring the terms the practice has agreed to in contracts with various payers, including related payment policies.</para>
+      <para>The opposites of compliance in physician practice include terms such as <emphasis role="italics">fraud</emphasis> and <emphasis role="italics">abuse</emphasis> (each defined later in this chapter). A compliance program is an effort to avoid fraud and abuse as well as errors that put the practice at risk legally or financially.</para>
+      <para>Whether practicing medicine as an employee of a large health system, insolo practice, or somewhere in between, physicians and other qualified health care professionals (QHPs) must actively support and promote compliance with all applicable regulations and contractual obligations. As discussed in more detail later in this chapter, compliance in a physician practice includes</para>
+      <itemizedlist>
+         <listitem>
+            <para>Educating oneself and practice staff on a significant number of federal and state regulations that affect how a practice operates</para>
+         </listitem>
+         <listitem>
+            <para>Providing education on billing and coding in agreement with code set instructions, payer policies, and state regulations regarding patient billing and collection activities</para>
+         </listitem>
+         <listitem>
+            <para>Dedicating resources (ie, a compliance program) to limit the practice's risk of inadvertent or intentional actions that do not support the practice's compliance with obligations under federal and state regulations and payer contracts</para>
+         </listitem>
+         <listitem>
+            <para>Encouraging staff to alert administrators/managers of any activities that might put the practice at risk of noncompliance with regulations or contractual obligations</para>
+         </listitem>
+         <listitem>
+            <para>Routinely assessing the practice's compliance by monitoring and conducting reviews of claims and documentation to verify coding and billing accuracy</para>
+         </listitem>
+         <listitem>
+            <para>Responding to a discovery of noncompliant activity with corrective actions to resolve past issues and prevent recurrence</para>
+         </listitem>
+         <listitem>
+            <para>Using the practice's compliance program to defend against external allegations of noncompliance</para>
+         </listitem>
+      </itemizedlist>
+      <para>Although coding and billing compliance is a key topic in this book, practices can promote efficiency and avoid creation of conflicting policies by maintaining a comprehensive set of policies and procedures that include other areas of compliance (eg, privacy and security of protected health information).</para>
+   </sect2>
+   <sect2 id="ch0007s0002s0002">
+      <title>The Importance of Compliance in Medical Practice</title>
+      <para>Most physicians and QHPs work ethically, provide high-quality care, and submit appropriate claims for payment. Unfortunately, however, some providers exploit the health care system for personal gain. These few "bad apples" necessitate laws to combat fraud and abuse and protect the integrity of the health care payment system. (For some examples, refer to the Can This Really Happen? section later in this chapter.) Just as patients put enormous trust in physicians, so do payers. Medicare, Medicaid, other government-funded health care programs, and private payers rely on physicians' medical judgment to treat patients with appropriate services by appropriately trained (and licensed, when required) health care professionals. They depend on accurate and truthful claims for the services provided to patients. And most physicians and QHPs intend to do just that. But the process is made more difficult by the complex and dynamic nature of payer coding and billing procedures, which, despite standardization efforts, can vary from carrier to carrier, policy to policy, state to state, and month to month.</para>
+      <para>This complexity of delivering and receiving payment for medical services and potential penalties for noncompliance support physician practices needing to reduce the risk of noncompliance through knowledge, active monitoring, and, as needed, corrective action.</para>
+   </sect2>
+   <sect2 id="ch0007s0002s0003">
+      <title>Defining Medical Fraud and Abuse</title>
+      <sect3 id="ch0007s0002s30001">
+         <title/>
+         <sect4 id="ch0007s0002s0003s01s01">
+            <title>Fraud</title>
+            <para>
+               <emphasis role="italics">Fraud</emphasis> is obtaining something of value through intentional misrepresentation or concealment of material facts. Examples of fraud in the physician's office may include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Requiring that a patient return for a procedure that could have been performed on the same day</para>
+               </listitem>
+               <listitem>
+                  <para>Billing Medicare or Medicaid for services not provided, including no-shows</para>
+               </listitem>
+               <listitem>
+                  <para>Billing one member for services provided to another (noncovered) member</para>
+               </listitem>
+               <listitem>
+                  <para>Billing services under a different National Provider Identifier (NPI), except as allowed by payer guidance, to receive payment for services that would otherwise be noncovered or paid at a lesser rate</para>
+               </listitem>
+               <listitem>
+                  <para>Taking a kickback in money, inkind, or other valuable compensation for referrals</para>
+               </listitem>
+               <listitem>
+                  <para>Completing a certificate of medical necessity for a patient who does not need the service or who is not professionally known by the provider</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0007s0002s0004">
+      <title>Abuse</title>
+      <para>
+         <emphasis role="italics">Abuse</emphasis> includes any practice that is not consistent with the goals of providing patients with services that</para>
+      <itemizedlist>
+         <listitem>
+            <para>Are medically necessary</para>
+         </listitem>
+         <listitem>
+            <para>Meet professionally recognized standards</para>
+         </listitem>
+         <listitem>
+            <para>Are fairly priced</para>
+         </listitem>
+      </itemizedlist>
+      <para>Examples of actions that will likely be considered abusive are</para>
+      <itemizedlist>
+         <listitem>
+            <para>Charging in excess for services or supplies</para>
+         </listitem>
+         <listitem>
+            <para>Billing Medicare or Medicaid according to a higher fee schedule than that used for other patients</para>
+         </listitem>
+         <listitem>
+            <para>Providing medically unnecessary services</para>
+         </listitem>
+         <listitem>
+            <para>Submitting bills to Medicare or Medicaid when they are the responsibility of another insurance plan (eg, failing to ask for information on other insurance or other liable entities, such as automobile insurance for injuries incurred in a crash)</para>
+         </listitem>
+         <listitem>
+            <para>Waiving co-payments or deductibles, except as permitted for financial hardship</para>
+         </listitem>
+         <listitem>
+            <para>Advertising free services</para>
+         </listitem>
+         <listitem>
+            <para>Coding all evaluation and management (E/M) visits at the same level</para>
+         </listitem>
+         <listitem>
+            <para>Unbundling claims (ie, billing separately for services that are correctly billed under 1 code)</para>
+         </listitem>
+      </itemizedlist>
+      <blockquote>
+         <para>
+            <emphasis role="bold">Are Payers Held to the Same Standards?</emphasis>
+         </para>
+         <para>When reading the lists of actions that might be considered fraud or abuse, one might wonder whether all payers are held to the same standards. For example, why do payers have policies that bundle services that are not bundled per <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> instructions?</para>
+         <para>Unfortunately, coverage of services is typically outlined in the terms of the health plan document or health program policy, but the plan or program administrator (payer) usually determines which codes are used in determining payment for covered services and what is included in the service described by each code. The Health Insurance Portability and Accountability Act (HIPAA) that requires use of <emphasis role="italics">CPT</emphasis> codes in billing for and payment of physician services does not also require payers to follow <emphasis role="italics">CPT</emphasis> instructions. Additionally, payer contracts may require that the practice accept the payer's policies (eg, bundled service policies).</para>
+      </blockquote>
+      <sect3 id="ch0007s0002s30002">
+         <title/>
+         <sect4 id="ch0007s0002s0004s01s01">
+            <title>Federal Fraud and Abuse Laws</title>
+            <para>The federal government has more than a dozen laws inits anti-fraud and anti-abuse arsenal. The 5 most important laws that apply to physicians are</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">False Claims Act:</emphasis> Prohibits and establishes civil penalties for submitting claims for payment to Medicare or Medicaid that you know or <emphasis role="italics">should know</emphasis> are false or fraudulent. (Intentional fraudulent activity may be subject to the criminal code for health care fraud with risks of fines and incarceration.)</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Who Can File a Civil False Claims Lawsuit?</emphasis>
+               </para>
+               <para>The civil False Claims Act includes a whistleblower provision that allows a private individual (eg, employee, patient) to file a lawsuit on behalf of the United States and entitles that whistleblower to a percentage of any recoveries. Compliance programs that provide for internal complaint submission and resolution, without retribution, may offset the risk of a whistleblower case.</para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Anti-Kickback Statute:</emphasis> Prohibits the knowledge and willful payment/acceptance of anything of value (eg, money, trips) intended to induce or reward patient referrals or the generation of business involving any item or service payable by the federal health care program.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Physician Self-Referral Law (Stark Law):</emphasis> Prohibits physicians from referring patients to receive designated health services payable by Medicare or Medicaid from entities with which the physician or an immediate family member has a financial relationship, unless an exception applies. The following items or services are designated health services:</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Clinical laboratory services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Physical therapy services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Occupational therapy services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Outpatient speech pathology services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Radiology and certain other imaging services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Radiation therapy services and supplies</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Durable medical equipment and supplies — Parenteral and enteral nutrients, equipment, and supplies</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Prosthetics, orthotics, and prosthetic devices and supplies</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Home health services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Outpatient prescription drugs</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Inpatient and outpatient hospital services</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Exclusion Authorities:</emphasis> Prohibits billing a federal health program (eg, Medicaid, Tricare) for any services furnished, ordered, or prescribed by an excluded individual (ie, an individual or entity that has been convicted or penalized for any items or services furnished, ordered, or prescribed to a patient covered by a plan wholly or partially funded by the US government). Practices are also responsible for ensuring that they do not employ or contract with excluded individuals or entities that may furnish items or services that may be paid for by a federal health care program.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Civil Monetary Penalties Law:</emphasis> Authorizes the US Department of Health and Human Services (HHS) to impose civil money penalties on and/or exclude from the Medicare and Medicaid programs physicians who commit various forms of fraud and abuse involving Medicare and Medicaid (eg, anti-kickback violations, false claims, or submission of false information on enrollment in a federal health program).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Abiding by these laws is not just the right thing to do; violating them, even (for some) unwittingly, could result in criminal penalties, civil fines, exclusion from federal health care programs, or loss of a medical license from a state medical board.</para>
+         </sect4>
+         <sect4 id="ch0007s0002s0004s01s02">
+            <title>Fraud and Abuse and Private Payers</title>
+            <para>Health care fraud and abuse regulations are not limited to government-funded programs. HIPAA legislation established fraud or attempted fraud against a health care benefit program as a federal criminal offense (18 USC §1347). This law defines the term <emphasis role="italics">health care benefit program</emphasis> to include any public or private plan or contract.</para>
+            <para>Fraud and abuse against private payers may also be anoffense under state law.</para>
+         </sect4>
+         <sect4 id="ch0007s0002s0004s01s03">
+            <title>Kickbacks, Inducements, and Self-Referrals</title>
+            <para>The Centers for Medicare &amp; Medicaid Services (CMS) advises providers to becautious when investing in health care business ventures. Providers may invest in third parties, such as laboratories, imaging centers, equipment vendors, or physical therapy clinics, to expand patient care access. But referral patterns to these facilities could implicate a provider in an investment scam.</para>
+            <para>The CMS states that "these business relationships can sometimes improperly influence or distort physician decision-making and result in the improper steering of a patient to a particular therapy or source of services in which a physician has a financial interest" (refer to the Medicare Learning Network booklet <emphasis role="italics">Medicare Fraud &amp; Abuse: Prevent, Detect, Report</emphasis> at www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/MLN-Publications-Items/MLN4649244). Many of these investment relationships have serious legal risks under the Anti-Kickback Statute and Stark Law, according to the CMS.</para>
+            <para>To prevent allegations of possible illegal kickback schemes with investment partners, the CMS recommends that providers ask the following questions:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is the investment venture promising the provider high rates of return for little or no financial risk?</para>
+               </listitem>
+               <listitem>
+                  <para>Is the investment interest for a nominal capital contribution?</para>
+               </listitem>
+               <listitem>
+                  <para>Is the partner asking the provider to guarantee patient referrals or item orders?</para>
+               </listitem>
+               <listitem>
+                  <para>Does the provider believe they will be more likely to refer patients for services provided by the venture just because they made the investment?</para>
+               </listitem>
+               <listitem>
+                  <para>Will the provider's ownership share be greater than their share of the total capital contributions made to the venture?</para>
+               </listitem>
+               <listitem>
+                  <para>Is the investment venture, or any possible business partner, offering to loan the provider money to make their capital contribution?</para>
+               </listitem>
+               <listitem>
+                  <para>Will the venture have enough capital from other sources to fund its operations?</para>
+               </listitem>
+            </itemizedlist>
+            <para>If the answer to any of these questions is yes, legal consultation is advisable before entering into an investment interest. Whenever health care vendors offer free samples, business opportunities, and incentives, providers should ask themselves similar questions.</para>
+            <para>When considering whether to engage in a particular billing practice, enter into a particular business venture, or pursue an employment, a consulting, or another personal services relationship, it is prudent to evaluate the arrangement for potential compliance problems. Use experienced health care lawyers to analyze the issues and provide a legal evaluation and risk analysis of the proposed venture, relationship, or arrangement.</para>
+            <para>Your state bar association may have a directory of local attorneys who practice health care law. The American Health Law Association is another resource (www.americanhealthlaw.org).</para>
+         </sect4>
+         <sect4 id="ch0007s0002s0004s01s04">
+            <title>Anti-Fraud and Anti-Abuse Activities</title>
+            <para>Physician practices are subject to several levels of scrutiny for possible fraudulent activity, including the federal and state levels of government as well as private payers. These groups increasingly share information. This means that a provider under investigation by one government health care program will likely becontacted by another program and possibly by private payers.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The HHS Office of Inspector General (OIG) has several anti-fraud campaigns under way.</para>
+               </listitem>
+               <listitem>
+                  <para>Many states have enacted anti-fraud and anti-abuse legislation, and Medicaid programs have established Medicaid fraud control units.</para>
+               </listitem>
+               <listitem>
+                  <para>The Medicaid program integrity provisions include activities such as</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Increased fraud detection methods — Terminating providers previously terminated from other government health care programs</para>
+               </listitem>
+               <listitem>
+                  <para>Suspending future payments when there are credible allegations of fraud — Applying National Correct Coding Initiative (NCCI) edits and prepayment claims review</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on NCCI edits.</para>
+            <para>Increasingly, Medicaid and other health plans are conducting, or contracting with an organization (eg, Cotiviti, Optum) to conduct, prepayment claims review that targets claims based on computer analytics intended to identify potential upcoding, fraud, or other billing inaccuracies. Physicians may be targeted when their claims history does not align with that of peers (eg, frequency of billing high-level E/M codes). When prepayment claims are reviewed by payers, it presents an administrative burden and prolongs time from claims filing to payment. <emphasis role="italics">Physicians must beable to provide documentation to support claims, but the possibility that someone will suspect wrongdoing should not prohibit appropriate reporting of codes for the services provided and documented.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0007s0002s0004s01s05">
+            <title>Areas of Specific Concern</title>
+            <para>Many findings and initiatives put physician practices under high scrutiny for miscoded services, failure to adequately document services, and operating in a manner that conflicts with anti-kickback and self-referral laws. To identify potential fraud and abuse, analysis of claims data is increasingly combined across payers and care settings to identify physicians and other providers who are outliers in their billing and referral patterns. Specific areas of concern that affect physicians include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Billing for a higher level of service than was provided.</para>
+               </listitem>
+               <listitem>
+                  <para>Misuse of modifiers to override NCCI edits when not clinically indicated.</para>
+               </listitem>
+               <listitem>
+                  <para>Billing for services provided by clinical staff or other QHPs when payer policy for incident-to services (eg, direct supervision) is not met. See <emphasis role="bold">Chapter 7</emphasis> for information on incident-to billing.</para>
+               </listitem>
+               <listitem>
+                  <para>Participation by physicians and QHPs in speaker programs that potentially pay for increased prescribing, ordering, or use of a company's products that will be billed to a government payer (https://oig.hhs.gov/documents/specialfraudalerts/865/SpecialFraudAlertSpeakerPrograms.pdf).</para>
+               </listitem>
+               <listitem>
+                  <para>Provision and/or billing of telehealth services that is noncompliant with state regulation or payer policy.</para>
+               </listitem>
+            </itemizedlist>
+            <para>CHAPTER 5. PREVENTING FRAUD AND ABUSE: COMPLIANCE, AUDITS, AND PAYBACKS The fraud and abuse control units of HHS and the US Department of Justice also continue to cross-reference enrollment information for physicians and providers when there is history of enrollment in multiple states and/or programs. By cross-referencing enrollment data, the agencies may discover conflicting information and/or evidence of prior revocation of eligibility to participate in federal programs.</para>
+            <para>In addition to fraud and abuse regulations, practices should include compliance with the privacy, security, and patient access to medical records requirements of HIPAA, the 21st Century Cures Act, and patient accessibility requirements of the Americans With Disabilities Act in compliance education and activities.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

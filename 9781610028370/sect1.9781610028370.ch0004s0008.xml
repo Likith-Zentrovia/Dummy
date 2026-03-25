@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0008">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0004s0007</risprev>
+         <riscurrent>sect1.9781610028370.ch0004s0008</riscurrent>
+         <risnext>sect1.9781610028370.ch0004s0009</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>2. Coding Edits and Modifiers</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>32—Mandated Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>Modifier 32 is appended to services (eg, a second opinion) mandated by a third-party payer or by governmental, legislative, or regulatory requirements.</para>
+      </listitem>
+      <listitem>
+         <para>The modifier may be reported with codes for E/M services (eg, for a second opinion required by a payer).</para>
+      </listitem>
+      <listitem>
+         <para>Modifier <emphasis role="bold">32</emphasis> would be used when, for example, radiological services are requested from a worker's compensation carrier, when laboratory testing (eg, a drug test) is requested by a court system, or when a physical therapy assessment is requested by aninsurer.</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="italics">Example—Modifier 32</emphasis> ▶ <emphasis role="bold">A managed care organization requires that a child's family obtain a second opinion before receiving prior authorization for the child's surgery.</emphasis> A physician reviews the child's medical history, examines the child, and, after discussion with their parents/caregivers, recommends the surgery. The level of MDM for the visit is moderate.</para>
+   <table frame="all" id="ch0004s0008ta0001">
+      <title>32—Mandated Services</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>Diagnosis for which surgery is considered</entry>
+               <entry>99254 32 (outpatient consultation with moderate MDM or total time of ≥40 minutes)</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Although recommended as a preventive service, the test reported with <emphasis role="bold">86703</emphasis> is also used for diagnostic purposes. Modifier <emphasis role="bold">33</emphasis> indicates that this test was performed as a preventive service. Modifier <emphasis role="bold">92</emphasis> (alternative laboratory platform testing) is reported to indicate use of the HIV test kit (not all payers recognize modifier <emphasis role="bold">92</emphasis>).</para>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✖, audiovisual technology; and ♦, synchronous interactive audio Typically, health plans cover services related to contraception (eg, <emphasis role="bold">99401</emphasis>) without cost to the patient. When performed, a pregnancy test (eg, <emphasis role="bold">81025</emphasis>, urine pregnancy test, by visual color comparison methods) may be separately reported with <emphasis role="bold">Z32.01</emphasis> (encounter for pregnancy test, result positive) or <emphasis role="bold">Z32.02</emphasis> (encounter for pregnancy test, result negative).</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0004s0008s20004">
+      <title/>
+      <sect3 id="ch0004s0008s30008">
+         <title/>
+         <sect4 id="ch0004s0008s0001s01s01">
+            <title>93—Synchronous Telemedicine Service Rendered via Telephone or Other Real-Time Interactive Audio-Only Telecommunications System</title>
+            <para>Synchronous telemedicine service is defined as a real-time interaction through audio-only technology between a physician or QHP and a patient who is located at a distant site from the physician or QHP. The modifier is not reported for back-and-forth voice messaging.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> Appendix T lists codes that may be reported with modifier 93. Codes eligible for use with modifier 93 are preceded by an audio speaker symbol (♫).</para>
+               </listitem>
+               <listitem>
+                  <para>Verify payer policies for audio-only telemedicine services before provision of services.</para>
+               </listitem>
+               <listitem>
+                  <para>The totality of communication during the audio-only telemedicine service must be of an amount and nature sufficient to meet the requirements of the same service when rendered with face-to-face interaction.</para>
+               </listitem>
+               <listitem>
+                  <para>Note that modifier 93 is different from modifier <emphasis role="bold">FQ</emphasis> (audio-only service). Modifier <emphasis role="bold">FQ</emphasis> was created for the Medicare program and is reported <emphasis role="italics">only by certain types of providers</emphasis> (eg, rural health centers) unless otherwise specified by a health plan.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s02">
+            <title>95—Synchronous Telemedicine Service Rendered via a Real-Time Interactive Audio and Video Telecommunications System</title>
+            <para>Modifier 95 is used to indicate that a service was rendered via a real-time (synchronous) interactive audio and video telecommunications system. This modifier is not applied if the communication is not real-time interactive audio and video. Codes to which modifier 95 may be applied are found in <emphasis role="italics">CPT</emphasis> Appendix P and are preceded by a star symbol (★).</para>
+            <para>★ Do not report modifier <emphasis role="bold">95</emphasis> with codes <emphasis role="bold">98000–98007</emphasis>, which are specific to telemedicine services.</para>
+            <para>
+               <emphasis role="bold">For more information on reporting synchronous telemedicine services, refer to Chapters 19 and 20.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s03">
+            <title>99—Multiple Modifiers</title>
+            <para>
+               <emphasis role="italics">CPT</emphasis> instructs that modifier 99 be reported under certain circumstances when 2 or more modifiers are required to completely describe a service. Yet current paper and electronic claims allow listing of up to 4 modifiers per claim line, and payers often instruct coders to report modifier 99 only when more than 4 modifiers are required on a single code.</para>
+            <para>Follow individual payer instructions regarding use of modifier 99 and placement of additional modifiers on the claim (eg, in narrative field 19 of the paper claim form).</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s04">
+            <title>Healthcare Common Procedure Coding System Modifiers</title>
+            <para>The HCPCS modifiers are used to report specific information not conveyed in code descriptors or by <emphasis role="italics">CPT</emphasis> modifiers, such as</para>
+            <para>
+               <emphasis role="bold">CR</emphasis>        Catastrophe/disaster related</para>
+            <para>
+               <emphasis role="bold">E1</emphasis>        Upper left eyelid <emphasis role="bold">QW</emphasis>        Performance of tests waived by Clinical Laboratory Improvement Amendments (CLIA)</para>
+            <para>
+               <emphasis role="bold">RT</emphasis>        Right side</para>
+            <para>
+               <emphasis role="bold">SL</emphasis>        State-supplied vaccine</para>
+            <para>
+               <emphasis role="bold">TC</emphasis>        Technical component only <emphasis role="bold">XE</emphasis>        Procedural service performed at separate encounters on the same date</para>
+            <para>Medicaid programs often use a variety of HCPCS modifiers for state-defined purposes. Refer to your Medicaid provider manual for information on HCPCS modifiers and definitions assigned in your state (eg, modifier <emphasis role="bold">SY</emphasis>, persons who are in close contact with member of high-risk population, may be used with codes for certain immunizations).</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s05">
+            <title>Anatomical Modifiers</title>
+            <para>An anatomical modifier may be reported to identify specific sites, such as right foot, fifth digit (<emphasis role="bold">T9</emphasis>). Payer policies may require use of anatomical modifiers even when reporting a single procedure and despite site identification that may be included in a reported <emphasis role="italics">ICD-10-CM</emphasis> code.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The anatomical modifiers are designated as appropriate modifiers under NCCI edits.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The Medicaid NCCI manual indicates that procedures performed on fingers be reported with modifiers <emphasis role="bold">F4</emphasis> and <emphasis role="bold">F1–F9</emphasis> and procedures performed on toes be reported with modifiers <emphasis role="bold">TA</emphasis> and <emphasis role="bold">T1–T9</emphasis>. Refer also to modifiers for eyelids (<emphasis role="bold">E1–E4</emphasis>) and coronary arteries (<emphasis role="bold">LC, LD, LM, RC, RI</emphasis>).</para>
+            <para>MUE values are 1 (one) for many finger and toe procedures. Use anatomical modifiers for clinical scenarios in which the same procedure is performed on more than one finger or toe. (Refer to the Medically Unlikely Edits section earlier in this chapter for more information.)</para>
+            <para>
+               <emphasis role="italics">Example—Anatomical Modifiers</emphasis> ▶ A physician performs nail avulsion (<emphasis role="bold">11730</emphasis>) on the patient's right ring finger and evacuation of blood under the nail (<emphasis role="bold">11740</emphasis>) on the patient's right middle finger.</para>
+            <para>
+               <emphasis role="bold">11730 F8</emphasis>     Avulsion, nail plate; partial or complete, simple; single—right hand, 4th digit <emphasis role="bold">11740 F7</emphasis>     Evacuation of subungual hematoma—right hand, 3rd digit</para>
+            <para>
+               <emphasis role="italics">Note:</emphasis> Some payers may require that modifier <emphasis role="bold">59</emphasis> (distinct procedural service) or <emphasis role="bold">X5</emphasis> (separate structure) also be reported on the code for a second or other subsequent procedure provided on the same date. Verify coding edits and payer policy before reporting.</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s06">
+            <title>X {E, P, S, U} Modifiers</title>
+            <para>Modifiers <emphasis role="bold">XE, XP, XS,</emphasis> and <emphasis role="bold">XU</emphasis> more specifically identify reasons for separate reporting of procedures or services that may otherwise be identified by <emphasis role="italics">CPT</emphasis> modifier <emphasis role="bold">59</emphasis>.</para>
+            <para>
+               <emphasis role="bold">XE</emphasis>     Separate encounter (different operative session)</para>
+            <para>
+               <emphasis role="bold">XP</emphasis>     Separate practitioner</para>
+            <para>
+               <emphasis role="bold">XS</emphasis>     Separate structure (site/organ)</para>
+            <para>
+               <emphasis role="bold">XU</emphasis>     Unusual nonoverlapping service</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Payer guidance on use of these modifiers may vary; verify individual payer policy before reporting. Although these modifiers are accepted by most payers, few resources are available to describe their appropriate reporting.</para>
+               </listitem>
+               <listitem>
+                  <para>Given that the <emphasis role="bold">XE, XP, XS,</emphasis> and <emphasis role="bold">XU</emphasis> modifiers are more specific, payers may require reporting in lieu of modifier <emphasis role="bold">59</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✖ Modifiers <emphasis role="bold">XE, XP, XS,</emphasis> and <emphasis role="bold">XU</emphasis> should not be appended to an E/M code.</para>
+            <para>✖ Do not append modifier <emphasis role="bold">59</emphasis> and the <emphasis role="bold">XE, XP, XS,</emphasis> and <emphasis role="bold">XU</emphasis> modifiers to the same service line of a claim (ie, single code).</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s07">
+            <title>CR—Catastrophe/Disaster Related</title>
+            <para>Modifier <emphasis role="bold">CR</emphasis> is used according to payer instruction during a federal- or state-declared disaster or public health emergency to indicate that a service was provided in a manner or under circumstances for which payment may otherwise be prohibited by government statute or payer policies.</para>
+            <para>
+               <emphasis role="italics">Example—Modifier CR</emphasis> ▶ A well-child examination is conducted via telemedicine on a patient inher home during a public health emergency. Per payer policy, the service requires a comprehensive, unclothed physical examination. A waiver has been issued allowing billing for the incomplete preventive E/M service with modifier <emphasis role="bold">CR</emphasis> (eg, <emphasis role="bold">99391 CR</emphasis>). Payer policy may require an in-person visit within a specified period.</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s08">
+            <title>EP—Service Provided as Part of Medicaid Early and Periodic Screening, Diagnostic, and Treatment Program</title>
+            <para>Some Medicaid and private payers require the use of modifier <emphasis role="bold">EP</emphasis> to denote services that are provided to covered patients as part of the Early and Periodic Screening, Diagnostic, and Treatment (EPSDT) program services required in the state.</para>
+            <para>Modifier <emphasis role="bold">EP</emphasis> can be appended to the preventive medicine service (eg, <emphasis role="bold">99392 EP</emphasis>) or screening services, such as developmental screening (<emphasis role="bold">96110 EP</emphasis>).</para>
+            <para>Modifier <emphasis role="bold">EP</emphasis> can also be applied to services provided when a referral is prompted by findings of an EPSDT well-child examination (eg, <emphasis role="bold">96112 EP</emphasis>, developmental test administration [including assessment of fine and/or gross motor, language, cognitive level, social, memory and/or executive functions by standardized developmental instruments when performed], by physician or other QHP, with interpretation and report; first hour).</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s09">
+            <title>FQ—The Service Was Furnished Using Audio-Only Communication Technology</title>
+            <para>Modifier FQ is reported by certain providers (eg, rural health clinics) in lieu of modifier 93 (discussed earlier in this chapter). Report modifier FQ only as instructed by payer policy.</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s10">
+            <title>FS—Split or Shared E/M Visit</title>
+            <para>This modifier indicates that a service was provided in a facility setting as a split or shared E/M service by more than one physician or QHP in the same group practice. Medicare requires the reporting individual to append modifier FS to an E/M code when the E/M service was performed as a split/shared service. Other payers may adopt Medicare policy sense of modifier FS.</para>
+         </sect4>
+         <sect4 id="ch0004s0008s0001s01s11">
+            <title>FT—Separate, Unrelated E/M</title>
+            <para>The CMS created modifier FT for reporting critical care services provided within a 10- or 90-day postoperative period when the services are above and beyond and unrelated to the specific anatomical injury or general surgical procedure performed. Refer to individual health plan guidance before reporting this modifier.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The Medicare program advises that modifier 25 (significant, separately identifiable E/M service) continue to be reported when 2 E/M services are provided to a patient by the same physician or QHP or another physician or QHP of the same specialty and same group practice on the same date but for different reasons (eg, hospital care before critical care).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

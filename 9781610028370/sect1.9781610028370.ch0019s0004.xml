@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0019s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0019s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0019s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>15. Hospital Care of the Newborn</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 15. HOSPITAL CARE OF THE NEWBORN</title>
+   <para>
+      <emphasis role="bold">Following is the order for reporting codes for neonates at the birth hospital:</emphasis>
+   </para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>
+            <emphasis role="bold">Birth outcome</emphasis> (Z38.-, reported only by the attending/admitting physician)</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Codes from the perinatal chapter</emphasis> (P00-P96)</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Codes from the congenital anomalies chapter</emphasis> (Q00-Q99)</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="bold">Codes from all other chapters</emphasis>
+         </para>
+      </listitem>
+   </orderedlist>
+   <para>Other important guidelines include</para>
+   <itemizedlist>
+      <listitem>
+         <para>Perinatal condition codes are assigned for any condition that is clinically significant. In addition to clinical indications for reporting codes from other chapters, perinatal conditions are considered clinically significant if the condition has implications for future health care needs. Other clinical indications that apply to all conditions are those requiring</para>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Clinical evaluation (eg, subspecialty consultation)</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Therapeutic treatment</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Diagnostic procedures</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Extended hospital stay</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Increased nursing care and/or monitoring</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <para>Should a condition originate in the perinatal period and continue past the 28th day after birth, the perinatal code should continue to be used regardless of the patient's age.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Typical scenarios that may require exclusive use of perinatal or neonatal codes beyond the perinatal period are those related to care of a critically ill or recovering neonate, such as necrotizing enterocolitis in newborn (P77.-), chronic respiratory disease arising in the perinatal period (P27.-), and preterm birth (P07.-).</para>
+   <para>
+      <emphasis role="bold">Perinatal codes are not reported for conditions with <emphasis role="italics">onset after</emphasis> the patient is 28 days old. For example, necrotizing enterocolitis with onset after the neonatal period is reported with K55.30-K55.33.</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>If a newborn has a condition that may be caused by the birth process or community acquired, and documentation does not indicate which the cause is, the condition is reported as resulting from the birth process. Community-acquired conditions are reported with codes other than those in ICD-10-CMChapter 16.</para>
+      </listitem>
+      <listitem>
+         <para>Codes in categories P00-P04 (newborn affected by maternal factors and by complications of pregnancy, labor, and delivery) may be reported when the conditions are suspected but have not yet been ruled out.</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">If a neonate is suspected of having an abnormal condition that, after examination and observation, is ruled out, assign codes for signs and symptoms or, in the absence of signs or symptoms, a code from category Z05 (encounter for observation and evaluation of newborn for suspected diseases and conditions ruled out).</emphasis> ▶ A neonate was born at 37-weeks'-gestation to a mother whose group B β-hemolytic streptococcal culture result was still pending at the time of delivery. The newborn was alert with excellent Apgar scores in the delivery room and was admitted to the newborn nursery. The newborn was treated per current group B streptococcal disease guidelines, with no indication of illness. The next day, the mother's group B streptococcal culture result was negative and the newborn continued to receive normal newborn care.</para>
+   <table frame="all" id="ch0019s0004ta0001">
+      <title>CHAPTER 15. HOSPITAL CARE OF THE NEWBORN</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>Day 0: Z38.00 (single liveborn, delivered vaginally), P00.89 (newborn affected by other maternal conditions)</entry>
+               <entry>Day 0: 99460</entry>
+            </row>
+            <row>
+               <entry>Day 1: Z38.00 (single liveborn, delivered vaginally), Z05.1 (observation and evaluation of newborn for suspected infectious condition ruled out)</entry>
+               <entry>Day 1: 99462</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, telemedicine; and ♦, synchronous interactive audio.</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0019s0004s20002">
+      <title/>
+      <sect3 id="ch0019s0004s30005">
+         <title/>
+         <sect4 id="ch0019s0004s0001s01s01">
+            <title>Daily Hospital Care of the Ill Newborn</title>
+            <para>Refer to <emphasis role="bold">Chapter 16</emphasis> for full details on selecting and reporting hospital inpatient services 99221–99223, 99231–99233, 99234–99236, and 99238–99239.</para>
+            <para>Levels of hospital E/M services are based on all hospital care services provided on the same date by the same physician or QHP or by multiple physicians and QHPs of the same group practice (billing under the same tax ID number) and same exact specialty. Refer to discussion of split or shared visits in <emphasis role="bold">Chapter 6</emphasis> for information on determining which individual reports a hospital E/M visit that includes work by a physician and a QHP.</para>
+            <para>When multiple physicians of the same specialty and same group practice provide separate initial or subsequent hospital care to a newborn on the same date, report with a single code representing the combined medical decision-making (MDM) (eg, <emphasis role="bold">99223</emphasis>, initial hospital inpatient or observation care with a high level of MDM) or combined total time on the date of the encounter.</para>
+            <para>
+               <emphasis role="bold">Report an initial hospital or observation service when the patient has not received any professional services from the reporting physician or QHP, or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice, during the current admission and stay. A prebirth consultation provided to the mother or attendance at delivery by the individual does not exclude separately reporting initial hospital care for services provided after admission to the newborn nursery.</emphasis> Report a subsequent hospital or observation service when the patient has previously received professional service(s) from the physician or QHP or another physician or QHP of the exact same specialty and subspecialty who belongs to the same group practice, <emphasis role="italics">during the current admission and stay</emphasis>. Services provided by covering physicians are reported as if provided by the physician who is unavailable.</para>
+            <para>Once an initial-day care code for a higher service level (eg, intensive or critical care) has been reported, an <emphasis role="italics">initial</emphasis> code for a lower-level service within the same hospital stay will not be reported. Refer to the Coding for Transitions to Different Levels of Neonatal Care section later in this chapter for details.</para>
+            <para>When a neonate is not treated but only observed for the potential development of illness, normal newborn codes are reported.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0019s0004s0002">
+      <title>Initial Inpatient Hospital or Observation Care</title>
+      <para>Codes <emphasis role="bold">99221–99223</emphasis> are used to report the initial hospital encounter with a sick neonate who does not require intensive observation and monitoring or critical care services.</para>
+      <para>Refer to <emphasis role="bold">Chapter 16</emphasis> and <emphasis role="bold">Table 16-2</emphasis> for the specific coding and documentation requirements for reporting initial hospital care.</para>
+      <para>
+         <emphasis role="italics">Examples</emphasis> ▶ A pediatrician is called to provide care to a 37-weeks'-gestation newborn, who developed respiratory distress during a nurse's initial assessment. The pediatrician reviews the maternal and birth history and notes low concern about early-onset sepsis based on negative maternal screening results and a spontaneous vaginal delivery without meconium staining. Newborn examination findings are limited to respiratory distress with no indications of congenital heart disease or persistent pulmonary hypertension of the newborn. Oxygen saturation is 80% to 85% in room air despite good respiratory effort and muscle tone. Free-flow supplemental oxygen is administered at 25% to 30%. During 30 minutes of close monitoring, the newborn's oxygen saturation steadily increases to 90% and work of breathing improves. A portable chest radiograph is ordered and yields findings of retained fetal lung fluid. The newborn transitions to room air after 1 hour of supplemental oxygen. The pediatrician decides that close monitoring of the neonate in the mother's room is indicated in lieu of transfer to the intensive care nursery. The physician's total time on the date of the encounter is 95 minutes. Diagnoses of liveborn neonate and transient tachypnea of the newborn are documented.</para>
+   </sect2>
+</sect1>

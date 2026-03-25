@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0012">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0011</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0012</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0013</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 15
+    </title>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>a. True. For <emphasis role="italics">ICD-10-CM</emphasis> and <emphasis role="italics">CPT</emphasis> coding purposes, the day of birth is day zero (0) of life and the next day is day 1. Monday is day 1 of life for the newborn delivered on Sunday.</para>
+      </listitem>
+      <listitem>
+         <para>d. Perinatal conditions are considered clinically significant if the condition has implications for future health care needs or any of the clinical indications for reporting codes from other chapters (ie, requires clinical evaluation, therapeutic treatment, diagnostic procedures, extended hospital stay, or increased nursing care or monitoring).</para>
+      </listitem>
+      <listitem>
+         <para>b. A single normal newborn care code is reported. Codes <emphasis role="bold">99460–99463</emphasis> are reported once per date of service regardless of the number of visits or time spent.</para>
+      </listitem>
+      <listitem>
+         <para>d. <emphasis role="bold">99026</emphasis> (hospital-mandated on-call service; in hospital, each hour) is reported in addition to the initial hospital care of the normal newborn (<emphasis role="bold">99460</emphasis>). Attendance at delivery (<emphasis role="bold">99464</emphasis>) is not reported when hospital-mandated attendance is the only basis for providing the service.</para>
+      </listitem>
+   </orderedlist>
+   <para>
+      <emphasis role="bold">5. c.</emphasis> If the circumcision with a clamp or other device is performed without dorsal penile or ring block, append modifier 52 (reduced services) to <emphasis role="bold">54150</emphasis>.</para>
+</sect1>

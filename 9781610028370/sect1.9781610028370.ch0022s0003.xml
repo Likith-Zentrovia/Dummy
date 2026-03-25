@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0022s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0022s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0022s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>18. Common Surgical Procedures and Sedation in Facility Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>27713Osteotomy(ies), tibia, including fibula when performed, unilateral, with insertion of an externally controlled intramedullary lengthening device, including imaging, alignment assessments, computations of adjustment schedules, and management of the intramedullary lengthening device</title>
+   <para>Note that codes <emphasis role="bold">27458</emphasis> and <emphasis role="bold">27713</emphasis> report unilateral procedures that are performed to correct a limb length discrepancy (eg, Q72.812, congenital shortening of left lower limb).</para>
+   <para>× Do not report <emphasis role="bold">27458</emphasis> in conjunction with other osteotomy procedures (<emphasis role="bold">27450, 27466</emphasis>) or fracture treatment (<emphasis role="bold">27470, 27472, 27506</emphasis>).</para>
+   <para>× Do not report <emphasis role="bold">27713</emphasis> in conjunction with other osteotomy procedures (<emphasis role="bold">27705, 27709, 27712</emphasis>) osteoplasty (<emphasis role="bold">27715</emphasis>), or fracture treatment (<emphasis role="bold">27720, 27722, 27724, 27759</emphasis>).</para>
+   <para>Code <emphasis role="bold">27466</emphasis> (osteoplasty, femur; combined lengthening and shortening with femoral segment transfer) is deleted in 2026. This procedure is no longer commonly performed.</para>
+   <sect2 id="ch0022s0003s20002">
+      <title/>
+      <sect3 id="ch0022s0003s30007">
+         <title/>
+         <sect4 id="ch0022s0003s0001s01s01">
+            <title>Removal of Musculoskeletal Hardware</title>
+            <para>An object intentionally placed by a physician or other QHP for any purpose (eg, diagnostic, therapeutic) is considered an implant. If an implant (or part thereof) has moved from its original position or is structurally broken and no longer serves its intended purpose or presents a hazard to the patient, it qualifies as a foreign body for coding purposes, unless CPT coding instructions direct otherwise or a specific CPT code exists to describe the removal of that broken/moved implant.</para>
+            <para>
+               <emphasis role="bold">20665</emphasis> Removal of tongs or halo applied by another individual <emphasis role="bold">20670</emphasis> Removal of implant; superficial (eg, buried wire, pin or rod) (separate procedure)</para>
+            <para>
+               <emphasis role="bold">20680</emphasis> deep (eg, buried pin, screw, metal band, nail, rod or plate) Removal of a halo or tongs is included in the placement procedure. Removal of a halo or tongs by another physician, however, is separately reported with <emphasis role="bold">20665</emphasis>. (<emphasis role="italics">Note:</emphasis> Physicians of the same specialty and same group practice are typically considered the same physician for billing purposes.)</para>
+            <para>Codes <emphasis role="bold">20670</emphasis> and <emphasis role="bold">20680</emphasis> are reported for removal of orthopedic hardware. If it is necessary to remove an implant within the global period (eg, to address breakage), report the appropriate removal code with modifier 78 (unplanned return to the OR by the same physician or other QHP following initial procedure for a related procedure during the postoperative period). Removal of an external fixation system under anesthesia (<emphasis role="bold">20694</emphasis>) requires more than local anesthesia.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0003s0002">
+      <title>Respiratory Procedures</title>
+      <para/>
+   </sect2>
+   <sect2 id="ch0022s0003s0003">
+      <title>Intubation and Airway Management</title>
+      <para>
+         <emphasis role="bold">31500</emphasis> Intubation, endotracheal, emergency</para>
+      <itemizedlist>
+         <listitem>
+            <para>Moderate sedation (<emphasis role="bold">99151–99157</emphasis>) may be reported in addition to the intubation if used to sedate the patient before and during the intubation procedure (eg, in rapid sequence intubation) and reporting criteria are met. Refer to the Sedation section later in this chapter for more on moderate sedation.</para>
+         </listitem>
+         <listitem>
+            <para>Endotracheal intubation is included in the neonatal and pediatric critical care services reported with <emphasis role="bold">99468–99476</emphasis> and intensive care services reported with <emphasis role="bold">99477–99480</emphasis> and should not be billed separately. Code <emphasis role="bold">31500</emphasis> is separately reported for endotracheal intubation performed as part of neonatal resuscitation in the delivery room (ie, before admission).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">31502</emphasis> Tracheostomy tube change prior to establishment of fistula tract Report <emphasis role="bold">31502</emphasis> only when an indwelling tracheostomy tube is replaced before establishment of a fistula tract.</para>
+      <para>Routine changing of a tracheostomy tube after a fistula tract has been established is included in a related E/M service. Code <emphasis role="bold">31575</emphasis> (laryngoscopy, flexible; diagnostic) may be reported when performed to check tracheostomy tube placement.</para>
+      <para>
+         <emphasis role="bold">31505–31520 Indirect laryngoscopy</emphasis> Report <emphasis role="bold">31505</emphasis> for indirect diagnostic laryngoscopy. If, while performing this procedure, a foreign body is removed, report <emphasis role="bold">31511</emphasis> (laryngoscopy with removal of foreign body).</para>
+      <para>
+         <emphasis role="bold">31515</emphasis> Direct laryngoscopy with or without tracheoscopy Code <emphasis role="bold">31515</emphasis> is reported when laryngoscopy is performed for aspiration.</para>
+      <para>
+         <emphasis role="bold">31520</emphasis> Laryngoscopy direct, with or without tracheoscopy; diagnostic, newborn Do not report modifier <emphasis role="bold">63</emphasis> (procedure performed on infant &lt;4 kg) in conjunction with <emphasis role="bold">31520</emphasis>.</para>
+      <para>
+         <emphasis role="bold">31525</emphasis> Laryngoscopy, direct, with or without tracheoscopy; diagnostic except newborn</para>
+      <sect3 id="ch0022s0003s30008">
+         <title/>
+         <sect4 id="ch0022s0003s0003s01s01">
+            <title>Thoracostomy, Thoracentesis, and Pleural Drainage</title>
+            <para>
+               <emphasis role="bold">32551</emphasis> Tube thoracostomy, includes connection to drainage system (eg, water seal), when performed, open (separate procedure) <emphasis role="bold">32554</emphasis> Thoracentesis, needle or catheter, aspiration of the pleural space; without imaging guidance</para>
+            <para>
+               <emphasis role="bold">32555</emphasis> with imaging guidance <emphasis role="bold">32556</emphasis> Pleural drainage, percutaneous, with insertion of indwelling catheter; without imaging guidance</para>
+            <para>
+               <emphasis role="bold">32557</emphasis> with imaging guidance</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Thoracostomy (<emphasis role="bold">32551</emphasis>) represents an open procedure involving incision into a rib interspace with dissection extending through the chest wall muscles and pleura. Thoracentesis and percutaneous pleural drainage may be more commonly performed in pediatrics except for neonatal and pediatric critical care.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Percutaneous image guidance cannot be reported in conjunction with <emphasis role="bold">32551</emphasis>, which represents an open procedure. Diagnostic ultrasonography performed before thoracostomy to localize a collection in the pleural space is separately reportable only when the complete ultrasound study of the chest (<emphasis role="bold">76604</emphasis>) is performed with permanent recording of images.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Thoracentesis codes <emphasis role="bold">32554</emphasis> and <emphasis role="bold">32555</emphasis> represent a procedure in which the surgical technique is puncture of the pleural space to remove fluid or air. Although a catheter (eg, pigtail catheter) may be used, it is not left in place at the end of the procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>Percutaneous pleural drainage codes <emphasis role="bold">32556</emphasis> and <emphasis role="bold">32557</emphasis> represent procedures in which an indwelling catheter is inserted into the pleural space and remains at the end of the procedure. The catheter is secured in place and connected to a suction drainage system.</para>
+               </listitem>
+               <listitem>
+                  <para>Removal of chest tubes and non-tunneled indwelling pleural catheters is included in a related E/M service and not in a separately reportable procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>For insertion of a tunneled pleural catheter with cuff, refer to <emphasis role="bold">32550</emphasis>. For removal of a tunneled pleural catheter with cuff, refer to <emphasis role="bold">32552</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

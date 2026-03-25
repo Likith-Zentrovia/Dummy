@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0021s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0021s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0021s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>21</chapternumber>
+         <chapterid>ch0021</chapterid>
+         <chaptertitle>17. Critical and Intensive Care</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Critical and Intensive Care</title>
+   <para>This chapter focuses on correctly coding critical and intensive care services, including</para>
+   <itemizedlist>
+      <listitem>
+         <para>Defining critical care and included services</para>
+      </listitem>
+      <listitem>
+         <para>Hourly critical care</para>
+      </listitem>
+      <listitem>
+         <para>Attendance at delivery and neonatal resuscitation</para>
+      </listitem>
+      <listitem>
+         <para>Critical care of the neonate, infant, and child younger than 6 years</para>
+      </listitem>
+      <listitem>
+         <para>Intensive care of the recovering or low-birth-weight neonate and infant</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Services commonly reported before and after intensive or critical care services, such as care during emergency transport, are also included.</para>
+      </listitem>
+   </itemizedlist>
+   <para>For discussion of evaluation and management (E/M) of the child requiring hospital care but no longer requiring intensive or critical care, refer to <emphasis role="bold">Chapter 16</emphasis>.</para>
+   <sect2 id="ch0021s0002s0001">
+      <title>Defining Critical Care</title>
+      <itemizedlist>
+         <listitem>
+            <para>A <emphasis role="italics">critical illness or injury</emphasis> is defined by <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> as acutely impairing one or more vital organs such that there is a high probability of imminent or life-threatening deterioration of the patient's condition.</para>
+         </listitem>
+         <listitem>
+            <para>Services qualify as critical care <emphasis role="italics">only if both</emphasis> the injury or illness <emphasis role="italics">and</emphasis> the treatment being delivered meet the following criteria:</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>The illness or injury acutely impairs one or more vital organs as defined previously; — The treatment delivered involves high-complexity medical decision-making (MDM) to prevent life-threatening deterioration of the patient's condition.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Critical care involves high-complexity MDM to assess, manipulate, and support vital organ system function(s); treat single- or multiple-organ system failure; and/or prevent further life-threatening deterioration of the patient's condition.</para>
+         </listitem>
+         <listitem>
+            <para>Although immaturity alone does not define critical care, the complex decision-making applied to manage the therapeutic challenges manifesting in many preterm babies can support critical care.</para>
+         </listitem>
+      </itemizedlist>
+      <blockquote>
+         <para>
+            <emphasis role="bold">Anill neonate who does not require critical care may require neonatal intensive care, as discussed in the Initial and Continuing Intensive Care section later in this chapter, or hospital care, as discussed in Chapter 16.</emphasis>
+         </para>
+      </blockquote>
+      <itemizedlist>
+         <listitem>
+            <para>Coding critical care is not determined by the location in which the care is delivered but by the nature of the care being delivered and the condition of the patient requiring care.</para>
+         </listitem>
+         <listitem>
+            <para>Critical care is not limited to an inpatient setting or a critical care area, and a physician of any specialty can provide these services. Services must be provided directly by the physician or other qualified health care professional (QHP).</para>
+         </listitem>
+         <listitem>
+            <para>Many typically performed procedures are included (bundled) in the work valuation of each critical care code and cannot be reported separately (Table 17-1). (Refer also to the next section of this chapter for commonly provided services not bundled with hourly and/or neonatal and pediatric critical care service.)</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0021s0002s30001">
+         <title/>
+         <sect4 id="ch0021s0002s0001s01s01">
+            <title>Procedures Not Bundled With Critical/Intensive Care Services</title>
+            <para>When reporting hourly critical or neonatal and pediatric critical and intensive care services, many services commonly performed in the provision of critical care are not bundled into the intensive or critical care services. However, claim edits may require appending a modifier to indicate that the services were distinct. Examples (not all inclusive) of procedures that are not bundled with critical care services include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Thoracentesis (<emphasis role="bold">32554</emphasis>, <emphasis role="bold">32555</emphasis>) (via needle or pigtail catheter)</para>
+               </listitem>
+               <listitem>
+                  <para>Percutaneous pleural drainage with insertion of indwelling catheter (<emphasis role="bold">32556</emphasis>, <emphasis role="bold">32557</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Complete (double volume) exchange transfusion (<emphasis role="bold">36450</emphasis>, newborn; <emphasis role="bold">36455</emphasis>, other)</para>
+               </listitem>
+               <listitem>
+                  <para>Partial exchange transfusion (<emphasis role="bold">36456</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Abdominal paracentesis (<emphasis role="bold">49082</emphasis>, <emphasis role="bold">49083</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Bone marrow aspiration (<emphasis role="bold">38220</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Circumcision (<emphasis role="bold">54150</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Cardioversion (<emphasis role="bold">92960</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Cardiopulmonary resuscitation (CPR) (92950)</para>
+               </listitem>
+               <listitem>
+                  <para>Extracorporeal membrane oxygenation (ECMO) (33946–33949)</para>
+               </listitem>
+               <listitem>
+                  <para>Peripherally inserted central catheter (36568–36573)</para>
+               </listitem>
+               <listitem>
+                  <para>Insertion of non-tunneled centrally inserted central venous catheter, older than 5 years (36556)</para>
+               </listitem>
+               <listitem>
+                  <para>Replacement (rewire) of non-tunneled centrally inserted central venous catheter (36580)</para>
+               </listitem>
+               <listitem>
+                  <para>Therapeutic apheresis (36511–36514)</para>
+               </listitem>
+               <listitem>
+                  <para>Insertion of cannula for hemodialysis, other purpose (separate procedure); vein to vein (36800)</para>
+               </listitem>
+               <listitem>
+                  <para>Placement of needle for intraosseous infusion (36680)</para>
+               </listitem>
+               <listitem>
+                  <para>Initiation of selective head or total body hypothermia in the critically ill neonate (99184)</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ In addition to directing subsequent neonatal critical care for a preterm neonate with a current weight of 2.8 kg, a physician places a peripherally inserted central catheter (PICC) without subcutaneous port or pump and without imaging guidance. The PICC insertion is documented and distinctly identifiable in the patient record from the daily critical care service.</para>
+            <para>99469 25    Subsequent inpatient neonatal critical care, perday, for the evaluation and management of a critically ill neonate, 28 days of age or younger 36568 63    Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump, without imaging guidance; younger than 5 years of age</para>
+            <para>Insertion of a PICC is not included in daily neonatal critical care services. Because the neonatal critical care service entails work significantly beyond the preservice and postservice work of PICC placement, modifier 25 is appropriately appended to code 99469.</para>
+            <para>Modifier 63 (procedure performed on infants less than 4 kg) is appended to code 36568 because the procedure is not specific to patients weighing less than 4 kg, as in this example.</para>
+            <para>Emergency cardiac defibrillation is included in CPR (92950). Perthe Medicaid National Correct Coding Initiative (NCCI) manual, if emergency cardiac defibrillation without CPR is performed in the emergency department (ED) or critical/intensive care unit, the cardiac defibrillation service is not separately reportable. Report 92950 only for elective cardioversion.</para>
+            <para>Many practice management and billing systems include claim scrubbers to alert coders that claim edits apply and a modifier may be appropriate given the clinical circumstances. Payers may also offer online tools for determining when code pair edits apply.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0021s0002s0002">
+      <title>Hourly Critical Care</title>
+      <para>99291    Critical care, E/M of the critically ill or critically injured patient; first 30–74 minutes +99292   each additional 30 minutes (Use in conjunction with 99291.)</para>
+      <para>Guidelines for reporting 99291 and 99292 are as follows:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Report only when critical care is provided for 30 minutes or more</para>
+            <itemizedlist>
+               <listitem>
+                  <para>In the outpatient setting (eg, ED, office, clinic) <emphasis role="italics">regardless of age</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>To an inpatient 6 years or older (For discussion of daily critical care of a child aged &lt;6 years, refer to the Neonatal and Pediatric Daily Critical Care Codes section later in this chapter.)</para>
+               </listitem>
+               <listitem>
+                  <para>Concurrently by a second physician from a different specialty to a critically ill or injured patient, regardless of age</para>
+               </listitem>
+               <listitem>
+                  <para>To an inpatient 5 years or younger when the patient is being transferred to another facility in which a receiving physician of the same specialty but different medical group will be reporting the daily inpatient critical care service codes (99468 and 99469, 99471 and 99472, 99475 and 99476)</para>
+               </listitem>
+               <listitem>
+                  <para>By the physician physically transporting a critically ill child older than 2 years or when payer policy does not recognize 99466 and 99467 (face-to-face transport care of the critically ill or injured patient aged ≤24 months as discussed in the Face-to-Face Pediatric Critical Care Patient Transport section later in this chapter)</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Refer to Table 17-1 to determine which services are bundled (ie, included in the value assigned to critical care services) and to the Procedures Not Bundled With Critical/Intensive Care Services section, presented earlier in this chapter, to determine which ones are separately reported (eg, lumbar puncture, endotracheal intubation, thoracentesis).</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0021s0002s30002">
+         <title/>
+         <sect4 id="ch0021s0002s0002s01s01">
+            <title>Table 17-1. Critical Care Bundled Services</title>
+            <para>An x indicates that the services in that row are bundled to the corresponding critical care service. Services that are not bundled with a critical care service are separately reported only when personally performed by a physician or other QHP (ie, not clinical staff of the facility).</para>
+            <table frame="all" id="ch0021s0002ta0001">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>CPT Code and Procedure (An x inany column applies to all codes within the same row)</entry>
+                        <entry>Hourly Critical Care 99291, 99292</entry>
+                        <entry>Pediatric Transport 99466, 99467</entry>
+                        <entry>Neonatal/Pediatric Critical and Intensive Care 99468–99476, 99477–99480</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry nameend="c4" namest="c1">Interpretation and Monitoring</entry>
+                     </row>
+                     <row>
+                        <entry>71045 X-ray, chest; single view</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>71046 X-ray, chest; 2 views</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>♦93598 Cardiac output measurement(s), thermodilution or other indicator dilution method, performed during cardiac catheterization for the evaluation of congenital heart defects</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94760 Pulse oximetry; single determination*94761 multiple determinations (eg, during exercise)&lt;br&gt;94762 by continuous overnight monitoring</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">Vascular Access Procedures</entry>
+                     </row>
+                     <row>
+                        <entry>36000 Introduction of needle or intracatheter, vein</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36140 Catheterization extremity artery</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36400 Venipuncture, 36405 scalp vein36406 other vein</entry>
+                        <entry/>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36410 Venipuncture, ≥3 years, requiring physician or QHP skill</entry>
+                        <entry>x</entry>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36415 Collection of venous blood by venipuncture*</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36420 Venipuncture, cutdown; younger than age 1 year</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36430 Transfusion, blood or blood components*36440 Push transfusion, blood, 2 years or younger</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36510 Catheterization of umbilical vein, newborn</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36555 Insertion of non-tunneled centrally inserted central venous catheter; &lt;5 years of age</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36591 Collection blood from venous access device*</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36600 Arterial puncture, withdrawal of blood for diagnosis</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>36620 Arterial catheterization, percutaneous36660 Catheterization, umbilical artery, newborn</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c4" namest="c1">Other Procedures</entry>
+                     </row>
+                     <row>
+                        <entry>31500 Endotracheal intubation, emergency</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>43752 Nasogastric or orogastric intubation, fluoroscopic guidance</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>43753 Gastric intubation including lavage if performed</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>51100 Aspiration of bladder; by needle</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>51701 Insertion of non-indwelling bladder catheter51702 Temporary indwelling bladder catheter; simple</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s02">
+            <title>Table 17-1 (continued)</title>
+            <para>
+               <emphasis role="bold">Other Procedures (continued)</emphasis>
+            </para>
+            <table frame="all" id="ch0021s0002ta0002">
+               <title/>
+               <tgroup cols="4">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <thead>
+                     <row>
+                        <entry>62270 Spinal puncture, lumbar, diagnostic</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>92953 Temporary transcutaneous pacing</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94002 Ventilation initiation; inpatient/observation, initial day</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94003    each subsequent day</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>94004 Ventilation initiation; nursing facility, perday</entry>
+                        <entry>x</entry>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94375 Respiratory flow volume loop</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94610 Intrapulmonary surfactant administration</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94660 CPAP, initiation and management</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94780 Car seat/bed testing, infants through 12 months; 60 minutes</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>x</entry>
+                     </row>
+                     <row>
+                        <entry>94781    each additional full 30 minutes</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>This procedure is not valued to include physician work. This code is reported to account for practice expense in a non-facility setting or reported by a facility for overhead expense.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The reported time of critical care cannot include any time spent performing procedures or services that are reported separately.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">99291</emphasis> and, when appropriate, <emphasis role="bold">99292</emphasis> when another physician or QHP of a <emphasis role="italics">different specialty</emphasis> (from either the same or a different group practice) provides neonatal or pediatric critical care services (<emphasis role="bold">99468–99476</emphasis>) on the same date.</para>
+               </listitem>
+               <listitem>
+                  <para>A teaching physician may report time-based critical care services only when personally present for the entire period for which the claim is submitted and that time is supported in documentation of the service.</para>
+               </listitem>
+               <listitem>
+                  <para>When inpatient and outpatient critical care services are provided to a neonate, infant, or child younger than 6 years on the same date by the same physician (or physician of the same group and specialty), only the daily <emphasis role="italics">inpatient</emphasis> critical care codes are reported (<emphasis role="bold">99468–99476</emphasis>). For exceptions, refer to the Neonatal and Pediatric Daily Critical Care Codes and the Emergency Medical Services Supervision and Patient Transport sections later in this chapter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Figure 17-1</emphasis> illustrates the indications for reporting <emphasis role="bold">99291–99292</emphasis> as previously mentioned.</para>
+            <figure float="0" id="ch0021s0002fg0001">
+               <title/>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="ch0021f01.jpg" scalefit="1" width="100%"/>
+                  </imageobject>
+               </mediaobject>
+            </figure>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s03">
+            <title>Figure 17-1. Indications for Reporting Time-Based Critical Care (99291–99292)</title>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Other significant, separately identifiable E/M services (eg, <emphasis role="bold">99282–99285</emphasis> for ED E/M services) can be reported in addition to time-based critical care services as appropriate. Do not count time spent in separately reported E/M services in critical care time.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Payer policies for same-date/same-physician critical care and other E/M services may vary. Medicare policy limits payment of ED services <emphasis role="bold">99281–99285</emphasis> and other E/M services on the same date as critical care services when all the following circumstances are true:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>The other E/M visit was provided before the critical care services at a time when the patient did not require critical care.</para>
+               </listitem>
+               <listitem>
+                  <para>The services were medically necessary.</para>
+               </listitem>
+               <listitem>
+                  <para>The services were separate and distinct, with no duplicative elements from the critical care services provided later in the day.</para>
+               </listitem>
+            </orderedlist>
+            <para>Modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) is appended to the code for the noncritical care service.</para>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s04">
+            <title>Time Units of Hourly Critical Care</title>
+            <para>Reporting for <emphasis role="bold">99291</emphasis> and <emphasis role="bold">99292</emphasis> is based on time. <emphasis role="bold">Table 17-2</emphasis> lists times and billing units. The total floor or unit time devoted to the patient in the provision of critical care is used in code selection.</para>
+            <table frame="all" id="ch0021s0002ta0003">
+               <title>Time Units of Hourly Critical Care</title>
+               <tgroup cols="6">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <colspec colname="c6"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c6" namest="c1">Table 17-2. Reporting Hourly Critical Care Services</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c6" namest="c1">Do not report services of &lt;30 minutes as critical care; report the appropriate E/M service for the site at which service is provided.</entry>
+                     </row>
+                     <row>
+                        <entry>Duration of Face-to-Face Critical Care (min)</entry>
+                        <entry>30–74</entry>
+                        <entry>75–104</entry>
+                        <entry>105–134</entry>
+                        <entry>135–164</entry>
+                        <entry>165–194</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>CPT Codes and Units of Service</entry>
+                        <entry>99291</entry>
+                        <entry>99291 × 1, 99292 × 1</entry>
+                        <entry>99291 × 1, 99292 × 2</entry>
+                        <entry>99291 × 1, 99292 × 3</entry>
+                        <entry>99291 × 1, 99292 × 4</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>Medicare policy requires a minimum of 104 minutes spent in critical care activities to report <emphasis role="bold">99292</emphasis> (ie, completion of a full 30 minutes of critical care services beyond the first 74 minutes of service). Except where a payer's policy specifically aligns with Medicare policy, continue to report according to <emphasis role="italics">CPT</emphasis> instruction.</para>
+            <para>Critical care time is counted <emphasis role="italics">when the physician or QHP is immediately available to the patient</emphasis>, including face-to-face time spent between the physician and patient and other time spent directly related to the patient's care (eg, reviewing test results, discussing care with other medical staff or family, documenting services in the medical record).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Time spent in the provision of critical care does not need to be continuous. The cumulative time of critical care provided on a single date of service (DOS) is used to calculate the units of service provided.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When a continuous period of critical care occurs before and after midnight, report the total time on the date that the period of care was initiated. Do not report a second unit of <emphasis role="bold">99291</emphasis> for the period that continues beyond midnight.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">99291</emphasis> is reported once on a given DOS when 30 to 74 minutes of critical care is performed. If less than 30 minutes of critical care is provided, an appropriate E/M service (eg, <emphasis role="bold">99202–99215</emphasis>, <emphasis role="bold">99282–99285</emphasis> for ED services) is reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">99292</emphasis> is reported with 1 unit for each additional period up to 30 minutes beyond the previous period. Time spent providing critical care must be documented in the medical record.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Unless otherwise indicated in payer policy, services of physicians and QHPs of the same group practice and exact same specialty are typically considered to be provided by a single physician or QHP.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">99291</emphasis> is reported once for 30 to 74 minutes of critical care performed by one or more physicians or QHPs of the same group practice and exact same specialty.</para>
+               </listitem>
+               <listitem>
+                  <para>When the combined times of physicians and QHPs in the same group practice and specialty support reporting <emphasis role="bold">99292</emphasis>, follow payer guidelines regarding reporting by each individual physician or QHP (eg, the same physician reports <emphasis role="bold">99291</emphasis> and <emphasis role="bold">99292</emphasis>, or the first physician reports <emphasis role="bold">99291</emphasis> and the other physician reports <emphasis role="bold">99292</emphasis>, as indicated).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s05">
+            <title>Medicare Guidelines for Critical Care Services</title>
+            <para>Medicare policy is often adopted by other payers (eg, Medicaid plans, group health plans). For example, Medicare policy requires a minimum of 104 minutes spent in critical care activities to report <emphasis role="bold">99292</emphasis> (ie, completion of a full 30 minutes of critical care services beyond the first 74 minutes of service). For this reason, it is good to be aware of Medicare policies that may affect how services are reported.</para>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s06">
+            <title>Medicare's Assignment of a Qualified Health Care Professional's Specialty</title>
+            <para>When QHPs work with physicians, <emphasis role="italics">CPT</emphasis> considers the QHPs to be working in the exact same specialty and exact same subspecialties as the physician. This guideline is not consistent with Medicare policy. Under Medicare policy, distinct specialty codes are assigned to QHPs such as nurse practitioners (NPs) (50), physician associates (97), and clinical nurse specialists (89). When adopted by other payers (eg, Medicaid plans), specialty differentiation affects how critical care is reported when provided in part by a physician and in part by a QHP. Reporting by the correct individual is important when there are differences between fee schedule payments to physicians and those to QHPs.</para>
+         </sect4>
+         <sect4 id="ch0021s0002s0002s01s07">
+            <title>Hourly Critical Care by Physicians of the Same Specialty and Same Group Practice</title>
+            <para>As with <emphasis role="italics">CPT</emphasis>, when 2 physicians of the same specialty and same group practice or 2 QHPs of the same group practice provide hourly critical care services on the same date, Medicare policy allows reporting based on the combined times of each physician or each QHP.</para>
+            <para>Refer to the Split or Shared Critical Care Services section later in this chapter for Medicare payment policy that may apply to hourly critical care services provided <emphasis role="italics">by a physician and QHP</emphasis> in the same group practice on the same DOS.</para>
+            <para>Under the Medicare policy for reporting critical care services provided by 2 or more individuals of the same specialty and same group practice,</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The time of critical care services by 2 physicians or by 2 QHPs may be combined to support <emphasis role="bold">99291</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>A second physician cannot report <emphasis role="bold">99291</emphasis> when the initial 30 to 74 minutes of critical care services on the same date was provided by another physician of the same specialty and same group practice. The physician who provided the initial period of critical care services reports <emphasis role="bold">99291</emphasis>. If the requirements for reporting <emphasis role="bold">99292</emphasis> are met by the combined critical care service times of the 2 physicians, the second physician may report <emphasis role="bold">99292</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>All the time attributed to critical care services must be medically necessary, and each visit must meet the definition of critical care to combine the times for the purpose of code selection.</para>
+            </blockquote>
+            <para>
+               <emphasis role="bold">▶</emphasis> Dr A spends 20 minutes providing initial critical care services to a 3-year-old child and orders a transfer to another facility. Dr B, a physician of the same specialty and same group practice, assumes management and provides 45 minutes of critical care to the child during transport to the receiving facility.</para>
+            <para>Dr A or Dr B reports <emphasis role="bold">99291</emphasis> × 1 (critical care, first 30–74 minutes).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Dr A's time does not support <emphasis role="bold">99291</emphasis>. But because Dr B is in the same group practice and same specialty, the time spent by each physician is combined (20 + 45 = 65) to support <emphasis role="bold">99291</emphasis>. Medicare does not designate which physician reports the service.</para>
+            <para>
+               <emphasis role="bold">▶</emphasis> A 13-year-old adolescent is admitted to the intensive care unit in respiratory distress. Nurse practitioner A, who specializes in pulmonology, spends 50 minutes providing initial critical care services. Later, on the same date, NP B, of the same group practice and who specializes in infectious disease, provides 40 minutes of critical care.</para>
+            <table frame="all" id="ch0021s0002ta0004">
+               <title>Hourly Critical Care by Physicians of the Same Specialty and Same Group Practice</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>If a payer credentials NPs by specialty or subspecialty of practice and follows CPT instructions</entry>
+                        <entry>When the payer follows Medicare policy considering NPs to be of a single specialty and requiring ≥104 minutes to report 99292</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>NP A reports 99291 (critical care, first 30–74 minutes).NP B reports 99291.</entry>
+                        <entry>NP A reports 99291 (critical care, first 30–104 minutes).</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

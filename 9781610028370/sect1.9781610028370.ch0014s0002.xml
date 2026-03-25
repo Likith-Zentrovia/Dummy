@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0014s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0014s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>11. Common Testing and Therapeutic Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Common Testing and Therapeutic Services</title>
+   
+   <itemizedlist>
+      <listitem>
+         <para>Reporting service components: only professional, only technical, or both</para>
+      </listitem>
+      <listitem>
+         <para>Reporting provision of supplies and medications</para>
+      </listitem>
+      <listitem>
+         <para>In-office pathology, laboratory, and radiology service codes and modifiers</para>
+      </listitem>
+      <listitem>
+         <para>Codes for respiratory testing and treatment services</para>
+      </listitem>
+      <listitem>
+         <para>Allergy testing and allergen immunotherapy codes and reporting guidelines</para>
+      </listitem>
+      <listitem>
+         <para>Reporting emotional/behavioral assessment instruments</para>
+      </listitem>
+      <listitem>
+         <para>Codes reported for developmental testing</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0014s0002s0001">
+      <title>Professional and Technical Components</title>
+      <para>This chapter discusses codes for some of the most common tests and therapeutic services performed in physician offices and outpatient clinics. Certain procedures (eg, electrocardiography [ECG], radiography, diagnostic procedures) include a professional component and a technical component.</para>
+      <itemizedlist>
+         <listitem>
+            <para>The <emphasis role="italics">professional component</emphasis> includes the physician work (eg, interpretation of the test, writing of a report).</para>
+         </listitem>
+         <listitem>
+            <para>The <emphasis role="italics">technical component</emphasis> includes the costs associated with providing the service (eg, equipment, salaries of technical personnel, supplies, expense of facility).</para>
+         </listitem>
+      </itemizedlist>
+      <para>When reporting that the global service (professional and technical components) was provided by a physician or other qualified health care professional (QHP), no modifier is required.</para>
+      <para>When practicing in an outpatient setting in which a facility bears the practice expense of equipment, supplies, and clinical staff, physicians and QHPs report only the services that have a professional component (ie, interpretation and report). The facility will report charges for services such as laboratory tests that represent a practice expense. The physician's or QHP's analysis of test results that do not require interpretation and report is part of an evaluation and management (E/M) service.</para>
+      <para>Codes to which the professional and technical component guidelines apply are often designated in payer policy, including the Medicare Physician Fee Schedule (MPFS) on which many payers base policies. An MPFS lookup tool (www.cms.gov/medicare/physician-fee-schedule/search) can be used to determine if the professional and technical component applies to a specific code. The <emphasis role="italics">How to Use the MPFS Look-Up Tool</emphasis> booklet (www.cms.gov/sites/default/files/2021-04/How <emphasis role="italics">to</emphasis> MPFS <emphasis role="italics">Booklet</emphasis> ICN901344_0.pdf) explains the professional and technical component indicators used in the MPFS.</para>
+      <sect3 id="ch0014s0002s30001">
+         <title/>
+         <sect4 id="ch0014s0002s0001s01s01">
+            <title>Interpretation and Report</title>
+            <para>Many tests include recording of results and a written report with interpretation. <emphasis role="italics">Current Procedural Terminology (CPT®)</emphasis> instructs that</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Results</emphasis> are the technical component of a service. Testing leads to results; results lead to interpretation.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Reports</emphasis> are the written product of the interpretation of test results.</para>
+               </listitem>
+               <listitem>
+                  <para>Certain procedures or services described in <emphasis role="italics">CPT</emphasis> involve a technical component (eg, tests) that produces results (eg, data, images, slides). For clinical use, some of these results require interpretation. Some <emphasis role="italics">CPT</emphasis> descriptors specifically require interpretation and reporting to report that code.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Do not separately report review of physicians interpretation and report or personal review of the tracing that has been interpreted by another physician. These activities contribute, however, to the medical decision-making (MDM) for any related E/M service.</para>
+            <para>Pediatricians performing services that include an interpretation of results should become familiar with the types of reports typical for each test (eg, typical report produced for the interpretation of ECG tracings). A report generated by an automated system is not typically sufficient to support reporting a service described as "with interpretation and report."</para>
+            <para>Some tests do not require interpretation and report (eg, point-of-care laboratory tests) but, rather, provide results that require analysis of how the result does or does not influence patient management or treatment. Use of the results in MDM may becredited to the amount and/or complexity of data to be reviewed and analyzed for an E/M encounter. Refer to <emphasis role="bold">Chapter 6</emphasis> for more information on how ordered tests and results reviewed influence the level of MDM of an E/M service.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0001s01s02">
+            <title>Professional and Technical Component Modifiers</title>
+            <para>
+               <emphasis role="bold">26</emphasis> Professional component: When the physician or other QHP is reporting only the professional component of a service, append modifier <emphasis role="bold">26</emphasis> to the procedure code.</para>
+            <para>
+               <emphasis role="bold">TC</emphasis> Technical component: When reporting only the technical component of a service, append modifier <emphasis role="bold">TC</emphasis> to the procedure code.</para>
+            <para>Modifiers are used to indicate that either the professional component or the technical component (not both) was performed. Modifiers <emphasis role="bold">26</emphasis> and <emphasis role="bold">TC</emphasis> are not reported when both components of a service were provided by the physician or QHP in a non-facility setting.</para>
+            <para>When the physician owns the equipment and is performing the technical and professional services, the <emphasis role="bold">26</emphasis> or <emphasis role="bold">TC</emphasis> modifier should not be appended to the code.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If a physician is performing a service or procedure with equipment owned by a facility or another entity and the codes are written as a global service, services are reported with modifier <emphasis role="bold">26</emphasis> (professional component).</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> does not include a modifier for reporting the technical component. But most payers recognize the Healthcare Common Procedure Coding System (HCPCS) modifier <emphasis role="bold">TC</emphasis>. Appending modifier <emphasis role="bold">TC</emphasis> to the procedure code indicates that only the technical component was provided by the entity (eg, facility-owned clinic).</para>
+               </listitem>
+               <listitem>
+                  <para>Some codes distinguish between technical and professional components (eg, routine ECG codes <emphasis role="bold">93000–93010</emphasis>) without use of a modifier; however, many do not and therefore require use of modifier <emphasis role="bold">26</emphasis> or <emphasis role="bold">TC</emphasis> to indicate which component is billed.</para>
+               </listitem>
+            </itemizedlist>
+            <para>No modifier is appended when the code descriptor for the service identifies whether the professional, technical, or global service is being reported.</para>
+            <para>▶<emphasis role="bold">A physician orders 2-view chest radiography of a child.</emphasis> The radiographs are provided in the physician's office, and the physician interprets and documents a formal interpretation of the images. (No other physician will provide or report an interpretation and report.)</para>
+            <para>
+               <emphasis role="bold">71046</emphasis> (radiologic examination, chest; 2 views) The physician does not include a modifier because the physician's practice provided the global service (ie, both technical and professional components). In-office radiography may be more common in large or multispecialty practices. If the practice included a radiologist who provided interpretation and report of all imaging services, the ordering physician would not report a radiology service.</para>
+            <para>▶<emphasis role="bold">A physician orders 2-view chest radiography of a child.</emphasis> The child is sent to a neighboring physician's office (or outpatient department) for the radiograph (without interpretation). The radiographs are then brought back to the office and the pediatrician interprets them and creates a report of the findings.</para>
+            <para>Physician:<emphasis role="bold">71046 26</emphasis> (radiologic examination, chest; 2 views).</para>
+            <para>Neighboring physician's office:<emphasis role="bold">71046 TC</emphasis>.</para>
+            <para>▶<emphasis role="bold">A physician orders 12-lead ECG of an adolescent patient.</emphasis> The patient is sent to another office that has an ECG machine to perform the ECG. The tracings are taken back to the pediatrician for review and written interpretation and report.</para>
+            <para>Physician:<emphasis role="bold">93010</emphasis> (routine ECG with at least 12 leads; interpretation and report only).</para>
+            <para>Other office:<emphasis role="bold">93005</emphasis> (routine ECG with at least 12 leads; tracing only, without interpretation and report).</para>
+            <para>Modifiers <emphasis role="bold">26</emphasis> and <emphasis role="bold">TC</emphasis> are not appended because the codes designate the professional and technical components.</para>
+            <para>▶<emphasis role="bold">A primary care physician (PCP) orders 2-view chest radiography of a child at an outpatient clinic that is part of a hospital's outpatient campus (place of service [POS] code 22).</emphasis> The child receives the imaging service in the outpatient clinic where the PCP provides E/M services. A hospital-based radiologist will interpret and report the findings of the imaging, but the report is unavailable at the time of the visit. The PCP personally views and documents an informal interpretation of the images at the patient's visit.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Primary care physician: E/M code for service provided with the independent interpretation of the images contributing to MDM (if the E/M code is selected on the basis of MDM rather than total time)</para>
+               </listitem>
+               <listitem>
+                  <para>Outpatient clinic (facility charges): E/M visit code and <emphasis role="bold">71046 TC</emphasis> (radiologic examination, chest; 2 views)</para>
+               </listitem>
+               <listitem>
+                  <para>Radiologist:<emphasis role="bold">71046 26</emphasis> (radiologic examination, chest; 2 views)</para>
+               </listitem>
+            </itemizedlist>
+            <para>The physician will report POS code <emphasis role="bold">22</emphasis> on the claim for the E/M service to indicate that the service took place in a facility site. (Off-campus outpatient hospital, POS code 19, is also a facility site of service.) The facility POS will result in payment based on total facility relative value units (RVUs) to reflect that the physician did not incur the practice expense of the test. The facility will also report the E/M service (for practice expense) in addition to the technical component of the radiology service on a facility claim form (UB-04).</para>
+            <para>When interpreting a test at a location remote from the site of the technical service, follow payer guidelines for reporting. The POS for remote interpretation and report is typically the site at which the technical component of the test was performed (eg, outpatient hospital). Payer guidelines may vary.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0002s0002">
+      <title>Supplies and Medications</title>
+      <sect3 id="ch0014s0002s30002">
+         <title/>
+         <sect4 id="ch0014s0002s0002s01s01">
+            <title>Supplies and Materials</title>
+            <para>
+               <emphasis role="bold">99070</emphasis> Supplies and materials provided by the physician over and above those usually included with the office visit or other services rendered <emphasis role="bold">99071</emphasis> Educational supplies, such asbooks, tapes, and pamphlets, for the patient's education at cost to physician or other QHP The practice expense RVUs assigned to most services include the value of supplies (eg, nebulizer masks and tubing, gauze, needles) that are typically required for each service.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">If reporting 99070, identify the supplies or materials on the claim form and be prepared to submit an invoice.</emphasis>
+               </para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>Supplies should be separately reported when a payer does not use a payment methodology based on the RVUs assigned to each code under the MPFS. But most payers use a payment method based on RVUs and do not provide separate payment for supplies that are typically used to perform a service.</para>
+               </listitem>
+               <listitem>
+                  <para>Only the supplies purchased by an office-based practice may be reported. Supplies not typically included in the value assigned to a service include such items as splints, casts, or medications.</para>
+               </listitem>
+               <listitem>
+                  <para>Use HCPCS codes when they are more specific than <emphasis role="bold">99070</emphasis>. HCPCS codes are available for a number of supplies (eg, codes <emphasis role="bold">Q4001–Q4051</emphasis> for cast and splint supplies).</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">99071</emphasis> may be reported when the physician incurs costs for educational supplies and provides these supplies to the patient at cost. This code may be denied because of payment policies that consider supplies reported with <emphasis role="bold">99071</emphasis> to be a practice expense of a related service.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0002s0002s01s02">
+            <title>Medications</title>
+            <para>Medications used in testing or treatment (eg, albuterol) are not included in the value of service and are separately reported with HCPCS codes (eg, <emphasis role="bold">J7613</emphasis>, albuterol, inhalation solution, US Food and Drug Administration [FDA]–approved final product, noncompounded, administered through durable medical equipment, unit dose, 1 mg).</para>
+            <para>Visit www.aap.org/cfp2026 for a table of the most used pediatric medications, associated HCPCS J codes, and related administration codes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report medications when the practice incurred a cost for the medication.</para>
+               </listitem>
+               <listitem>
+                  <para>HCPCS codes for drugs are listed with a base dosage (eg, per 1 mg, up to 5 mg). When the dosage exceeds the amount listed, report additional units for the total dosage administered.</para>
+               </listitem>
+               <listitem>
+                  <para>Follow payer-specific instructions, which may require that units reflect the exact strength of the medication. For example, when the unit in the code descriptor is per 1 mg, a payer may require the exact strength (eg, 2.5 units for 2.5 mg) or may instruct to round up to the next full unit (eg, round 2.5 to 3 units).</para>
+               </listitem>
+               <listitem>
+                  <para>Report the National Drug Code (NDC) in addition to J codes to provide more precise information on the medication and dose administered. The NDC should always be reported in addition to <emphasis role="bold">99070</emphasis> or <emphasis role="bold">J3490</emphasis> (unclassified drug), when applicable. You can find a list of NDCs at www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Pay attention to NDCU units, which are often different from HCPCS units (eg, units per milliliter rather than permilligram).</para>
+               </listitem>
+            </itemizedlist>
+            <para>For more information on NDCs, refer to <emphasis role="bold">Chapter 1</emphasis>.</para>
+            <para>When administering a drug or biologic from a <emphasis role="italics">single-dose</emphasis> vial or package, be aware of a payer's requirements for modifiers <emphasis role="bold">JW</emphasis> (drug amount discarded/not administered to any patient) and <emphasis role="bold">JZ</emphasis> (zero drug amount discarded/not administered to any patient). Follow payer instructions for reporting these modifiers. Learn more about these modifiers in <emphasis role="bold">Chapter 2</emphasis>.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0002s0003">
+      <title>Laboratory Testing Services</title>
+      <sect3 id="ch0014s0002s30003">
+         <title/>
+         <sect4 id="ch0014s0002s0003s01s01">
+            <title>Blood Sampling for Laboratory Testing</title>
+            <para>Report collection of blood samples for testing (eg, venipuncture) in a physician practice regardless of whether the laboratory test is performed in the office or at an outside facility. The <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> (ICD-10-CM) code reported for blood sampling is the same code that represents the reason for the testing ordered that requires the blood sample.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s01s02">
+            <title>Venipuncture</title>
+            <para>
+               <emphasis role="bold">36400</emphasis> Venipuncture, younger than age 3 years, necessitating the skill of a physician or other QHP, not to be used for routine venipuncture; femoral or jugular vein</para>
+            <para>
+               <emphasis role="bold">36405</emphasis> scalp vein</para>
+            <para>
+               <emphasis role="bold">36406</emphasis> other vein <emphasis role="bold">36410</emphasis> Venipuncture, age 3 years or older, necessitating the skill of a physician or QHP professional (separate procedure), for diagnostic or therapeutic purposes (not to be used for routine venipuncture)</para>
+            <para>
+               <emphasis role="bold">36415</emphasis> Collection of venous blood by venipuncture <emphasis role="bold">36416</emphasis> Collection of capillary blood specimen (eg, finger, heel, ear stick)</para>
+            <para>
+               <emphasis role="bold">36591</emphasis> Collection of blood specimen from a completely implantable venous access device</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When a physician's skill is required to perform venipuncture on a child younger than 3 years (eg, access is too difficult for other staff to attain), codes <emphasis role="bold">36400–36406</emphasis> are reported in relation to the anatomical site of the venipuncture.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">36410</emphasis> when a physician's skill is required to perform venipuncture on a child 3 years or older.</para>
+               </listitem>
+            </itemizedlist>
+            <para>If the physician performs the venipuncture as a convenience or because staff is not trained in the procedure, <emphasis role="bold">36415</emphasis> is reported because the physician's skill was not required.</para>
+            <para>Some payers require that modifier 25 be appended to the E/M code if an E/M service is reported on the same day of service. This is not a common practice.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not report an E/M code when <emphasis role="italics">only</emphasis> laboratory testing and/or venipuncture or capillary finger stick is provided.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>It is inappropriate to report a nurse visit (<emphasis role="bold">99211</emphasis>) in these cases.</para>
+               </listitem>
+               <listitem>
+                  <para>If a medically necessary nursing E/M service is performed in compliance with payer guidelines (eg, incident to a physician's service) on the same date as venipuncture, append modifier 25 to <emphasis role="bold">99211</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">36591</emphasis> (collection of blood specimen from a completely implantable venous access device) only when performed in conjunction with a laboratory service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 18</emphasis> for discussion of arterial catheterization.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s01s03">
+            <title>Arterial Puncture</title>
+            <para>
+               <emphasis role="bold">36600</emphasis> Arterial puncture, withdrawal of blood for diagnosis Arterial puncture (eg, radial artery) with withdrawal of blood for diagnosis is reported with <emphasis role="bold">36600</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s01s04">
+            <title>Pathology and Laboratory Procedures</title>
+            <para>CPT laboratory codes may begeneric for a particular analyte that is independent of testing method or have a specific CPT code, depending on the method used for the particular analysis.</para>
+            <para>Specimen collection other than blood sampling (eg, nasal or oral swab, urine collection) is typically not separately reported. Follow payer guidelines when exceptions are made.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s01s05">
+            <title>Clinical Laboratory Improvement Amendments–Waived Tests</title>
+            <para>The Clinical Laboratory Improvement Amendments (CLIA) establish quality standards for all laboratory testing to ensure the accuracy, reliability, and timeliness of patient test results regardless of where the test was performed. All laboratories, including those within a physician practice, must comply with CLIA and must typically report a valid (current) CLIA certificate number on claims.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A laboratory is defined asany facility that performs laboratory testing on specimens derived from humans for the purpose of providing information for the diagnosis, prevention, and treatment of disease or impairment or assessment of health.</para>
+               </listitem>
+               <listitem>
+                  <para>The term CLIA waived refers to simple laboratory examinations and procedures that have an insignificant risk of an erroneous result when manufacturer instructions are followed. One typical test that is CLIA waived is urinalysis without microscopy (81002). Other tests require higher levels of CLIA certification (eg, provider-performed microscopy).</para>
+               </listitem>
+               <listitem>
+                  <para>The term moderate complexity refers to tests that are performed only by laboratories certified as meeting the CLIA quality system standards, such as those for proficiency testing, quality control and assessment, and personnel requirements. The difference between moderate- and high-complexity certification is the personnel required.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+      <sect3 id="ch0014s0002s0003s02">
+         <title>Not Sure How a Test Is Categorized?</title>
+         <para>Refer to the FDA CLIA database at www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCLIA/search.cfm for tests of all categories by test system, manufacturer, or analyte. If your practice provides only waived test systems and analytes, visit www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCLIA/analyteswaived.cfm.</para>
+         <para>Some codes represent both CLIA-waived and higher-complexity test systems.</para>
+         <itemizedlist>
+            <listitem>
+               <para>Laboratories and physician offices performing waived tests should append modifier QW to the CPT code for CLIA-waived procedures. The use of modifier QW originated in the Medicare program but is now required by some other payers.</para>
+            </listitem>
+            <listitem>
+               <para>Only a small number of CLIA-waived tests are exempt from use of modifier QW (eg, 81002, non-automated urinalysis without microscopy; 81025, urine pregnancy test; 82272, occult blood by peroxidase for other than colorectal neoplasm screening).</para>
+            </listitem>
+         </itemizedlist>
+         <sect4 id="ch0014s0002s0003s02s01">
+            <title>General Guidance for Reporting Laboratory Services</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Report a test performed in the office laboratory with the appropriate laboratory code and, if performed, the appropriate blood collection code (36400–36416).</para>
+               </listitem>
+               <listitem>
+                  <para>Link the appropriate diagnosis code to the laboratory procedure and/or venipuncture and handling fee. The diagnosis must support the medical necessity or reason for the test or service.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report any laboratory test that is not performed in the office (eg, thyroid function, laboratory panels, phenylketonuria). Instead, report the appropriate blood-drawing code (36415 or 36416), when applicable, and handling fee code (99000). Exception: Follow state regulations and payer policies for physician billing of laboratory services performed by an outside laboratory (ie, purchased laboratory services). Generally, if the laboratory bills the pediatrician for the test, bill the patient with the appropriate laboratory analysis code plus modifier 90 to indicate that the procedure was performed in an outside laboratory.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ The physician orders a laboratory test requiring a blood sample, and the nurse obtains the blood via venipuncture. The specimen is sent to an outside laboratory for processing.</para>
+            <para>Only the venipuncture (36415) and handling fee (99000) would be reported in addition to the E/M service and other procedures performed on that day.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report modifier 91 (repeat clinical diagnostic laboratory test) on the code for a test that is repeated multiple times on a single date of service (DOS) (eg, multiple blood glucose tests).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Practices must stay up to date on payer policies that may limit the opportunity to provide and receive payment for in-office laboratory testing. Policies for physician office testing may limit payment for tests included in a "short turnaround time" laboratory test code list. A short turnaround test is typically described asyielding a result needed to appropriately manage the patient's care at the time of the visit (eg, rapid streptococcal antigen test).</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s02s02">
+            <title>Laboratory Panel Coding</title>
+            <para>All laboratory test panels (80047–80076) were specifically developed for coding purposes and should not be interpreted as clinical parameters. (Refer to 80047–80076 for a component listing of these panels.) For example, the lipid panel (80061) includes total cholesterol (82465), high-density lipoprotein cholesterol (83718), and triglycerides (84478). Any additional tests performed can be coded separately from the panel code. <emphasis role="italics">Do not unbundle individual laboratory tests if a laboratory panel code is available except as required by a payer.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s02s03">
+            <title>Direct Optical Observation</title>
+            <para>Direct optical (ie, visual) observation is a testing platform that provides a result (ie, positive or negative) by producing a signal on the reaction chamber (test strip with colored bands) that can be interpreted visually (eg, point-of-care influenza testing). (Refer to 87804, influenza; 87807, respiratory syncytial virus; 87880, group A <emphasis role="italics">Streptococcus</emphasis>; and 87811, COVID-19. New in 2026: report 87812 for a single test for COVID-19 and influenza A and B.) Per CPT, when reporting tests performed through direct optical observation, the number of unique results (eg, 2 results: positive for influenza A and negative for influenza B) determines the units of service reported. For instructions for reporting other tests that may identify multiple infectious agents, refer to the Combination Testing for SARS-CoV-2 and Other Infectious Agent(s) section later in this chapter.</para>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s02s04">
+            <title>Cultures</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Use 87086 (culture, bacterial; quantitative colony count, urine) once per encounter for urine culture to determine the approximate number of bacteria present per milliliter of urine.</para>
+               </listitem>
+               <listitem>
+                  <para>Use of a commercial kit with defined media to identify isolates in a positive urine culture is reported with 87088 (culture, bacterial; quantitative colony count, urine with isolation and presumptive identification of each isolate).</para>
+               </listitem>
+               <listitem>
+                  <para>Code 81007 (urinalysis; bacteriuria screen, except by culture or dipstick) (CLIA waived) can be used for a bacteriuria screening by urine culture technique using a commercial kit. The type of commercial kit must be specified.</para>
+               </listitem>
+               <listitem>
+                  <para>Code 87070 (culture, bacterial; any other source except urine, blood, or stool) is reported for throat cultures.</para>
+               </listitem>
+               <listitem>
+                  <para>Use 87045 to report culture, bacteria of the stool, aerobic, with isolation and preliminary examination (eg, Kligler [triple sugar] iron agar, lysine iron agar) for <emphasis role="italics">Salmonella</emphasis> and <emphasis role="italics">Shigella</emphasis> species. Additional pathogens are reported with 87046 with 1 unit per plate.</para>
+               </listitem>
+               <listitem>
+                  <para>Culture, presumptive pathogenic organisms, screening only (87081), is reported for testing for a specific organism (eg, <emphasis role="italics">Streptococcus</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Report services with the symptoms (eg, dysuria) or the confirmed diagnosis (eg, urinary tract infection).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0002s0003s02s05">
+            <title>Proprietary Laboratory Analyses and Multianalyte Assays With Algorithmic Analyses</title>
+            <para>To report testing performed through proprietary laboratory analyses or multianalyte assays with algorithmic analyses, refer to Appendix O of the American Medical Association CPT manual, and for quarterly code updates, visit www.ama-assn.org/practice-management/cpt/cpt-pla-codes. Code selection for these codes is based on the analysis performed and the proprietary name of the test. Table 11-1 shows how these codes are listed in CPT Appendix O. Codes for genomic sequencing procedures are also listed in CPT Appendix O.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

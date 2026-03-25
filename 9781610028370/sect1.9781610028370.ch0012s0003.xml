@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0012s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0012s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0012s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0012s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>12</chapternumber>
+         <chapterid>ch0012</chapterid>
+         <chaptertitle>9. Indirect Management of Chronic and Complex Conditions</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Indirect Management of Chronic and Complex Conditions</title>
+   <para>Management of complex medical conditions may be reported with multiple codes for individual services and/or single codes that describe a combination of direct and indirect services or a period of indirect services reported with one or more codes based on time of service.</para>
+   <para>Four of 5 key categories of E/M services that include indirect services are discussed in this chapter.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Principal care management (PCM) (<emphasis role="bold">99424–99427</emphasis>) is a monthly service provided by a physician with a focus on the medical and/or psychological needs manifested by a single complex chronic condition (eg, poorly controlled diabetes). PCM services do not require comprehensive assessment and coordination of services for all of a patient's health care needs.</para>
+      </listitem>
+      <listitem>
+         <para>Chronic care management (CCM) (<emphasis role="bold">99490, 99439, 99491, 99437</emphasis>) and complex CCM (<emphasis role="bold">99487, 99489</emphasis>) are monthly services provided by a single physician to manage or coordinate services for patients with 2 or more complex chronic conditions. The reporting individual provides or oversees the management and/or coordination of services, as needed, for all the patient's health care needs. Direct services are separately reported.</para>
+      </listitem>
+      <listitem>
+         <para>Care plan oversight (CPO) (<emphasis role="bold">99374, 99375; 99377, 99378; 99379, 99380</emphasis>) is another monthly service provided by a single physician in support of health care services typically delivered by nonphysician qualified health care professionals (NQHCPs) (eg, therapists), home health, or hospice services. CPO is reported by only 1 individual who has the sole or predominant supervisory role with a particular patient.</para>
+      </listitem>
+      <listitem>
+         <para>Transitional care management (TCM) (<emphasis role="bold">99495, 99496</emphasis>) services support patient transition from a stay in a facility to their home environment without gaps in their care management. The reporting physician or QHP provides or oversees the management and/or coordination of services, as needed, for all the patient's health care needs. TCM includes a combination of 1 direct service and indirect services over a 30-day period, as needed.</para>
+      </listitem>
+   </orderedlist>
+   <para>A fifth category of indirect services, psychiatric collaborative (<emphasis role="bold">99492–99494</emphasis>) and general behavioral health integration (<emphasis role="bold">99484</emphasis>) care management services, is discussed in Chapter 10.</para>
+   <para>Each of these categories of service is reported according to time and/or specified levels of service devoted to care of the individual patient in a specified period. <emphasis role="italics">CPT</emphasis> instructions for each category of services specify the service requirements, eligible service providers, required time (when applicable), and whether certain other services may be separately reported within the period of each service. A table comparing requirements for reporting PCM, CCM, and CPO services is included at www.aap.org/cfp2026 ("Monthly Care Management and Care Plan Oversight Services: A Comparison").</para>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ◆, audiovisual technology; and ♦, synchronous interactive audio.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Care management services cannot be reported when provided during a postoperative portion of the global period of a service reported by the same physician or other physician of the same specialty and same group practice. For example, a surgeon would not report TCM during a postoperative period, but a primary care pediatrician may report TCM when coordinating care for all the patient's medical conditions following hospital discharge. Care management services are not reported for postoperative care alone (eg, when reporting a surgical service code with modifier 55 only for postoperative management).</para>
+   <itemizedlist>
+      <listitem>
+         <para>Review the codes for these services and the related coding instructions to take advantage of opportunities to be paid for providing and/or coordinating care between visits for children with complex health care needs.</para>
+      </listitem>
+      <listitem>
+         <para>Identify the services that practice capabilities will support to take advantage of opportunities to be paid for providing and reporting services related to managing chronic conditions and complex health care needs. For instance, provision of TCM services requires timely identification of patients discharged from an inpatient or observation stay so contact may be made with the patient or caregiver within 2 business days of facility discharge.</para>
+      </listitem>
+      <listitem>
+         <para>Payers may require specific electronic capabilities (eg, an electronic health record [EHR] that meets specific certification and/or standards for interoperability).</para>
+      </listitem>
+      <listitem>
+         <para>Codes and payment policy for many of these services continue to evolve. Be sure to review reporting instructions for any changes that will take place January 1 of each year.</para>
+      </listitem>
+      <listitem>
+         <para>Report these services and the diagnosis codes representing the patient's chronic and complex conditions to demonstrate the higher-quality, lower-cost care that is a key element of emerging payment methodologies.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Refer to <emphasis role="bold">Chapter 4</emphasis> for information on emerging payment methodologies such as value-based payment incentives. Some health plans cover care management services only as part of a value-based payment program (ie, not fee-for-service [FFS]).</para>
+   <itemizedlist>
+      <listitem>
+         <para>Payers that have adopted value-based or enhanced payment initiatives, such asper-member-per-month payment models, may consider certain care management services bundled into the services for which the enhanced payment is made. Practices may, however, choose to assign codes for use in internal calculations of the cost to provide enhanced care in comparison to any enhanced payments.</para>
+      </listitem>
+   </itemizedlist>
+   <para>For more information on preparing your practice to care for patients with complex health care needs, refer to the AAP policy statement "Patient- and Family-Centered Care Coordination: A Framework for Integrating Care for Children and Youth Across Multiple Systems" (https://doi.org/10.1542/peds.2014-0318).</para>
+   <itemizedlist>
+      <listitem>
+         <para>This policy statement, coauthored by the AAP Council on Children With Disabilities and the Medical Home Implementation Project Advisory Committee, outlines the essential partnerships that are critical to this framework.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Services such as CCM do not prevent separate reporting of preventive services when provided to children with complex health care needs. Refer to <emphasis role="bold">Chapter 8</emphasis> for more information on reporting preventive E/M services and separately reportable services on the same date.</para>
+   <sect2 id="ch0012s0003s20001">
+      <title/>
+      <sect3 id="ch0012s0003s30001">
+         <title/>
+         <sect4 id="ch0012s0003s0001s01s01">
+            <title>Tracking Time of Periodic Services</title>
+            <para>Care management services, other than TCM, are reported only when a specific amount of time is spent providing the service during 1 calendar month. CPO also requires specified amounts of time spent within a calendar month. Services typically occur on multiple days within the month. <emphasis role="italics">Each segment of time must be documented.</emphasis> In 2025, Healthcare Common Procedure Coding System (HCPCS) codes <emphasis role="bold">G0556–G0558</emphasis> (for full descriptors, refer to your HCPCS reference) were introduced for reporting advanced primary care management services provided to patients with Medicare coverage. In recognition of the burden associated with tracking and documenting the clinical staff minutes spent on each activity of a care management service, the services reported with <emphasis role="bold">G0556–G0558</emphasis> are not time based. Payment for services reported with <emphasis role="bold">G0556–G0558</emphasis> may vary by Medicaid and private health plan, and benefits should be verified prior to provision of services. These codes may also be included in a payer's incentive program (eg, primary care incentive program) that provides incentive payments in addition to or in lieu of a FFS contract. Refer to the Resources at the end of this chapter for an article providing additional details.</para>
+            <para>Documentation and tracking of time for services that are reported periodically, such as time spent in CCM activities in a calendar month, require establishing routine processes to capture all billable services. Failure to track the time and activities may result in practice expense that does not yield revenue.</para>
+            <para>Practice and system capabilities vary. Potential tracking mechanisms include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>EHR flowcharts designed to capture each activity and the related time throughout a period of service and prompt code assignment when required service time is met.</para>
+               </listitem>
+               <listitem>
+                  <para>Stand-alone time-tracking software, which may also offer a solution for documenting time of service.</para>
+               </listitem>
+               <listitem>
+                  <para>Manual systems, such asspreadsheets, that are updated at the time of each activity.</para>
+               </listitem>
+               <listitem>
+                  <para>Work-arounds in existing electronic systems, such as EHR templates for clinical staff appointments that are assigned pseudocodes to track time (refer to the example that follows). Pseudocodes are never used on claims; instead, they provide a basis for tracking time-based services.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Collaboration with system vendors, professional colleagues, and practice management consultants may beinvaluable to successful delivery, documentation, and reporting of time-based services.</emphasis> The following example illustrates one semiautomated method of using pseudocodes:</para>
+            </blockquote>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">Clinical staff members of a physician who is providing PCM services to a child with a single high-risk disease spend 35 minutes over 1 month in PCM activities in support of the patient's plan of care.</emphasis> On the date of each activity, clinical staff document the nature of the activity as well as the time spent. They also select a pseudocode (eg, COORD or PCMAN) and 1 unit of service for each minute spent providing a service. No charge is generated by entry of the pseudocode. Billing staff, however, will generate a report of the patients for whom the pseudocode was entered during a calendar month and bill for services that meet the time requirements of the service.</para>
+            <para>Because 35 minutes of clinical staff time was spent providing the PCM service to this child, the pediatrician reports <emphasis role="bold">99426</emphasis> (PCM, first 30 minutes of clinical staff time directed by physician or QHP, per calendar month).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0012s0003s0002">
+      <title>Monthly Care Management Services</title>
+      <para>Monthly care management services are management and support services that are not limited to the period following discharge from a facility stay. These services are provided by physicians or QHPs or by clinical staff under the direction of a physician or QHP to individuals who reside at home or in a domiciliary, rest home, or assisted living facility. The goals of care management services are to improve care coordination, reduce avoidable hospital services, improve patient engagement, and decrease care fragmentation.</para>
+      <para>
+         <emphasis role="italics">CPT</emphasis> includes 3 types of care management services. Details of patient eligibility, providers of service, and time requirements vary for these services, as discussed in detail in the Principal Care Management Services section earlier in this chapter and the Chronic Care Management and Complex CCM section later in this chapter.</para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="italics">PCM services:</emphasis> provision or supervision of the management and/or coordination of services, as needed, for a patient's single complex chronic condition</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">CCM services:</emphasis> provision or supervision of the management and/or coordination of services, as needed, for <emphasis role="italics">all the patient's medical conditions, psychosocial needs, and activities of daily living</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="italics">Complex CCM services:</emphasis> CCM services that require at least 60 minutes of clinical staff time under the direction of a physician or QHP and moderate or high medical decision-making (MDM)</para>
+         </listitem>
+      </itemizedlist>
+      <para>Time, activities (eg, patient education), and identification of the individual conducting each activity must be documented. An example of a worksheet for tracking care management activities and service times is included at www.aap.org/cfp2026 ("Care Management Tracking Worksheet Template").</para>
+      <itemizedlist>
+         <listitem>
+            <para>Each minute of time is counted only once and only for 1 service.</para>
+         </listitem>
+         <listitem>
+            <para>In-person or telemedicine E/M services are separately reported, when provided. A physician or QHP may separately provide and report a distinct time-based service (eg, time-based office E/M service) when <emphasis role="italics">other distinct time</emphasis> is used to report care management services provided to the same patient during the same calendar month.</para>
+         </listitem>
+         <listitem>
+            <para>Only time spent by clinical staff employed directly by or under contract and clinically integrated with the reporting professional's practice is included in the time of care management services.</para>
+         </listitem>
+      </itemizedlist>
+      <blockquote>
+         <para>
+            <emphasis role="bold">The midpoint rule applied for some time-based coding does not apply to care management services (99424–99427, 99437, 99439, 99487, 99489, 99490, 99491). Times specified in code descriptors for care management services must bemet or exceeded.</emphasis>
+         </para>
+      </blockquote>
+      <itemizedlist>
+         <listitem>
+            <para>When provided during the same calendar month as care management services, behavioral or psychiatric collaborative care management services (<emphasis role="bold">99484, 99492–99494</emphasis>) may be separately reported. Do not count the same minutes (eg, 1:00–1:15 pm) toward care management and behavioral or psychiatric collaborative care management services.</para>
+         </listitem>
+         <listitem>
+            <para>Care management services are not reported by the same individual for services to the same patient in the same calendar month asend-stage renal disease services (<emphasis role="bold">99951–99970</emphasis>), CPO (<emphasis role="bold">99374–99380</emphasis>), or other care management services (eg, do not report both CCM and complex CCM).</para>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0012s0003s30002">
+         <title/>
+         <sect4 id="ch0012s0003s0002s01s01">
+            <title>Required Practice Capabilities</title>
+            <para>A practice providing PCM, CCM, or complex CCM services must have all the following specific capabilities:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Use of an EHR system that supports timely access to clinical information.</para>
+               </listitem>
+               <listitem>
+                  <para>Provide patients and caregivers with a means to contact health care professionals in the practice to address urgent needs, regardless of the time of day or day of the week.</para>
+               </listitem>
+               <listitem>
+                  <para>Provide continuity of care through scheduling of the patient's successive routine appointments with a designated member of the care team.</para>
+               </listitem>
+               <listitem>
+                  <para>Provide timely access and management for necessary follow-up when a patient is discharged from the emergency department or hospital.</para>
+               </listitem>
+               <listitem>
+                  <para>Patient and caregiver engagement, education, and integration of care among all service professionals, as appropriate for each patient.</para>
+               </listitem>
+               <listitem>
+                  <para>The individual reporting care management services oversees activities of the care team.</para>
+               </listitem>
+               <listitem>
+                  <para>All care team members providing services are clinically integrated.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">CPT no longer requires use of a standardized methodology to identify patients who may qualify for care management services. Yet such processes may be beneficial in identifying and offering care management services to patients. Processes may involve developing checklists or processes for identifying characteristics of patients with complex health care needs (eg, any patient with chronic or episodic conditions that are expected to last at least 12 months and increase the risk of morbidity and mortality, exacerbation or decompensation, or functional decline may require CCM services). Examples of such characteristics (</emphasis> examples only, not a practice guideline <emphasis role="italics">) include</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Number of chronic conditions</para>
+               </listitem>
+               <listitem>
+                  <para>Number of visits for nonroutine care in the past year</para>
+               </listitem>
+               <listitem>
+                  <para>Emergency department visits or hospitalizations in the past 6 months</para>
+               </listitem>
+               <listitem>
+                  <para>Number of current medications or medications prescribed or revised in the past 6 months</para>
+               </listitem>
+               <listitem>
+                  <para>Number of physicians and other providers (eg, home health care provider, nutritionist)</para>
+               </listitem>
+               <listitem>
+                  <para>Lack of resources (eg, housing, health plan coverage, access to care in community)</para>
+               </listitem>
+               <listitem>
+                  <para>Assistance required for activities of daily living</para>
+               </listitem>
+               <listitem>
+                  <para>Other psychosocial considerations (eg, language barriers, multiple family members with complex care needs)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0012s0003s0002s01s02">
+            <title>Activities of Care Management Services</title>
+            <para>Services include all clinical staff time spent in face-to-face and non–face-to-face services or a physician's time personally spent in care management activities. Time spent in other reported services (eg, time of prolonged clinical staff service [<emphasis role="bold">99415, 99416</emphasis>] or time of collection and interpretation of physiologic data [<emphasis role="bold">99091</emphasis>]) may not be included to meet requirements for reporting care management services.</para>
+            <para>Care management activities include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Face-to-face and non–face-to-face time spent communicating with and engaging the patient and/or family, caregivers, other professionals, community services, and agencies</para>
+               </listitem>
+               <listitem>
+                  <para>Developing, revising, documenting, communicating, and implementing a disease-specific care plan (PCM) or comprehensive care plan (CCM, complex CCM)</para>
+               </listitem>
+               <listitem>
+                  <para>Collecting health outcomes data and registry documentation</para>
+               </listitem>
+               <listitem>
+                  <para>Teaching the patient and/or family/caregiver to support patient self-management, independent living, and activities of daily living</para>
+               </listitem>
+               <listitem>
+                  <para>Identifying community and health resources</para>
+               </listitem>
+               <listitem>
+                  <para>Facilitating access to care and other services needed by the patient and/or family</para>
+               </listitem>
+               <listitem>
+                  <para>Management of care transitions not reported as part of TCM (<emphasis role="bold">99495, 99496</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Ongoing review of patient status, including review of laboratory and other studies not reported as part of an E/M service</para>
+               </listitem>
+               <listitem>
+                  <para>Assessment and support for adherence to the care plan</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0012s0003s0002s01s03">
+            <title>Development of a Plan of Care</title>
+            <para>A plan of care (also referred to as a care plan) must be developed, monitored, or revised and a copy provided to each patient receiving care management services. For PCM, the plan of care is focused on management of the patient's single complex chronic health condition. For CCM and complex CCM services, the plan of care addresses all the patient's health care needs.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A plan of care for health problems is based on a physical, mental, cognitive, social, functional, and environmental evaluation. It is intended to provide a simple and concise overview of the patient and the patient's medical conditions and to be a useful resource for patients, caregivers, and providers. Refer to Figure 9-1 for an example of a plan of care.</para>
+               </listitem>
+               <listitem>
+                  <para>Creation, monitoring, or revision of a plan of care must be documented. Plans created by other entities (eg, home health agencies) cannot besubstituted for a care plan established by the individual reporting PCM or CCM services.</para>
+               </listitem>
+               <listitem>
+                  <para>The entire plan of care should be reviewed and revised (as needed) at least annually. Updates to the plan of care may occur periodically based on changes in status or goal.</para>
+               </listitem>
+            </itemizedlist>
+            <para>CPT defines a care plan or plan of care as required for care management services (ie, PCM, CCM, and complex CCM) as</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Based on a physical, mental, cognitive, social, functional, and environmental assessment</para>
+               </listitem>
+               <listitem>
+                  <para>Comprehensive for a single complex chronic health problem or for all health problems, as applicable</para>
+               </listitem>
+               <listitem>
+                  <para>Typically not limited to but possibly including</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Problem list</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Expected outcome and prognosis</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Measurable treatment goals</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Cognitive assessment</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Functional assessment</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Caregiver assessment</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Environmental evaluation</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Symptom management</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Medical management</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Planned interventions — Interaction and coordination with outside resources and other health care professionals and providers</para>
+               </listitem>
+               <listitem>
+                  <para>Summary of advance directives These elements are intended to be a guide for creating a meaningful plan of care rather than a strict set of requirements. They should be used only as appropriate for the individual.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The plan should be updated periodically to account for status or goal changes. The entire care plan should be reviewed at least annually.</para>
+            <para>To help illustrate the use of codes for management of complex medical conditions, most examples in this chapter focus on Patient A, an adolescent who was recently diagnosed with major depression resulting from distress caused by hemoglobin SS disease and mild persistent asthma.</para>
+         </sect4>
+         <sect4 id="ch0012s0003s0002s01s04">
+            <title>Principal Care Management Services</title>
+            <para>PCM services are focused on the medical and/or psychological needs manifested by a single complex chronic condition with all the following characteristics:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is expected to last at least 3 months</para>
+               </listitem>
+               <listitem>
+                  <para>Requires frequent adjustments in the medication regimen, and/or the management of the condition is unusually complex because of coexisting conditions</para>
+               </listitem>
+               <listitem>
+                  <para>Places the patient at significant risk of hospitalization, acute exacerbation/decompensation, functional decline, or death</para>
+               </listitem>
+               <listitem>
+                  <para>Requires development, monitoring, or revision of disease-specific care plan</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to Box 9-1 for codes and work descriptions for PCM services.</para>
+            <para>The patient may have multiple chronic conditions that may warrant provision of CCM or complex CCM services, but the focus on the single condition differentiates PCM from these services (eg, a patient may require ongoing CCM by a pediatrician as well as a period of PCM by a pulmonologist or hematologist focused solely on a single condition). Individual(s) of the same group practice and same specialty cannot report PCM in conjunction with CCM or complex CCM.</para>
+            <para>A patient's primary care pediatrician may provide PCM services to a patient who does not have the 2 or more chronic or episodic health conditions required to report CCM services. For example, a pediatrician may provide PCM to a patient with asthma who has had severe exacerbation until the patient's condition stabilizes. PCM does not, however, require the reporting individual to address, as needed, all medical conditions, psychosocial needs, and activities of daily living, as required for CCM and complex CCM.</para>
+         </sect4>
+         <sect4 id="ch0012s0003s0002s01s05">
+            <title>Figure 9-1. Example Plan of Care</title>
+            <para>This plan of care has been written by A Great Pediatric Practice to help us work with you to be as healthy as possible. This plan will allow you to share with us what is important to you and will let you know what to expect from us.</para>
+            <para>We will keep a copy of this plan and make changes as necessary. We will share this with other people who care for you (like other doctors or therapists), as needed, to help them care for you. You can also share this with others (like family members) who help you care for yourself.</para>
+            <table frame="all" id="ch0012s0003ta0001">
+               <title/>
+               <tgroup cols="5">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <tbody>
+                     <row>
+                        <entry>Date</entry>
+                        <entry>01/15/2026</entry>
+                        <entry>Primary physician</entry>
+                        <entry>Dr J</entry>
+                        <entry>Page 1 of 2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0012s0003s0003">
+      <title>About Me</title>
+      <table frame="all" id="ch0012s0003ta0002">
+         <title/>
+         <tgroup cols="6">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <colspec colname="c5"/>
+            <colspec colname="c6"/>
+            <tbody>
+               <row>
+                  <entry>Name</entry>
+                  <entry>Patient A</entry>
+                  <entry>I like to be called</entry>
+                  <entry>Patient A</entry>
+                  <entry>Date of birth</entry>
+                  <entry>12/25/2008</entry>
+               </row>
+               <row>
+                  <entry>Primary caregivers</entry>
+                  <entry nameend="c6" namest="c2">Mother and maternal grandmother</entry>
+               </row>
+               <row>
+                  <entry>Preferred contact information</entry>
+                  <entry nameend="c6" namest="c2">123 Home StAnywhere, US 98765555-999-6655</entry>
+               </row>
+               <row>
+                  <entry>Secondary contact information</entry>
+                  <entry nameend="c3" namest="c2">555-999-8877</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>Preferred pharmacy</entry>
+                  <entry>Family Drug Store</entry>
+                  <entry>Preferred hospital</entry>
+                  <entry nameend="c6" namest="c4">Children's Hospital-Main</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0012s0003s0004">
+      <title>Who to Call When I Need Care or Have Questions?</title>
+      <para>
+         <emphasis role="bold">My care coordinator</emphasis> Nurse B</para>
+   </sect2>
+   <sect2 id="ch0012s0003s0005">
+      <title>Important Health Information</title>
+      <table frame="all" id="ch0012s0003ta0003">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <tbody>
+               <row>
+                  <entry>I am allergic to</entry>
+                  <entry>No known allergies</entry>
+               </row>
+               <row>
+                  <entry>I have difficulty with</entry>
+                  <entry>Pain episodes, asthma symptoms in late summer/fall, missing school for medical appointments</entry>
+               </row>
+               <row>
+                  <entry>Equipment I need (like a wheelchair)</entry>
+                  <entry>Nebulizer, inhaler</entry>
+               </row>
+               <row>
+                  <entry>Community assistance</entry>
+                  <entry>No food or housing insecurity (as described by mother)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0012s0003s0006">
+      <title>My Health Concerns (Include concerns from patient and caregiver perspectives.)</title>
+      <table frame="all" id="ch0012s0003ta0004">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <tbody>
+               <row>
+                  <entry>Concerns</entry>
+                  <entry>What I can expect for each concern</entry>
+               </row>
+               <row>
+                  <entry>Asthma</entry>
+                  <entry>Coordinated care with pulmonologist</entry>
+               </row>
+               <row>
+                  <entry>Sickle cell disease</entry>
+                  <entry>• Coordinated care with team at Children's Hospital for hematology, pulmonary, pain management, and behavioral health• Assistance with obtaining prompt and appropriate care in the emergency department, when needed</entry>
+               </row>
+               <row>
+                  <entry>Depression</entry>
+                  <entry>Coordination with behavioral health team of Children's Hospital</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0012s0003s0007">
+      <title>My Health Care Plans</title>
+      <table frame="all" id="ch0012s0003ta0005">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <tbody>
+               <row>
+                  <entry>Concerns</entry>
+                  <entry>Plans</entry>
+               </row>
+               <row>
+                  <entry>Asthma</entry>
+                  <entry>• Maintain symptom control through consistent use of daily control medication.• Follow asthma action plan when symptomatic.• Go to emergency department if asthma is unresponsive to 4 puffs of rescue inhaler (albuterol).</entry>
+               </row>
+               <row>
+                  <entry>Sickle cell disease</entry>
+                  <entry>• Continue current medications for control and pain management.• Maintain hydration daily.• Alert Dr J of any fever or increased fatigue, pain, or other symptoms.• Get annual transcranial Doppler ultrasonography.• Go to emergency department if there are signs of stroke, uncontrolled pain, or other symptoms that are unresponsive to home treatment.</entry>
+               </row>
+               <row>
+                  <entry>Depression</entry>
+                  <entry>• Continue medication and telemedicine appointments with behavioral health team at Children's Hospital.• Call Dr J for any side effects of management or mild to moderate escalation of symptoms.• Call 988 and go to the emergency department if thoughts of hurting yourself or others.</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sect3 id="ch0012s0003s30003">
+         <title/>
+         <sect4 id="ch0012s0003s0007s01s01">
+            <title>Figure 9-1 (continued)</title>
+            <para>
+               <emphasis role="bold">My Planned Care</emphasis>
+            </para>
+            <table frame="all" id="ch0012s0003ta0006">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <tbody>
+                     <row>
+                        <entry>Specialty care</entry>
+                        <entry>Children's Hospital Sickle Cell Program for periodic hematology, pulmonary, pain medicine, and behavioral health care</entry>
+                     </row>
+                     <row>
+                        <entry>Preventive care</entry>
+                        <entry>• Next preventive visit on 04/14/2025 at 4:00 pm• Annual transcranial Doppler ultrasonography due 06/2025 (Children's Hospital will schedule for same date as visit with hematologist.)</entry>
+                     </row>
+                     <row>
+                        <entry>Scheduled follow-up visit</entry>
+                        <entry>On 02/20/2025 at 4:00 pm — Call for urgent appointment as needed.</entry>
+                     </row>
+                     <row>
+                        <entry>School counselor</entry>
+                        <entry>Coordinates IEP (individualized education program) changes, available at 555/555-1234</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c2" namest="c1">Other: School nurse is available only 2 days per week. School plan addresses physical limitations with accommodations for medication, hydration, frequent restroom trips, and rest. School requires physician signature annually on chronic illness form because of potential for missed school.</entry>
+                     </row>
+                     <row>
+                        <entry>Additional notes</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Patient signature</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Parent signature</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Care coordinator signature</entry>
+                        <entry/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Box 9-1. Principal Care Management Services</emphasis>
+               </para>
+               <para>*A care plan specific to the single disease must be developed, revised, or monitored and shared with the patient/caregivers for each type of PCM service. Ongoing communication and care coordination with relevant practitioners furnishing care is also required. PCM services of &lt;30 minutes in a calendar month are not reported separately.*</para>
+            </blockquote>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Patient Population for All PCM Services</emphasis> &gt; Patients have a single complex chronic condition expected to last ≥3 months that presents significant risk of death, acute exacerbation/decompensation, or functional decline. The condition requires frequent adjustments in the medication regimen, and/or the management of the condition is unusually complex because of coexisting conditions.</para>
+               <para>
+                  <emphasis role="bold">Required Time and RVUs: PCM by Physician or QHP Time</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">#99424</emphasis> PCM services ≥30 minutes of physician or QHP time, per calendar month &gt; Total non-facility RVUs: 2.50; work RVUs: 1.45.*</para>
+               <para>
+                  <emphasis role="bold">#♦99425</emphasis> each additional 30 minutes of physician or QHP time, per calendar month (List separately in addition to 99424 for each full 30 minutes beyond the first 30 minutes)</para>
+               <para>Total non-facility RVUs: 1.82; work RVUs: 1.00.*</para>
+               <para>
+                  <emphasis role="bold">Required Time and RVUs: PCM by Clinical Staff Time</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">#99426</emphasis> PCM services ≥30 minutes of clinical staff activity directed by a physician or other QHP, per calendar month (may include time spent personally by a physician or other QHP) &gt; Total non-facility RVUs: 1.91; work RVUs: 1.00.*</para>
+               <para>
+                  <emphasis role="bold">#♦99427</emphasis> each additional 30 minutes per calendar month (List up to 2 units separately in addition to 99426)</para>
+               <para>Total non-facility RVUs: 1.56; work RVUs: 0.71.*</para>
+               <para>Abbreviations: PCM, principal care management; QHP, qualified health care professional; RVU, relative value unit.</para>
+               <para>*2025 National Physician Fee Schedule Relative Value File, total non-facility and work RVUs, not geographically adjusted. 2026 RVUs were not available at the time of this publication. Individual payers may use different relative value files (eg, from previous years).</para>
+            </blockquote>
+            <para>♦ indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <para>PCM services include</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Establishing, implementing, revising, or monitoring a care plan specific to a single disease</para>
+               </listitem>
+               <listitem>
+                  <para>Thirty minutes or longer of time personally spent by a physician or QHP (<emphasis role="bold">99424, 99425</emphasis>) or by clinical staff under the supervision of an employing (direct or contractual) physician or QHP (<emphasis role="bold">99426, 99427</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>If a physician or QHP spends less than 30 minutes in a calendar month providing PCM services, <emphasis role="bold">99426</emphasis> and <emphasis role="bold">99427</emphasis> may be reported for 30 or more minutes of combined time of the physician and clinical staff.</para>
+               </listitem>
+               <listitem>
+                  <para>Ongoing communication and care coordination between relevant practitioners furnishing care</para>
+               </listitem>
+            </itemizedlist>
+            <para>Unlike CCM or complex CCM services, PCM services may be provided by more than one physician or QHP in the same calendar month for the same patient. Documentation in the patient's medical record should reflect coordination among relevant managing clinicians.</para>
+            <para>
+               <emphasis role="bold">Table 9-1</emphasis> includes examples of PCM services.</para>
+            <table frame="all" id="ch0012s0003ta0007">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Example</entry>
+                        <entry>Code Assignment</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Patient A is receiving PCM services. A hematologist spends 35 minutes in the calendar month implementing a care plan focused on managing hemoglobin SS disease in coordination with the other physicians and caregivers.</entry>
+                        <entry>99424 (PCM of ≥30 minutes by a physician or QHP) is reported by the hematologist. If time in the calendar month exceeds 59 minutes, 99425 is reported for each additional period of ≥30 minutes in addition to 99424.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving PCM services. A hematologist spends 35 minutes in the calendar month implementing a care plan focused on managing hemoglobin SS disease in coordination with the other physicians and caregivers. An NP in the same hematology practice spends 30 minutes coordinating care with the behavioral health team and student's school nurse with regard to the sickle cell disease.</entry>
+                        <entry>The hematologist reports 99424 (PCM of ≥30 minutes by a physician or QHP) and 99425 (each additional 30 minutes) for the combined time of 65 minutes spent by the physician and QHP during the calendar month. No overlapping time is counted. If the hematologist and NP meet to discuss the patient's care, only 1 person counts the time spent in the meeting.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is also receiving PCM services focused on pain management. During the same calendar month, clinical staff of a pain management specialist spend 25 minutes in PCM activities. The pain management physician also spends 20 minutes in the same calendar month in PCM activities.</entry>
+                        <entry>The pain management physician reports 99426 for combined clinical staff and physician time (45 minutes).If the combined time were 60–89 minutes in a calendar month, 99427 would also be reported with 1 unit. For any time ≥90 minutes, 2 units of service may be reported with 99427.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0012s0003s0007s01s02">
+            <title>Chronic Care Management and Complex CCM</title>
+            <para>The appropriate CCM or complex CCM code(s) is (are) reported once per calendar month by only 1 individual who has assumed the management role for all the patient's care. This may be a primary care pediatrician or a subspecialist, but only the 1 individual may report CCM or complex CCM services in a calendar month. Face-to-face E/M services may be separately reported by the same clinician during the same calendar month.</para>
+            <para>Time spent by physicians and other QHPs of the same specialty in the same group practice (eg, covering physician) may be combined to meet the time requirements for care management services, but the service must be reported by the individual who is overseeing the patient's care.</para>
+            <para>CCM services are performed personally by a physician or QHP (<emphasis role="bold">99491, 99437</emphasis>) or by clinical staff under supervision by an employing (direct or contractual) physician or QHP (<emphasis role="bold">99490, 99439</emphasis>, or complex CCM [<emphasis role="bold">99487, 99489</emphasis>]). Refer to <emphasis role="bold">Box 9-2</emphasis>, which provides requirements for CCM and complex CCM services.</para>
+         </sect4>
+         <sect4 id="ch0012s0003s0007s01s03">
+            <title>Box 9-2. Chronic Care Management Services</title>
+            <para>
+               <emphasis role="italics">A comprehensive care plan for all the patient's medical conditions, psychosocial needs, and activities of daily living must be developed, revised, or monitored and shared with the patient/caregivers for each type of CCM service.</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Patient Population for All CCM Services</emphasis> Patients have multiple (≥2) chronic or episodic conditions expected to last ≥12 months, or until the death of the patient, that present significant risk of death, acute exacerbation/decompensation, or functional decline.</para>
+            <para>
+               <emphasis role="bold">Time Required and RVUs: CCM by Clinical Staff Time</emphasis>
+               <emphasis role="bold">#99490</emphasis> CCM services ≥20 minutes of clinical staff activity directed by a physician/QHP, per calendar month</para>
+            <para>Total non-facility RVUs: 1.87; work RVUs: 1.00.<superscript>a</superscript>
+               <emphasis role="bold">#♦99439</emphasis> each additional 20 minutes of clinical staff time directed by a physician or QHP, per calendar month (List up to 2 units separately in addition to 99490)</para>
+            <para>Total non-facility RVUs: 1.42; work RVUs: 0.70.<superscript>a</superscript> May combine physician or QHP time of &lt;30 minutes personally spent in CCM services with clinical staff time as long as ≥20 minutes is spent within a calendar month</para>
+            <para>
+               <emphasis role="bold">Time Required and RVUs: CCM by Physician or QHP Time</emphasis>
+               <emphasis role="bold">99491</emphasis> CCM services by physician/QHP, first 30 minutes (≥30—59 minutes), per calendar month</para>
+            <para>Total non-facility RVUs: 2.54; work RVUs: 1.50.<superscript>a</superscript>
+               <emphasis role="bold">♦99437</emphasis> each additional full 30-minute period (eg, 60—89 minutes equals 1 unit)</para>
+            <para>Total non-facility RVUs: 1.78; work RVUs: 1.00.<superscript>a</superscript>
+            </para>
+            <para>
+               <emphasis role="bold">Time Required and RVUs: Complex CCM</emphasis> Moderate- or high-level MDM required in addition to time requirements.</para>
+            <para>
+               <emphasis role="bold">99487</emphasis> Complex CCM services ≥60 minutes of clinical staff activity directed by a physician/QHP, per calendar month (may include time spent personally by a physician or QHP)</para>
+            <para>Total non-facility RVUs: 4.07; work RVUs: 1.81.<superscript>a</superscript>
+               <emphasis role="bold">♦99489</emphasis> each additional 30 minutes per calendar month (List separately in addition to <emphasis role="bold">99487</emphasis>)</para>
+            <para>Total non-facility RVUs: 2.18; work RVUs: 1.00.<superscript>a</superscript>
+               <emphasis role="italics">Abbreviations: CCM, chronic care management; MDM, medical decision-making; QHP, qualified health care professional; RVU, relative value unit.</emphasis>
+            </para>
+            <para>
+               <superscript>a</superscript>*2025 National Physician Fee Schedule Relative Value File, total non-facility and work RVUs, not geographically adjusted. 2026 RVUs were not available at the time of this publication. Individual payers may use different relative value files (eg, from previous years).*</para>
+            <para>CCM</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is provided to patients with 2 or more chronic continuous or episodic health conditions expected to last 12 months or longer, or until the death of the patient, and that place the patient at significant risk of death, acute exacerbation/decompensation, or functional decline.</para>
+               </listitem>
+               <listitem>
+                  <para>Addresses all the patient's medical conditions, psychosocial needs, and activities of daily living.</para>
+               </listitem>
+               <listitem>
+                  <para>Requires creation, implementation, monitoring, and revision (as needed) of a comprehensive care plan for all the patient's health-related problems.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">99491</emphasis> and <emphasis role="bold">99437</emphasis> are not reported for time spent by a physician or QHP on the date of a face-to-face E/M visit.</para>
+               </listitem>
+            </itemizedlist>
+            <para>In addition to requirements for CCM, complex CCM (<emphasis role="bold">99487, 99489</emphasis>) requires</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Moderate- or high-level MDM during the calendar month</para>
+               </listitem>
+               <listitem>
+                  <para>At least 60 minutes of clinical staff time, under the direction of a physician or other QHP (may include time spent by the physician or QHP)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0012s0003s0007s01s04">
+            <title>Reporting CCM and Complex CCM</title>
+            <para>There are significant differences in work and practice expense required for each type of CCM and complex CCM service. It is important to consider the amount and/or type of time (clinical staff and/or physician/QHP) and type of MDM required to determine the most appropriate code for each calendar month. A patient who requires CCM in January may require complex CCM in February, or vice versa, as clinical circumstances change.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Only 1 type of CCM or complex CCM service is reported per calendar month.</para>
+               </listitem>
+               <listitem>
+                  <para>No combination of codes <emphasis role="bold">99487</emphasis> and <emphasis role="bold">99490</emphasis> or <emphasis role="bold">99491</emphasis> may be reported for the same month.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>One of these codes is reported inany calendar month when the requirements of the code descriptor are met.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>♦ indicates a new code; ▲, revised; †, re-sequenced; ♦, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For <emphasis role="bold">99491</emphasis> and <emphasis role="bold">99437</emphasis>, count only the time personally performed by the physician or other QHP. Time spent by clinical staff is not counted toward the time to support <emphasis role="bold">99491</emphasis> or <emphasis role="bold">99437</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>More than one clinical staff member may spend time in CCM activities on a single date. Count all time that is not overlapping, but do not count the same period more than once.</para>
+               </listitem>
+               <listitem>
+                  <para>If multiple clinical staff members meet about 1 patient, count the time for only 1 staff member (eg, 3 staff members spend 5 minutes discussing a patient; the total time of the CCM activity is 5 minutes).</para>
+               </listitem>
+               <listitem>
+                  <para>Do not count any time of the clinical staff spent as part of a separately reported service (eg, providing patient and caregiver education on the date of a physician or QHP visit).</para>
+               </listitem>
+               <listitem>
+                  <para>If the physician personally performs clinical staff activities of care management, their time may be counted toward the required clinical staff time supporting <emphasis role="bold">99487</emphasis>, <emphasis role="bold">99489</emphasis>, <emphasis role="bold">99490</emphasis>, and <emphasis role="bold">99439</emphasis>. If a physician or QHP personally performs at least 30 minutes of CCM services, refer to <emphasis role="bold">99491</emphasis> and <emphasis role="bold">99437</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to examples for each level of CCM in <emphasis role="bold">Table 9-2</emphasis>.</para>
+            <table frame="all" id="ch0012s0003ta0008">
+               <title>Reporting CCM and Complex CCM</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c2" namest="c1">Table 9-2. Chronic Care Management Coding Examples</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry nameend="c2" namest="c1">The patient in each example is Patient A, who has hemoglobin SS disease, asthma, and new-onset depression with suicidal thoughts. ICD-10-CM diagnosis codes may include F32.2 (major depressive disorder, single episode, severe without psychotic features), J45.30 (mild persistent asthma, uncomplicated), and D57.1 (sickle cell disease without crisis), in addition to codes for any other conditions addressed. Each activity included in the CCM service must be documented in the patient record with the date and description of the activity and authenticated with the performing clinician's signature, electronic or written, and date completed.</entry>
+                     </row>
+                     <row>
+                        <entry>Example</entry>
+                        <entry>Code Assignment</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving CCM services. Time begins the day after the 30-day period of TCM was completed. Dr J and staff spend 65 minutes in the remainder of the calendar month implementing the care plan and responding to questions and concerns. MDM is moderate.</entry>
+                        <entry>99487 (complex CCM of at least 60 minutes with moderate to high MDM) is reported by supervising physician Dr J.Tip: No time spent during the TCM period is counted toward the time of CCM or complex CCM.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving continued CCM services. During the calendar month, MDM includes management of increased asthma symptoms and a decision to prescribe a new asthma control medication. Total of 95 minutes of combined physician and clinical staff time is spent in CCM activities in the calendar month.</entry>
+                        <entry>Dr J reports 99487 for the first 60 minutes and 99489 (complex CCM, each additional 30 minutes) for the additional 35 minutes. One unit of 99489 is reported for each full 30 minutes after the first 60 minutes of CCM in a calendar month.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving continuing CCM services. Dr J spends 40 minutes revising the plan of care following review of records from a visit with specialists at the Children's Hospital Sickle Cell Program. Clinical staff also spend 15 minutes in CCM activities during the calendar month.</entry>
+                        <entry>Dr J reports 99491 (CCM, personally performed by a physician or QHP, at least 30 minutes in the calendar month). Only Dr J's time is counted toward 99491.If Dr J's total time in the month is at least 60 minutes, 99491 and 99437 are reported.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving CCM services for symptom monitoring and management. Dr J's clinical staff spend 15 minutes in CCM activities. Dr J also personally spends 10 minutes in CCM activities.</entry>
+                        <entry>Dr J reports 99490 (CCM with at least 20 minutes of clinical staff time). Dr J and the clinical staff's combined time is counted toward 99490.Tip: Dr J did not personally spend 30 minutes in CCM activities to support 99491.</entry>
+                     </row>
+                     <row>
+                        <entry>Patient A is receiving continued CCM services. Dr J personally spends 10 minutes in CCM activities in addition to 30 minutes spent by clinical staff.</entry>
+                        <entry>99490 and 99439 × 1 (CCM of at least 20 minutes and at least 20 minutes beyond the first 20 minutes in a calendar month) are reported for 40 minutes' combined time of Dr J and clinical staff.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0012s0003s0007s01s05">
+            <title>Care Plan Oversight Services</title>
+            <para>CPO is recurrent physician or QHP supervision of a patient who has complex health care needs or a patient who requires multidisciplinary care and ongoing physician or QHP involvement. CPO services are not provided face-to-face and reflect the complexity and time required to supervise the care of the patient who is receiving home health, hospice, or nursing facility services. The codes are reported separately from E/M office visits.</para>
+            <para>
+               <emphasis role="bold">Box 9-3</emphasis> compares CPO services, including patient population served, work included, and services not separately reported. (Work included and services not separately reported are the same for all CPO services.)</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Box 9-3. Care Plan Oversight Service Codes at a Glance</emphasis>
+               </para>
+               <para>Time of CPO service is a physician's or QHP's time spent in a calendar month. Activity by clinical staff is not included in the time of CPO service. All patients receiving CPO require complex and multidisciplinary care modalities involving regular development and/or revision of care plans by the physician. The patient is not present at the time of service.</para>
+            </blockquote>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Codes by Patient Population</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">Supervision of a patient under care of home health agency (not in hospice or nursing facility)</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">99374</emphasis> 15–29 min &gt; Total non-facility RVUs: 2.04; work RVUs: 1.10.*</para>
+               <para>
+                  <emphasis role="bold">99375</emphasis> ≥30 min &gt; Total non-facility RVUs: 3.07; work RVUs: 1.73.*</para>
+            </blockquote>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Supervision of a hospice patient</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">99377</emphasis> 15–29 min &gt; Total non-facility RVUs: 2.04; work RVUs: 1.10.*</para>
+               <para>
+                  <emphasis role="bold">99378</emphasis> ≥30 min &gt; Total non-facility RVUs: 3.07; work RVUs: 1.73.*</para>
+            </blockquote>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Supervision of a nursing facility patient</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">99379</emphasis> 15–29 min &gt; Total non-facility RVUs: 2.04; work RVUs: 1.10.*</para>
+               <para>
+                  <emphasis role="bold">99380</emphasis> ≥30 min &gt; Total non-facility RVUs: 3.07; work RVUs: 1.73.*</para>
+            </blockquote>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Work Included in CPO Services</emphasis> &gt; • At least 15 minutes by the physician in regular development and/or revision of care plans</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Review of subsequent reports of the patient's status and related laboratory or other diagnostic studies &gt; • Communication, including telephone calls, for assessment or care decisions with individuals (eg, family, caregivers, health care professionals) involved in the patient's care</para>
+                  </listitem>
+                  <listitem>
+                     <para>Integration of new information into the medical treatment plan or adjustment of medical therapy</para>
+                  </listitem>
+               </itemizedlist>
+               <para>
+                  <emphasis role="bold">May Be Separately Reported When Each Service Time Is Distinct and Nonoverlapping</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">98012–98015</emphasis> Synchronous audio-only visit &gt; <emphasis role="bold">98016</emphasis> Brief communication technology-based service (eg, virtual check-in)</para>
+               <para>
+                  <emphasis role="bold">98966–98968</emphasis> Telephone services by QHPs who cannot provide/report E/M services</para>
+               <para>
+                  <emphasis role="bold">98970–98972, 99421–99423</emphasis> Online digital services &gt; <emphasis role="bold">99358, 99359</emphasis> Prolonged non-face-to-face E/M service not on the date of a visit</para>
+               <para>
+                  <emphasis role="bold">May Not Be Reported in the Same Calendar Month as CPO</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">94005</emphasis> Home ventilator management CPO &gt; <emphasis role="bold">99091</emphasis> Collection and interpretation of physiologic data</para>
+               <para>
+                  <emphasis role="bold">99424–99427</emphasis> PCM services &gt; <emphasis role="bold">99487, 99490, 99491</emphasis> Complex and CCM services</para>
+               <para>Abbreviations: CCM, chronic care management; CPO, care plan oversight; E/M, evaluation and management; PCM, principal care management; QHP, qualified health care professional; RVU, relative value unit.</para>
+               <para>* 2025 National Physician Fee Schedule Relative Value File, total non-facility and work RVUs, not geographically adjusted. 2026 RVUs were not available at the time of this publication. Individual payers may use different relative value files (eg, from previous years).</para>
+            </blockquote>
+            <para>Medicare requires the use of Level II HCPCS codes for CPO services provided to patients under the care of a home health agency (GPHST) or hospice (GPHSP). To report these 6 codes, Medicare requires a minimum of 30 minutes of physician supervision per calendar month. Because some Medicaid programs may follow suit, check with your payor to learn its requirements for reporting these services.</para>
+            <para>
+               <emphasis role="bold">CPO services</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are reported only by the individual (ie, physician/QHP) who has the predominant supervisory role in the care of the patient or is the sole provider of the services.</para>
+               </listitem>
+               <listitem>
+                  <para>The Centers for Medicare &amp; Medicaid Services (CMS) requires a face-to-face visit within 6 months before CPO services. Verify individual payor policies for similar requirements and possible inclusion of telemedicine services in support of a face-to-face visit requirement.</para>
+               </listitem>
+               <listitem>
+                  <para>Include</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Regular development and/or revision of care plans — Review of subsequent reports of the patient's status</para>
+               </listitem>
+               <listitem>
+                  <para>Review of related laboratory or other diagnostic studies — Communication, including telephone calls, for the purpose of assessment or care decisions with health care professionals, family members, surrogate decision-makers (eg, legal guardians), and/or key caregivers involved in the patient's care</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊗, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Integration of new information into the medical treatment plan or adjustment of medical therapy</para>
+               </listitem>
+               <listitem>
+                  <para>Team conferences — Prolonged E/M service before and/or after direct patient care when the same time is attributed to CPO (Count the time toward either prolonged service or CPO)</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Are reported once per month according to the amount of time spent by the physician during that calendar month.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Unlike with care management services, time included in CPO is only that of the physician or other QHP and not that of clinical staff.</emphasis>
+            </para>
+            <para>Include all cumulative time within the same calendar month.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are reported according to the patient location or status (eg, nursing facility, hospice) and the total time spent by the physician within a calendar month. Less than 15 minutes' cumulative time within a calendar month cannot be reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported separately from other office or other outpatient, hospital, home, or nursing facility E/M services.</para>
+               </listitem>
+               <listitem>
+                  <para>Require recurrent supervision of therapy.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not require specific practice capabilities asare defined for CCM services.</para>
+            <para>✱ Are not reported in conjunction with PCM/CCM/complex CCM and TCM services.</para>
+            <para>
+               <emphasis role="bold">CCM or PCM services personally performed by a physician or other QHP (99491, 99424, 99425, 99437) are similar to CPO for patients under the care of home health (99374, 99375) or hospice (99377, 99378). Practices reporting CCM/PCM, however, must meet certain qualifications as discussed in the Required Practice Capabilities section earlier in this chapter. Specific practice qualifications are not required for CPO. Compare requirements for reporting PCM, CCM, and CPO services in the "Monthly Care Management and Care Plan Oversight Services: A Comparison" table included at www.aap.org/cfp2026.</emphasis> Time spent on the following activities may not be considered CPO:</para>
+            <para>✱ Travel time to or from the facility or place of domicile ✱ Services furnished by clinical staff (ancillary or incident-to staff)</para>
+            <para>✱ Interpretation of laboratory or other diagnostic studies associated with a face-to-face E/M service ✱ Informal consultations with health professionals not involved in the patient's care</para>
+            <para>✱ Routine postoperative care provided during the global surgery period of a procedure ✱ Time spent on online digital E/M or in medical team conferences if they are separately reported with <emphasis role="bold">99421–99423</emphasis> or <emphasis role="bold">99367</emphasis>
+            </para>
+            <para>✱ Very low-intensity or infrequent supervision services included in the pre- and post-encounter work for an E/M service</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A physician reviews a final report from a home health nurse on a patient who no longer requires home health after the first week of the calendar month.</emphasis> These low-intensity services are considered part of the pre- and post-encounter work of related E/M services and are not reported as CPO services.</para>
+            <para>A CPO billing worksheet can be used to track time of CPO services based on documentation in the patient's medical record and used to support billing when time in a calendar month supports reporting a CPO service. A template is included at www.aap.org/cfp2026 ("Care Plan Oversight Billing Worksheet Template"). An example of a completed CPO log follows. Electronic time-tracking software may be used in lieu of a worksheet.</para>
+         </sect4>
+         <sect4 id="ch0012s0003s0007s01s06">
+            <title>Home Ventilator Management</title>
+            <para>
+               <emphasis role="bold">94005</emphasis> Home ventilator management CPO of a patient (patient not present) in home, domiciliary or rest home (eg, assisted living) requiring review of status, review of laboratories and other studies and revision of orders and respiratory care plan (as appropriate), within a calendar month, 30 minutes or more Services include determining ventilator settings, establishing a plan of care, and providing ongoing monitoring. Code <emphasis role="bold">94005</emphasis> is used to report home ventilator management CPO. It may be reported only when 30 or more minutes of CPO is provided within a calendar month.</para>
+            <para>Home ventilator management CPO is distinct from CPO to patients under care of a home health care or hospice agency (<emphasis role="bold">99374–99375</emphasis>) when care is provided by a separate physician or QHP (eg, pulmonologist reports <emphasis role="bold">94005</emphasis> and primary care physician reports <emphasis role="bold">99374</emphasis>).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

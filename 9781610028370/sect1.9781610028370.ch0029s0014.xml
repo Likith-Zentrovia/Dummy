@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0014">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0029s0013</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0014</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0015</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>
+      Chapter 17
+    </title>
+   <para>1.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>Positive pressure ventilation, delivered by any means (resuscitation bag or T-piece resuscitator), and/or cardiac compressions are required for 99465.</para>
+      </listitem>
+   </orderedlist>
+   <para>2.</para>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>True. Only 1 initial daily inpatient critical care code (99468, 99471, 99475) is reported per calendar day and per hospital stay for a given patient.</para>
+      </listitem>
+   </orderedlist>
+   <para>
+      <emphasis role="bold">3. b.</emphasis> Report only initial or subsequent critical care (<emphasis role="bold">99468–99469</emphasis>), according to whether this is the first or subsequent episode of neonatal critical care during the same hospital stay when the neonate becomes critically ill on a day when initial or subsequent intensive care services (<emphasis role="bold">99477–99480</emphasis>) have been provided by the same physician(s) or QHP(s) from the same group practice.</para>
+   <para>
+      <emphasis role="bold">4. b.</emphasis> Subsequent intensive care services (<emphasis role="bold">99478–99480</emphasis>) are differentiated by the infant's weight in grams on the date of service.</para>
+   <para>
+      <emphasis role="bold">5. b.</emphasis> Codes <emphasis role="bold">33946–33949</emphasis> include managing the ECMO or ECLS circuit and related patient issues.</para>
+</sect1>

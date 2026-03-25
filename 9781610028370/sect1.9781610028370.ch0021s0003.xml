@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0021s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0021s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0021s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0021s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>21</chapternumber>
+         <chapterid>ch0021</chapterid>
+         <chaptertitle>17. Critical and Intensive Care</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Teaching Point:</title>
+   <para>When the NPs are considered to be of the same specialty, only the first period of critical care services is reported with <emphasis role="bold">99291</emphasis>. When payer policy aligns with Medicare, requiring a total of 104 minutes of critical care services to report <emphasis role="bold">99292</emphasis>, only <emphasis role="bold">99291</emphasis> is reported by NP A, who spent the greater portion of the total time.</para>
+   <sect2 id="ch0021s0003s20001">
+      <title/>
+      <sect3 id="ch0021s0003s30003">
+         <title/>
+         <sect4 id="ch0021s0003s0001s01s01">
+            <title>Split or Shared Critical Care Services</title>
+            <para>Because Medicare does not consider QHPs to be working in the same specialty as physicians, Medicare's split or shared services policy (when physicians and QHPs of the same group practice, not hospital employees, jointly provide E/M services in a facility setting. (In an office setting, incident-to policy, as discussed in <emphasis role="bold">Chapter 7</emphasis>, applies, rather than split/shared.) Under the split/shared policy, hourly critical care services (ie, the service times of a physician and QHP of the same group practice) are combined and reported as a single service. But the policy requires that the service be reported by <emphasis role="italics">the individual who spent the greater amount of time providing critical care services</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier <emphasis role="bold">F5</emphasis> (split or shared E/M visit) must be appended to the critical care code(s) on the claim (ie, <emphasis role="bold">99291 F5</emphasis> and, when applicable, <emphasis role="bold">99292 F5</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>When 2 or more physicians and QHPs spend time jointly meeting with or discussing the patient as part of a critical care service, the time can be counted only once for the purpose of reporting the split/shared critical care visit.</para>
+               </listitem>
+               <listitem>
+                  <para>The physician and the QHP must document their personally performed services, but the reporting individual (the one who spent the greater portion of time) is responsible for authenticating and dating the record.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="bold">A 4-year-old arrives to the ED in critical condition.</emphasis> The ED physician provides 40 minutes of critical care before the child's condition is stabilized so they may be transferred to another facility. Pending transfer, a QHP of the same group practice assumes treatment of the patient, who is in stable condition at that time. The patient's condition deteriorates, and the QHP provides another 30 minutes of critical care before a team arrives to accept treatment of the patient during transport.</para>
+            <para>The ED physician reports <emphasis role="bold">99291 F5</emphasis>.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The ED physician who provided the substantive or greater amount (ie, 40 of 70 minutes) of the total time reports the critical care services with modifier <emphasis role="bold">F5</emphasis> appended to indicate that the services were split/shared. The physician and the QHP each document the individually provided services and time spent. Under Medicare policy, the individual reporting the service must authenticate/sign and date the record of the split/shared services reported. Any separately reportable procedure is reported by the physician or QHP who provided the service. Modifier <emphasis role="bold">25</emphasis> may be required in addition to <emphasis role="bold">F5</emphasis>.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

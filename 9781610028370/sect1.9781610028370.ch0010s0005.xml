@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0010s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0010s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0010s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>7 Non-Preventive Evaluation and Management Services in Outpatient Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 7. NON-PREVENTIVE EVALUATION AND MANAGEMENT SERVICES IN OUTPATIENT SETTINGS</title>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> The visit meets the requirements for reporting a consultation based on the pediatrician's request for advice and the consultant's written report to the pediatrician after evaluating the patient. The MDM is straightforward, based on the straightforward problem addressed, minimal data, and minimal risk of morbidity resulting from additional testing or treatment. The total time of 20 minutes also supports 99242.</para>
+   <para>If an E/M service includes history from an independent historian and either more than one self-limited or minor problem or low risk, documentation should typically support low MDM.</para>
+   <para>
+      <emphasis role="bold">★99243</emphasis> Office or other outpatient consultation for a new or established patient, which requires a medically appropriate history and/or examination and low level of medical decision making.</para>
+   <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+   <para>
+      <emphasis role="italics">Example</emphasis> ▶ An adolescent ballet dancer is referred for evaluation and recommendation of treatment for pain and swelling to the posterior aspect of the ankle. The physician reviews an encounter note provided by the physician who requested the consultation and independently interprets magnetic resonance imaging of the ankle. Diagnosis is posterior ankle tenosynovitis caused by os trigonum syndrome. Conservative treatment with rest and physical therapy is recommended, and an order for physical therapy is provided. A report of the encounter is sent to the requesting physician.</para>
+   <para>
+      <emphasis role="italics">Problem(s) addressed</emphasis> ⟹ <emphasis role="italics">Low</emphasis> (1 acute, uncomplicated illness or injury) <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (independent interpretation of tests)</para>
+   <para>
+      <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Low</emphasis> (decision for physical therapy)</para>
+   <table frame="all" id="ch0010s0005ta0001">
+      <title>CHAPTER 7. NON-PREVENTIVE EVALUATION AND MANAGEMENT SERVICES IN OUTPATIENT SETTINGS</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>M65.871 (other synovitis and tenosynovitis, right ankle and foot)Q68.8 (os trigonum syndrome)</entry>
+               <entry>99243 is supported.</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>
+      <emphasis role="bold">★99244</emphasis> Office or other outpatient consultation for a new or established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making.</para>
+   <para>When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+   <para>
+      <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A primary care pediatrician consults an otolaryngologist for opinion on adenoidectomy and tympanostomy with tubes.</emphasis> The patient is new to the otolaryngologist, who reviews and summarizes records provided by the primary care pediatrician, noting management of perennial allergic rhinitis, chronic adenoid hypertrophy, and chronic serous otitis media over the past year. Results of tympanometry provided by an audiologist prior to the consultation are also reviewed. History is obtained from the patient's parents, who note that the patient finished a course of antibiotics 2 weeks ago for acute otitis media and is increasingly missing school and community events because of ear infections. Examination reveals enlarged adenoids and bilateral otitis media with effusion.</para>
+   <para>
+      <emphasis role="italics">Assessment/plan:</emphasis> Diagnosis is bilateral chronic serous otitis media with chronic hypertrophy of adenoids and perennial allergic rhinitis. The otolaryngologist discusses treatment options with the parents, including tympanostomy with tube placement and adenoidectomy, and the parents agree to the surgery. The otolaryngologist sends a report to the primary care pediatrician advising that surgery be recommended.</para>
+   <para>
+      <emphasis role="italics">Problem(s) addressed</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (≥2 chronic conditions) <emphasis role="italics">Data reviewed and analyzed</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (independent historians, review of records from 1 source, and review of 1 test result)</para>
+   <para>
+      <emphasis role="italics">Risk of patient management</emphasis> ⟹ <emphasis role="italics">Moderate</emphasis> (decision for elective major surgery without known risk factors) ★ indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ⊗, modifier 51 exempt; ⊕, audiovisual technology; and ⚡, synchronous interactive audio.</para>
+   <para>
+      <emphasis role="bold">H65.23</emphasis> (chronic serous otitis media, bilateral)</para>
+   <para>
+      <emphasis role="bold">J35.2</emphasis> (hypertrophy of adenoids)</para>
+   <para>
+      <emphasis role="bold">J30.89</emphasis> (other allergic rhinitis)</para>
+</sect1>

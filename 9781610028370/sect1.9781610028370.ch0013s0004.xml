@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0013s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0013s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0013s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>10. Mental and Behavioral Health Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Health and Behavior Assessments/Interventions</title>
+   <para>Health and behavior assessment and intervention procedures (<emphasis role="bold">96156, 96158, 96159</emphasis>, and <emphasis role="bold">96164–96171</emphasis>) are provided by NQHCPs who cannot report E/M services but can independently provide and report assessment and intervention procedures. These services are used to identify and address psychosocial, behavioral, emotional, cognitive, and interpersonal factors important to the assessment, treatment, or management of <emphasis role="italics">physical health problems</emphasis>.</para>
+   <para>The patient's primary diagnosis must be a medical (physical) issue, and the focus of the assessment and interventions is on factors complicating medical conditions and treatments. These codes describe assessments and interventions to improve the patient's health and well-being using psychological and/or psychosocial interventions designed to ameliorate specific disease-related problems.</para>
+   <para>These services do not represent preventive medicine counseling and risk factor reduction interventions.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Physicians and QHPs who can provide and report E/M services do not report <emphasis role="bold">96156, 96158, 96159</emphasis>, or <emphasis role="bold">96164–96171</emphasis>. E/M codes including preventive medicine services are reported instead depending on the type of service provided.</para>
+      </listitem>
+      <listitem>
+         <para>When an E/M service is provided by a physician or QHP on the same date that an NQHCP (eg, LCSW) provides health and behavior assessment/intervention, each service is separately reported by the individual providing the service. The same provider cannot report both services.</para>
+      </listitem>
+      <listitem>
+         <para>May be reported by psychologists, clinical social workers, licensed therapists, and other NQHCPs within their scope of practice who have specialty training in health and behavior assessment or intervention procedures.</para>
+      </listitem>
+      <listitem>
+         <para>Codes <emphasis role="bold">96156, 96158, 96159</emphasis>, and <emphasis role="bold">96164–96171</emphasis> are reported with telemedicine modifier <emphasis role="bold">93</emphasis> (audio-only) or <emphasis role="bold">95</emphasis> (synchronous audiovisual), when applicable.</para>
+      </listitem>
+   </itemizedlist>
+   <para>✱ Are not reported with psychiatric codes (<emphasis role="bold">90785–90899</emphasis>) when provided on the same day. Only the primary service is reported (ie, <emphasis role="bold">96156, 96158, 96159</emphasis>, and <emphasis role="bold">96164–96171</emphasis> or <emphasis role="bold">90785–90899</emphasis>).</para>
+   <para>✱ Are not reported with adaptive behavior assessment or treatment (<emphasis role="bold">97151–97158, 0362T, 0373T</emphasis>).</para>
+   <para>✱ Are not used in conjunction with a primary diagnosis of mental disorder. (Payers may deny claims when a diagnosis code indicating mental disorder is included for these services.) When required by a payer, a health behavior assessment or reassessment may qualify as an initiating visit before performing care management services for behavioral health conditions by a clinical psychologist or clinical social worker (<emphasis role="bold">G0323</emphasis>).</para>
+   <sect2 id="ch0013s0004s20001">
+      <title/>
+      <sect3 id="ch0013s0004s30005">
+         <title/>
+         <sect4 id="ch0013s0004s0001s01s01">
+            <title>Health Behavior Assessment</title>
+            <para>
+               <emphasis role="bold">96156</emphasis> Health behavior assessment or re-assessment (ie, health-focused clinical interview, behavioral observations, clinical decision making) Health behavior assessment includes evaluation of the patient's responses to disease, illness or injury, outlook, coping strategies, motivation, and adherence to medical treatment. Assessment is conducted through health-focused clinical interviews, observation, and clinical decision-making.</para>
+            <para>Code <emphasis role="bold">96156</emphasis> is not reported according to time. Report only 1 unit of service.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ A 13-year-old girl with multiple food allergies and newly increased anxiety is assessed for response to management of food allergies. The patient notes feelings of social isolation at home and school resulting from restricted diet. She is fearful of having an allergic reaction in front of her peers. The patient is assessed with standardized questionnaires. The child's parents are also interviewed.</para>
+            <para>Code <emphasis role="bold">96156</emphasis> would be reported with, for example, <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">Z91.010</emphasis> (allergy to peanuts). If the patient has been diagnosed with an anxiety disorder, report also a code for the anxiety disorder (eg, <emphasis role="bold">F41.9</emphasis>, anxiety disorder, unspecified). Codes for mental and behavioral health conditions, however, should not be reported as the first-listed or primary reason for health behavior assessment. The health behavior assessment is not primarily focused on behavioral health conditions.</para>
+            <para>When neuropsychological and/or psychological testing is performed at the same session as health behavior assessment or reassessment, payer edits may require modifier <emphasis role="bold">59</emphasis> to be appended to the code for the testing to indicate a distinct service.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

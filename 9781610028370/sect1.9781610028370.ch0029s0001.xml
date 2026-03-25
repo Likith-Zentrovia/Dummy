@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0029s0001</riscurrent>
+         <risnext>sect1.9781610028370.ch0029s0002</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>29</chapternumber>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>Appendix II. Test Your Knowledge! Answer Key</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>II. Test Your Knowledge! Answer Key</title>
+   <sect2 id="ch0029s0001s0001">
+      <title>
+        Chapter 1
+      </title>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>a. <emphasis role="italics">CPT</emphasis> is used for reporting most professional services, immunizations, and performance measurement tracking.</para>
+         </listitem>
+         <listitem>
+            <para>b. An <emphasis role="italics">Excludes1</emphasis> note indicates codes for conditions that would not occur in conjunction with the code category in which the note is found.</para>
+         </listitem>
+         <listitem>
+            <para>d. Unspecified codes are valid <emphasis role="italics">ICD-10-CM</emphasis> codes used to report conditions for which a more specific diagnosis has not yet been determined and/or when testing to determine a more specific diagnosis would not be medically necessary.</para>
+         </listitem>
+         <listitem>
+            <para>b. To differentiate discussion of <emphasis role="italics">CPT</emphasis> and HCPCS Level II codes, the abbreviation HCPCS is typically used in reference to Level II codes unless otherwise stated. HCPCS Level I codes are more commonly called <emphasis role="italics">CPT</emphasis> codes.</para>
+         </listitem>
+         <listitem>
+            <para>c. Up to 4 diagnosis fields may be linked to a service line. A diagnosis pointer in field 24E indicates which diagnosis codes relate to each service performed. The letter(s) of the related diagnosis field. The diagnosis code may be the same or different for each service performed.</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+   <sect2 id="ch0029s0001s0002">
+      <title>
+        Chapter 2
+      </title>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>b. The 1 indicator is assigned to a code pair for which an appropriate modifier may be used to override the edit.</para>
+         </listitem>
+         <listitem>
+            <para>d. Modifier 22 is appended only to anesthesia, surgery, radiology, laboratory, pathology, and medicine codes.</para>
+         </listitem>
+         <listitem>
+            <para>c. The units of service provided were clinically indicated and exceed the MUE for the procedure. Modifier 59 is not applicable when procedures are performed bilaterally, in conjunction with an E/M service, or when another modifier better describes the reason for separately reporting a service (eg, anatomical modifier).</para>
+         </listitem>
+         <listitem>
+            <para>c. Modifier 63 is appropriately reported only when procedures or services described by codes listed in the <emphasis role="italics">CPT</emphasis> description of modifier 63 are provided to a neonate or infant with a present body weight of 4 kg or less. Codes in <emphasis role="italics">CPT</emphasis> Appendix F are not reported with modifier 63.</para>
+         </listitem>
+         <listitem>
+            <para>b. Payer policies may require use of anatomical modifiers even when reporting a single procedure and despite site identification that may be included in a reported <emphasis role="italics">ICD-10-CM</emphasis> code. The anatomical modifiers are designated as appropriate modifiers under NCCI edits and may be reported as alternatives to or in conjunction with modifier 59 (distinct procedure).</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+   <sect2 id="ch0029s0001s0003">
+      <title>
+        Chapter 3
+      </title>
+      <orderedlist continuation="restarts" inheritnum="ignore">
+         <listitem>
+            <para>b. Category II codes were developed and are used by physicians and hospitals to report performance measures and certain aspects of care not yet included in performance measures. Category II codes are intended for reporting purposes only and are reported in addition to and not in place of Category I <emphasis role="italics">CPT</emphasis> codes.</para>
+         </listitem>
+         <listitem>
+            <para>a. Payers may use physician- or practice-level data to determine qualifications for incentive programs that pay greater than FFS revenue (eg, pay-for-performance or a quality bonus) when care that aligns with quality measures is performed, documented, and appropriately reported. Employed physicians may also earn bonuses based on meeting the organization's quality measurement goals.</para>
+         </listitem>
+         <listitem>
+            <para>c. Health plans may provide more specific documentation and coding guidance for reporting quality and performance measures.</para>
+         </listitem>
+         <listitem>
+            <para>c. Eight visits are included in the well-child visits in the first 30 months of life: 6 prior to turning 15 months old and 2 prior to turning 30 months old.</para>
+         </listitem>
+         <listitem>
+            <para>b. False. Codes for patient or caregiver immunization refusal do not exclude a patient from the population for immunization measures.</para>
+         </listitem>
+      </orderedlist>
+      <sect3 id="ch0029s0001s30001001">
+         <title/>
+         <sect4 id="ch0029s0001s0003s01s01">
+            <title>
+            Chapter 4
+          </title>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>d. Pediatricians can recommend values for services to the CMS by participation in AAP surveys conducted through the AMA/RUC. AAP staff sends out requests for participation to AAP section members to allow completion by physicians who most typically perform the service being surveyed.</para>
+               </listitem>
+               <listitem>
+                  <para>a. Physician payments in value-based care arrangements may be based on a combination of FFS and alternative payment methodologies. Physicians and QHPs insmaller practices may enter into a contract to participate in a network or an organization with other physician practices, and sometimes hospitals or health care systems, that offer superior care while demonstrating lower cost and higher value.</para>
+               </listitem>
+               <listitem>
+                  <para>b. Physicians should not sign contracts without reading and considering the impact of entering into the contractual agreement. Fee schedules, tiering, and allowances for billing patients for non-covered services will vary across payers and plans.</para>
+               </listitem>
+               <listitem>
+                  <para>a. The physician must have the ability to fully describe patient diagnoses for each encounter (ie, not to merely select a diagnosis code). Code descriptors may be generalized and do not capture the physician's differential diagnoses, and many codes do not indicate when a condition is worsening or poorly controlled.</para>
+               </listitem>
+               <listitem>
+                  <para>d. All of the above are true. Physicians can reject contract terms requiring payment by credit card that may result in processing fees. Health plans must provide payment in compliance with HIPAA's electronic fund transfer standards rather than virtual credit card or wire transfer when requested by a physician.</para>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

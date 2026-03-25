@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0018s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0018s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0018s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>14. Emergency Department Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 14. EMERGENCY DEPARTMENT SERVICES</title>
+   <table frame="all" id="ch0018s0004ta0001">
+      <title>CHAPTER 14. EMERGENCY DEPARTMENT SERVICES</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>S02.0XXA (fracture of vault of skull, initial encounter for closed fracture)
+S06.0X1A (concussion with loss of consciousness of 30 minutes or less) S42.021A (displaced fracture of shaft of right clavicle, initial encounter for closed fracture)
+R40.2142A (coma scale, eyes open, spontaneous, at arrival to ED) R40.2242A (coma scale, best verbal response, confused conversation, at arrival to ED)
+R40.2362A (coma scale, best motor response, obeys commands, at arrival to ED) V48.5XXA (car driver injured in noncollision transport accident intraffic accident, initial encounter)
+      Y92.413 (state road as the place of occurrence of the external cause)</entry>
+               <entry>99285 (ED visit code)
+      High MDM</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>
+      <emphasis role="bold">Data reviewed and analyzed</emphasis> ➤ <emphasis role="bold">Extensive</emphasis> (Categories 1–3—unique tests ordered, independent historians; Category 3—discussion of management with external physicians) <emphasis role="bold">Risk of patient management</emphasis> ➤ <emphasis role="bold">High</emphasis> (decision regarding parenteral controlled substances)</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> All 3 elements of MDM support a high level of MDM in this case. E/M services provided by the orthopedist would be reported with office or other outpatient consultation codes (likely <emphasis role="bold">99244</emphasis> or <emphasis role="bold">99245</emphasis>). The neurosurgeon will report an outpatient consultation with modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) in addition to subsequent hospital inpatient or observation care (<emphasis role="bold">99231–99233</emphasis>) or may combine the total time or MDM of the services and report only initial hospital care, <emphasis role="bold">99221–99223</emphasis>. Each physician will report the diagnoses for the conditions confirmed at the conclusion of the encounter (eg, the ED physician reports what was known at the time the patient is transferred to the neurosurgeon's care).</para>
+   <para>
+      <emphasis role="bold">ED codes may be reported by any physician or QHP providing unscheduled care to a patient who presents to an ED for immediate medical attention. But if a patient is seen in the ED for the convenience of a physician or QHP, use office or other outpatient services codes (99202–99215) or other appropriate codes (eg, initial hospital inpatient or observation services) to report the E/M service.</emphasis>
+   </para>
+   <sect2 id="ch0018s0004s0001">
+      <title>Observation in the ED Setting</title>
+      <para>Physicians in the ED setting may need to observe a patient for an extended period to determine whether admission to inpatient status or discharge is appropriate (eg, providing treatment in an effort to avoid inpatient admission (eg, repeat treatments for asthma exacerbation)). The physician's dated and timed order for observation status is the starting point of the observation service. The order for admission to observation status should not be added at the time of discharge from a lengthy ED visit.</para>
+      <itemizedlist>
+         <listitem>
+            <para>In addition to the order for an observation stay, documentation includes a plan of care for nursing and other therapeutic services, documentation of physician reassessments, and planning for discharge or a decision for transition to inpatient status (or transfer to another facility).</para>
+         </listitem>
+         <listitem>
+            <para>Observation services may be applicable when patients are observed pending transfer to a psychiatric facility.</para>
+         </listitem>
+         <listitem>
+            <para>Append modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) to the ED service code (<emphasis role="bold">99282–99285</emphasis>) when the treating ED physician or QHP provides initial hospital inpatient or observation services (<emphasis role="bold">99221–99223</emphasis>) or same-date initial hospital inpatient or observation admission and discharge (<emphasis role="bold">99234–99236</emphasis>) on the same date of service as the ED encounter.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Report codes for subsequent (<emphasis role="bold">99231–99233</emphasis>) or discharge (<emphasis role="bold">99238</emphasis> and <emphasis role="bold">99239</emphasis>) services for continued care on subsequent dates of service.</para>
+         </listitem>
+         <listitem>
+            <para>Report <emphasis role="bold">99234–99236</emphasis> only when a patient is admitted to observation status and, after a stay of 8 hours or more and at least 2 visits by the admitting physician, is discharged on the same date. An observation stay of less than 8 hours duration or with a single visit by the admitting physician or QHP is reported with <emphasis role="bold">99221–99223</emphasis>.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Refer to <emphasis role="bold">Chapter 16</emphasis> for full discussion of codes reported for hospital inpatient and observation services.</para>
+      <para>
+         <emphasis role="bold">Not all payer policies align with CPT instruction for reporting an ED E/M service and initial hospital care. When an ED visit provided on the same date as an inpatient or observation service by the same physician or QHP is not separately reported (eg, to comply with payer policy), the combined services may be reported according to the total time on the date of the encounter or the aggregate MDM. Although time is not used for selection of 99282–99285, the total time spent by the same individual(s) of the same specialty and same group practice providing ED care and inpatient or observation care on the same date may be used in code selection for the inpatient or observation service.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0018s0004s0002">
+      <title>Modifiers Used With ED Codes</title>
+      <para>Physicians need to understand when it is appropriate to report modifiers in addition to E/M or procedural service codes. Modifiers 25 (significant, separately identifiable E/M service) and 57 (decision for surgery) may be appended to ED E/M codes to indicate E/M beyond the preservice work of a procedure. Procedures performed in the ED may require reporting of modifiers such as 26 (professional component), 54 (surgical care only), or 59 (distinct procedural service) or, when accepted by the payer in lieu of modifier 59, modifier XE (separate encounter), XP (separate practitioner), XS (separate structure), or XU (unusual nonoverlapping service). Refer to <emphasis role="bold">Chapter 2</emphasis> for more detail on the use of modifiers.</para>
+      <para>Modifiers specifying the laterality (RT, right, or LT, left) of paired body sites or a specific anatomical site (eg, F5, right thumb) of a procedure may also be required by a payer (even when laterality or site is included in a reported <emphasis role="italics">ICD-10-CM</emphasis> code descriptor). For an example, refer to the Fracture Care section later in this chapter.</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">The ED physician is caring for a 9-year-old who has a 4-cm-long, deep laceration of the right calf and a separate 1-cm-long laceration of the right ankle from broken glass in their backyard.</emphasis> The physician obtains history from the child and parents. A radiograph of the extremity is obtained and reviewed with notation of no retained radiopaque foreign bodies. The child's immunizations are current, with the most recent tetanus booster having been administered less than 5 years ago. The physician irrigates, carefully explores both wounds, and performs a 2-layer repair on the calf. The ankle laceration requires only single-layer closure. The child is discharged with appropriate follow-up plans.</para>
+      <table frame="all" id="ch0018s0004ta0002">
+         <title>Modifiers Used With ED Codes</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>S81.811A (laceration without foreign body, right lower leg, initial encounter)S91.011A (laceration without foreign body, right ankle, initial encounter)W25.XXXA (contact with sharp glass, initial encounter)Y92.007 (garden or yard of noninstitutional residence)</entry>
+                  <entry>99283 2512032 (intermediate repair of the extremities, 2.6–7.5 cm)12001 59 or XS (simple repair of the extremity, ≤2.5 cm)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <emphasis role="italics">Problem(s) addressed</emphasis> ▶ Low <emphasis role="italics">Data reviewed and analyzed</emphasis> ▶ Moderate (Category 2—independent interpretation of tests)</para>
+      <para>
+         <emphasis role="italics">Risk of patient management</emphasis> ▶ Low <emphasis role="bold">Teaching Point:</emphasis> Modifiers are used to indicate that the laceration repairs were distinct procedures (59) or of a separate structure (XS). Append modifier 25 only when providing an E/M and other service with an E/M component (preservice and postservice work) on the same date to indicate that the E/M was significantly beyond the preservice work of the other service and distinctly documented. For further discussion of preservice and postservice work, refer to the Reporting Procedures in the ED section that follows.</para>
+      <para>For discussion of billing for follow-up care when the patient returns to the ED for services such as suture removal, refer to the "Coding Conundrum: The Surgical Package of Laceration Repair" box later in this chapter.</para>
+      <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on these modifiers and appropriate modifier placement.</para>
+   </sect2>
+   <sect2 id="ch0018s0004s0003">
+      <title>Reporting Procedures in the ED</title>
+      <para>Many procedures performed in the ED have an associated global period assigned by Medicare and other payers and/or are subject to the <emphasis role="italics">CPT</emphasis> surgical package. The global period affects reporting of pre- and post-procedural care. The <emphasis role="italics">CPT</emphasis> surgical package defines the work included in each surgical procedure. (Refer to <emphasis role="bold">Chapter 18</emphasis> for the definition of the <emphasis role="italics">CPT</emphasis> surgical package and Medicare global period.) Refer to "Common Emergency Department Procedures" at www.aap.org/cfp2026 for a list of procedures, with assigned Medicare global periods, commonly performed in the ED.</para>
+      <para>Any separately identifiable procedure that is personally performed by the physician may be reported, except for ✱ Procedures that are bundled in time-based critical care codes (Refer to <emphasis role="bold">Table 17-1</emphasis> for a list of services and procedures that are included in hourly critical care codes.)</para>
+      <para>✱ General supervision of services performed by hospital personnel because they are billed by the hospital facility (If a nurse or other clinical staff assist in part of a procedure, the ED physician may bill for the professional services if the ED physician provides the primary or key component of the procedure.)</para>
+      <sect3 id="ch0018s0004s30004">
+         <title/>
+         <sect4 id="ch0018s0004s0003s01s01">
+            <title>Coding Conundrum: The Surgical Package of Laceration Repair</title>
+            <para>Per <emphasis role="italics">CPT</emphasis> instruction, if the patient returned to the ED for a recheck of the wounds or removal of sutures within 10 days following the day of laceration repair, these services are considered postoperative care included in the surgical package. Likewise, Medicare and payers that adopt Medicare policy assign a 10-day global period to intermediate or complex repair services, during which all postoperative care that does not require a return to the operating room are included in the fee paid for the repair.</para>
+            <para>For simple laceration repair, however, Medicare and payers that adopt Medicare policy assign a 0-day global period to the simple repairs, thus allowing separate billing of follow-up care. Physician groups may adopt a policy applying <emphasis role="italics">CPT</emphasis> instructions for inclusion of uncomplicated postoperative care following simple laceration repair in the fee for the laceration repair.</para>
+            <para>Modifier 54 (surgical care only) is appropriately appended to procedure codes with 10- or 90-day global periods when the patient will not return to the ED for follow-up or post-operative care during the global period. For example, full-thickness repair of a lacerated lip not involving the vermilion border is reported with 40650 54. Modifier 54 is appended because this procedure is assigned a 90-day global period and the follow-up care will be provided by another physician. Some payers require 54 only on codes assigned a 90-day global period.</para>
+            <para>To report an E/M service in addition to a procedure, there must be documentation of performance of a significant and separately identifiable E/M service beyond the pre- and post-procedural work typical for the procedure (eg, evaluation for a concussion and repair of wounds at 1 encounter). Post-procedural prescriptions for pain control or prophylactic antibiotics may be included in the procedure performed.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Hydration, infusion, and/or injection procedures (96360–96379) because the physician work associated with the procedures involves only confirmation of the treatment plan and not direct supervision of staff</para>
+               </listitem>
+               <listitem>
+                  <para>Procedures involving use of hospital-owned equipment (eg, pulse oximetry), unless the procedure includes both technical and professional components (If performed and documented, the professional component, such as interpretation and report of radiographic findings, may be reported by appending modifier 26 [professional component] to the procedure code.)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0018s0004s0003s01s02">
+            <title>Fracture Care</title>
+            <para>Fracture care in the ED is typically limited to initial care. Most codes for fracture care include a 10- or 90-day period of care related to the fracture. Correct coding requires appending modifier 54 (surgical care only) to codes for fracture care when follow-up care will be provided by another physician. The physician who assumes management during the follow-up period reports the same fracture care code with modifier 55 (postoperative management only) and the same date of service. Some payers require that both physicians document the transfer of care.</para>
+            <para>Casting, splinting, or strapping may be used solely to temporarily stabilize the fracture for the comfort of a patient who will receive fracture care by anorthopedist in the next few days. When this happens, it is not considered closed fracture treatment and is reported with a code for application of casts and strapping service (29000–29584) in addition to any significant E/M service reported with modifier 25, when applicable.</para>
+            <para>▶ A 16-year-old patient is seen in the ED for right shoulder pain that occurred following a fall while playing soccer at a community sports field. The patient is examined for additional injuries. Diagnosis is anterior glenohumeral dislocation of the right shoulder. The patient agrees to an attempt at reduction without analgesia, which is successful. A sling is applied. The physician refers the patient to another physician for follow-up care and documents the transfer of care.</para>
+            <table frame="all" id="ch0018s0004ta0003">
+               <title>Fracture Care</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S43.014A (anterior dislocation of right humerus, initial encounter)W18.39XA (other fall on same level, initial encounter)Y93.66 (activity, soccer)Y92.322 (soccer field as place of occurrence)</entry>
+                        <entry>99282–99285 with modifier 57 (decision for surgery), as appropriate23650 54 RT (closed treatment of shoulder dislocation, with manipulation; without anesthesia)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0018s0004s0003s01s03">
+            <title>Nasal Fractures</title>
+            <para>Closed treatment of nasal bone fracture without manipulation is reported with an E/M code based on MDM performed and documented (ie, 99283 or 99284). Closed treatment with manipulation is reported with 21315 and 21320.</para>
+            <para>21315    Closed treatment of nasal bone fracture with manipulation; without stabilization</para>
+            <para>21320    with stabilization</para>
+         </sect4>
+         <sect4 id="ch0018s0004s0003s01s04">
+            <title>Point-of-Care Ultrasound</title>
+            <para>Point-of-care ultrasound services performed by the ED physician are separately reportable in addition to the ED E/M service when all 3 of the following conditions apply:</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>Thorough evaluation of organ(s) or anatomical region is performed.</para>
+               </listitem>
+               <listitem>
+                  <para>There is permanent image documentation (with measurements, when clinically indicated).</para>
+               </listitem>
+               <listitem>
+                  <para>A written report equivalent to that typically produced by a radiologist is documented.</para>
+               </listitem>
+            </orderedlist>
+            <para>Use of handheld or portable ultrasound machine that does not include all 3 of the listed elements is not separately reported.</para>
+            <para>Without all these elements, the examination is not separately reported and would be considered part of any E/M service provided. (Exception: Permanent image documentation is not required for ophthalmic ultrasonography for biometric measurement.) Point-of-care ultrasound services in the ED are reported by the physician only with the professional component modifier (26). The technical component (eg, equipment cost, facility overhead costs) is typically reported by the facility. (Payers may limit physicians to reporting the professional component only for all facility-based services even if the physician performs the ultrasonography and/or owns the equipment used for the service. The technical component includes all associated overhead costs. Check individual payer policies for reporting.)</para>
+            <para>One use of point-of-care ultrasound services in the ED is the focused assessment with sonography for trauma examination. This may consist of 3 distinct components: limited transthoracic echocardiography, limited chest ultrasound, and limited abdominal ultrasonography. When 3 distinct procedures are performed, 3 codes are reported.</para>
+            <para>76705    Ultrasound, abdominal, real-time with image documentation; limited 93308    Echocardiography; transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study</para>
+            <para>76604    Ultrasound, chest (includes mediastinum), real time with image documentation</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A child is seen in the ED for injuries sustained in an automobile accident. The physician performs a trauma assessment, including focused assessment with sonography for trauma examination. This examination includes limited transthoracic echocardiography, limited chest ultrasound, and limited abdominal ultrasonography.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Teaching Point: In addition to the appropriate E/M service code, the physician reports 76705 26, 76604 26, and 93308 26 (refer to code descriptions earlier in this section). Modifier 26 signifies that the physician is reporting the professional component of each service. The facility will report the same codes with modifier TC to indicate reporting of the technical component of each service. When applicable and when all requirements for reporting are met, ultrasonography performed with physician-owned equipment is reported without a modifier (ie, modifiers 26 and TC are not applicable).</para>
+            <para>Limited studies are defined in CPT as those that include examination of less than the required elements for a "complete" examination (eg, limited number of organs, limited portion of region evaluated). Refer to your CPT reference for required components of complete examinations.</para>
+            <para>Refer to the Central Venous Access section in Chapter 18 for appropriate reporting of ultrasound guidance for vascular access (76937). This code is reported separately in addition to a code for primary vascular access procedure (eg, 36555) when image documentation is not included in the procedure.</para>
+            <para>When ultrasound guidance is used for needle placement for procedures such as aspiration of an abscess, 76942 is reported. Do not report 76942 in conjunction with a service for which the code descriptor includes ultrasound guidance (eg, joint aspiration). Code 76937 (ultrasound guidance for vascular access) is not reported in conjunction with 76942.</para>
+            <para>Certain services, such as insertion of a peripherally inserted central venous catheter, include all imaging guidance and are reported with reduced service modifier 52 when imaging is not performed or imaging is performed by radiology (eg, chest radiograph) in lieu of the individual performing the procedure.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0018s0004s0004">
+      <title>Sedation</title>
+      <sect3 id="ch0018s0004s30005">
+         <title/>
+         <sect4 id="ch0018s0004s0004s01s01">
+            <title>Moderate Sedation</title>
+            <para>Moderate sedation (<emphasis role="bold">99151-99157</emphasis>) is a drug-induced depression of consciousness during which patients may respond purposefully to verbal commands, either alone or accompanied by light tactile stimulation. Moderate sedation may be necessary for the performance of certain procedures in the ED.</para>
+            <para>
+               <emphasis role="bold">99151</emphasis> Moderate sedation services provided by the same physician or other QHP performing the diagnostic or therapeutic service that the sedation supports, requiring the presence of an independent trained observer to assist in the monitoring of the patient's level of consciousness and physiological status; initial 15 minutes of intraservice time, patient younger than 5 years of age <emphasis role="bold">99152</emphasis> initial 15 minutes of intraservice time, patient age 5 years or older</para>
+            <para>
+               <emphasis role="bold">+99153</emphasis> each additional 15 minutes intraservice time (report with <emphasis role="bold">99151</emphasis> or <emphasis role="bold">99152</emphasis>) <emphasis role="bold">99155</emphasis> Moderate sedation services provided by a physician or other QHP other than the physician or other QHP performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient younger than 5 years of age</para>
+            <para>
+               <emphasis role="bold">99156</emphasis> initial 15 minutes of intraservice time, patient age 5 years or older <emphasis role="bold">+99157</emphasis> each additional 15 minutes intraservice time (report with <emphasis role="bold">99155</emphasis> or <emphasis role="bold">99156</emphasis>)</para>
+            <para>
+               <emphasis role="bold">Refer to Chapter 13 for a full discussion of coding for moderate sedation.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes are selected according to intraservice time. Intraservice time</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Begins with the administration of the sedating agent(s) — Ends when the procedure is completed, the patient is stable for recovery status, and the physician or other QHP providing the sedation ends personal continuous face-to-face time with the patient</para>
+               </listitem>
+               <listitem>
+                  <para>Includes ordering and/or administering initial and subsequent doses of sedating agents — Requires continuous face-to-face attendance of the physician or other QHP</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Requires monitoring patient response to the sedating agents, including</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>◊ Periodic assessment of the patient ◊ Further administration of agent(s) as needed to maintain sedation</para>
+            <itemizedlist>
+               <listitem>
+                  <para>◊ Monitoring of oxygen saturation, heart rate, end-tidal carbon dioxide levels, and blood pressure</para>
+               </listitem>
+               <listitem>
+                  <para>Moderate sedation services of less than 10 minutes' intraservice time are not separately reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A 5-year-old requires a procedure in the ED. A physician other than the ED physician performs the procedure. The ED physician provides the moderate sedation and documents 25 minutes of service, beginning with administration of the sedating agent and ending when the patient is sufficiently recovered so the physician's continuous face-to-face monitoring is no longer necessary.</emphasis>
+            </para>
+            <table frame="all" id="ch0018s0004ta0004">
+               <title>Moderate Sedation</title>
+               <tgroup cols="1">
+                  <colspec colname="c1"/>
+                  <tbody>
+                     <row>
+                        <entry>CPT</entry>
+                     </row>
+                     <row>
+                        <entry>99282-99285 25</entry>
+                     </row>
+                     <row>
+                        <entry>99156 (moderate sedation by other than physician performing procedure, first 15 minutes)</entry>
+                     </row>
+                     <row>
+                        <entry>99157 (moderate sedation, each additional 15 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0018s0004s0004s01s02">
+            <title>Deep Sedation</title>
+            <para>Deep sedation or analgesia is a drug-induced depression of consciousness during which patients cannot be easily aroused but respond purposefully after repeat verbal or painful stimulation (eg, purposefully pushing away a noxious stimuli). The ability to independently maintain ventilatory function may be impaired. Patients may require assistance in maintaining a patent airway, and spontaneous ventilation may be inadequate. Cardiovascular function is usually maintained. A state of deep sedation may be accompanied by partial or complete loss of protective airway reflexes.</para>
+            <para>Although ED physicians may provide deep sedation, payment for these services is limited. National Correct Coding Initiative (NCCI) edits do not allow payment of an ED visit (<emphasis role="bold">99281-99285</emphasis>) and deep sedation when provided by the same ED physician. The nonbundled will override the NCCI edits. Payers that have adopted Medicare or Medicaid NCCI edits may deny the ED visit when reported on the same date as deep sedation.</para>
+            <para>Deep sedation provided by a physician also performing the services for which the sedation is being provided is reported by appending modifier 47 (anesthesia by surgeon) to the procedure code for the service for which sedation is required. Many health plans do not pay separately for anesthesia by the physician or surgeon performing the procedure. However, if the deep sedation is provided by another physician from the same specialty and same group, modifier <emphasis role="bold">XP</emphasis> (separate practitioner) should be added to the appropriate anesthesia code.</para>
+            <para>Refer to <emphasis role="bold">Chapter 18</emphasis> for more information on deep sedation.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0018s0004s0005">
+      <title>Directing Emergency Medical Personnel</title>
+      <para>
+         <emphasis role="bold">99288</emphasis> Physician or other QHP direction of emergency medical systems (EMS) emergency care, advanced life support</para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">99288</emphasis> is designated as a bundled procedure (included in the work value of other services) by Medicare. There are no relative values assigned under the Medicare Resource-Based Relative Value Scale. Check with your major payers and negotiate for coverage of this service.</para>
+         </listitem>
+         <listitem>
+            <para>Report <emphasis role="bold">99288</emphasis> (physician direction of EMS) when</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The physician directing the services is in the hospital and in 2-way communication with EMS personnel who are in the prehospital setting providing advanced life support that requires direct or online medical control.</para>
+               </listitem>
+               <listitem>
+                  <para>The documentation includes the times of all contacts, any orders provided, and/or directions provided to the EMS team.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">99288</emphasis> may be reported on the same day as ED E/M or hourly critical care services. Append modifier <emphasis role="bold">25</emphasis> to <emphasis role="bold">99288</emphasis> to alert payers that this was a significant and separately identifiable service from ED E/M (<emphasis role="bold">99282-99285</emphasis>) or the critical care (<emphasis role="bold">99291, 99292</emphasis>) service provided.</para>
+         </listitem>
+         <listitem>
+            <para>The supervising physician cannot report the actual procedures and interventions performed by the EMS team because they are not physically present during the transport.</para>
+         </listitem>
+         <listitem>
+            <para>When a QHP (eg, nurse practitioner) provides critical care services during transport and those services will be reported under the QHP's National Provider Identifier or by the employing hospital, the ED physician does not report <emphasis role="bold">99288</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Refer to <emphasis role="bold">99485</emphasis> and <emphasis role="bold">99486</emphasis> in <emphasis role="bold">Chapter 17</emphasis> for information on supervision of inter-facility transport of a critically ill or injured patient, 24 months or younger, via direct 2-way communication with a transport team.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0018s0004s0006">
+      <title>Time-Based Critical Care in the ED</title>
+      <para>
+         <emphasis role="bold">99291</emphasis> Critical care, E/M of the critically ill or critically injured patient; first 30-74 minutes <emphasis role="bold">+99292</emphasis> each additional 30 minutes (Use in conjunction with <emphasis role="bold">99291</emphasis>.)</para>
+      <para>To report <emphasis role="bold">99291</emphasis> and <emphasis role="bold">99292</emphasis>, the patient's condition must meet the specific <emphasis role="italics">CPT</emphasis> definition of a critically ill or injured patient. Documentation must support that the patient's condition was critical and that the services provided involved high-complexity decision-making to assess, manipulate, and support vital system function(s) to treat single or multiple vital organ system failure and/or to prevent further life-threatening deterioration of the patient's condition.</para>
+      <para>
+         <emphasis role="italics">A critical illness or injury is defined in CPT as acutely impairing one or more vital organs such that there is a high probability of imminent or life-threatening deterioration of the patient's condition.</emphasis> Guidelines for reporting critical care codes <emphasis role="bold">99291</emphasis> (critical care, E/M of the critically ill or injured patient; first 30-74 minutes) and <emphasis role="bold">99292</emphasis> (each additional 30 minutes) are described in detail in <emphasis role="bold">Chapter 17</emphasis>. <emphasis role="italics">CPT</emphasis> instructs that add-on code <emphasis role="bold">99292</emphasis> be reported in conjunction with <emphasis role="bold">99291</emphasis> when critical care time extends <emphasis role="italics">up to 30 minutes beyond the first 74 minutes</emphasis> and for each additional period of up to 30 minutes. Report 1 unit of <emphasis role="bold">99292</emphasis> for critical care time of 75 to 104 minutes and then an additional unit for each additional period of up to 30 minutes.</para>
+   </sect2>
+</sect1>

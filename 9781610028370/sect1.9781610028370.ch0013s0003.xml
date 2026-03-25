@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0013s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0013s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0013s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>10. Mental and Behavioral Health Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Central Nervous System Assessments/Tests</title>
+   <para>The following codes are used not for the services performed during testing of central nervous system functions. Central nervous system assessments include, but are not limited to, memory, language, visual/motor responses, and abstract reasoning/problem-solving abilities. The mode of completion can be by a person (eg, with paper and pencil) or via automated means. The administration of these tests will generate material that is interpreted and formulated into a report by a physician or other QHP or an automated result.</para>
+   <para>
+      <emphasis role="bold">Standardized instruments are used in the performance of central nervous system assessment/testing services. Standardized instruments are validated tests administered and scored in the consistent or "standard" manner performed during their validation. Informal checklists created by a physician or an electronic health record developer are not considered standardized instruments.</emphasis> Claims for testing are typically reported after the final date of testing services, with the appropriate codes for each DOS reported on the single claim. But payer instructions may vary, and some require reporting with only the date on which testing services are completed.</para>
+   <para>Payers may require prior authorization of tests. Practices should adopt procedures for verifying coverage and obtaining prior authorization, when required.</para>
+   <para>Central nervous system assessments and tests are not reported in conjunction with adaptive behavior treatment (<emphasis role="bold">97151–97158, 0362T, 0373T</emphasis>).</para>
+   <sect2 id="ch0013s0003s0001">
+      <title>Neuropsychological and Psychological Testing</title>
+      <para>
+         <emphasis role="bold">Mini–mental status examination performed by a physician is included as part of the central nervous system physical examination of an E/M service and is not separately reportable.</emphasis>
+      </para>
+      <sect3 id="ch0013s0003s30004">
+         <title/>
+         <sect4 id="ch0013s0003s0001s01s01">
+            <title>Neurobehavioral Status Examination</title>
+            <para>
+               <emphasis role="bold">When reporting an assessment of fine and/or gross motor, language, cognitive level, social, memory, and/or executive functions via standardized developmental instruments, refer to codes 96112–96113 as discussed in Chapter 11.</emphasis> The neurobehavioral status examination is a clinical interview and a collection of clinical information (eg, review of medical records, interview of family/caregivers). When it precedes neuropsychological or psychological evaluation services, the neurobehavioral status examination determines the types of tests to be administered. Neurobehavioral status examination does not require completion of a standardized instrument.</para>
+            <para>★496116    Neurobehavioral status examination (clinical assessment of thinking, reasoning and judgment [eg, acquired knowledge, attention, language, memory, planning and problem solving, and visual spatial abilities]), by physician or other QHP, both face-to-face time with the patient and time interpreting test results and preparing the report; first hour</para>
+            <para>♦96121     each additional hour</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Documentation of these services includes clinical assessment of the patient, collateral interviews (as appropriate), review of previous records, informal observation of behavior during examination, and interpretation and report.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Include the reason for examination, date, and time spent, including examination, interpretation, and report of findings and recommendations.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report neurobehavioral status examination based on face-to-face time, and include time interpreting findings and preparing a report.</para>
+               </listitem>
+               <listitem>
+                  <para>The unit of time is 60 minutes, and time is met when the midpoint is passed (ie, at least 31 minutes of time is required for the first or last unit of service).</para>
+               </listitem>
+               <listitem>
+                  <para>These services may be provided via telemedicine; append modifier 95 to indicate a service provided via real-time audiovisual technology or modifier 93 to indicate a service provided via audio-only communication.</para>
+               </listitem>
+               <listitem>
+                  <para>A physician or a QHP who can independently provide and report E/M services may elect to report codes for E/M services and, when applicable, prolonged E/M service in lieu of codes 96116 and 96121.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>An 8-year-old boy, previously diagnosed with ADHD, predominantly inattentive type, is being evaluated for gradual problems with remembering directions, organizing his school materials and his room at home, and other behavior concerns. The physician or QHP performs a neurobehavioral status examination, which involves clinical assessment and observations for impairments in acquired knowledge, attention, learning, and memory. The results indicate the need for further standardized language, memory, and intelligence testing. The total time for testing, scoring, and report writing is 3½ hours.</para>
+               </listitem>
+            </itemizedlist>
+            <para>This service is reported with 96116 (neurobehavioral status examination) and 96121 with 2 units for the additional 2½ hours of examination and report writing. The diagnosis code would be ICD-10-CM F90.0 (ADHD, predominantly inattentive type). Additional ICD-10-CM codes may be assigned for specific developmental disorders diagnosed following testing (eg, F81.2, mathematics disorder).</para>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s02">
+            <title>Psychological and Neuropsychological Testing Services</title>
+            <para>Codes for psychological and neuropsychological testing differentiate test administration by physicians, QHPs, and NQHCPs from that by technicians or automated systems. A combination of testing evaluation and test administration and scoring services is typically reported on a single claim.</para>
+            <para>The test selection, test administration, and method of testing and scoring are the same regardless of who performs testing.</para>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s03">
+            <title>Testing Evaluation Services by a Physician or Other QHP With Interpretation and Report</title>
+            <para>★496130    Psychological testing evaluation services by physician or other QHP, including integration of patient data, interpretation of standardized test results and clinical data, clinical decision-making, treatment planning and report, and interactive feedback to the patient, family member(s) or caregiver(s), when performed; first hour ★♦496131   each additional hour (List separately in addition to code for primary procedure)</para>
+            <para>★496132    Neuropsychological testing evaluation services by physician or other QHP, including integration of patient data, interpretation of standardized test results and clinical data, clinical decision making, treatment planning and report, and interactive feedback to the patient, family member(s) or caregiver(s), when performed; first hour ★♦496133   each additional hour (List separately in addition to code for primary procedure)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report codes <emphasis role="bold">96130–96133</emphasis> according to the face-to-face time with the patient and the time spent integrating and interpreting data. The standard <emphasis role="italics">CPT</emphasis> time definitions apply (ie, midpoint rule, a minimum of 31 minutes must be provided to report a 1-hour unit of service).</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Time spent in test administration and scoring is not included in time used to support codes</emphasis>
+                     <emphasis role="bold">96130–96133</emphasis>. <emphasis role="italics">Separately report psychological/neuropsychological test administration and scoring services</emphasis> (<emphasis role="bold">96136–96139</emphasis>) <emphasis role="italics">on the same or different days (ie, each service is separately reported on the same claim). Report the total time of evaluation and testing services at the completion of the entire episode of evaluation on a single claim, with each DOS listed separately.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>Time of 30 minutes or less would not be reported with codes <emphasis role="bold">96130–96133</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Documentation of these services includes scoring, observation of behavior, and interpretation and report. It should include the date and time spent in testing and the time spent integrating and interpreting data, reason for the testing, and titles of all instruments used.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The time reported in <emphasis role="bold">96130–96133</emphasis> is a combination of the <emphasis role="italics">documented</emphasis> face-to-face time with the patient and the time spent integrating and interpreting data. Anitemization of time for each activity is preferable.</para>
+            <para>▶ An adolescent patient with history of traumatic brain injury is referred for neuropsychological evaluation to assess difficulties with memory and reading. A physician spends 2 hours reviewing the patient's medical records, interpreting data from tests administered and scored on an earlier date by a technician, and creating a report (copied to the referring physician) of the diagnosis and recommendations for treatment. Another 40 minutes was spent providing interactive feedback to the patient and caregivers.</para>
+            <para>Code <emphasis role="bold">96132</emphasis> and 2 units of <emphasis role="bold">96133</emphasis> are reported for 160 minutes spent in data interpretation, interactive feedback, and report writing. If the physician had also personally administered and scored tests, <emphasis role="bold">96136</emphasis> and <emphasis role="bold">96137</emphasis> would have also been reported according to the time of testing and scoring. Test administration and scoring by a technician would be reported separately with <emphasis role="bold">96138</emphasis> and <emphasis role="bold">96139</emphasis> according to the time of service (for discussion of <emphasis role="bold">96138</emphasis> and <emphasis role="bold">96139</emphasis>, refer to the Technician-Administered Testing section later in this chapter).</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Report <emphasis role="bold">96133</emphasis> with 1 unit of service in addition to <emphasis role="bold">96132</emphasis> for time of 91 to 150 minutes. Time of 151 minutes or more supports additional units of service for <emphasis role="bold">96133</emphasis> (include 1 unit for 31–59 minutes beyond the last full hour).</para>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s04">
+            <title>Testing Administration Services</title>
+            <para>Test administration and scoring services are selected according to time of service. The midpoint rule applies. Separate codes are reported depending on whether testing and scoring are personally performed by a physician, QHP, or NQHCP or are performed by a technician.</para>
+            <para>At least 2 distinct tests must be administered and scored to report codes <emphasis role="bold">96136–96139</emphasis>. Do not separately count subtests in a multifaceted test (eg, Wechsler Preschool and Primary Scale of Intelligence is 1 test with 14 subtests). Code <emphasis role="bold">96127</emphasis> (brief emotional/behavioral assessment, with scoring and documentation, per standardized instrument) may be reported for administration and scoring of a single standardized test.</para>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s05">
+            <title>Physician or QHP Administration and Scoring</title>
+            <para>★<emphasis role="bold">96136</emphasis> Psychological or neuropsychological test administration and scoring by physician or other QHP, two or more tests, any method; first 30 minutes ★★<emphasis role="bold">96137</emphasis> each additional 30 minutes after first 30 minutes (List separately in addition to code for primary procedure)</para>
+            <para>Services include administration of a series of tests, recording of behavioral observations made during testing, scoring, and transcription of scores to a data summary sheet.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes are selected according to time of testing and scoring. Time is met when the midpoint is passed (ie, a minimum of 16 minutes for 30-minute codes). Refer to <emphasis role="bold">Table 10-1</emphasis> for more details.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s06">
+            <title>Table 10-1. Calculating Units of Service for Time of Test Administration and Scoring</title>
+            <table frame="all" id="ch0013s0003ta0001">
+               <title/>
+               <tgroup cols="5">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <colspec colname="c4"/>
+                  <colspec colname="c5"/>
+                  <thead>
+                     <row>
+                        <entry>Total Time (min) of Administration and Scoring Performed By</entry>
+                        <entry>First 30 min (16–45 min)</entry>
+                        <entry>First Additional 30 min (46–75 min)</entry>
+                        <entry>Second Additional 30 min (76–105 min)</entry>
+                        <entry>Each Additional 30 min or Last 16 min Beyond Final Full 30-min Period (&gt;106 min)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Physician, QHP, or NQHCP</entry>
+                        <entry>96136 (1 unit)</entry>
+                        <entry>96136 and 96137 (1 unit each)</entry>
+                        <entry>96136 (1 unit) and 96137 (2 units)</entry>
+                        <entry>96136 (1 unit) and units of 96137 for each 30 min or last 16 min beyond final full 30-min period</entry>
+                     </row>
+                     <row>
+                        <entry>Technician</entry>
+                        <entry>96138 (1 unit)</entry>
+                        <entry>96138 and 96139 (1 unit each)</entry>
+                        <entry>96138 (1 unit) and 96139 (2 units)</entry>
+                        <entry>96138 (1 unit) and units of 96139 for each 30 min or last 16 min beyond final full 30-min period</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>✱ Do not include time spent in integration of patient data or interpretation of test results in the time reported with 96136 and 96137. This time is included with psychological and neuropsychological test evaluation services (96130–96133).</para>
+            <para>✱ Psychological or neuropsychological test administration <emphasis role="italics">through a single test/instrument</emphasis>, with interpretation and report, is reported with 96127 (brief emotional/behavioral assessment [eg, depression inventory, ADHD scale], with scoring and documentation, per standardized instrument).</para>
+            <para>▶<emphasis role="bold">A physician spends 80 minutes administering tests, recording observations, scoring, and transcribing results to a data summary sheet.</emphasis> Codes 96136 × 1 unit and 96137 × 2 units are reported.</para>
+            <para>
+               <emphasis role="italics">Teaching Point:</emphasis> Code 96136 is reported for the first 30 minutes. Two units of 96137 are also reported for the remaining 50 minutes (1 full period of 30 minutes and the final 20 minutes). If the final period of service were less than 16 minutes, only 1 unit of 96137 would be reported.</para>
+            <para>▶<emphasis role="bold">An adolescent is referred for psychological testing evaluation.</emphasis> The patient undergoes physician-administered psychological testing to evaluate emotionality, intellectual abilities, personality, and psychopathology and to make a mental health diagnosis and treatment recommendations as applicable. The total time of face-to-face testing is 45 minutes. The physician's total time of evaluation and data integration and interpretation is 75 minutes. Codes 96136 and 96130 are reported.</para>
+            <para>
+               <emphasis role="italics">Teaching Point:</emphasis> Test administration and scoring time of 45 minutes are reported with 96136. Seventy-five minutes of physician testing evaluation service is reported with 96130.</para>
+         </sect4>
+         <sect4 id="ch0013s0003s0001s01s07">
+            <title>Technician-Administered Testing</title>
+            <para>Testing and administration performed by a technician are reported with 96138 and 96139.</para>
+            <para>★+96138    Psychological or neuropsychological test administration and scoring by technician, two or more tests, any method; first 30 minutes ★+★96139    each additional 30 minutes (List separately in addition to code for primary procedure)</para>
+            <para>Codes 96138 and 96139 do not include the work of a physician or QHP. These codes are valued only for practice expense and medical liability.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Evaluation services by the physician, QHP, or NQHCP are reported with 96130–96133 whether provided on the same or a different date. Do not include time for evaluation services (eg, integration of patient data or interpretation of test results) in time of test administration and scoring.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ An adolescent patient is referred for neuropsychological testing. A technician spends 40 minutes administering and scoring tests. The technician also notes any behavioral observations. Code <emphasis role="bold">96138</emphasis> is reported with 1 unit of service.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> When a physician, QHP, or NQHCP provides evaluation services, including integration and interpretation of data from tests administered by a technician, on the same or a different date, refer to <emphasis role="bold">96132</emphasis> and <emphasis role="bold">96133</emphasis> for those services.</para>
+            <para>
+               <emphasis role="bold">Automated Testing and Result</emphasis> When a single test instrument is completed by the patient via an electronic platform without administration and scoring by a clinician, report <emphasis role="bold">96146</emphasis>.</para>
+            <para>
+               <emphasis role="bold">96146</emphasis> Psychological or neuropsychological test administration, with single automated, standardized instrument via electronic platform, with automated result only Code <emphasis role="bold">96146</emphasis> does not include scoring by a health care professional or interpretation and report. Results are generated via the electronic platform.</para>
+            <para>✱ If a test is administered by a clinician, do not report <emphasis role="bold">96146</emphasis>. For brief emotional/behavioral assessment using a standardized instrument with scoring by a clinician, refer to <emphasis role="bold">96127</emphasis>.</para>
+            <para>▶ A child who is recovering from a concussion is provided a single computerized test for postconcussion symptoms. The patient completes the test, and the automated result is included in the patient's medical record. Code <emphasis role="bold">96146</emphasis> is reported in addition to the code representing the physician's related E/M service (eg, <emphasis role="bold">99213</emphasis>). Append modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) if the services are provided on the same date and the payer uses National Correct Coding Initiative edits.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0013s0003s0002">
+      <title>Behavior Management Services</title>
+      <para>★<emphasis role="bold">96202</emphasis> Multiple-family group behavior management/modification training for parent(s)/guardian(s)/caregiver(s) of patients with a mental or physical health diagnosis, administered by physician or other QHP (without the patient present), face-to-face with multiple sets of parent(s)/guardian(s)/caregiver(s); initial 60 minutes</para>
+      <para>★★<emphasis role="bold">96203</emphasis> each additional 15 minutes Behavior management/modification training is provided to a multiple-family group of parent(s)/guardian(s)/ caregiver(s), without the patient present. The physician, QHP, or NQHCP provides a <emphasis role="italics">face-to-face service</emphasis> to train parent(s)/ guardian(s)/caregiver(s) to use skills and strategies to address behaviors affecting the patient's mental or physical health diagnosis and to support adherence to the patient's treatment and the plan of care.</para>
+      <para>Training may include</para>
+      <itemizedlist>
+         <listitem>
+            <para>Verbal instruction</para>
+         </listitem>
+         <listitem>
+            <para>Video and live demonstrations</para>
+         </listitem>
+         <listitem>
+            <para>Feedback from a physician, QHP, or NQHCP or other parents in group sessions</para>
+         </listitem>
+      </itemizedlist>
+      <para>The time of service is the reporting individual's face-to-face time with multiple sets of parent(s)/guardian(s)/ caregiver(s). Code <emphasis role="bold">96202</emphasis> requires at least 31 minutes of service. No specific instruction for the required time to report <emphasis role="bold">96203</emphasis> is included in <emphasis role="italics">CPT</emphasis> instructions. Given the midpoint rule, time is met when the midpoint is passed (ie, at least 8 minutes for a service time of 15 minutes). <emphasis role="italics">Time must be documented to support the service provided.</emphasis> The services reported with <emphasis role="bold">96202</emphasis> and <emphasis role="bold">96203</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Must take place without the patient present</para>
+         </listitem>
+         <listitem>
+            <para>Are provided to a multiple-family group of parent(s)/guardian(s)/caregiver(s)</para>
+         </listitem>
+         <listitem>
+            <para>Emphasize active engagement and involvement of the parent(s)/guardian(s)/caregiver(s) in the treatment of a patient with a mental or physical health diagnosis</para>
+         </listitem>
+      </itemizedlist>
+      <para>Do not report <emphasis role="bold">96202</emphasis> and <emphasis role="bold">96203</emphasis> ✱ For preventive medicine counseling (<emphasis role="bold">99401</emphasis>–<emphasis role="bold">99404</emphasis>; <emphasis role="bold">99410</emphasis>, <emphasis role="bold">99411</emphasis>)</para>
+      <para>✱ For risk factor reduction interventions (<emphasis role="bold">99406</emphasis>–<emphasis role="bold">99409</emphasis>) ✱ For services to the patient and the parent(s)/guardian(s)/caregiver(s) during the same session (Report with appropriate E/M code[s] for site of service.)</para>
+      <para>✱ For educational services rendered to patients in a group setting (eg, prenatal, obesity, or diabetic instructions) (Report with <emphasis role="bold">99078</emphasis>.)</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A psychiatric clinical nurse specialist provides behavior management services to a group of parents and caregivers whose children have diagnosed illnesses and behaviors that affect their illnesses and management or treatment.</emphasis> The group participates in activities to learn interventions that participants can independently use to effectively manage their children's illnesses/diseases. The psychiatric clinical nurse specialist documents a total of 45 minutes spent face-to-face providing behavior management services to the group.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Codes reported to the health plan for each child include diagnosis codes for the child's illness/disease.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">96202</emphasis> Multiple-family group behavior management/modification training for parent(s)/guardian(s)/ caregiver(s) of patients with a mental or physical health diagnosis, administered by physician or other QHP (without the patient present), face-to-face with multiple sets of parent(s)/guardian(s)/caregiver(s); initial 60 minutes <emphasis role="bold">Teaching Point:</emphasis> The clinical nurse specialist reports <emphasis role="bold">96202</emphasis> for each patient whose parent(s)/guardian(s)/ caregiver(s) participated in the service. If the time of service had exceeded the first 60 minutes by at least 8 minutes (the midway point between 60 minutes and 75 minutes), <emphasis role="bold">96203</emphasis> would have been reported in addition to <emphasis role="bold">96202</emphasis>.</para>
+      <para>A psychiatric clinical nurse specialist, like other advanced practice registered nurses, may practice independently in some states but only under physician supervision in other states. Where independent practice is not within the psychiatric clinical nurse specialist scope of practice, a plan may require reporting under the name of the supervising physician or other QHP.</para>
+   </sect2>
+</sect1>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0025s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0025s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>25</chapternumber>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>20. Outpatient Telemedicine and Online Digital Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Outpatient Telemedicine and Online Digital Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>Codes for synchronous audio-video telemedicine evaluation and management (E/M) services</para>
+      </listitem>
+      <listitem>
+         <para>Codes for synchronous audio-only telemedicine E/M services</para>
+      </listitem>
+      <listitem>
+         <para>Brief virtual check-in services – brief communications to determine if a more extensive visit is indicated</para>
+      </listitem>
+      <listitem>
+         <para>Codes and instructions for reporting online digital E/M services</para>
+      </listitem>
+      <listitem>
+         <para>Reporting evaluation of recorded video and/or images (eg, rash)</para>
+      </listitem>
+   </itemizedlist>
+   <para>This chapter discusses codes that are specific to reporting telemedicine E/M and online digital health services.</para>
+   <para>Refer to <emphasis role="bold">Chapter 19</emphasis> for the following topics:</para>
+   <itemizedlist>
+      <listitem>
+         <para>A general overview of how to appropriately provide telemedicine services in compliance with state and federal regulations</para>
+      </listitem>
+      <listitem>
+         <para>Discussion of appropriate documentation of telemedicine services, including compliance with potential regulatory requirements (eg, patient or parent/caregiver consent to services)</para>
+      </listitem>
+      <listitem>
+         <para>Reporting telemedicine services using Healthcare Common Procedure Coding System codes</para>
+      </listitem>
+      <listitem>
+         <para>Reporting telemedicine services with codes that are typically reported for face-to-face services and appended with modifiers to designate delivery via telemedicine</para>
+      </listitem>
+   </itemizedlist>
+   <para>Related topics discussed in other chapters include interprofessional telephone/internet/electronic health record consultation services (refer to <emphasis role="bold">Chapter 9</emphasis>) and remote monitoring services (refer to <emphasis role="bold">Chapter 21</emphasis>).</para>
+   <para>Examples included in this chapter are solely for the purpose of demonstrating coding and are not clinical guidelines. Additionally, code assignment depends on the nature of the service provided as documented in the patient record. For each example, assume that the patient's and/or parent's or caregiver's consent for telemedicine or online digital E/M services is documented and the health plan benefits for telemedicine services have been verified before the encounter.</para>
+   <para>Payer policies for telemedicine services change frequently because of changes in state regulations, changes in code sets, and availability of communications technology. It is important that practice and billing managers maintain an awareness of state regulations for telemedicine and individual payer policies that may specify allowable codes and required modifiers.</para>
+   <sect2 id="ch0025s0002s0001">
+      <title>Office and Outpatient Synchronous Telemedicine Services</title>
+      <para>Current Procedural Terminology (CPT®) includes 3 categories of E/M codes that describe synchronous telemedicine services. Unlike other telemedicine services that may be reported with the same codes reported for in-person services (but appended with a telemedicine modifier), these codes always describe telemedicine services. No modifiers are required.</para>
+      <para>The first 2 categories differentiate telemedicine visits by type of synchronous communication (audio-video or audio-only) with code descriptions that define the levels of physician work through levels of medical decision-making (MDM) or total time on the date of the encounter.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Synchronous audio-video communication, new patient (<emphasis role="bold">99800–99803</emphasis>) and established patient (<emphasis role="bold">99804–99807</emphasis>)</para>
+         </listitem>
+         <listitem>
+            <para>Synchronous telephone/audio-only communication, new patient (<emphasis role="bold">99808–99811</emphasis>) and established patient (<emphasis role="bold">99812–99815</emphasis>)</para>
+         </listitem>
+      </itemizedlist>
+      <para>Report new patient codes only when the patient has not received a professional face-to-face service (including any prior telemedicine services) from the same physician or qualified health care professional (QHP) or another physician or QHP of the same exact specialty and subspecialty within 3 years prior to the current service.</para>
+      <para>The third category includes a single code (<emphasis role="bold">99816</emphasis>) to report a brief patient-initiated service provided via synchronous communication technology for the purpose of determining whether a more extensive service (eg, in-person office visit) is needed.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">99816</emphasis> represents an established patient service and is not reported for a service provided to a new patient.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Modifiers 93 and 95 are not appended to codes <emphasis role="bold">99800–99816</emphasis>.</para>
+      <para>Modifiers 93 and 95 are appended to other codes for services provided in conjunction with telemedicine E/M services (ie, services described by codes included in Appendices P [CPT Codes That May Be Used for Synchronous Real-Time Interactive Audio-Video Telemedicine Services] and T [CPT Codes That May Be Used for Synchronous Real-Time Interactive Audio-Only Telemedicine Services]) of the American Medical Association CPT manual.</para>
+      <itemizedlist>
+         <listitem>
+            <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊗, audiovisual technology; and ♦, synchronous interactive audio.</para>
+         </listitem>
+      </itemizedlist>
+      <para>▶ A patient receives an established patient audio-video telemedicine E/M service meeting the requirements of code <emphasis role="bold">99006</emphasis> and also 30 minutes of psychotherapy provided by the same physician. The physician reports <emphasis role="bold">98006</emphasis> (synchronous audio-video E/M visit, established patient, with moderate MDM or total time meeting or exceeding 30 minutes) ★★★<emphasis role="bold">99833 95</emphasis> Psychotherapy, 30 minutes with patient when performed with an evaluation and management service</para>
+      <para>Teaching Point: Although no modifier is indicated with code 98006, the psychotherapy code is appended with modifier 95 to indicate the service was provided via synchronous audio-video communications technology.</para>
+      <sect3 id="ch0025s0002s30001">
+         <title/>
+         <sect4 id="ch0025s0002s0001s01s01">
+            <title>Place of Service Codes</title>
+            <para>Payers may also require specific place of service (POS) codes to identify where the patient received a telemedicine service. Telemedicine POS codes are <emphasis role="bold">02</emphasis>        Telehealth provided other than in the patient's home</para>
+            <para>
+               <emphasis role="bold">10</emphasis>        Telehealth provided in the patient's home Practices should verify POS requirements in payment policies, as these may vary by payer and type of practice. For instance, a practice that operates an outpatient department of a hospital may be instructed to report POS codes for outpatient hospital locations because this indicates the reporting physician's or QHP's service does not include the practice expense portions of the service (eg, clinic space, supplies, and staff employed by a facility).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Refer to <emphasis role="bold">Chapter 4</emphasis> for further discussion of POS codes and how practice expense is included in values assigned to codes.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0025s0002s0002">
+      <title>Synchronous Telemedicine Service Codes</title>
+      <para>As discussed in detail in <emphasis role="bold">Chapter 19</emphasis>, telemedicine service codes are not reported for routine communications related to a previous visit (eg, communication of test results without additional E/M work) or when included in another reported service (eg, post-procedural care within a global period).</para>
+      <itemizedlist>
+         <listitem>
+            <para>As with all services, the telemedicine service should be clinically appropriate to address the health care needs of the patient.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Synchronous telemedicine visit codes <emphasis role="bold">98000–98016</emphasis> are reported only for services provided via communication technology that allows real-time interactive audio-video or audio-only communication between the physician or QHP providing the service and the patient and/or parents/caregivers located at a distant site.</para>
+      <blockquote>
+         <para>A synchronous telemedicine visit provided to an established patient by clinical staff working under a physician's or QHP's direct supervision (ie, without a physician's or QHP's presence) may be reported with established patient code <emphasis role="bold">99211</emphasis> appended with the appropriate telemedicine modifier, <emphasis role="bold">93</emphasis> or <emphasis role="bold">95</emphasis>. Payer policies for incident-to services may apply. Learn more about <emphasis role="bold">99211</emphasis> and incident-to services in <emphasis role="bold">Chapter 7</emphasis>.</para>
+      </blockquote>
+      <para>★ Do not report <emphasis role="bold">98000–98016</emphasis> for services provided by asynchronous communication (eg, secure email).</para>
+      <itemizedlist>
+         <listitem>
+            <para>Refer to the Online Digital Evaluation and Management Services (<emphasis role="bold">99421–99423</emphasis>) section later in this chapter for guidance on reporting E/M services provided via asynchronous communication technology.</para>
+         </listitem>
+      </itemizedlist>
+      <blockquote>
+         <para>When audio-video connections are lost during an encounter <emphasis role="italics">and only audio is restored</emphasis>, report the service that accounted for the majority of the time of the interactive portion of the service. Documentation should include the time spent to support the code selection.</para>
+      </blockquote>
+      <para>
+         <emphasis role="bold">Table 20-1</emphasis> provides a quick reference to codes for synchronous telemedicine services. Refer also to <emphasis role="bold">Table 6-4</emphasis> to review the elements that are used in selecting a level of MDM.</para>
+      <sect3 id="ch0025s0002s30002">
+         <title/>
+         <sect4 id="ch0025s0002s0002s01s01">
+            <title>Table 20-1. Synchronous Telemedicine Evaluation and Management Service Codes</title>
+            <para>Services described by codes <emphasis role="bold">98000—98015</emphasis> require a medically appropriate history and/or examination. Communication via a telecommunication technology device for deaf patients is synchronous communication.</para>
+            <table frame="all" id="ch0025s0002ta0001">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Type of Service by Communication Technology</entry>
+                        <entry>Codes and Level of MDM/Total Minutes Met or Exceeded per Calendar Date</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Synchronous audio-video visit, new patient</entry>
+                        <entry>98000 Straightforward or 15 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98001 Low or 30 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98002 Moderate or 45 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98003 High or 60 min; add 99417 for ≥75 mina</entry>
+                     </row>
+                     <row>
+                        <entry>Synchronous audio-video visit, established patient</entry>
+                        <entry>98004 Straightforward or 10 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98005 Low or 20 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98006 Moderate or 30 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98007 High or 40 min; add 99417 for ≥55 mina</entry>
+                     </row>
+                     <row>
+                        <entry>Synchronous audio-only (verbal communication) visit including &gt;10 minutes of medical discussion, new patient</entry>
+                        <entry>98008 Straightforward or 15 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98009 Low or 30 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98010 Moderate or 45 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98011 High or 60 min; add 99417 for ≥75 mina</entry>
+                     </row>
+                     <row>
+                        <entry>Synchronous audio-only (verbal communication) visit including &gt;10 minutes of medical discussion, established patient</entry>
+                        <entry>98012 Straightforward or &gt;10 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98013 Low or 20 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98014 Moderate or 30 min</entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>98015 High or 40 min; add 99417 for ≥55 mina</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0025s0002s0003">
+      <title>Virtual Check-in</title>
+      <table frame="all" id="ch0025s0002ta0002">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <thead>
+               <row>
+                  <entry>Service Description</entry>
+                  <entry>Patient Description</entry>
+                  <entry>Code and Required Minutes of Medical Discussion</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Brief communication technology-based service (eg, virtual check-in) by a physician or other QHP who can report E/M services</entry>
+                  <entry>Established patient initiates to evaluate whether a more extensive type of service is required.</entry>
+                  <entry>98016 | ≥5–10 min of medical discussionc Discussion is unrelated to E/M service in prior 7 days and does not lead to an E/M service in the next 24 hours.</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <superscript>a</superscript> Add prolonged service outpatient E/M code <emphasis role="bold">99417</emphasis> only when the code is selected based on total time and the total time of <emphasis role="bold">98003, 98007, 98011, or 98015</emphasis> has been exceeded by ≥15 minutes. Report 1 unit of <emphasis role="bold">99417</emphasis> for each full 15-minute period beyond the total time required for the primary service. Telemedicine modifiers (eg, 93 or 95) are appended to <emphasis role="bold">99417</emphasis> when prolonged service is provided via telemedicine.</para>
+      <para>
+         <superscript>b</superscript> Codes <emphasis role="bold">98008—98015</emphasis> require &gt;10 minutes (ie, ≥11 minutes) of medical discussion. Do not report <emphasis role="bold">98008—98015</emphasis> for service of ≤10 minutes. Report <emphasis role="bold">98016</emphasis> (established patient only) when applicable.</para>
+      <para>
+         <superscript>c</superscript> &gt;10 minutes of medical discussion may be reported with <emphasis role="bold">98000—98015</emphasis>.</para>
+      <sect3 id="ch0025s0002s30003">
+         <title/>
+         <sect4 id="ch0025s0002s0003s01s01">
+            <title>Synchronous Audio-Video Services (98000—98007)</title>
+            <para>
+               <emphasis role="bold">#98000</emphasis> Synchronous audio-video visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 15 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98001</emphasis> Synchronous audio-video visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and low medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">#98002</emphasis> Synchronous audio-video visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and moderate medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 45 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98003</emphasis> Synchronous audio-video visit for the E/M of a new patient, which requires a medically appropriate history and/or examination and high medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 60 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98004</emphasis> Synchronous audio-video visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 10 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98005</emphasis> Synchronous audio-video visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and low medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 20 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98006</emphasis> Synchronous audio-video visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and moderate medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98007</emphasis> Synchronous audio-video visit for the E/M of an established patient, which requires a medically appropriate history and/or examination and high medical decision making.</para>
+            <para>When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+            <para>Codes <emphasis role="bold">98000–98007</emphasis> are specific for reporting services that are provided via telecommunications technology that includes both audio and video components with interactive communication in real time (ie, synchronous).</para>
+            <para>Code selection is based on either MDM or the physician's or QHP's total time directed to care of the individual patient as discussed in <emphasis role="bold">Chapter 6</emphasis> and as used in code selection for other services such as office and other outpatient E/M services (<emphasis role="bold">99202–99205</emphasis> and <emphasis role="bold">99212–99215</emphasis>).</para>
+            <para>
+               <emphasis role="bold">Codes 98000–98007</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are initiated by either the physician or QHP (eg, scheduled follow-up visit) or the patient and/or parent or caregiver.</para>
+               </listitem>
+               <listitem>
+                  <para>Are reported for new or established patients as defined in <emphasis role="italics">CPT</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not require a specific time interval from the last in-person or telemedicine visit.</para>
+               </listitem>
+               <listitem>
+                  <para>Require a medically appropriate history and/or examination.</para>
+               </listitem>
+               <listitem>
+                  <para>Are selected according to MDM or total time.</para>
+               </listitem>
+               <listitem>
+                  <para>May be reported in addition to <emphasis role="bold">99417</emphasis> (prolonged outpatient E/M service) when the code for the highest level of synchronous audio-video service (<emphasis role="bold">99007</emphasis>) is selected according to total time and the required total time is exceeded by 15 minutes or more. Report 1 unit of <emphasis role="bold">99417</emphasis> appended with the appropriate telemedicine modifier for each full 15-minute period beyond the total time of the primary service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Time establishing the connection or arranging the appointment is not included in the physician's or QHP's total time, even when performed by the physician or other QHP (ie, count time spent in activities that require a physician's or QHP's skill).</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">Do not report 98000–98007</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>When another E/M visit is reported on the same date</para>
+               </listitem>
+               <listitem>
+                  <para>For time spent by clinical staff even when performed with a physician's or QHP's oversight</para>
+               </listitem>
+               <listitem>
+                  <para>For any time counted toward chronic or principal care management services (<emphasis role="bold">99437, 99491, or 99424–99425</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>For services provided by asynchronous communication (eg, secure messaging)</para>
+               </listitem>
+               <listitem>
+                  <para>During the global period of a procedure</para>
+               </listitem>
+            </itemizedlist>
+            <para>When the video component of an audio-video E/M service is lost and the service is continued with audio-only communication, the service is reported according to the service that accounted for the majority of the time spent in interactive medical discussion and/or patient observation. <emphasis role="italics">In this event, the service is reported only when the time of medical discussion and/or patient observation exceeds 10 minutes.</emphasis> Refer to <emphasis role="bold">Table 20-1</emphasis> asyou review the following examples to identify the levels of MDM and/or required total time for the services described:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">● indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</emphasis>
+                     <emphasis role="bold">A parent of a 3-year-old established patient requests an audio-video telemedicine service for possible pinkeye. The physician providing the service uses a preconfigured template to document the service.</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Date:</emphasis> January 7, 2026 Parent's consent obtained atlog-on to telemedicine application.</para>
+            <para>
+               <emphasis role="bold">Patient location:</emphasis> Home        <emphasis role="bold">Service provided from:</emphasis> Care for Kids Pediatrics</para>
+            <para>
+               <emphasis role="bold">Individuals present:</emphasis> Parents and child <emphasis role="bold">History:</emphasis> Per parents, recent symptoms of an upper respiratory infection (URI) followed by development of symptoms of redness, itching, and clear discharge of first the left eye and then the right eye over the past 24 hours. Matting of eyelashes was cleaned with a warm cloth this morning.</para>
+            <para>
+               <emphasis role="bold">Examination:</emphasis> Child is resting comfortably in a parent's lap. Temperature is 98.4 °F per digital thermometer. Eyes are red and watery in appearance, consistent with viral conjunctivitis.</para>
+            <para>
+               <emphasis role="bold">Assessment and plan:</emphasis> Viral conjunctivitis. Parents instructed to use cold compresses and lubricants, such asartificial tears, for comfort. Parents also instructed that symptoms may worsen over 24 to 48 hours but that they can contact the office for further evaluation if the condition worsens or is not improving within 72 hours. Antibiotics are requested and parents are counseled regarding lack of indication or benefit. Next scheduled appointment in 2 months for routine health examination and immunization.</para>
+            <para>
+               <emphasis role="bold">Total time on this date:</emphasis> 15 minutes</para>
+            <para>Electronic signature applied Problem(s) addressed ➤<emphasis role="bold">Low</emphasis> (an acute uncomplicated illness)</para>
+            <para>Data reviewed and analyzed ➤<emphasis role="bold">Limited</emphasis> (independent historian required) Risk of patient management ➤ <emphasis role="bold">Moderate</emphasis> (decision regarding antibiotic prescription)</para>
+            <table frame="all" id="ch0025s0002ta0003">
+               <title>Synchronous Audio-Video Services (98000—98007)</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>B30.9 (Viral conjunctivitis, unspecified)J06.9 (acute URI, unspecified)</entry>
+                        <entry>98005 (synchronous audio-video visit for E/M of an established patient, which requires a medically appropriate history and/or examination and low MDM or total time of 20 minutes met or exceeded)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Total time on the date of the established patient encounter supports <emphasis role="bold">98006</emphasis> (≥30 minutes), although a low level of MDM is supported by the low number and complexity of problems addressed and the limited data. Either total time or MDM must support the level of service reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">522</emphasis> ||||||||||| <emphasis role="bold">PART 4. DIGITAL MEDICINE SERVICES</emphasis> ▶ An adolescent established patient is seen via audio-video telemedicine for increasingly symptomatic mental health problems. The physician reviews the patient's current medications and results of psychological tests and speaks to the patient's psychologist. After extensive discussion with the patient and a parent, new medication is prescribed and a follow-up visit is scheduled in 1 week. The physician sends the psychologist a secure message about changes in treatment. The physician's total time spent in medical management (not psychotherapy, which would be reported separately, when provided) is 50 minutes.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The physician reports <emphasis role="bold">98007</emphasis> (synchronous audio-video visit for the E/M of an established patient with either high MDM or ≥40 minutes total time) and <emphasis role="bold">99417 95</emphasis> (prolonged outpatient E/M service time beyond the required time of the primary service, each 15 minutes) with 1 unit for the 15 minutes beyond the 40 minutes required to report <emphasis role="bold">98007</emphasis>. The scheduled follow-up visit in 1 week does not limit reporting this service.</para>
+            <para>▶ A synchronous audio-video telemedicine visit is being provided to an established patient. After 10 minutes of audio-video communication, the patient loses internet service. The service is completed via a 5-minute telephone call. The combined interactive time of medical discussion and observation is 15 minutes. The physician's total time of service is 20 minutes, not including time to establish or reestablish connections.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> The physician reports <emphasis role="bold">98005</emphasis> (synchronous audio-video E/M visit to an established patient with low MDM or total time of ≥20 minutes) because the greater portion of the interactive communication time was conducted via audio-video telecommunication. Had the greater portion (&gt;10 minutes) of the interactive communication been via telephone or other audio-only communication technology, <emphasis role="bold">98013</emphasis> (synchronous audio-only E/M visit to an established patient with more than 10 minutes of medical discussion and low MDM or total time of ≥20 minutes) would have been reported.</para>
+            <para>When services are provided in part by audio-video and in part by audio-only telecommunication, more than 10 minutes must be spent in medical discussion or patient observation.</para>
+         </sect4>
+         <sect4 id="ch0025s0002s0003s01s02">
+            <title>Synchronous Audio-Only Services (98008–98015)</title>
+            <para>
+               <emphasis role="bold">#98008</emphasis> Synchronous audio-only visit for the E/M of a new patient, which requires a medically appropriate history and/or examination, straightforward medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 15 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98009</emphasis> Synchronous audio-only visit for the E/M of a new patient, which requires a medically appropriate history and/or examination, low medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98010</emphasis> Synchronous audio-only visit for the E/M of a new patient, which requires a medically appropriate history and/or examination, moderate medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 45 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98011</emphasis> Synchronous audio-only visit for the E/M of a new patient, which requires a medically appropriate history and/or examination, high medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 60 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98012</emphasis> Synchronous audio-only visit for the E/M of an established patient, which requires a medically appropriate history and/or examination, straightforward medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 10 minutes must be exceeded.</para>
+            <para>
+               <emphasis role="bold">#98013</emphasis> Synchronous audio-only visit for the E/M of an established patient, which requires a medically appropriate history and/or examination, low medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 20 minutes must bemet or exceeded.</para>
+            <para>
+               <emphasis role="bold">#98014</emphasis> Synchronous audio-only visit for the E/M of an established patient, which requires a medically appropriate history and/or examination, moderate medical decision making, and more than 10 minutes of medical discussion.</para>
+            <para>When using total time on the date of the encounter for code selection, 30 minutes must bemet or exceeded.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
