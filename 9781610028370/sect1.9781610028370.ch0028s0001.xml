@@ -31,14 +31,369 @@
       </primaryauthor>
    </sect1info>
    <title>Appendix I. Quick Reference to 2026 ICD-10-CM Pediatric Code Changes</title>
+   <para>This list does not include all changes made to International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM). Every effort has been made to include the diagnosis code changes that most apply to pediatric practices. Revisions and/or additional codes may have been published after the date of this printing. Always begin in the ICD-10-CM Alphabetic Index to locate the code most specific to the condition or other reason for encounter. Codes are valid as of October 1, 2025, unless otherwise noted.</para>
    <sect2 id="ch0028s0001s20001">
-      <title/>
-      <sect3 id="ch0028s0001s30001">
-         <title/>
-         <sect4 id="ch0028s0001s0001s01s01">
-            <title>I. Quick Reference to 2026 ICD-10-CM Pediatric Code Changes</title>
-            
-         </sect4>
-      </sect3>
+      <title>Abdominal Pain of Multiple Sites</title>
+      <para><emphasis role="bold">R10.85</emphasis> Abdominal pain of multiple sites</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20002">
+      <title>Abnormal Rheumatoid Factor and Anti-citrullinated Protein Antibody</title>
+      <para><emphasis role="bold">R76.81</emphasis> Abnormal rheumatoid factor and anti-citrullinated protein antibody without rheumatoid arthritis</para>
+      <para><emphasis role="bold">R76.89</emphasis> Other specified abnormal immunological findings in serum</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20003">
+      <title>Acute Disseminated Demyelination, Other</title>
+      <para><emphasis role="bold">G37.3</emphasis> Acute transverse myelitis in demyelinating disease of central nervous system</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20004">
+      <title>Adverse Food Reaction, Not Elsewhere Classified</title>
+      <para><emphasis role="bold">Z91.0110</emphasis> Allergy to milk products, unspecified</para>
+      <para><emphasis role="bold">Z91.0110X-</emphasis> Other adverse food reactions, not elsewhere classified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20005">
+      <title>Adverse Food Reaction, Specified, Not Elsewhere Classified</title>
+      <para><emphasis role="bold">T78.19-</emphasis> Other adverse food reactions, not elsewhere classified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20006">
+      <title>Allergy Status to Milk Products or Eggs</title>
+      <para><emphasis role="bold">Z91.0110</emphasis> Allergy to milk products, unspecified</para>
+      <para><emphasis role="bold">Z91.0111</emphasis> Allergy to milk products with tolerance to baked milk</para>
+      <para><emphasis role="bold">Z91.0112</emphasis> Allergy to milk products with reactivity to baked milk</para>
+      <para><emphasis role="bold">Z91.0120</emphasis> Allergy to eggs, unspecified</para>
+      <para><emphasis role="bold">Z91.0121</emphasis> Allergy to eggs with tolerance to baked egg</para>
+      <para><emphasis role="bold">Z91.0122</emphasis> Allergy to eggs with reactivity to baked egg</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20007">
+      <title>Anaphylactic or Other Adverse Reaction to Egg</title>
+      <para><emphasis role="bold">T78.080-</emphasis> Anaphylactic reaction due to egg with tolerance to baked egg</para>
+      <para><emphasis role="bold">T78.081-</emphasis> Anaphylactic reaction due to egg with reactivity to baked egg</para>
+      <para><emphasis role="bold">T78.089-</emphasis> Anaphylactic reaction due to eggs, unspecified</para>
+      <para><emphasis role="bold">T78.12</emphasis> Other adverse food reaction due to eggs</para>
+      <para><emphasis role="bold">T78.120-</emphasis> Other adverse food reaction due to egg with tolerance to baked egg</para>
+      <para><emphasis role="bold">T78.121-</emphasis> Other adverse food reaction due to egg with reactivity to baked egg</para>
+      <para><emphasis role="bold">T78.129-</emphasis> Other adverse food reaction due to egg with baked egg tolerance/reactivity, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20008">
+      <title>Anaphylactic or Other Adverse Reaction to Milk and Dairy Products</title>
+      <para><emphasis role="bold">T78.070-</emphasis> Anaphylactic reaction due to milk and dairy products with tolerance to baked milk</para>
+      <para><emphasis role="bold">T78.071-</emphasis> Anaphylactic reaction due to milk and dairy products with reactivity to baked milk</para>
+      <para><emphasis role="bold">T78.079-</emphasis> Anaphylactic reaction due to milk and dairy products, unspecified</para>
+      <para><emphasis role="bold">T78.11X-</emphasis> Other adverse food reactions due to milk and dairy products</para>
+      <para><emphasis role="bold">T78.110-</emphasis> Other adverse food reactions due to milk and dairy products with tolerance to baked milk</para>
+      <para><emphasis role="bold">T78.111-</emphasis> Other adverse food reaction due to milk and dairy products with reactivity to baked milk</para>
+      <para><emphasis role="bold">T78.119-</emphasis> Other adverse food reaction due to milk and dairy products with baked milk tolerance/reactivity, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20009">
+      <title>Bite, Open, Flank with Penetration into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.656-</emphasis> Open bite of abdominal wall, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.657-</emphasis> Open bite of abdominal wall, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.65A-</emphasis> Open bite of abdominal wall, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20010">
+      <title>Bite, Open, Flank, without Penetration into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.156-</emphasis> Open bite of abdominal wall, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.157-</emphasis> Open bite of abdominal wall, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.15A-</emphasis> Open bite of abdominal wall, unspecified flank without penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20011">
+      <title>Cannabis Hyperemesis Syndrome</title>
+      <para><emphasis role="bold">R11.16</emphasis> Cannabis hyperemesis syndrome</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20012">
+      <title>Craniosynostosis of Unspecified Type</title>
+      <para><emphasis role="bold">Q75.001</emphasis> Craniosynostosis, unspecified type, unilateral</para>
+      <para><emphasis role="bold">Q75.002</emphasis> Craniosynostosis, unspecified type, bilateral</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20013">
+      <title>Degenerative Diseases of Nervous System, Not Elsewhere Classified, Other</title>
+      <para><emphasis role="bold">G31.87</emphasis> Primary progressive apraxia of speech</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20014">
+      <title>Diabetes Mellitus, Type 2, In Remission</title>
+      <para><emphasis role="bold">E11.A</emphasis> Type 2 diabetes mellitus without complications in remission</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20015">
+      <title>Diethylstilbestrol, Personal Risk Factor of Exposure To</title>
+      <para><emphasis role="bold">Z91.B</emphasis> Personal risk factor of exposure to diethylstilbestrol</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20016">
+      <title>Disorders of Adrenal Gland, Other</title>
+      <para><emphasis role="bold">E27.5</emphasis> Adrenomedullary hyperfunction</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20017">
+      <title>Disorders of Pyrophosphate Metabolism</title>
+      <para><emphasis role="bold">E83.82</emphasis> Disorders of pyrophosphate metabolism</para>
+      <para><emphasis role="bold">E83.820</emphasis> Generalized arterial calcification of infancy with unspecified genetic causality</para>
+      <para><emphasis role="bold">E83.821</emphasis> ENPP1 deficiency causing generalized arterial calcification of infancy</para>
+      <para><emphasis role="bold">E83.822</emphasis> ENPP1 deficiency causing autosomal recessive hypophosphatemic rickets type 2</para>
+      <para><emphasis role="bold">E83.823</emphasis> ABCC6 deficiency causing generalized arterial calcification of infancy</para>
+      <para><emphasis role="bold">E83.824</emphasis> ABCC6 deficiency causing pseudoxanthoma elasticum</para>
+      <para><emphasis role="bold">E83.825</emphasis> CD73 deficiency causing arterial calcification</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20018">
+      <title>Eyelid Inflammation, Other Specified</title>
+      <para><emphasis role="bold">H01.81</emphasis> Other specified inflammation of right upper eyelid</para>
+      <para><emphasis role="bold">H01.82</emphasis> Other specified inflammation of right lower eyelid</para>
+      <para><emphasis role="bold">H01.83</emphasis> Other specified inflammation of right eye, unspecified eyelid</para>
+      <para><emphasis role="bold">H01.84</emphasis> Other specified inflammation of left upper eyelid</para>
+      <para><emphasis role="bold">H01.85</emphasis> Other specified inflammation of left lower eyelid</para>
+      <para><emphasis role="bold">H01.86</emphasis> Other specified inflammation of left eye, unspecified eyelid</para>
+      <para><emphasis role="bold">H01.89</emphasis> Other specified inflammation of unspecified eye, unspecified eyelid</para>
+      <para><emphasis role="bold">H01.8A</emphasis> Other specified inflammation of right eye, upper and lower eyelids</para>
+      <para><emphasis role="bold">H01.8B</emphasis> Other specified inflammation of left eye, upper and lower eyelids</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20019">
+      <title>Familial Hypercholesterolemia</title>
+      <para><emphasis role="bold">E78.010</emphasis> Homozygous familial hypercholesterolemia [HoFH]</para>
+      <para><emphasis role="bold">E78.011</emphasis> Heterozygous familial hypercholesterolemia [HeFH]</para>
+      <para><emphasis role="bold">E78.019</emphasis> Familial hypercholesterolemia, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20020">
+      <title>Family History of Colon Polyps</title>
+      <para><emphasis role="bold">Z83.718</emphasis> Family history of other colon polyps</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20021">
+      <title>Family History of Diethylstilbestrol Exposure</title>
+      <para><emphasis role="bold">Z84.A</emphasis> Family history of exposure to diethylstilbestrol</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20022">
+      <title>Family History of Primary Malignant Neoplasm</title>
+      <para><emphasis role="bold">Z80.44</emphasis> Family history of malignant neoplasm of fallopian tube(s)</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20023">
+      <title>Financial Insecurity</title>
+      <para><emphasis role="bold">Z59.861</emphasis> Financial insecurity, difficulty paying for utilities</para>
+      <para><emphasis role="bold">Z59.868</emphasis> Other specified financial insecurity</para>
+      <para><emphasis role="bold">Z59.869</emphasis> Financial insecurity, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20024">
+      <title>Fishing Hook Injury to Skin</title>
+      <para><emphasis role="bold">W45.3XX-</emphasis> Fishing hook entering through skin</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20025">
+      <title>Flank Infections</title>
+      <para><emphasis role="bold">L02.212</emphasis> Cutaneous abscess of back [any part, except buttock and flank]</para>
+      <para><emphasis role="bold">L02.217</emphasis> Cutaneous abscess of flank</para>
+      <para><emphasis role="bold">L02.222</emphasis> Furuncle of back [any part, except buttock and flank]</para>
+      <para><emphasis role="bold">L02.227</emphasis> Furuncle of flank</para>
+      <para><emphasis role="bold">L03.31A</emphasis> Cellulitis of flank</para>
+      <para><emphasis role="bold">L03.32A</emphasis> Acute lymphangitis of flank</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20026">
+      <title>Flank and Suprapubic Tenderness</title>
+      <para><emphasis role="bold">R10.8A</emphasis> Flank tenderness</para>
+      <para><emphasis role="bold">R10.8A1</emphasis> Right flank tenderness</para>
+      <para><emphasis role="bold">R10.8A2</emphasis> Left flank tenderness</para>
+      <para><emphasis role="bold">R10.8A3</emphasis> Suprapubic tenderness</para>
+      <para><emphasis role="bold">R10.8A9</emphasis> Flank tenderness, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20027">
+      <title>Flank Pain (localized)</title>
+      <para><emphasis role="bold">R10.A</emphasis> Pain localized to flank</para>
+      <para><emphasis role="bold">R10.A0</emphasis> Flank pain, unspecified side</para>
+      <para><emphasis role="bold">R10.A1</emphasis> Flank pain, right side</para>
+      <para><emphasis role="bold">R10.A2</emphasis> Flank pain, left side</para>
+      <para><emphasis role="bold">R10.A3</emphasis> Flank pain, bilateral</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20028">
+      <title>Fluoroquinolone Antibiotics Poisoning, Adverse Effect, Underdosing</title>
+      <para><emphasis role="bold">T36.A</emphasis> Poisoning by, adverse effect of and underdosing of fluoroquinolone antibiotics</para>
+      <para><emphasis role="bold">T36.AX</emphasis> Poisoning by, adverse effect of and underdosing of fluoroquinolone antibiotics</para>
+      <para><emphasis role="bold">T36.AX1-</emphasis> Poisoning by fluoroquinolone antibiotics, accidental (unintentional)</para>
+      <para><emphasis role="bold">T36.AX2-</emphasis> Poisoning by fluoroquinolone antibiotics, intentional self-harm</para>
+      <para><emphasis role="bold">T36.AX3-</emphasis> Poisoning by fluoroquinolone antibiotics, assault</para>
+      <para><emphasis role="bold">T36.AX4-</emphasis> Poisoning by fluoroquinolone antibiotics, undetermined</para>
+      <para><emphasis role="bold">T36.AX5-</emphasis> Adverse effect of fluoroquinolone antibiotics</para>
+      <para><emphasis role="bold">T36.AX6-</emphasis> Underdosing of fluoroquinolone antibiotics</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20029">
+      <title>Fontan-Related Circulation</title>
+      <para><emphasis role="bold">I27.84</emphasis> Fontan-related circulation</para>
+      <para><emphasis role="bold">I27.840</emphasis> Fontan-associated liver disease [FALD]</para>
+      <para><emphasis role="bold">I27.841</emphasis> Fontan-associated lymphatic dysfunction</para>
+      <para><emphasis role="bold">I27.848</emphasis> Other Fontan-associated condition</para>
+      <para><emphasis role="bold">I27.849</emphasis> Fontan-related circulation, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20030">
+      <title>Functional Disorders of Polymorphonuclear Neutrophils</title>
+      <para><emphasis role="bold">D71.1</emphasis> Leukocyte adhesion deficiency</para>
+      <para><emphasis role="bold">D71.8</emphasis> Other functional disorders of polymorphonuclear neutrophils</para>
+      <para><emphasis role="bold">D71.9</emphasis> Functional disorders of polymorphonuclear neutrophils, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20031">
+      <title>Genetic Susceptibility to Malignancy</title>
+      <para><emphasis role="bold">Z15.05</emphasis> Genetic susceptibility to malignant neoplasm of fallopian tube(s)</para>
+      <para><emphasis role="bold">Z15.06</emphasis> Genetic susceptibility to malignant neoplasm of digestive system</para>
+      <para><emphasis role="bold">Z15.060</emphasis> Genetic susceptibility to colorectal cancer</para>
+      <para><emphasis role="bold">Z15.068</emphasis> Genetic susceptibility to other malignant neoplasm of digestive system</para>
+      <para><emphasis role="bold">Z15.07</emphasis> Genetic susceptibility to malignant neoplasm of urinary tract</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20032">
+      <title>Genitourinary System, Other Signs and Symptoms Involving The</title>
+      <para><emphasis role="bold">R39.85</emphasis> Costovertebral (angle) tenderness</para>
+      <para><emphasis role="bold">R39.851</emphasis> Costovertebral (angle) tenderness, right side</para>
+      <para><emphasis role="bold">R39.852</emphasis> Costovertebral (angle) tenderness, left side</para>
+      <para><emphasis role="bold">R39.853</emphasis> Costovertebral (angle) tenderness, bilateral</para>
+      <para><emphasis role="bold">R39.859</emphasis> Costovertebral (angle) tenderness, unspecified side</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20033">
+      <title>Hereditary Nephropathy</title>
+      <para><emphasis role="bold">N07.B</emphasis> Hereditary nephropathy, not elsewhere classified with APOL1-mediated kidney disease [AMKD]</para>
+      <para><emphasis role="bold">Z15.3</emphasis> Genetic susceptibility to kidney disease</para>
+      <para><emphasis role="bold">Z84.11</emphasis> Family history of APOL1-mediated kidney disease [AMKD]</para>
+      <para><emphasis role="bold">Z84.19</emphasis> Family history of other disorders of kidney and ureter</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20034">
+      <title>Hyperoxaluria</title>
+      <para><emphasis role="bold">E72.530</emphasis> Primary hyperoxaluria, type 1</para>
+      <para><emphasis role="bold">E72.538</emphasis> Other specified primary hyperoxaluria</para>
+      <para><emphasis role="bold">E72.539</emphasis> Primary hyperoxaluria, unspecified</para>
+      <para><emphasis role="bold">E72.54</emphasis> Secondary hyperoxaluria</para>
+      <para><emphasis role="bold">E72.540</emphasis> Dietary hyperoxaluria</para>
+      <para><emphasis role="bold">E72.541</emphasis> Enteric hyperoxaluria</para>
+      <para><emphasis role="bold">E72.548</emphasis> Other secondary hyperoxaluria</para>
+      <para><emphasis role="bold">E72.549</emphasis> Secondary hyperoxaluria, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20035">
+      <title>Immune Complex-mediated Membranoproliferative Glomerulonephritis</title>
+      <para><emphasis role="bold">N00.B</emphasis> Acute nephritic syndrome with immune complex membranoproliferative glomerulonephritis (IC-MPGN)</para>
+      <para><emphasis role="bold">N00.B1</emphasis> Acute nephritic syndrome with idiopathic immune membranoproliferative glomerulonephritis (IC-MPGN)</para>
+      <para><emphasis role="bold">N00.B2</emphasis> Acute nephritic syndrome with secondary immune complex membranoproliferative glomerulonephritis (IC-MPGN)</para>
+      <para><emphasis role="bold">N04.B1</emphasis> Nephrotic syndrome with idiopathic immune complex membranoproliferative glomerulonephritis (IC-MPGN)</para>
+      <para><emphasis role="bold">N04.B2</emphasis> Nephrotic syndrome with secondary immune complex membranoproliferative glomerulonephritis (IC-MPGN)</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20036">
+      <title>Infestation by Demodex Mites and Other Acariasis</title>
+      <para><emphasis role="bold">B88.01</emphasis> Infestation by Demodex mites</para>
+      <para><emphasis role="bold">B88.09</emphasis> Other acariasis</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20037">
+      <title>Injury, Superficial, Abdominal Wall, Groin, or Flank</title>
+      <para><emphasis role="bold">S30.11X-</emphasis> Contusion of abdominal wall</para>
+      <para><emphasis role="bold">S30.12X-</emphasis> Contusion of groin</para>
+      <para><emphasis role="bold">S30.13X-</emphasis> Contusion of flank (latus) region</para>
+      <para><emphasis role="bold">S30.81A-</emphasis> Abrasion of flank</para>
+      <para><emphasis role="bold">S30.82A-</emphasis> Blister (nonthermal) of flank</para>
+      <para><emphasis role="bold">S30.84A-</emphasis> External constriction of flank</para>
+      <para><emphasis role="bold">S30.85A-</emphasis> Superficial foreign body of flank</para>
+      <para><emphasis role="bold">S30.86A-</emphasis> Insect bite (nonvenomous) of flank</para>
+      <para><emphasis role="bold">S30.87A-</emphasis> Other superficial bite of flank</para>
+      <para><emphasis role="bold">S30.9AX-</emphasis> Unspecified superficial injury of flank</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20038">
+      <title>Kabuki Syndrome</title>
+      <para><emphasis role="bold">Q89.81</emphasis> Kabuki syndrome</para>
+      <para><emphasis role="bold">Q89.89</emphasis> Other specified congenital malformations</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20039">
+      <title>Laceration, Flank, With Foreign Body, With Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.626-</emphasis> Laceration with foreign body of abdominal wall, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.627-</emphasis> Laceration with foreign body of abdominal wall, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.62A-</emphasis> Laceration with foreign body of abdominal wall, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20040">
+      <title>Laceration, Flank, With Foreign Body, Without Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.126-</emphasis> Laceration with foreign body of abdominal wall, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.127-</emphasis> Laceration with foreign body of abdominal wall, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.12A-</emphasis> Laceration with foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20041">
+      <title>Laceration, Flank, Without Foreign Body, With Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.616-</emphasis> Laceration without foreign body of abdominal wall, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.617-</emphasis> Laceration without foreign body of abdominal wall, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.61A-</emphasis> Laceration without foreign body of abdominal wall, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20042">
+      <title>Laceration, Flank, Without Foreign Body, Without Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.116-</emphasis> Laceration without foreign body of abdominal wall, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.117-</emphasis> Laceration without foreign body of abdominal wall, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.11A-</emphasis> Laceration without foreign body of abdominal wall, unspecified flank without penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20043">
+      <title>Lipodystrophy</title>
+      <para><emphasis role="bold">E88.10</emphasis> Lipodystrophy, unspecified</para>
+      <para><emphasis role="bold">E88.11</emphasis> Partial lipodystrophy</para>
+      <para><emphasis role="bold">E88.12</emphasis> Generalized lipodystrophy</para>
+      <para><emphasis role="bold">E88.13</emphasis> Localized lipodystrophy</para>
+      <para><emphasis role="bold">E88.14</emphasis> HIV-associated lipodystrophy</para>
+      <para><emphasis role="bold">E88.19</emphasis> Other lipodystrophy, not elsewhere classified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20044">
+      <title>Liver Diseases, Inflammatory, Other</title>
+      <para><emphasis role="bold">K75.8</emphasis> Other specified inflammatory liver diseases</para>
+      <para><emphasis role="bold">K75.81</emphasis> Nonalcoholic steatohepatitis (NASH)</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20045">
+      <title>Multiple Sclerosis</title>
+      <para><emphasis role="bold">G35.A</emphasis> Relapsing-remitting multiple sclerosis</para>
+      <para><emphasis role="bold">G35.B</emphasis> Primary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.B0</emphasis> Primary progressive multiple sclerosis, unspecified</para>
+      <para><emphasis role="bold">G35.B1</emphasis> Active primary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.B2</emphasis> Non-active primary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.C</emphasis> Secondary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.C0</emphasis> Secondary progressive multiple sclerosis, unspecified</para>
+      <para><emphasis role="bold">G35.C1</emphasis> Active secondary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.C2</emphasis> Non-active secondary progressive multiple sclerosis</para>
+      <para><emphasis role="bold">G35.D</emphasis> Multiple sclerosis, unspecified</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20046">
+      <title>Muscular Dystrophy</title>
+      <para><emphasis role="bold">G71.036</emphasis> Limb girdle muscular dystrophy due to fukutin related protein dysfunction</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20047">
+      <title>Neonatal Hearing Screening</title>
+      <para><emphasis role="bold">P09.6</emphasis> Abnormal findings on neonatal hearing screening</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20048">
+      <title>Nutritional Anemias, Other</title>
+      <para><emphasis role="bold">D53.8</emphasis> Other specified nutritional anemias</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20049">
+      <title>Open Wound, Flank, With Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.606-</emphasis> Unspecified open wound of abdominal wall, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.607-</emphasis> Unspecified open wound of abdominal wall, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.60A-</emphasis> Unspecified open wound of abdominal wall, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20050">
+      <title>Open Wound, Flank, Without Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.106-</emphasis> Unspecified open wound of abdominal wall, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.107-</emphasis> Unspecified open wound of abdominal wall, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.10A-</emphasis> Unspecified open wound of abdominal wall, unspecified flank without penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20051">
+      <title>Pelvic and Perineal Pain</title>
+      <para><emphasis role="bold">R10.20</emphasis> Pelvic and perineal pain unspecified side</para>
+      <para><emphasis role="bold">R10.21</emphasis> Pelvic and perineal pain right side</para>
+      <para><emphasis role="bold">R10.22</emphasis> Pelvic and perineal pain left side</para>
+      <para><emphasis role="bold">R10.23</emphasis> Pelvic and perineal pain bilateral</para>
+      <para><emphasis role="bold">R10.24</emphasis> Suprapubic pain</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20052">
+      <title>Pulmonary Heart Diseases, Other Specified</title>
+      <para><emphasis role="bold">I27.89</emphasis> Other specified pulmonary heart diseases</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20053">
+      <title>Puncture Wound, Flank, With Foreign Body, With Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.646-</emphasis> Puncture wound of abdominal wall with foreign body, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.647-</emphasis> Puncture wound of abdominal wall with foreign body, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.64A-</emphasis> Puncture wound of abdominal wall with foreign body, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20054">
+      <title>Puncture Wound, Flank, With Foreign Body, Without Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.146-</emphasis> Puncture wound of abdominal wall with foreign body, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.147-</emphasis> Puncture wound of abdominal wall with foreign body, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.14A-</emphasis> Puncture wound of abdominal wall with foreign body, unspecified flank without penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20055">
+      <title>Puncture Wound, Flank, Without Foreign Body, With Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.636-</emphasis> Puncture wound of abdominal wall without foreign body, right flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.637-</emphasis> Puncture wound of abdominal wall without foreign body, left flank with penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.63A-</emphasis> Puncture wound of abdominal wall without foreign body, unspecified flank with penetration into peritoneal cavity</para>
+   </sect2>
+   <sect2 id="ch0028s0001s20056">
+      <title>Puncture Wound, Flank, Without Foreign Body, Without Penetration Into Peritoneal Cavity</title>
+      <para><emphasis role="bold">S31.136-</emphasis> Puncture wound of abdominal wall without foreign body, right flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.137-</emphasis> Puncture wound of abdominal wall without foreign body, left flank without penetration into peritoneal cavity</para>
+      <para><emphasis role="bold">S31.13A-</emphasis> Puncture wound of abdominal wall without foreign body, unspecified flank without penetration into peritoneal cavity</para>
    </sect2>
 </sect1>
