@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0014s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0014s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0014s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>11. Common Testing and Therapeutic Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 11. COMMON TESTING AND THERAPEUTIC SERVICES</title>
+   <table frame="all" id="ch0014s0003ta0001">
+      <title>CHAPTER 11. COMMON TESTING AND THERAPEUTIC SERVICES</title>
+      <tgroup cols="3">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <colspec colname="c3"/>
+         <thead>
+            <row>
+               <entry>Test Name</entry>
+               <entry>Code</entry>
+               <entry>Code Descriptora</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>HART KD, Complete Omics Inc, Prevencio</entry>
+               <entry>0310U</entry>
+               <entry>Pediatrics (vasculitis, Kawasaki disease [KD]), analysis of 3 biomarkers (NT proBNP, C-reactive protein, and T-uptake), plasma, algorithm reported as a risk score for KD</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>
+      <superscript>a</superscript> Revision effective January 1, 2025; publication CPT 2026.</para>
+   <sect2 id="ch0014s0003s0001">
+      <title>Laboratory Tests Frequently Performed in the Office</title>
+      <sect3 id="ch0014s0003s30004">
+         <title/>
+         <sect4 id="ch0014s0003s0001s01s01">
+            <title>COVID-19 (SARS-CoV-2 Infection) Testing</title>
+            <para>Tests for coronavirus (SARS-CoV-2) include those to detect the virus and those to detect antibodies to the virus. Some tests for SARS-CoV-2 were designated as CLIA waived under an emergency use authorization during the public health emergency caused by COVID-19. It is advisable to verify the current classification of a test before purchase. Diagnosis coding for SARS-CoV-2 is based on the current ICD-10-CM codes and guidelines.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s02">
+            <title>SARS-CoV-2 Infection Testing</title>
+            <para>When multiple specimens are collected from different anatomical sites (eg, nasopharyngeal and oropharyngeal swabs), verify payer instructions for reporting separate assays on each specimen (eg, report 87635 and 87635 59).</para>
+            <para>
+               <emphasis role="bold">87635</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]), amplified probe technique <emphasis role="bold">87426</emphasis> Infectious agent antigen detection by immunoassay technique (eg, enzyme immunoassay [EIA], ELISA, fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]), qualitative or semiquantitative; severe acute respiratory syndrome coronavirus (eg, SARS-CoV, SARS-CoV-2 [COVID-19]) (CLIA-waived)</para>
+            <para>
+               <emphasis role="bold">#87811</emphasis> Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) (CLIA-waived)</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s03">
+            <title>Combination Testing for SARS-CoV-2 and Other Infectious Agent(s)</title>
+            <para>CPT includes combination codes for tests to distinctly report testing for SARS-CoV-2 infection (COVID-19) in combination with other seasonal respiratory infections (eg, influenza A and B viruses and/or respiratory syncytial virus [RSV]).</para>
+            <para>✱ Do not report 87631–87633 (multiple respiratory infectious agent detection by nucleic acid and by number of targets) when one of the following codes describes the test performed:<emphasis role="bold">#87428</emphasis> Infectious agent antigen detection by immunoassay technique (eg, EIA, ELISA, FIA, IMCA), qualitative or semiquantitative; severe acute respiratory syndrome coronavirus (eg, SARS-CoV, SARS-CoV-2 [COVID-19]) and influenza virus types A and B</para>
+            <para>
+               <emphasis role="bold">87636</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) and influenza virus types A and B, multiplex amplified probe technique <emphasis role="bold">87637</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]), influenza virus types A and B, and RSV, multiplex amplified probe technique</para>
+            <para>Report 1 unit of service when the code descriptor includes testing for multiple antigens (eg, 87637 × 1 for the single test for COVID-19, influenza A and B, and RSV). Report a combination COVID-19 and influenza A and B test performed with direct optical observation with 87812.</para>
+            <para>✱ Do not report codes that describe a test for single infectious agent (eg, 87420, infectious agent antigen detection by immunoassay technique; qualitative or semiquantitative; RSV) when reporting a single test that detects the presence or absence of multiple infectious agents.</para>
+            <para>Report 87631–87633 when testing for SARS-CoV-2 and additional viral pathogens beyond those described by the codes listed. Testing for bacterial pathogens is not included in codes 87631–87633. Note that respiratory viral panels as described in 87631–87633 may have limited or no coverage in the outpatient/office setting. Verify payer policy before testing.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; †, re-sequenced; ✱, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The most up-to-date proprietary laboratory analyses codes for detecting SARS-CoV-2 in addition to other pathogens are most easily found in <emphasis role="italics">CPT</emphasis> Appendix 0 and quarterly updates posted to www.ama-assn.org/practice-management/cpt/cpt-pla-codes. The specific test name is followed by the code and its descriptor, asillustrated in <emphasis role="bold">Table 11-1</emphasis> earlier in this chapter. Remember that the code descriptor and the proprietary name must match the test performed.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s04">
+            <title>Glucose Tests</title>
+            <para>
+               <emphasis role="bold">82947</emphasis> Glucose, quantitative, blood (without a reagent strip) (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">82948</emphasis> blood, reagent strip <emphasis role="bold">82951</emphasis> Glucose tolerance test (GTT), 3 specimens (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">♦82952</emphasis> each additional beyond 3 specimens (CLIA waived) <emphasis role="bold">82962</emphasis> Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">83036</emphasis> Hemoglobin; glycosylated (A1c) (CLIA waived) <emphasis role="bold">83037</emphasis> Hemoglobin; glycosylated (A1c) by device cleared by FDA for home use (CLIA waived)</para>
+            <para>Report <emphasis role="bold">83037</emphasis> for in-office hemoglobin A1c measurement using a device that is cleared by the FDA for home use. This test is not limited to use in a patient's home.</para>
+            <para>Code <emphasis role="bold">82962</emphasis> describes the method where whole blood is obtained (usually by finger-stick device) and assayed by glucose oxidase, hexokinase, or electrochemical methods and spectrophotometry using a small portable device designed for home blood glucose monitoring. The devices are also used in physician offices, during home visits, or in clinics.</para>
+            <para>Continuous glucose monitoring is reported with <emphasis role="bold">95249–95251</emphasis> (for discussion, refer to <emphasis role="bold">Chapter 21</emphasis>).</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s05">
+            <title>Hematology</title>
+            <para>
+               <emphasis role="bold">85013</emphasis> Spun microhematocrit (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">85018</emphasis> Hemoglobin (CLIA waived) <emphasis role="bold">85025–85027</emphasis> Complete blood cell count, automated (<emphasis role="bold">85025</emphasis> is CLIA waived.)</para>
+            <para>
+               <emphasis role="bold">88738</emphasis> Hemoglobin (Hgb), quantitative, transcutaneous If using a complete blood cell count (CBC) machine to perform only a hemoglobin test, follow these guidelines.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If the CBC is normal, only the hemoglobin level may be reported because that was the medically necessary test ordered.</para>
+               </listitem>
+               <listitem>
+                  <para>If the CBC reveals an abnormality that is addressed during the visit, the CBC may be reported. The abnormality would be linked to the procedure, and the medical record would need to include documentation for the ordering of the test and to support the medical necessity of the procedure.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s06">
+            <title>Influenza Point-of-Care Testing</title>
+            <para>
+               <emphasis role="bold">87502</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multiple types or sub-types, includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first 2 types or sub-types (CLIA waived) <emphasis role="bold">87804</emphasis> Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; influenza (CLIA waived)</para>
+            <para>Code <emphasis role="bold">87502</emphasis> describes a test that already accounts for the first 2 types or subtypes; therefore, do not report multiple units of <emphasis role="bold">87502</emphasis> for the separate testing of influenza A and B.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">87804</emphasis> may be reported twice with modifier 59 appended to the second code when tests performed separately detect the influenza A and B antigen, providing 2 distinct results. This applies whether the test kit uses 1 or 2 analytic chambers to deliver 2 distinct results.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Check with payers; some do not recognize modifier 59 and may require reporting with 2 units of service and no modifier.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Some payers (eg, Medicaid plans) may limit units reported to the number of separate test kits used rather than following <emphasis role="italics">CPT</emphasis> instruction.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Refer also to the Combination Testing for SARS-CoV-2 and Other Infectious Agent(s) section earlier in this chapter for discussion of codes as related to combination testing of COVID-19 and other respiratory illnesses, including influenza.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s07">
+            <title>Lead Testing</title>
+            <para>
+               <emphasis role="bold">83655</emphasis> Lead, quantitative analysis (CLIA waived)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This test does not specify the specimen source or the method of testing. Alternative tests sometimes (although rarely) used for lead screening are <emphasis role="bold">82135</emphasis> (aminolevulinic acid, delta), <emphasis role="bold">84202</emphasis> (protoporphyrin, red blood cell count, quantitative), and <emphasis role="bold">84203</emphasis> (protoporphyrin, red blood cell count, screen).</para>
+               </listitem>
+               <listitem>
+                  <para>Some states provide lead testing at no cost to patients covered under the Medicaid Early and Periodic Screening, Diagnostic, and Treatment program. Check your Medicaid requirements for reporting this service.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">Z13.88</emphasis> (encounter for screening for disorder due to exposure to contaminants) when performing lead screening. A parent may require <emphasis role="bold">Z77.011</emphasis> (contact with and [suspected] exposure to lead) in lieu of <emphasis role="bold">Z13.88</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">ICD-10-CM allows separate reporting of special screening examinations (codes in categories Z11–Z13) in addition to the codes for routine child health examinations (eg, Z00.121, Z00.129) when these codes provide additional information. A screening code is not necessary if the screening is inherent to a routine examination.</emphasis>
+            </para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s08">
+            <title>Mononucleosis Heterophile Antibodies Screening</title>
+            <para>
+               <emphasis role="bold">86308</emphasis> Heterophile antibodies; screening (CLIA waived) This code may be appropriate for rapid mononucleosis screening.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s09">
+            <title>Presumptive Drug Tests</title>
+            <para>
+               <emphasis role="bold">#80305</emphasis> Drug test(s), presumptive, any number of drug classes, any number of devices or procedures; capable of being read by direct optical observation only (eg, utilizing immunoassay [eg, dipsticks, cups, cards, or cartridges]); includes sample validation when performed, per DOS (CLIA waived) <emphasis role="bold">#80306</emphasis> read by instrument assisted direct optical observation (eg, utilizing immunoassay [eg, dipsticks, cups, cards, or cartridges]); includes sample validation when performed, per DOS</para>
+            <para>
+               <emphasis role="bold">#80307</emphasis> by instrument chemistry analyzers (eg, utilizing immunoassay [eg, EIA, ELISA, EMIT, FPIA, IA, KIMS, RIA]), chromatography (eg, GC, HPLC), and mass spectrometry either with or without chromatography (eg, DART, DESI, GC-MS, GC-MS/MS, LC-MS, LC-MS/MS, LDTD, MALDI, TOF); includes sample validation when performed, per DOS</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Presumptive drug class screening includes all drugs and drug classes performed by the respective methodology (eg, dipstick kit with direct optical observation) on a single DOS. Sample validation is included in presumptive drug screening service.</para>
+               </listitem>
+               <listitem>
+                  <para>Venipuncture to obtain samples for drug testing may be separately reportable with <emphasis role="bold">36415</emphasis> (collection of venous blood by venipuncture).</para>
+               </listitem>
+               <listitem>
+                  <para>When testing is performed with a method using direct optical observation to determine the result, <emphasis role="bold">80305</emphasis> is reported. Tests that have a waived status under CLIA may be reported with modifier <emphasis role="bold">QW</emphasis> (waived test).</para>
+               </listitem>
+               <listitem>
+                  <para>When a reader is used to determine the result of testing (eg, a dipstick is inserted into a machine that determines the final reading), <emphasis role="bold">80306</emphasis> is reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Testing that uses a chemistry analyzer or more effort than tests represented by <emphasis role="bold">80305</emphasis> and <emphasis role="bold">80306</emphasis> is reported with <emphasis role="bold">80307</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s10">
+            <title>Respiratory Syncytial Virus Test</title>
+            <para>
+               <emphasis role="bold">87634</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); RSV, amplified probe technique (CLIA waived) <emphasis role="bold">87807</emphasis> Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; RSV (CLIA waived) For assays that include RSV with additional respiratory viruses, refer to <emphasis role="bold">87631–87633</emphasis>. Tests reported with <emphasis role="bold">87631</emphasis> and <emphasis role="bold">87633</emphasis> are CLIA waived. Append modifier <emphasis role="bold">QW</emphasis> if required. Refer also to the Combination Testing for SARS-CoV-2 and Other Infectious Agent(s) section earlier in this chapter for discussion of codes as related to tests for combinations of respiratory infectious agents, including SARS-CoV-2, influenza virus, and RSV.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s11">
+            <title>Serum and Transcutaneous Bilirubin Testing</title>
+            <para>
+               <emphasis role="bold">82247</emphasis> Total bilirubin (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">88720</emphasis> Transcutaneous total bilirubin ● indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, modifier 51 exempt; ⊕, audiovisual technology; and ♦, synchronous interactive audio A direct bilirubin test (<emphasis role="bold">82248</emphasis>) is typically not provided in the office or outpatient setting and is typically performed in conjunction with total bilirubin testing. Indirect bilirubin levels are derived from the total (<emphasis role="bold">82247</emphasis>) and direct (<emphasis role="bold">82248</emphasis>) bilirubin measurements and is not a separately reported test.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s12">
+            <title>Streptococcal Test</title>
+            <para>
+               <emphasis role="bold">87880</emphasis> Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; streptococcus group A (CLIA waived) <emphasis role="bold">87651</emphasis> Infectious agent detection by nucleic acid (DNA or RNA); streptococcus, group A, amplified probe technique (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">87081</emphasis> Culture; presumptive pathogenic organisms, screening only</para>
+            <para>
+               <emphasis role="bold">87430</emphasis> EIA, qualitative, streptococcus group A</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Report the code based on the test method rather than on the site of specimen collection.</para>
+               </listitem>
+               <listitem>
+                  <para>Culture plates using sheep blood agar with bacitracin disks should be coded with <emphasis role="bold">87081</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s13">
+            <title>Testing Stool for Occult Blood</title>
+            <para>
+               <emphasis role="bold">82272</emphasis> Blood, occult, by peroxidase activity (eg, guaiac), qualitative, feces, 1–3 simultaneous determinations, performed for other than colorectal neoplasm screening (CLIA waived)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">82272</emphasis> is reported when a single sample is obtained from a digital rectal examination or a multi-test card is returned from the patient and is tested for blood. Report <emphasis role="bold">82272</emphasis> with 1 unit when up to 3 cards are returned.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s14">
+            <title>Tuberculin Test (Mantoux)</title>
+            <para>
+               <emphasis role="bold">86580</emphasis> Tuberculosis, intradermal</para>
+            <itemizedlist>
+               <listitem>
+                  <para>This test is exempt from CLIA requirements.</para>
+               </listitem>
+               <listitem>
+                  <para>The tuberculosis (TB) skin test (Mantoux) using the intradermal administration of purified protein derivative is the recommended diagnostic skin test for TB.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>This is not the BCG TB vaccine.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The American Academy of Pediatrics (AAP) supports the use of the Mantoux test (TB, intradermal) for TB screening when appropriate.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Do not report an administration code in addition to <emphasis role="bold">86580</emphasis> when the purified protein derivative is placed.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">99211</emphasis> is appropriate to report the reading of a purified protein derivative test when that is the only reason for the encounter.</para>
+               </listitem>
+            </itemizedlist>
+            <para>The appropriate <emphasis role="italics">ICD-10-CM</emphasis> code is <emphasis role="bold">Z11.1</emphasis> (encounter for screening for respiratory TB). In the case of a positive test result when the physician sees the patient, the complexity may lead to a higher-level code.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Because risk-based testing is recommended for pediatric patients, an E/M service to evaluate the need for testing may be indicated when testing is requested by a third party (eg, school, employer).</para>
+               </listitem>
+               <listitem>
+                  <para>If TB testing by cell-mediated immunity antigen response measurement, gamma interferon (<emphasis role="bold">86480</emphasis>), is ordered, and a specimen obtained, venipuncture (<emphasis role="bold">36415</emphasis>) may be separately reported.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Code <emphasis role="bold">96160</emphasis> (administration of a patient-focused health risk assessment instrument (eg, health hazard appraisal) with scoring and documentation, per standardized instrument) may be reported when a health risk assessment tool is used to screen for TB risk. Payer policies may vary on separate payment for <emphasis role="bold">96160</emphasis> when the assessment is provided on the same date as an E/M service.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s15">
+            <title>Urine Pregnancy Test</title>
+            <para>
+               <emphasis role="bold">81025</emphasis> Urine pregnancy test, by visual color comparison methods (CLIA waived) Report <emphasis role="bold">81025</emphasis> with <emphasis role="italics">ICD-10-CM</emphasis> codes <emphasis role="bold">Z32.00–Z32.02</emphasis>, depending on the finding of the test (unconfirmed, positive, or negative).</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0001s01s16">
+            <title>Urinalysis</title>
+            <para>
+               <emphasis role="bold">81000</emphasis> Urinalysis, by dipstick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; nonautomated, with microscopy</para>
+            <para>
+               <emphasis role="bold">81001</emphasis> asper <emphasis role="bold">81000</emphasis> with microscopy, automated <emphasis role="bold">81002</emphasis> asper <emphasis role="bold">81000</emphasis> but without microscopy (CLIA waived)</para>
+            <para>
+               <emphasis role="bold">81003</emphasis> asper <emphasis role="bold">81000</emphasis> but without microscopy, automated (CLIA waived) It is important to report the correct code for the urinalysis test performed.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">81000</emphasis> is reported when the results are shown as color changes for multiple analytes (eg, ketone levels, specific gravity) that are compared against those on a standardized chart (nonautomated) and when microscopy (in a second step, the urine is centrifuged and examined under microscope) is performed.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">81002</emphasis> is reported if the test results are obtained by the same method but microscopy is not performed.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">81001</emphasis> and <emphasis role="bold">81003</emphasis> are reported for urinalysis performed by a processor that reads the results (automated).</para>
+               </listitem>
+            </itemizedlist>
+            <para>For urinalysis, infectious agent detection, or semiquantitative analysis of volatile compounds, use <emphasis role="bold">81099</emphasis>.</para>
+            <para>⚠ Do not report <emphasis role="bold">99211</emphasis> for collection and/or urinalysis in the absence of a separately identifiable E/M service. Code <emphasis role="bold">51701</emphasis> is reported when a non-indwelling bladder catheter (straight catheterization) is inserted for a urine culture collection, as discussed in Chapter 13.</para>
+            <para>To learn more about in-office laboratory services, refer to the March 2023 <emphasis role="italics">AAP Pediatric Coding Newsletter</emphasis> article "Selecting the Right Codes for In-office Laboratory Testing" (https://doi.org/10.1542/pcco <emphasis role="italics">book227</emphasis> document002).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0003s0002">
+      <title>Respiratory Function Tests and Treatments</title>
+      <sect3 id="ch0014s0003s30005">
+         <title/>
+         <sect4 id="ch0014s0003s0002s01s01">
+            <title>Pulmonary Function Tests</title>
+            <para>National Correct Coding Initiative (NCCI) edits exist between office-based E/M services and all pulmonology services (<emphasis role="bold">94010–94799</emphasis>). Append modifier 25 to the E/M service code as appropriate when reporting a pulmonology service on the same claim.</para>
+            <para>There is no code for peak flow analysis or oxygen administration. These services are considered part of the E/M service and/or a component of pulmonary function testing.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes include laboratory procedure(s) and interpretation of test results. If a separately identifiable E/M service is performed, the appropriate E/M service code may also be reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Spirometry is reported with <emphasis role="bold">94010</emphasis>. When spirometry is performed before and after administration of a bronchodilator, however, report only <emphasis role="bold">94060</emphasis> (bronchodilation responsiveness, spirometry, pre- and post-bronchodilator administration).</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">94640</emphasis> (nebulizer treatment) is inherent to (ie, included as part of) <emphasis role="bold">94060</emphasis>. When an additional nebulizer treatment is performed as a distinct separate procedure on the same date as <emphasis role="bold">94060</emphasis>, NCCI edits allow use of a modifier (eg, <emphasis role="bold">94640 59</emphasis>), when applicable.</para>
+               </listitem>
+               <listitem>
+                  <para>RVUs assigned to codes include typical supplies (eg, masks, tubing). Report codes for supplies only if the payer does not use an RVU payment methodology.</para>
+               </listitem>
+               <listitem>
+                  <para>Medication is separately reported with the appropriate HCPCS code (eg, <emphasis role="bold">J7613</emphasis>, albuterol, inhalation solution, FDA-approved final product, noncompounded, administered through durable medical equipment, unit dose, 1 mg).</para>
+               </listitem>
+            </itemizedlist>
+            <para>When a physician reports spirometry (<emphasis role="bold">94010</emphasis>, <emphasis role="bold">94060</emphasis>) on the date of an E/M service, the test is not counted as ordered or reviewed for the purpose of determining the level of MDM because the test includes a professional component (ie, interpretation and report).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Measurement of vital capacity (<emphasis role="bold">94150</emphasis>) is a component of spirometry and is reported only when performed alone.</para>
+               </listitem>
+               <listitem>
+                  <para>Measurement of spirometric forced expiratory flows in an infant or child through 2 years of age is reported with <emphasis role="bold">94011</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">94012</emphasis> is used to report measurement of bronchodilation spirometric forced expiratory flows (before and after bronchodilator) in an infant or child.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">94013</emphasis> is used to report measurement of lung volumes (eg, functional residual capacity, expiratory reserve volume, forced vital capacity) in an infant or child through 2 years of age.</para>
+               </listitem>
+            </itemizedlist>
+            <para>CPT guidelines allow reporting of pulse oximetry (<emphasis role="bold">94760</emphasis>, <emphasis role="bold">94761</emphasis>), but health plans using the MPFS will pay only if no other service is paid to the same physician on the same date (ie, some plans consider this an examination component like determining blood pressure). Pulse oximetry is not counted toward the amount and/or complexity of data to be reviewed and analyzed as part of an E/M service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Pulmonary stress testing (<emphasis role="bold">94618</emphasis>) includes measurement of heart rate, oximetry, and oxygen titration, when performed. When spirometry is performed before and following a pulmonary stress test, separately report 2 units of spirometry (<emphasis role="bold">94010</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0002s01s02">
+            <title>Inhalation Treatment</title>
+            <para>
+               <emphasis role="bold">94640</emphasis> Pressurized or nonpressurized inhalation treatment for acute airway obstruction for therapeutic purposes and/or for diagnostic purposes such assputum induction with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing device <emphasis role="bold">94644</emphasis> Continuous inhalation treatment with aerosol medication for acute airway obstruction; first hour (For services of less than 1 hour, use <emphasis role="bold">94640</emphasis>)</para>
+            <para>
+               <emphasis role="bold">+94645</emphasis> each additional hour (List separately in addition to code for primary procedure)</para>
+            <para>Report <emphasis role="bold">94640</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>When treatment such as aerosol generator, nebulizer, metered dose inhaler, or intermittent positive pressure breathing device is administered.</para>
+               </listitem>
+               <listitem>
+                  <para>With modifier 76 (repeat procedure) with the number of units (eg, <emphasis role="bold">94640 76</emphasis> × 2 units) when more than one treatment is given on a DOS. Some payers require reporting only with the number of units and no modifier (eg, <emphasis role="bold">94640</emphasis> × 2). Follow payer guidelines for reporting these services.</para>
+               </listitem>
+               <listitem>
+                  <para>When any treatment lasting 30 minutes or less is performed.</para>
+               </listitem>
+            </itemizedlist>
+            <para>*CPT code <emphasis role="bold">94060</emphasis> includes spirometry and pre- and post-bronchodilation. Report only <emphasis role="bold">94060</emphasis> when <emphasis role="bold">94010</emphasis> and/or <emphasis role="bold">94640</emphasis> is a component of the <emphasis role="bold">94060</emphasis> service. When reporting additional inhalation treatments on the same date as spirometry with pre- and post-bronchodilation, append modifiers 59 and 76 to <emphasis role="bold">94640</emphasis> (eg, <emphasis role="bold">94060, 94640 59 76</emphasis> × 2).*</para>
+            <para>Report <emphasis role="bold">94644</emphasis> and <emphasis role="bold">94645</emphasis> when</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A treatment lasts 31 minutes or longer.</para>
+               </listitem>
+               <listitem>
+                  <para>The total time spent in the provision of continuous inhalation treatments is documented in the medical record.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Codes <emphasis role="bold">94644</emphasis> and <emphasis role="bold">94645</emphasis> are not reported by physicians when services are provided in a facility setting because no physician work value is assigned to these codes.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0002s01s03">
+            <title>Nebulizer Demonstration or Evaluation</title>
+            <para>
+               <emphasis role="bold">94664</emphasis> Demonstration and/or evaluation of patient utilization of an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing device</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Code <emphasis role="bold">94664</emphasis> is reported only once per DOS.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">94664</emphasis> when an initial or subsequent demonstration and/or evaluation is performed and documented. This work may be performed by clinical staff under physician supervision.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians providing nebulizer instruction in conjunction with an E/M service may include the time of nebulizer instruction in the total physician time on the date of an office E/M service (<emphasis role="bold">99202</emphasis>–<emphasis role="bold">99205, 99212</emphasis>–<emphasis role="bold">99215</emphasis>) in lieu of reporting <emphasis role="bold">94664</emphasis>. No physician work is attributed to <emphasis role="bold">94664</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>When demonstration and/or evaluation of patient use of a device such as a metered dose inhaler is reported with <emphasis role="bold">94664</emphasis> on the same day as a nebulizer treatment (<emphasis role="bold">94640</emphasis>), modifier 59 (distinct procedural service) should be appended to <emphasis role="bold">94664</emphasis> to indicate to the payer that the services were separate and distinct and that both were clinically indicated.</para>
+               </listitem>
+               <listitem>
+                  <para>Perthe Medicaid NCCI manual, the demonstration and/or evaluation described by <emphasis role="bold">94664</emphasis> is included in <emphasis role="bold">94640</emphasis> if the same device (eg, aerosol generator) is used for both services. The NCCI edits pair <emphasis role="bold">94664</emphasis> with <emphasis role="bold">94640</emphasis> but allow an override of the edit with modifier 59 when both services are indicated (eg, treatment via nebulizer and teaching for metered dose inhaler). Some payers, however, allow the use of modifier 59 in this instance but only if the 2 services occur at separate encounters on the same date. Check with your Medicaid payers.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Modifier 25 should be appended to an E/M service code reported on the same date to signify a separately identifiable service. All services must be documented in the medical record as significant, separately identifiable, and medically necessary.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0002s01s04">
+            <title>Car Seat/Bed Testing</title>
+            <para>
+               <emphasis role="bold">94780</emphasis> Car seat/bed testing for airway integrity, for infants through 12 months of age, with continual clinical staff observation and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; 60 minutes <emphasis role="bold">+94781</emphasis> each additional full 30 minutes (List separately in addition to <emphasis role="bold">94780</emphasis>.)</para>
+            <para>To report <emphasis role="bold">94780</emphasis> and <emphasis role="bold">94781</emphasis>, the following conditions must bemet:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The patient must be an infant (aged ≤12 months). Reassessment after the patient is 29 days or older may be necessary.</para>
+               </listitem>
+               <listitem>
+                  <para>Continual clinical staff observation with continuous recording of pulse oximetry, heart rate, and respiratory rate is required.</para>
+               </listitem>
+               <listitem>
+                  <para>Vital signs and observations must be reviewed and interpreted and a written report generated by the physician.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes are reported according to the total observation time spent and documented.</para>
+               </listitem>
+               <listitem>
+                  <para>If less than 60 minutes is spent in the procedure, <emphasis role="bold">94780</emphasis> may not be reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Each additional full 30 minutes (ie, not &lt;90 minutes total) is reported with <emphasis role="bold">94781</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>A significant, separately identifiable office or other outpatient E/M service (eg, <emphasis role="bold">99213 25</emphasis>) may be reported on the same date ascar seat/bed testing, when provided.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A neonate born at 34 weeks' gestation was released from the hospital 2 weeks ago with instructions to the parents to use only a car bed when transporting him until the pediatrician retests and determines that the neonate can safely ride in a car seat. The newborn is seen in the outpatient clinic for a preventive medicine visit, and car seat testing is conducted for a period of 1 hour 45 minutes. The physician reviews and interprets the nurses' records of pulse oximetry, heart and respiratory rates, and observations during the testing period. The interpretation is documented in a formal report and plan of care clearing the neonate to begin use of a rear-facing car seat. The plan of care is discussed with the parents, who also receive further instruction on appropriate use of the car seat.</para>
+            <table frame="all" id="ch0014s0003ta0002">
+               <title>Car Seat/Bed Testing</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>Z00.111 (health examination for newborn 8–28 days old)P07.37 (preterm newborn, gestational age 34 completed weeks)</entry>
+                        <entry>99391 25 (preventive medicine service, established patient &lt;1 year)</entry>
+                     </row>
+                     <row>
+                        <entry>Codes for conditions of the newborn and P07.37</entry>
+                        <entry>94780 (car seat/bed testing; first 60 minutes)94781 (each additional full 30 minutes)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0003s0003">
+      <title>Allergy and Clinical Immunology</title>
+      <sect3 id="ch0014s0003s30006">
+         <title/>
+         <sect4 id="ch0014s0003s0003s01s01">
+            <title>Allergy Testing</title>
+            <para>
+               <emphasis role="bold">95004</emphasis> Percutaneous tests (scratch, puncture, prick) with allergenic extracts, immediate type reaction, including test interpretation and report, specify number of tests <emphasis role="bold">95017</emphasis> Allergy testing; any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with venoms, immediate type reaction, including test interpretation and report, specify number of tests</para>
+            <para>
+               <emphasis role="bold">95018</emphasis> Allergy testing; any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with drugs or biologicals, immediate type reaction, including test interpretation and report, specify number of tests <emphasis role="bold">95024</emphasis> Intracutaneous (intradermal) tests with allergenic extracts, immediate type reaction, including test interpretation and report, specify number of tests</para>
+            <para>
+               <emphasis role="bold">95027</emphasis> Intracutaneous (intradermal) tests, sequential and incremental, with allergenic extracts for airborne allergens, immediate type reaction, including test interpretation and report, specify number of tests <emphasis role="bold">95028</emphasis> Intracutaneous (intradermal) tests with allergenic extracts, delayed type reaction, including reading, specify number of tests</para>
+            <itemizedlist>
+               <listitem>
+                  <para>CPT codes for allergy testing are reported by type of test.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Percutaneous, immediate type reaction (<emphasis role="bold">95004</emphasis>)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Intracutaneous (intradermal) with immediate (<emphasis role="bold">95024, 95027</emphasis>) or delayed type reaction (<emphasis role="bold">95028</emphasis>)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Any combination of percutaneous and intracutaneous, sequential and incremental tests with venoms (<emphasis role="bold">95017</emphasis>) or with drugs or biologicals (<emphasis role="bold">95018</emphasis>)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Specification of the number of tests applied is required for accurate reporting of the units of service provided. Medical NCCI edits do not allow including positive or negative controls in the number of tests reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95004, 95017, 95018, 95024</emphasis>, and <emphasis role="bold">95027</emphasis> include test interpretation and report. Code <emphasis role="bold">95028</emphasis> includes reading.</para>
+               </listitem>
+            </itemizedlist>
+            <para>When a significant, separately identifiable E/M service is performed and documented (eg, counseling on allergy avoidance, treatment, and use of epinephrine auto-injector) on the same date as testing, it may be reported with modifier 25 appended to the appropriate E/M code. Do not include the time spent in allergy test administration or interpretation in the total time of an E/M service provided on the same date.</para>
+            <para>✱ Do not report an E/M service for the obtainment of informed consent and interpretation and report of the results of allergy testing.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A patient with seasonal allergies undergoes percutaneous testing with 22 allergenic extracts and 2 controls.</emphasis> A clinician administers the extracts per the physician's order and monitors the patient for signs of reaction. For each extract administered, the reaction (eg, size of wheal) or lack of reaction is noted. The physician interprets the test and creates a report of the findings.</para>
+            <para>The physician reports <emphasis role="bold">95004</emphasis> with 24 units of service or, if the payer does not allow payment for controls, with 22 units. If a significant E/M service is provided on the same date and is separately identifiable in the documentation from the preservice and postservice work of the testing (eg, interpretation and report), append modifier 25 to the code for the E/M service provided.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patch and photo patch testing are reported with <emphasis role="bold">95044–95056</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Specific challenge testing (<emphasis role="bold">95060–95079</emphasis>) is coded according to target organ (eg, ophthalmic mucous membrane, nasal, inhalation bronchial challenges without pulmonary function testing, ingestion).</para>
+               </listitem>
+               <listitem>
+                  <para>Nasal cytology, a test for allergy-type cells (eosinophils) or infection-type cells (neutrophils) on a nasal scraping, is reported with <emphasis role="bold">89190</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Nitric oxide–expired gas determination is reported with <emphasis role="bold">95012</emphasis>. Nitric oxide determination by spectroscopy should be reported with <emphasis role="bold">94799</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0003s0003s01s02">
+            <title>Allergen Immunotherapy</title>
+            <para>Codes for allergen immunotherapy are reported based on the service provided: only preparation and provision of allergen extract, only administration, or combined provision and administration.</para>
+            <para>An appropriate office or outpatient code may be reported with allergen immunotherapy codes. Modifier 25 is appended to the E/M service when it is performed and documented.</para>
+         </sect4>
+         <sect4 id="ch0014s0003s0003s01s03">
+            <title>Only Preparation and Provision of Extract</title>
+            <para>
+               <emphasis role="bold">95144</emphasis> Professional services for the supervision of the preparation and provision of antigens for allergen immunotherapy; single-dose vial(s) (specify number of vials) <emphasis role="bold">95145</emphasis> Professional services for the supervision of the preparation and provision of antigens for allergy immunotherapy (specify number of doses); single stinging insect venom</para>
+            <para>
+               <emphasis role="bold">95146</emphasis> 2 stinging insect venoms</para>
+            <para>
+               <emphasis role="bold">95147</emphasis> 3 stinging insect venoms</para>
+            <para>
+               <emphasis role="bold">95148</emphasis> 4 stinging insect venoms</para>
+            <para>
+               <emphasis role="bold">95149</emphasis> 5 stinging insect venoms</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

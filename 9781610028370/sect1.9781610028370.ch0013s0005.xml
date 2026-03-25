@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0013s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0013s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0013s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>10. Mental and Behavioral Health Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Health Behavior Intervention</title>
+   <para>Codes <emphasis role="bold">96158</emphasis>, <emphasis role="bold">96159</emphasis>, and <emphasis role="bold">96164</emphasis>–<emphasis role="bold">96171</emphasis> ● Are time-based services requiring documentation of the time spent face-to-face with the patient(s) and/or family.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Do not report <emphasis role="bold">96158</emphasis>, <emphasis role="bold">96167</emphasis>, or <emphasis role="bold">96170</emphasis> for less than 16 minutes of service.</para>
+      </listitem>
+      <listitem>
+         <para>Include promotion of functional improvement, minimizing psychological and/or psychosocial barriers to recovery, and management of and improved coping with medical conditions.</para>
+      </listitem>
+      <listitem>
+         <para>Emphasize active patient/family engagement and involvement. These interventions may be provided individually, to a group (≥2 patients), and/or to the family, with or without the patient present.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Refer to <emphasis role="bold">Table 10-2</emphasis> for a breakdown of the health behavior intervention codes.</para>
+   <table frame="all" id="ch0013s0005ta0001">
+      <title>Health Behavior Intervention</title>
+      <tgroup cols="3">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <colspec colname="c3"/>
+         <thead>
+            <row>
+               <entry>Health Behavior Intervention Provided To</entry>
+               <entry>Initial Code</entry>
+               <entry>Add-On Code</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>Individual, face-to-face</entry>
+               <entry>◄►96158 initial 16–30 min</entry>
+               <entry>◄►+96159 each additional 15 min (List separately in addition to code 96158)</entry>
+            </row>
+            <row>
+               <entry>Group (2 or more patients), face-to-face</entry>
+               <entry>◄►96164 initial 16–30 min</entry>
+               <entry>◄►+96165 each additional 15 min (List separately in addition to code 96164)</entry>
+            </row>
+            <row>
+               <entry>Family (with the patient present), face-to-face</entry>
+               <entry>◄►96167 initial 16–30 min</entry>
+               <entry>◄►+96168 each additional 15 min (List separately in addition to code 96167)</entry>
+            </row>
+            <row>
+               <entry>Family (without the patient present), face-to-face</entry>
+               <entry>◄►96170 initial 16–30 min</entry>
+               <entry>◄►+96171 each additional 15 min (List separately in addition to code 96170)</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>▶ Health behavior intervention is provided to an adolescent who has morbid obesity (caused by excess intake of calories) with familial hypercholesterolemia and who does not adhere to the plan of care. Results from a health behavior assessment are used to develop a plan to address health risk behaviors and factors impeding adherence to a plan of care developed through shared decision-making by the patient, his parents, and his physician. Thirty minutes is spent with the patient discussing the behavior and steps to help him adhere to the plan of care.</para>
+   <para>Code 96158 with 1 unit of service would be reported with diagnosis codes for the morbid obesity due to excess calories (E66.01) and body mass index, if documented) and familial hypercholesterolemia (E78.01).</para>
+   <para>▶ Three patients with type 1 diabetes and identified needs for better treatment adherence take part in a group intervention. Using results of assessments conducted at previous encounters, the clinical psychologist works with the patients to gain understanding and acceptance of their physician's care plan, addresses barriers to adherence, and helps each patient develop goals for better adherence. A total of 55 minutes is spent face-to-face with the group of patients.</para>
+   <para>Codes 96164 (1 unit for first 30 minutes) and 96165 with 2 units of service (1 full 15-minute period and 1 unit for the last 10 minutes because the midpoint of 8 minutes beyond the last full period was passed) are reported. ICD-10-CM codes appropriate to each patient's condition (eg, appropriate codes from category E10, type 1 diabetes, and codes for any manifestations) are reported.</para>
+   <sect2 id="ch0013s0005s0001">
+      <title>Psychiatric Services</title>
+      <para>Psychiatric services include diagnostic services, psychotherapy, and other services to an individual, a family, or a group. Comprehensive services may be provided by a multidisciplinary team (eg, child psychiatrist, developmental-behavioral pediatrician, NP, psychologist, clinical social worker, and/or clinical counselor).</para>
+      <para>But in many parts of the country, children's mental and behavioral health professionals are unavailable. General pediatricians must often take on management of mental health problems and, when possible, consult with a mental/behavioral health professional at a distant location or arrange for telemedicine services. (Refer to the Payment and Coverage Issues for Mental/Behavioral Health Services section earlier in this chapter for important considerations for general pediatricians providing psychiatric services.) Psychiatric services described by 90785, 90791 and 90792, 90832–90840, and 90845–90847 are included in Appendix T of the AMA CPT manual and preceded by the ♦, indicating that these services may be reported with modifier 93 (audio-only telemedicine service). Refer to Chapters 2 and 20 for additional information on reporting codes with modifier 93.</para>
+      <sect3 id="ch0013s0005s30006">
+         <title/>
+         <sect4 id="ch0013s0005s0001s01s01">
+            <title>Interactive Complexity</title>
+            <para>★◄►90785 Interactive complexity Psychiatric services to children may include interactive complexity. According to CPT, psychiatric procedures may be reported "with interactive complexity" when at least 1 of the following circumstances is present:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The need to manage maladaptive communication (eg, related to high anxiety, high reactivity, repeat questions, or disagreement) among participants that complicates delivery of care ● Caregiver emotions or behavior interfering with the caregiver's understanding and ability to assist in the implementation of the treatment plan</para>
+               </listitem>
+               <listitem>
+                  <para>Evidence or disclosure of a sentinel event and mandated report to third party (eg, abuse or neglect with report to state agency) with initiation of discussion of the sentinel event and/or report with the patient and other visit participants ● Use of play equipment or other physical devices to overcome barriers to therapeutic or diagnostic interaction between the physician or other QHP and a patient who has not developed or has lost either (a) expressive language communication skills to explain their symptoms and response to treatment or (b) receptive communication skills to understand the physician or other QHP if they were to use typical language for communication</para>
+               </listitem>
+            </itemizedlist>
+            <para>AOC 90785 is reported when interactive complexity complicates delivery of psychiatric services, including diagnostic psychiatric evaluation (90791, 90792), psychotherapy (90832–90834, 90836–90838), and group psychotherapy (90853). Report 90785 in conjunction with 90853 for the specified patient when group psychotherapy includes interactive complexity.</para>
+            <para>★ indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Interactive complexity indicates an <emphasis role="italics">increased complexity of work</emphasis> as opposed to an extended duration of services. The increased complexity of the psychiatric service arises from specific communication factors that can result in barriers to diagnostic or therapeutic interaction with the patient.</para>
+               </listitem>
+               <listitem>
+                  <para>Interactive complexity is <emphasis role="italics">not</emphasis> billed in conjunction with psychotherapy for crisis (<emphasis role="bold">90839, 90840</emphasis>) or with psychiatric or neuropsychiatric testing (<emphasis role="bold">96103–96134, 96136–96139, 96146</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">Interactive complexity applies only to the psychiatric portion of a service</emphasis> including both psychiatric and E/M components.</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">90785</emphasis> is never reported alone and is not reported in conjunction with E/M services alone. When provided in conjunction with time-based psychotherapy services, the time spent providing interactive complexity services is reflected in the time of the psychotherapy service and must relate only to the psychotherapy service.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report <emphasis role="bold">90785</emphasis> in conjunction with adaptive behavior assessment or treatment services (<emphasis role="bold">97151–97158, 0362T, 0373T</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A 10-year-old patient undergoes psychiatric evaluation.</emphasis> The child is accompanied by separated parents who report that the child has recently demonstrated significant anxiety about abandonment and has new-onset tantrums. The child's teachers report that the child requires a plan for anxiety management during the school day and is easily influenced by peers. The parents are extremely anxious and repeatedly ask questions about the treatment process. Each parent continually challenges the other's observations of the patient.</para>
+            <para>Codes <emphasis role="bold">90791</emphasis> (psychiatric diagnostic evaluation) and <emphasis role="bold">90785</emphasis> (interactive complexity) are reported.</para>
+            <para>▶<emphasis role="bold">A 6-year-old girl is seen for psychotherapy.</emphasis> The child was placed into foster care following hospitalization for injuries sustained from physical abuse and neglect by her mother 3 years before this evaluation. The service includes the psychologist's review of the child's medical record and telephone interviews with the social worker and teacher. The mother refuses a request for interview. The psychologist interviews current and former foster parents, who express concerns that the child is easily offended and retaliates against perceived offenses with violent outbursts. The psychologist uses play to gain trust and evaluate the child. The psychologist and foster mother agree on a treatment plan and then discuss the plan with the child in terms she can understand. Following the service, the psychologist provides a report to the patient's social worker.</para>
+            <para>Codes <emphasis role="bold">90791</emphasis> (psychiatric diagnostic evaluation) and <emphasis role="bold">90785</emphasis> (interactive complexity) are reported.</para>
+         </sect4>
+         <sect4 id="ch0013s0005s0001s01s02">
+            <title>Psychiatric Diagnostic Evaluation</title>
+            <para>
+               <emphasis role="bold">★90791</emphasis> Psychiatric diagnostic evaluation</para>
+            <para>
+               <emphasis role="bold">★90792</emphasis> Psychiatric diagnostic evaluation with medical services Psychiatric diagnostic evaluation (<emphasis role="bold">90791</emphasis>) and psychiatric diagnostic evaluation with medical services (<emphasis role="bold">90792</emphasis>) include an integrated biopsychosocial assessment, including history, mental status, and recommendations. When medical services (ie, medical assessment and physical examination other than mental status, when indicated) are included, <emphasis role="bold">90792</emphasis> is reported by the physician or other QHP whose scope of practice includes medical services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Only psychiatrists and other physicians or QHPs who may independently provide and report E/M services may report <emphasis role="bold">90792</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>The same individual may not separately report E/M services on the same date as psychiatric diagnostic evaluation.</para>
+               </listitem>
+               <listitem>
+                  <para>Psychologists and other licensed mental health professionals working within their scope of practice may report <emphasis role="bold">90791</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Psychiatric diagnostic evaluation or reevaluation (<emphasis role="bold">90791, 90792</emphasis>) is reported once per day. Do not report psychotherapy codes (<emphasis role="bold">90832–90839</emphasis>) on the same DOS as <emphasis role="bold">90791</emphasis> or <emphasis role="bold">90792</emphasis>. Verify payer policy for the frequency of coverage for diagnostic reevaluations.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">90785</emphasis> for interactive complexity in addition to <emphasis role="bold">90791</emphasis> or <emphasis role="bold">90792</emphasis>, when applicable.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Progress notes for psychotherapy services should include</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Duration of psychotherapy</emphasis> (Some payers may require start and stop times of psychotherapy.)</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Service type</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Diagnosis</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Interval history</emphasis> (eg, increase/decrease in symptoms, current risk factors)</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Names and scores of standardized rating scales used in monitoring progress</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Therapeutic interventions</emphasis> (eg, type of therapy, medications)</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Summary of goals and progress</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">An updated treatment plan</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Date and signature of performing provider</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>These elements should be documented in the progress note in the patient record rather than the protected psychotherapy notes. Protected psychotherapy notes are not disclosed for the purpose of receiving or supporting accurate payment.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Services include ongoing assessment and adjustment of psychotherapeutic interventions and may include involvement of informants in the treatment process. A payer's policy may require that the patient's treatment plan be updated after a specific period (eg, 3 or 6 months) or after a change in status (eg, after a change in medication).</para>
+               </listitem>
+               <listitem>
+                  <para>Codes differentiate psychotherapy services to individuals (with and without E/M services), an individual family or groups of families, and groups of patients. Codes for each are provided in the following discussions.</para>
+               </listitem>
+               <listitem>
+                  <para>Separate codes (<emphasis role="bold">90839, 90840</emphasis>) are reported for psychotherapy for crisis (refer to the Psychotherapy for Crisis section later in this chapter).</para>
+               </listitem>
+            </itemizedlist>
+            <para>Follow these instructions when selecting codes for any psychotherapy service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Select psychotherapy codes on the basis of face-to-face time with a patient and/or family member.</para>
+               </listitem>
+               <listitem>
+                  <para>Report family psychotherapy (<emphasis role="bold">90846, 90847</emphasis>) for services that involve family psychotherapy techniques to benefit the patient (eg, attempting to improve family communication or alter family interactions that negatively affect the patient, encouraging interactions to improve family functioning).</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Family psychotherapy includes sessions with family and sessions possibly without the patient.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The patient must be present for all or some of the service except when reporting family psychotherapy <emphasis role="italics">without the patient present</emphasis> (<emphasis role="bold">90846</emphasis>). This allows for the participation of others in the psychotherapy session for the patient as long as the patient remains the focus of the intervention. Documentation must support that the patient was present for a significant portion of the session.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>In reporting, choose the code closest to the actual time (Table 10-3). Do not report psychotherapy of less than 16 minutes.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report psychotherapy codes in conjunction with codes for adaptive behavior assessment or treatment services (<emphasis role="bold">97153–97158, 03621, 03731</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>Psychotherapy of more than 45 minutes is often considered unusual and may require health plan precertification.</para>
+               </listitem>
+            </itemizedlist>
+            <table frame="all" id="ch0013s0005ta0002">
+               <title>Psychiatric Diagnostic Evaluation</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>Duration of Psychotherapy (min)</entry>
+                        <entry>Current Procedural Terminology Codes</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>&lt;16</entry>
+                        <entry>Do not report.</entry>
+                     </row>
+                     <row>
+                        <entry>16–37</entry>
+                        <entry>90832, 90833</entry>
+                     </row>
+                     <row>
+                        <entry>38–52</entry>
+                        <entry>90834, 90836</entry>
+                     </row>
+                     <row>
+                        <entry>53–89</entry>
+                        <entry>90837, 90838</entry>
+                     </row>
+                     <row>
+                        <entry>≥26</entry>
+                        <entry>90846, 90847 (family psychotherapy)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0013s0005s0001s01s03">
+            <title>Psychotherapy With Evaluation and Management</title>
+            <para>
+               <emphasis role="bold">★+★90833</emphasis> Psychotherapy, 30 minutes with patient when performed with an E/M service <emphasis role="bold">★+★90836</emphasis> 45 minutes with patient when performed with an E/M service</para>
+            <para>
+               <emphasis role="bold">★+★90838</emphasis> 60 minutes with patient when performed with an E/M service Psychiatrists and other physicians who provide a combination of psychotherapy and E/M services (eg, 99213) on the same date may report an E/M code and an AOC for psychotherapy (90833, 90836, 90838).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>To report both E/M and psychotherapy, the 2 services must be significant and separately identifiable.</para>
+               </listitem>
+               <listitem>
+                  <para>Time may not be used as the basis of E/M code selection. E/M code selection must be based on the level of MDM alone when reported in conjunction with psychotherapy.</para>
+               </listitem>
+               <listitem>
+                  <para>Prolonged services may not be reported when psychotherapy with E/M (90833, 90836, 90838) is reported.</para>
+               </listitem>
+               <listitem>
+                  <para>For outpatient psychotherapy performed with an E/M service provided via synchronous audio-video or audio-only telemedicine, report outpatient telemedicine E/M codes (99000-98015) in addition to 90833, 90836, or 90838.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="bold">An 8-year-old boy presents for psychotherapy.</emphasis> The psychiatrist provides not only 20 minutes of psychotherapy services (face-to-face time) but also an established patient E/M service to reevaluate the effectiveness and patient reaction to current medications. The office E/M service includes low-level MDM based on the low number and complexity of problems (1 stable chronic illness) with moderate risk of morbidity of prescription drug management. Codes reported are 99213 and 90833.</para>
+            <para>The 20 minutes of psychotherapy services does not include the time of the E/M service. Because the midpoint (at least 16 minutes) was passed, 90833 (30 minutes) is reported. No modifier is required (eg, modifier 25) because the AOCs were assigned values that account for the overlapping practice expense of the 2 services (eg, same clinical staff and examination room).</para>
+            <para>Physicians and other QHPs who can independently report E/M services may be limited to reporting E/M codes for behavioral health counseling, but this may not be a disadvantage. In 2025, the total non-facility relative value units (RVUs) assigned to 99213 (2.75) and 90833 (2.25) were 5.0. In contrast, when reporting only an E/M code based on the physician's total time on the date of the encounter, 99215 (40-54 minutes) is valued at 5.43 RVUs. If the physician's total time were to exceed 54 minutes, 99417 would be reported, adding another 0.92 RVUs for each 15-minute period beyond the 54 minutes included in 99215.</para>
+            <para>▶<emphasis role="bold">The same service as in the previous example is provided via audio-video-only telemedicine.</emphasis> The service is reported with either 98005 (established patient synchronous audio-video visit with low MDM) and 90833 or, when a payer requires that a physician or QHP report only an E/M service, 99215.</para>
+         </sect4>
+         <sect4 id="ch0013s0005s0001s01s04">
+            <title>Psychotherapy Without Evaluation and Management</title>
+            <para>
+               <emphasis role="bold">★+90832</emphasis> Psychotherapy, 30 minutes with patient and/or family member <emphasis role="bold">★+90834</emphasis> 45 minutes with patient and/or family member</para>
+            <para>
+               <emphasis role="bold">★+90837</emphasis> 60 minutes with patient and/or family member <emphasis role="bold">★+90863</emphasis> Pharmacologic management, including prescription and review of medication, when performed with psychotherapy services When psychotherapy is provided without an E/M service on the same date, codes 90832, 90834, and 90837 are reported according to the face-to-face time of service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>To accommodate reporting of pharmacologic management by psychologists who have prescribing privileges but who cannot provide E/M services, AOC 90863 is reported in addition to the appropriate code for psychotherapy without E/M. For providers who may report E/M services, pharmacologic management is typically reported with an E/M code, not 90863.</para>
+               </listitem>
+               <listitem>
+                  <para>Only a psychologist with prescribing authority may provide pharmacologic management. Other QHPs may provide psychotherapy but must collaborate with a physician or advanced practice professional who provides pharmacologic management.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians and QHPs providing pharmacologic management report the service with an E/M code.</para>
+               </listitem>
+               <listitem>
+                  <para>Code 90863 is an AOC and may be reported only in addition to one of the stand-alone psychotherapy codes (ie, 90832, 90834, 90837). Time spent providing medication management is not included in the time spent in psychotherapy.</para>
+               </listitem>
+            </itemizedlist>
+            <para>An 8-year-old boy presents for psychotherapy. The LCP, whose state scope of practice includes prescribing authority, provides not only psychotherapy services with face-to-face time of 40 minutes but also a pharmacologic management service to reevaluate the effectiveness and patient reaction to current medications. Codes reported are <emphasis role="bold">90834</emphasis> and <emphasis role="bold">90863</emphasis>.</para>
+            <para>A physician or other QHP who may provide and report E/M services would report <emphasis role="bold">90836</emphasis> (psychotherapy with E/M, 40 minutes) for this service.</para>
+         </sect4>
+         <sect4 id="ch0013s0005s0001s01s05">
+            <title>Psychotherapy With Biofeedback</title>
+            <para>
+               <emphasis role="bold">90875</emphasis> Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 30 minutes</para>
+            <para>
+               <emphasis role="bold">90876</emphasis> 45 minutes When psychotherapy incorporates biofeedback training, <emphasis role="bold">90875</emphasis> or <emphasis role="bold">90876</emphasis> is reported according to the face-to-face time of the combined services. Do not separately report codes for psychotherapy (<emphasis role="bold">90832–90838</emphasis>) or biofeedback training (<emphasis role="bold">90901</emphasis>).</para>
+            <para>A child with frequent tension headaches is provided psychotherapy and biofeedback training to help her cope with and control her pain. The face-to-face time of service is 45 minutes.</para>
+            <para>Code <emphasis role="bold">90876</emphasis> is reported for the combined services. If biofeedback training was provided on a date when no psychotherapy was provided, <emphasis role="bold">90901</emphasis> would be reported. Time of service is not a factor in reporting <emphasis role="bold">90901</emphasis>.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0014s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0014s0005</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>11. Common Testing and Therapeutic Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Resources</title>
+   <sect2 id="ch0014s0005s20002">
+      <title/>
+      <sect3 id="ch0014s0005s30011">
+         <title/>
+         <sect4 id="ch0014s0005s0001s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>2026 Coding Card Toolbox (www.aap.org/2026-Coding-Card-Toolbox)</para>
+            <para>
+               <emphasis role="italics">Pediatric Office Superbill 2026</emphasis> (www.aap.org/Pediatric-Office-Superbill-2026)</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s02">
+            <title>AAP Pediatric Coding Newsletter</title>
+            <para>"Did You Know? The CLIA-Waived Test Modifier," February 2024 (https://doi.org/10.1542/peco <emphasis role="italics">book238</emphasis> document003)</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s03">
+            <title>CLIA Test Categorization</title>
+            <para>"CLIA—Clinical Laboratory Improvement Amendments—Currently Waived Analytes" (www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm)</para>
+            <para>FDA CLIA database (www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCLIA/search.cfm) "Provider-Performed Microscopy Procedures" from the Centers for Medicare &amp; Medicaid Services (www.cms.gov/regulations-and-guidance/legislation/clia/downloads/ppmplist.pdf)</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s04">
+            <title>HIPAA Release of Patient Records</title>
+            <para>"Questions and Answers About HIPAA's Access Right" (45 CFR §164.524) (www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html#newlyreleasedFaqs)</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s05">
+            <title>Medicare Physician Fee Schedule</title>
+            <para>
+               <emphasis role="italics">How to Use the PFS Look-Up Tool</emphasis> booklet (www.cms.gov/sites/default/files/2021-04/How <emphasis role="italics">to</emphasis> MPFS <emphasis role="italics">Booklet</emphasis> ICN901344_0.pdf)</para>
+            <para>MPFS Look Up Tool (www.cms.gov/apps/physician-fee-schedule/overview.aspx)</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s06">
+            <title>National Drug Codes</title>
+            <para>FDA National Drug Code Directory (www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory) ● indicates a new code; ▲, revised; #, re-sequenced; ✱, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+            <para>"Medications for Pediatrics: Most Common"</para>
+         </sect4>
+         <sect4 id="ch0014s0005s0001s01s07">
+            <title>Proprietary Laboratory Analyses</title>
+            <para>"CPT PLA Codes" (www.ama-assn.org/practice-management/cpt/cpt-pla-codes)</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Test Your Knowledge!</emphasis>
+               </para>
+               <para>1. <emphasis role="bold">What modifier is appended to code 93010 (routine ECG with at least 12 leads; interpretation and report only) when a physician provides only the interpretation and report of the ECG?</emphasis>
+               </para>
+               <para>a. 26 (professional component).</para>
+               <para>b. TC (technical component).</para>
+               <para>c. None; no modifier is necessary according to the code descriptor.</para>
+               <para>d. 52 (reduced service).</para>
+               <para>2. <emphasis role="bold">Which type of specimen collection is separately reported?</emphasis>
+               </para>
+               <para>a. Nasopharyngeal swab</para>
+               <para>b. Urine sample (collected without catheterization)</para>
+               <para>c. Throat swab</para>
+               <para>d. Venipuncture</para>
+               <para>3. <emphasis role="bold">Which service is reported with modifier QW?</emphasis>
+               </para>
+               <para>a. A laboratory service reported by a physician or QHP but provided by another entity &gt;    b. All laboratory services provided in an office or outpatient setting</para>
+               <para>c. Collection of a specimen for laboratory testing &gt;    d. Performance of a laboratory test that is CLIA-waived (with a few exceptions)</para>
+               <para>4. <emphasis role="bold">For which testing platform is code selection based on the analysis performed and the proprietary name of the test?</emphasis>
+               </para>
+               <para>a. Direct optical observation</para>
+               <para>b. Provider-performed microscopy</para>
+               <para>c. Proprietary laboratory analyses</para>
+               <para>d. Point-of-care testing</para>
+               <para>5. <emphasis role="bold">Which of the following is true when reporting an E/M service and testing services on the same date?</emphasis>
+               </para>
+               <para>a. The physician's or QHP's analysis of test results that do not require interpretation and report is part of an evaluation and management (E/M) service.</para>
+               <para>b. Modifier 25 may be required on the E/M service to indicate the service was significant and is separately identifiable in the documentation.</para>
+               <para>c. Time spent providing a separately reported testing service does not contribute to the total time of an E/M service.</para>
+               <para>d. All of the above.</para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; +, add-on; ✱, modifier 51 exempt; ⚡, audiovisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

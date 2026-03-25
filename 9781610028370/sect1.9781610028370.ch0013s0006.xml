@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0013s0005</risprev>
+         <riscurrent>sect1.9781610028370.ch0013s0006</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>10. Mental and Behavioral Health Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Psychotherapy for Crisis</title>
+   <para>★★<emphasis role="bold">90839</emphasis> Psychotherapy for crisis; first 60 minutes ★★★<emphasis role="bold">90840</emphasis> each additional 30 minutes (List separately in addition to code 90839)</para>
+   <para>Psychotherapy for crisis is provided on an urgent basis to a patient requiring mobilization of resources to defuse a crisis and restore safety. It also incorporates implementation of psychotherapeutic interventions to minimize the potential for psychological trauma.</para>
+   <itemizedlist>
+      <listitem>
+         <para>This includes assessment and history of a crisis state, a mental status examination, and a disposition.</para>
+      </listitem>
+      <listitem>
+         <para>The presenting problem is typically life threatening or complex and requires immediate attention to a patient in high distress.</para>
+      </listitem>
+      <listitem>
+         <para>Codes <emphasis role="bold">90839</emphasis> and <emphasis role="bold">90840</emphasis> are reported according to the total face-to-face time the physician or QHP spends with the patient and/or family providing psychotherapy for crisis on a single DOS. Time is cumulative for all psychotherapy for crisis on the same date even if time is not continuous.</para>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Code <emphasis role="bold">90839</emphasis> is reported for the first 30 to 74 minutes of psychotherapy for crisis on a single DOS. For psychotherapy for crisis with face-to-face time of less than 30 minutes, report individual psychotherapy codes (<emphasis role="bold">90832</emphasis> or <emphasis role="bold">90833</emphasis>).</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <itemizedlist>
+            <listitem>
+               <para>Add <emphasis role="bold">90840</emphasis> for each additional block of up to 30 minutes (ie, 1 unit for 75–90 minutes and additional units for each period up to 30 minutes beyond 90 minutes).</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+   </itemizedlist>
+   <para>⚡ Do not report psychotherapy for crisis (<emphasis role="bold">90839, 90840</emphasis>) for service of less than 30 minutes or on the same date as other psychiatry services (<emphasis role="bold">90785–90899</emphasis>).</para>
+   <para>A psychologist or psychiatrist is consulted in the ED for a patient who was brought to the hospital by his parents after threatening to harm others and exhibiting paranoia. The psychologist obtains history from the patient's parents. The psychologist examines the patient, obtains agreement for inpatient treatment, and arranges for admission. The total face-to-face time of the encounter is 45 minutes.</para>
+   <para>Code <emphasis role="bold">90839</emphasis> is reported. Although the code descriptor states "first 60 minutes," the instructions for reporting psychotherapy for crisis instruct that <emphasis role="bold">90839</emphasis> be reported for the first 30 to 74 minutes of face-to-face service.</para>
+   <sect2 id="ch0013s0006s20002">
+      <title/>
+      <sect3 id="ch0013s0006s30007">
+         <title/>
+         <sect4 id="ch0013s0006s0001s01s01">
+            <title>Family Psychotherapy</title>
+            <para>
+               <emphasis role="bold">★90846</emphasis> Family psychotherapy (without the patient present), 50 minutes <emphasis role="bold">★90847</emphasis> Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes</para>
+            <para>
+               <emphasis role="bold">90849</emphasis> Multiple-family group psychotherapy Although family members may act as informants during individual psychotherapy, psychotherapy using family psychotherapy techniques is coded with <emphasis role="bold">90846</emphasis> or <emphasis role="bold">90847</emphasis> depending on whether the patient is present for the service.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The focus of family psychotherapy is on family dynamics and/or subsystems within the family (eg, parents, siblings) and on improving the patient's functioning by working with the patient in the context of the family.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not report family psychotherapy for services of less than 26 minutes.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes for individual psychotherapy (<emphasis role="bold">90832–90838</emphasis>) or group psychotherapy (<emphasis role="bold">90853</emphasis>) may be reported on the same day as family psychotherapy codes <emphasis role="bold">90846</emphasis> and <emphasis role="bold">90847</emphasis> when the services are separate and distinct. Append modifier 59 (distinct procedural service) to the psychotherapy code when both services are reported on the same date.</para>
+               </listitem>
+               <listitem>
+                  <para>When multiple families participate in family psychotherapy at the same session, <emphasis role="bold">90849</emphasis> is reported once for each family.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0013s0006s0001s01s02">
+            <title>Group Psychotherapy</title>
+            <para>
+               <emphasis role="bold">★90853</emphasis> Group psychotherapy (other than of a multiple-family group) Report <emphasis role="bold">90853</emphasis> with 1 unit of service for each group member. Documentation should support the individual patient's involvement in the group session, the duration of the session, and the names that were presented.</para>
+            <para>No time is assigned to <emphasis role="bold">90853</emphasis>. This service is reported with 1 unit of service regardless of the time of service.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0013s0006s0002">
+      <title>Other Psychiatric Services</title>
+      <para>The following services are often bundled under payer contracts (ie, considered components of other services) or noncovered. However, check plan benefits, especially for Medicaid patients, as there may be circumstances in which these services are separate benefits. Plan-specific modifiers are often required when coverage of the following services is a health plan benefit:<emphasis role="bold">90882</emphasis> Environmental intervention for medical management purposes on a psychiatric patient's behalf with agencies, employers, or institutions</para>
+      <para>
+         <emphasis role="bold">90885</emphasis> Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic purposes Code <emphasis role="bold">90885</emphasis> may be reported in addition to psychotherapy services (<emphasis role="bold">90832–90838</emphasis>) when both services are provided by the same individual on the same DOS.</para>
+      <para>
+         <emphasis role="bold">90887</emphasis> Interpretation or explanation of results of psychiatric, other medical examinations and procedures, or other accumulated data to family or other responsible persons, or advising them how to assist patient</para>
+      <itemizedlist>
+         <listitem>
+            <para>Do not report <emphasis role="bold">90887</emphasis> in conjunction with adaptive behavior services (<emphasis role="bold">97151–97158, 0362T, 0373T</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">90889</emphasis> Preparation of report of patient's psychiatric status, history, treatment, or progress (other than for legal or consultative purposes) for other individuals, agencies, or insurance carriers Code <emphasis role="bold">90889</emphasis> should not be reported in conjunction with psychological or developmental testing, as the codes for these services include time for report writing.</para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="bold">●0770T</emphasis> Virtual reality technology to assist therapy Code <emphasis role="bold">0770T</emphasis> represents the practice expense of using virtual reality technology in conjunction with specified patient therapy. Report <emphasis role="bold">0770T</emphasis> in addition to codes for psychotherapy (<emphasis role="bold">90832–90853</emphasis>); treatment of speech, language, voice, communication, and/or auditory processing disorder (<emphasis role="bold">92507, 92508</emphasis>); health and behavior assessment/intervention (<emphasis role="bold">96158–96171</emphasis>); physical therapeutic procedures (<emphasis role="bold">97110–97112, 97150, 97530–97537</emphasis>); therapeutic interventions that focus on cognitive function (<emphasis role="bold">97129</emphasis>); and adaptive behavior services (<emphasis role="bold">97153–97155, 97158</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+      <para>A variety of services related to diagnosis and management of behavioral and mental health were discussed in this chapter. Following are some takeaways from this chapter:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Services for behavioral and mental health conditions may include a variety of health care professionals working within their scope of practice.</para>
+         </listitem>
+         <listitem>
+            <para>Billing and coding of behavioral and mental health services must align with not only coding guidelines but also state scope of practice and individual payer policies regarding credentialing, network participation, and contracting.</para>
+         </listitem>
+         <listitem>
+            <para>When payers deny claims appropriately reported with codes <emphasis role="bold">F01–F99</emphasis>, limiting submission of these codes to providers in a mental or behavioral health network, pediatricians may report the issue through the AAP Coding and Payment Hotline (<ulink url="www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline">www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline</ulink>) or seek the assistance of an AAP pediatric council (<ulink url="www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils">www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils</ulink>).</para>
+         </listitem>
+         <listitem>
+            <para>Codes <emphasis role="bold">99408</emphasis> and <emphasis role="bold">99409</emphasis> are reported for screening and an initial brief assessment and intervention for alcohol or substance use of at least 15 minutes (SBIRT).</para>
+         </listitem>
+         <listitem>
+            <para>Separately report psychological/neuropsychological test administration and scoring services (<emphasis role="bold">96136–96139</emphasis>) provided on the same or different days (ie, each service is separately reported on the same claim) as testing evaluation services (<emphasis role="bold">96130–96133</emphasis>).</para>
+         </listitem>
+         <listitem>
+            <para>At least 2 distinct psychological or neuropsychological tests must be administered and scored to report <emphasis role="bold">96136–96139</emphasis>. Do not separately count subtests in a multifaceted test (eg, Wechsler Preschool and Primary Scale of Intelligence is 1 test with 14 subtests).</para>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">96127</emphasis> (brief emotional/behavioral assessment, with scoring and documentation, per standardized instrument) may be reported for administration and scoring of a single standardized psychological or neuropsychological test.</para>
+         </listitem>
+         <listitem>
+            <para>Select psychotherapy codes based on face-to-face time with a patient and/or family member.</para>
+         </listitem>
+         <listitem>
+            <para>AOC <emphasis role="bold">90785</emphasis> is reported when interactive complexity complicates delivery of psychiatric services. Interactive complexity applies only to the psychiatric portion of a service including both psychiatric and E/M components.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0013s0006s0003">
+      <title>Resources</title>
+      <sect3 id="ch0013s0006s30008">
+         <title/>
+         <sect4 id="ch0013s0006s0003s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Coding and Payment Hotline (<ulink url="www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline">www.aap.org/en/practice-management/child-health-finance-payment-strategy/coding-payment-hotline</ulink>)</para>
+            <para>AAP pediatric councils (<ulink url="www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils">www.aap.org/en/practice-management/child-health-finance-payment-strategy/payment-and-finance-advocacy/aap-pediatric-councils</ulink>) AAP policy statement, "Addressing Early Childhood Emotional and Behavioral Problems" (<ulink url="https://doi.org/10.1542/peds.2016-3023">https://doi.org/10.1542/peds.2016-3023</ulink>)</para>
+            <para>
+               <emphasis role="italics">Pediatric Mental Health: Coding Quick Reference Card 2026</emphasis> (<ulink url="www.aap.org/Pediatric-Mental-Health-Coding-Quick-Reference-Card-2026">www.aap.org/Pediatric-Mental-Health-Coding-Quick-Reference-Card-2026</ulink>)</para>
+         </sect4>
+         <sect4 id="ch0013s0006s0003s01s02">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"Connecting Coding and Policy: Managing Behavioral Health Problems With General Behavioral Health Integration," August 2023 (<ulink url="https://doi.org/10.1542/pcco&lt;emphasis role=&#34;italics&#34;&gt;book232&lt;/emphasis&gt;document001">https://doi.org/10.1542/pcco&lt;emphasis role="italics"&gt;book232&lt;/emphasis&gt;document001</ulink>) ● indicates a new code; ▲, revised; †, re-sequenced; ✚, add-on; ✱, audiovisiual technology; and ♦, synchronous interactive audio.</para>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which terminology may be used to describe health care professionals who may independently provide and report non-E/M services?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Clinical staff</para>
+                     </listitem>
+                     <listitem>
+                        <para>NQHCPs</para>
+                     </listitem>
+                     <listitem>
+                        <para>Allied health professionals</para>
+                     </listitem>
+                     <listitem>
+                        <para>Physician or other qualified health care professional</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following services requires a team that includes a treating physician or QHP, a BHCM, and a psychiatric consultant?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>All integrated behavioral health care management services</para>
+                     </listitem>
+                     <listitem>
+                        <para>Psychotherapy with E/M services</para>
+                     </listitem>
+                     <listitem>
+                        <para>General behavioral health integration care management (99484)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Psychiatric collaborative care management (99492–99494)</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is true of the time used in code selection for psychological and neuropsychological testing evaluation services?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Time is not a factor in selecting codes for testing evaluation services.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The time in the code descriptor must bemet or exceeded.</para>
+                     </listitem>
+                     <listitem>
+                        <para>The standard CPT time rule applies (ie, midpoint rule)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Time spent by technicians is included in the time of testing evaluation services.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is reported only by NQHCPs (ie, not physicians or QHPs who may report E/M services)?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Psychiatric collaborative care management</para>
+                     </listitem>
+                     <listitem>
+                        <para>Health and behavior assessment and intervention procedures (96156, 96158, 96159, and 96164–96171)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Psychotherapy codes (90832–90839)</para>
+                     </listitem>
+                     <listitem>
+                        <para>Interactive complexity (90785)</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is true of family psychotherapy services (90846, 90847 90849)?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>Family psychotherapy is always reported when family members act as informants during psychotherapy.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Codes for individual psychotherapy may not be reported on the same date as family psychotherapy.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Family psychotherapy provided to multiple families is reported with group psychotherapy code 90853.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Family psychotherapy techniques reported with 90846 or 90847 depend on whether the patient is present for the service.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

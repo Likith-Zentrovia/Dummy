@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0014s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0014s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0014s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>11. Common Testing and Therapeutic Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 11. COMMON TESTING AND THERAPEUTIC SERVICES</title>
+   <para>
+      <emphasis role="bold">95165</emphasis> Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; single or multiple antigens (specify number of doses) <emphasis role="bold">95170</emphasis> Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; whole body extract of biting insect or other arthropod (specify number of doses)</para>
+   <itemizedlist>
+      <listitem>
+         <para>Codes <emphasis role="bold">95144–95170</emphasis> are used to report preparation and provision of antigens for allergen immunotherapy without administration of the allergenic extract.</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Codes <emphasis role="bold">95144–95170</emphasis> describe the preparation of the antigen, the antigen extract itself, the physician's assessment and determination of the concentration and volume to use based on the patient's history and results of previous skin testing, and the prospective planned schedule of administration of the extract.</para>
+      </listitem>
+      <listitem>
+         <para>The number of vials must be specified when reporting <emphasis role="bold">95144</emphasis>.</para>
+      </listitem>
+      <listitem>
+         <para>Report <emphasis role="bold">95145–95170</emphasis> according to the <emphasis role="italics">number of doses</emphasis> (eg, preparation of 2 vials that will provide 20 doses of extract containing 4 insect venoms is reported with <emphasis role="bold">95148</emphasis> and 20 units of service).</para>
+      </listitem>
+      <listitem>
+         <para>Services may be reported at the time the allergenic extract is prepared because injections occur on later dates (prospectively planned) or may not occur atall.</para>
+      </listitem>
+      <listitem>
+         <para>Administration of the allergenic extract is not included.</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Report <emphasis role="bold">95146–95149</emphasis> for preparation of extracts containing more than one stinging venom (eg, <emphasis role="bold">95146</emphasis> is reported for 2; <emphasis role="bold">95147</emphasis> is reported for 3).</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0014s0004s20001">
+      <title/>
+      <sect3 id="ch0014s0004s30007">
+         <title/>
+         <sect4 id="ch0014s0004s0001s01s01">
+            <title>National Correct Coding Initiative Immunotherapy Edits</title>
+            <para>The Medicaid NCCI manual instructs that for the purpose of reporting units of service for antigen preparation (ie, <emphasis role="italics">CPT</emphasis> codes <emphasis role="bold">95145–95170</emphasis>), the physician report "number of doses." The NCCI program defines a dose for reporting purposes as 1 mL. Thus, if a physician prepares a 10-mL vial of antigen, the physician may report only a maximum of 10 units of service for that vial even if the number of actual administered doses is greater than 10. Verify payer policies on units of service before reporting.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0004s0002">
+      <title>Only Administration of Extract</title>
+      <para>
+         <emphasis role="bold">95115</emphasis> Professional services for allergen immunotherapy not including provision of allergenic extracts; single injection</para>
+      <para>
+         <emphasis role="bold">95117</emphasis> 2 or more injections Either <emphasis role="bold">95115</emphasis> or <emphasis role="bold">95117</emphasis> (not both) are used to report only administration of the allergenic extract. Report according to the number of injections when another health care professional (eg, the patient's allergist) has prepared and supplied the allergenic extract or when a physician (usually an allergist) administers the prospectively prepared extract (ie, prepared with the intent to administer on a planned schedule).</para>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ The pediatrician administers 3 injections of allergen extract for a patient with allergic rhinitis resulting from pollen. The extract was prepared and supplied by an allergist.</para>
+      <para>The pediatrician will report <emphasis role="bold">95117</emphasis> with <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">J30.1</emphasis>.</para>
+      <sect3 id="ch0014s0004s30008">
+         <title/>
+         <sect4 id="ch0014s0004s0002s01s01">
+            <title>Combined Provision of Allergenic Extract With Administration</title>
+            <para>
+               <emphasis role="italics">CPT</emphasis> recommends <emphasis role="bold">95120–95134</emphasis> be reported only when specifically required by the payer. These codes are not assigned RVUs in the MPFS that many payers use as a basis for physician payment. The Medicare program will accept only <emphasis role="bold">95115</emphasis>, <emphasis role="bold">95117</emphasis>, and <emphasis role="bold">95144–95170</emphasis> and will not allow payment for <emphasis role="bold">95120–95134</emphasis>. Medicaid and commercial payers may follow the Medicare guidelines or may have their own established guidelines. Therefore, before reporting these services, research the reporting policies of your major payers.</para>
+            <para>Refer to your <emphasis role="italics">CPT</emphasis> code manual or other code reference for full code descriptors for <emphasis role="bold">95120–95134</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95120–95134</emphasis> are reported when the entire service of preparing, providing, and administering (injection) allergenic extract is performed at 1 patient encounter.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95131–95134</emphasis> are reported for extracts containing more than one stinging insect venom.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✖ Codes <emphasis role="bold">95115</emphasis> and <emphasis role="bold">95117</emphasis>
+               <emphasis role="italics">cannot</emphasis> be reported with <emphasis role="bold">95120–95134</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95120</emphasis> and <emphasis role="bold">95125</emphasis> are reported according to the number of injections administered (ie, a single injection or ≥2 injections).</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95130–95134</emphasis> are reported per injection. Therefore, if 2 separate injections of 2 stinging insect venoms (eg, wasp and bee) are provided, <emphasis role="bold">95131</emphasis> will be reported 2 times.</para>
+               </listitem>
+               <listitem>
+                  <para>For rapid desensitization per hour, refer to <emphasis role="bold">95180</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">▶ An allergist prepares a 10-dose vial of allergen extract and administers 1 dose at the time of the visit (allergenic extract was prepared with the intent to administer on a planned schedule).</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>The allergist will report <emphasis role="bold">95165</emphasis> with 10 units of service and <emphasis role="bold">95115</emphasis> with 1 unit of service and the specific diagnosis code. Allergic rhinitis resulting from pollen would be reported with <emphasis role="italics">ICD-10-CM</emphasis> code <emphasis role="bold">J30.1</emphasis> or, if caused by food, <emphasis role="bold">J30.5</emphasis>. Alternatively, <emphasis role="bold">95120</emphasis> would describe provision of allergenic extract and a single injection if required by a payer.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0004s0002s01s02">
+            <title>Epinephrine Auto-Injector Administration</title>
+            <para>Administration of epinephrine via an epinephrine auto-injector in the office or other outpatient setting is reported with <emphasis role="bold">96372</emphasis> (therapeutic, prophylactic, or diagnostic injection [specify substance or drug]; subcutaneous or intramuscular). Follow payer guidance for reporting an epinephrine injector kit furnished by the practice.</para>
+            <para>Healthcare Common Procedure Coding System updates in 2025 resulted in deletion of epinephrine/adrenalin codes <emphasis role="bold">J0171</emphasis> and <emphasis role="bold">J0173</emphasis>. Replacing code <emphasis role="bold">J0171</emphasis> for medications that are brand name (eg, Adrenalin or EpiPen) or therapeutically equivalent to brand name adrenalin products is <emphasis role="bold">J0165</emphasis> (injection, epinephrine, not otherwise specified, 0.1 mg). Codes <emphasis role="bold">J0166–J0169</emphasis> are reported for epinephrine products that are not therapeutically equivalent to brand name products, Adrenalin or Epipen.</para>
+            <para>
+               <emphasis role="italics">Example</emphasis>
+               <emphasis role="bold">▶ The patient has a reaction to the allergenic extract. The physician supplies and injects a dose of epinephrine based on the patient's weight.</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>The injection using an auto-injection device would be reported as an intramuscular (IM) injection with <emphasis role="bold">96372</emphasis>. The appropriate code, <emphasis role="bold">J0165–J0169</emphasis>, is reported based on the epinephrine/adrenalin product administered. The HCPCS units for epinephrine/adrenalin products are 1 unit per 0.1 mg (eg, 0.15 mg equals 1.5 units). It is advisable to include the product NDC and NDC units (eg, 0.1 ML, 0.15 ML, or 0.3 ML) to specify the exact product and dose provided.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0004s0002s01s03">
+            <title>Immunoglobulins</title>
+            <para>
+               <emphasis role="bold">This information does not apply to immunization products or services (eg, 90380–90382, seasonal RSV immunoglobulin products). Refer to Chapter 8.</emphasis> When reporting <emphasis role="bold">90281–90378</emphasis> and <emphasis role="bold">90384–90399</emphasis>, remember that they are only for the cost of the immunoglobulin, so the appropriate separate administration code should also be reported (eg, <emphasis role="bold">96372</emphasis>, <emphasis role="bold">96374</emphasis>).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A significant, separately identifiable E/M service performed during the same visit may also be billed if indicated.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">ICD-10-CM</emphasis> diagnosis codes to support immunoglobulin services include codes from categories <emphasis role="bold">D80–D84</emphasis> for certain disorders involving the immune mechanism or codes for specific conditions, such asmucocutaneous lymph node syndrome (<emphasis role="bold">M30.3</emphasis>).</para>
+               </listitem>
+               <listitem>
+                  <para>When reporting immunoglobulin products, include the product's NDC to identify the exact immunoglobulin administered. Refer to Chapter 1 for more information on reporting NDCs.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0004s0003">
+      <title>Hearing Screening and Other Audiological Function Testing Codes</title>
+      <para>
+         <emphasis role="italics">(For central auditory function evaluation, refer to 92620, 92621.)</emphasis> Audiometric tests require the use of calibrated electronic equipment, recording of results, and a written report with interpretation (eg, chart of hertz and decibels with pass/fail result for each ear tested and overall pass/fail result). Services include testing of both ears. If the test is applied to only 1 ear, modifier <emphasis role="bold">52</emphasis> (reduced services) must be appended to the code.</para>
+      <para>
+         <emphasis role="bold">Medicaid plans may offer coverage information and forms/requirements for documentation of hearing screening/testing.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">92551</emphasis> (screening test, pure tone, air only) is used when earphones are placed on the patient and the patient is asked to respond to tones of different pitches and intensities. This is a limited study to identify the presence or absence of a potential hearing problem. Code <emphasis role="bold">92551</emphasis> is not used to report hearing screenings performed in newborns and infants.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Report hearing tests conducted following a failed hearing screening with ICD-10-CM code Z01.110 if results are normal. If findings are abnormal, report Z01.118 and a code to identify the abnormality.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">92552</emphasis> (full pure tone audiometric assessment) is used when earphones are placed on the patient and the patient is asked to respond to tones of different pitches and intensities. The threshold, which is the lowest intensity of the tone that the patient can hear 50% of the time, is recorded at a number of frequencies.</para>
+         </listitem>
+         <listitem>
+            <para>Air and bone thresholds (<emphasis role="bold">92553</emphasis>) may be obtained and compared to differentiate among conductive, sensorineural, or mixed hearing losses. Air and bone thresholds are obtained in a similar manner.</para>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">92583</emphasis> (select picture audiometry) is typically used for younger children. The patient is asked to identify different pictures with the instructions given at different intensity levels.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">Automated audiometry testing is reported with Category III codes 0208T–0212T.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">92558</emphasis> is reported for evoked otoacoustic emissions, screening (qualitative measurement of distortion product or transient evoked otoacoustic emissions), with automated analysis. This is used when the results are obtained automatically (ie, no interpretation and report is required). Coverage for this is typically limited to newborn screening, including follow-up from newborn screening from a failed screening in the hospital and screening on younger children. Check with your payers, however.</para>
+         </listitem>
+         <listitem>
+            <para>Distortion product evoked otoacoustic emissions codes are reported according to the number of frequencies used. Code <emphasis role="bold">92587</emphasis> is used for limited testing with confirmation of the presence or absence of a hearing disorder, 3 to 6 frequencies. Code <emphasis role="bold">92588</emphasis> is reported when a comprehensive (quantitative analysis of outer hair cell function by cochlear mapping) diagnostic evaluation with a minimum of 12 frequencies is performed. Interpretation and written report are required. <emphasis role="italics">Do not report these codes for qualitative analysis.</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>Other commonly performed procedures include <emphasis role="bold">92567</emphasis> (tympanometry [impedance testing]) and <emphasis role="bold">92568</emphasis> (acoustic reflex testing, threshold portion). Code <emphasis role="bold">92550</emphasis> is reported when tympanometry and reflex threshold measurements are performed.</para>
+         </listitem>
+         <listitem>
+            <para>Optical coherence tomography of the middle ear with interpretation and report is reported with Category III codes based on whether the service was unilateral (<emphasis role="bold">0485T</emphasis>) or bilateral (<emphasis role="bold">0486T</emphasis>). Be sure to verify payer policy before provision of services.</para>
+         </listitem>
+         <listitem>
+            <para>Most audiological procedures are bundled with impacted cerumen removal services (<emphasis role="bold">69209, 69210</emphasis>) and, therefore, will not be separately payable. Report only the audiology test to payers that bundle impacted cerumen removal services.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A 5-year-old whose hearing does not meet screening criteria at school is referred to her pediatrician for additional evaluation. The child has a history of recurrent otitis media before the age of 3 years but no recent illness. Parents report no family history of hearing loss and no concerns at home. Tympanometry reveals no evidence of effusion. Examination findings are negative for other abnormalities. Screening audiometry is performed, and its results are atypical, as indicated by the school screening. The child is referred to an audiologist for further evaluation. Diagnosis is abnormal auditory function with possible hearing loss inher right ear.</emphasis>
+      </para>
+      <table frame="all" id="ch0014s0004ta0001">
+         <title>Hearing Screening and Other Audiological Function Testing Codes</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>ICD-10-CM</entry>
+                  <entry>CPT</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Z01.118 (encounter for examination of ears and hearing with other abnormal findings)</entry>
+                  <entry>99213 (established patient office E/M, low MDM)</entry>
+               </row>
+               <row>
+                  <entry>R94.120 (abnormal auditory function study)</entry>
+                  <entry>92567 (tympanometry [impedance testing])</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>92551 (screening test, pure tone, air only)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis>
+         <emphasis role="italics">ICD-10-CM</emphasis> instructs the physician to report <emphasis role="bold">Z01.118</emphasis> and an additional code for abnormal findings. Although the result of the screening was abnormal, the physician did not diagnose a hearing loss at this encounter. Code <emphasis role="bold">R94.120</emphasis> describes the abnormal screening result.</para>
+      <para>If the screening result at this visit had been negative, the physician would have been required to code <emphasis role="bold">Z01.110</emphasis> (encounter for hearing examination following failed hearing screening).</para>
+      <para>For information on vision screening, refer to <emphasis role="bold">Chapter 8</emphasis>. Assessment of visual acuity is considered an integral part of the eye examination when performed to address a problem such as difficulty seeing writing on a board at school.</para>
+   </sect2>
+   <sect2 id="ch0014s0004s0004">
+      <title>Emotional/Behavioral Assessment</title>
+      <para>
+         <emphasis role="bold">96127</emphasis> Brief emotional/behavioral assessment (eg, depression inventory, attention-deficit/hyperactivity disorder [ADHD] scale), with scoring and documentation, per standardized instrument</para>
+      <para>Code <emphasis role="bold">96127</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Represents the practice expense of administering, scoring, and documenting each standardized instrument. No physician work value is included. Physician interpretation is included in a related E/M service.</para>
+         </listitem>
+         <listitem>
+            <para>May be used for screening (eg, screening for anxiety and/or depression) or to monitor treatment efficacy and support clinical decision-making.</para>
+         </listitem>
+         <listitem>
+            <para>Not reported in conjunction with <emphasis role="bold">96105</emphasis>, <emphasis role="bold">96125</emphasis>, and <emphasis role="bold">99483</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Multiple separate completions (eg, by teachers and parent) of the same form may be separately reported (eg, 3 units of service). When reporting multiple units of the same service, it is advisable to learn whether the payer has specific guidance for reporting the total number of units as a single-line item or requires splitting to multiple claim lines. Medically Unlikely Edits may apply.</para>
+         </listitem>
+         <listitem>
+            <para>Be aware of potential bundling edits when reporting a health risk assessment (<emphasis role="bold">96160</emphasis>) and brief emotional behavioral assessment on the same date. Modifier <emphasis role="bold">59</emphasis> (distinct service) may be required (ie, <emphasis role="bold">96160 59</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Example</emphasis>
+         <emphasis role="bold">▶</emphasis> A 16-year-old patient receiving treatment of an initial episode of major depressive disorder returns for follow-up. The patient's mother contributes to the patient's history since the last visit. Three standardized instruments (anxiety instrument by parent and child and a depression instrument by child) are administered to assess the status of the patient's depression. The physician reviews the documented scores and considers the patient's responses in MDM. The physician recommends continued medication and counseling with a licensed clinical social worker. The physician total time on the date of the encounter is 25 minutes. Diagnosis is a moderate single episode of major depressive disorder.</para>
+      <para>The established patient office E/M code <emphasis role="bold">99214</emphasis> is reported in addition to <emphasis role="bold">96127</emphasis>. The diagnosis code <emphasis role="bold">F32.1</emphasis> (major depressive disorder, single episode, moderate) is reported.</para>
+      <para>
+         <emphasis role="bold">Refer to</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>
+               <emphasis role="bold">Chapter 2</emphasis> for more information on Medically Unlikely Edits</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">Chapter 8</emphasis> for discussion of developmental screening, brief emotional and/or behavioral assessment, and health risk assessment as preventive services</para>
+         </listitem>
+         <listitem>
+            <para>
+               <emphasis role="bold">Chapter 10</emphasis> for discussion of neuropsychological or psychological testing</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0014s0004s0005">
+      <title>Developmental Testing</title>
+      <para>Refer to Chapter 10 for discussion of neurobehavioral status examination (<emphasis role="bold">96116</emphasis>, <emphasis role="bold">96121</emphasis>).</para>
+      <para>★<emphasis role="bold">96112</emphasis> Developmental test administration (including assessment of fine and/or gross motor, language, cognitive level, social, memory and/or executive functions by standardized developmental instruments when performed), by physician or other QHP, with interpretation and report; first hour ★<emphasis role="bold">+96113</emphasis> each additional 30 minutes (List separately in addition to code for primary procedure)</para>
+      <para>
+         <emphasis role="bold">Developmental screening services are described by 96110.</emphasis> Developmental screening using an objective standardized instrument, including scoring and documentation, is typically done by clinical staff. Interpretation and counseling on the score are included in the related E/M service.</para>
+      <para>Codes <emphasis role="bold">96112</emphasis> and <emphasis role="bold">96113</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Allow reporting of developmental testing in which the child is observed doing standardized tasks that are then scored, with interpretation and report.</para>
+         </listitem>
+         <listitem>
+            <para>Include assessment of motor, language, social, and/or cognitive function by standardized developmental instruments (eg, scales of infant and toddler development) and include objective assessments as well.</para>
+         </listitem>
+         <listitem>
+            <para>Billing time includes the sum of all face-to-face time spent in test administration and observation and time of interpretation, clinical decision-making, and report preparation.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Although not specifically stated in the code descriptor, interpretation and report is included as intraservice work in the assessment of work RVUs for these services.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Payer policies may vary on reporting of time spent in interpretation and report. Check the policies of individual health plans when reporting.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Code selection is based on time personally spent per hour by the physician or QHP.</para>
+         </listitem>
+         <listitem>
+            <para>The midpoint rule applies to developmental testing; time is met when the midpoint is passed (≥31 minutes to report 1 hour of service and ≥16 minutes to report a service assigned a time of 30 minutes).</para>
+         </listitem>
+         <listitem>
+            <para>If a developmental instrument does not meet the criteria of being an objective instrument with the subjective element or the service does not meet a minimum of 31 minutes to complete (including time of interpretation and report), refer to <emphasis role="bold">96110</emphasis> instead.</para>
+         </listitem>
+      </itemizedlist>
+      <para>✖ Do not report <emphasis role="bold">96110</emphasis> if also reporting <emphasis role="bold">96112</emphasis> or <emphasis role="bold">96113</emphasis> on the same day for the same patient.</para>
+      <itemizedlist>
+         <listitem>
+            <para>A clinically indicated and significant E/M service may be reported on the same date, but no component of the testing is used to determine the level of E/M code selection. Modifier <emphasis role="bold">25</emphasis> (significant and separately identifiable E/M service) is appended to the E/M code (eg, <emphasis role="bold">99214 25</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A 7-year-old patient presents for extended developmental testing to assess long-standing social and learning difficulties at school.</emphasis> Developmental tests are administered, with total testing time on this date of 75 minutes. The child returns and spends a total of 60 minutes to complete testing 1 week later. After testing is completed, the developmental pediatrician spends another 60 minutes on the same date interpreting the test results and 60 minutes formulating a report of the findings and recommendations.</para>
+      <para>
+         <emphasis role="bold">First date:</emphasis>
+         <emphasis role="bold">96112</emphasis> is reported for the 75 minutes of testing.</para>
+      <para>
+         <emphasis role="bold">Second date:</emphasis>
+         <emphasis role="bold">96112</emphasis> (first 60 minutes of testing) and <emphasis role="bold">96113</emphasis> with 4 units of service (2 hours interpreting the testing results and developing the report) are reported.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> Code <emphasis role="bold">96113</emphasis> is not reported on the first date because the midpoint between 60 and 90 minutes (76 minutes) was not passed. On the final DOS (ie, the day of the feedback session), submit 1 claim for all cumulative services detailed by separate line service.</para>
+      <para>Some payers may require that the entire service be reported on a single claim and single DOS. For these payers, report <emphasis role="bold">96112</emphasis> (for the 60 minutes of testing on the first day) and 6 units of <emphasis role="bold">96113</emphasis> (for the remaining 195 minutes) on the date of the second session. It is important that staff are trained to submit the records for all dates that testing services were provided, when necessary, in response to a payer's request for records.</para>
+      <para>Remember, the midpoint must be passed for the additional units to be billed. In this case, the remaining time was only 15 minutes.</para>
+      <para>Appropriate diagnosis codes should be assigned and may be required to support payer authorization for future treatment. <emphasis role="italics">ICD-10-CM</emphasis> provides codes for autism spectrum disorder (<emphasis role="bold">F84.0</emphasis>), Asperger syndrome (<emphasis role="bold">F84.5</emphasis>), and other pervasive developmental disorders (eg, <emphasis role="bold">F84.2</emphasis>, Rett syndrome). Codes for any associated medical condition and intellectual disabilities should also be reported.</para>
+   </sect2>
+   <sect2 id="ch0014s0004s0006">
+      <title>Radiology Services</title>
+      <para>The following general guidelines are for reporting radiology services:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Report only the service provided. Refer to the Professional and Technical Components section earlier in this chapter for appropriate reporting when the physician does not provide the global service.</para>
+         </listitem>
+         <listitem>
+            <para>A signed written report of the physician's or QHP's interpretation of imaging is an integral part of the professional component of a radiological service.</para>
+         </listitem>
+         <listitem>
+            <para>A reference to <emphasis role="italics">image</emphasis> in <emphasis role="italics">CPT</emphasis> may refer to an image on film or in digital format. Images must contain anatomical information unique to the patient for which the imaging service is provided.</para>
+         </listitem>
+         <listitem>
+            <para>Certain health plans, including Medicare and Medicaid plans, may require use of modifiers <emphasis role="bold">FX</emphasis> (x-ray taken using film) and <emphasis role="bold">FY</emphasis> (x-ray taken using computed radiography technology/cassette-based imaging) when reporting the technical component or global radiology service (ie, combined professional and technical components). Verify health plan requirements, as payment may be reduced for radiographs taken through technology other than digital imaging.</para>
+         </listitem>
+      </itemizedlist>
+      <para>Some commonly reported codes for radiological examination follow. Refer to your coding reference for a full listing of codes and reporting instructions for radiology services.</para>
+      <sect3 id="ch0014s0004s30009">
+         <title/>
+         <sect4 id="ch0014s0004s0006s01s01">
+            <title>Abdominal Radiographs</title>
+            <para>
+               <emphasis role="bold">74018</emphasis> Radiologic examination, abdomen; 1 view</para>
+            <para>
+               <emphasis role="bold">74019</emphasis> 2 views</para>
+            <para>
+               <emphasis role="bold">74021</emphasis> 3 or more views <emphasis role="bold">74022</emphasis> Radiologic examination, complete acute abdomen series, including 2 or more views of the abdomen (eg, supine, erect, decubitus), and a single view chest</para>
+            <para>Report <emphasis role="bold">74022</emphasis> when a series of radiographs is obtained to view the abdomen and chest as workup of acute abdominal illness or pain. An acute abdomen series includes 2 abdominal views and a single chest view.</para>
+         </sect4>
+         <sect4 id="ch0014s0004s0006s01s02">
+            <title>Chest Radiographs</title>
+            <para>
+               <emphasis role="bold">71045</emphasis> Radiologic examination, chest; single view</para>
+            <para>
+               <emphasis role="bold">71046</emphasis> 2 views</para>
+            <para>
+               <emphasis role="bold">71047</emphasis> 3 views</para>
+            <para>
+               <emphasis role="bold">71048</emphasis> 4 or more views</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The types of views (eg, frontal and lateral) obtained do not affect coding of chest radiographs.</para>
+               </listitem>
+               <listitem>
+                  <para>Do not separately report a single-view chest radiograph when obtained in conjunction with an acute abdomen series (<emphasis role="bold">74022</emphasis>).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0014s0004s0006s01s03">
+            <title>Hip Radiographs</title>
+            <para>
+               <emphasis role="bold">73501</emphasis> Radiologic examination, hip, unilateral, with pelvis when performed; 1 view</para>
+            <para>
+               <emphasis role="bold">73502</emphasis> 2–3 views</para>
+            <para>
+               <emphasis role="bold">73503</emphasis> minimum of 4 views <emphasis role="bold">73521</emphasis> Radiologic examination, hips, bilateral, with pelvis when performed; 2 views</para>
+            <para>
+               <emphasis role="bold">73522</emphasis> 3–4 views</para>
+            <para>
+               <emphasis role="bold">73523</emphasis> minimum of 5 views <emphasis role="bold">73525</emphasis> Radiologic examination, hip, arthrography, radiological supervision and interpretation</para>
+            <para>
+               <emphasis role="bold">73592</emphasis> Radiologic examination lower extremity, infant, minimum of 2 views Codes <emphasis role="bold">73501–73523</emphasis> include radiograph of the pelvis when performed. Do not separately report a single-view radiograph of the pelvis (<emphasis role="bold">72170</emphasis>) when performed in conjunction with a radiograph of the hip.</para>
+         </sect4>
+         <sect4 id="ch0014s0004s0006s01s04">
+            <title>Total Spine Radiographs</title>
+            <para>
+               <emphasis role="bold">72081</emphasis> Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); one view</para>
+            <para>
+               <emphasis role="bold">72082</emphasis> 2 or 3 views</para>
+            <para>
+               <emphasis role="bold">72083</emphasis> 4 or 5 views</para>
+            <para>
+               <emphasis role="bold">72084</emphasis> minimum of 6 views Codes <emphasis role="bold">72081–72084</emphasis> describe imaging of the entire thoracic and lumbar spine and, when performed, the skull, cervical, and sacral spine.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not separately report codes for views of the individual spinal segments or skull when performed in conjunction with radiological examination of the spine. Rather, select the code that represents the total number of views obtained.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0004s0007">
+      <title>Administrative Services</title>
+      <para>Codes in this section cover some of the administrative aspects of medical practice.</para>
+      <para>
+         <emphasis role="bold">99075</emphasis> Medical testimony <emphasis role="bold">99082</emphasis> Unusual travel (eg, transportation and escort of patient)</para>
+      <para>
+         <emphasis role="bold">S9981</emphasis> Medical records copying fee, administrative</para>
+      <para>
+         <emphasis role="bold">S9982</emphasis> Medical records copying fee, per page</para>
+      <para>Codes <emphasis role="bold">99071-99082</emphasis> are for administrative services.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Code <emphasis role="bold">99075</emphasis> may be reported when a physician presents medical testimony before a court or other administrative body.</para>
+         </listitem>
+         <listitem>
+            <para>None of these services is assigned Medicare RVUs.</para>
+         </listitem>
+         <listitem>
+            <para>HCPCS codes <emphasis role="bold">S9981</emphasis> and <emphasis role="bold">S9982</emphasis> may be reported when it is appropriate to charge for copying medical records. Commercial payers and some Medicaid programs may accept S codes.</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>State medical insurance departments or medical associations determine the amount a practice can charge for copying medical records. Be sure to know the state charge limitations, and do not overcharge.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>The Health Insurance Portability and Accountability Act (HIPAA) of 1996 regulations, where more stringent, will override state regulations. For information on charges to patients for copying medical records, visit www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html#newlyreleasedfaqs.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <sect3 id="ch0014s0004s30010">
+         <title/>
+         <sect4 id="ch0014s0004s0007s01s01">
+            <title>Physician Group Education Services</title>
+            <para>
+               <emphasis role="bold">99078</emphasis> Physician or other QHP qualified by education, training, licensure/regulation (when applicable), educational services rendered to patients in a group setting (eg, prenatal, obesity, or diabetic instructions) Code <emphasis role="bold">99078</emphasis> is used to report physician educational services provided to established patients in group settings (eg, obesity or diabetes classes).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For preventive medicine and risk factor reduction counseling to patients in a group setting, refer to <emphasis role="bold">99411</emphasis> and <emphasis role="bold">99412</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>There are no time requirements.</para>
+               </listitem>
+               <listitem>
+                  <para>Modifier <emphasis role="bold">25</emphasis> (significant, separately identifiable E/M service) should <emphasis role="italics">not</emphasis> be appended to the code for an E/M service on the same date because <emphasis role="bold">99078</emphasis> is an adjunct service.</para>
+               </listitem>
+               <listitem>
+                  <para>Documentation in each medical record includes the education and training provided, follow-upfor ongoing education, and total time of the education (distinct from any E/M service).</para>
+               </listitem>
+               <listitem>
+                  <para>Health plans and parents/caregivers of each participating child may be charged.</para>
+               </listitem>
+               <listitem>
+                  <para>Payers may require that these services be reported differently.</para>
+               </listitem>
+            </itemizedlist>
+            <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+            <para>This chapter covered codes and coding guidance for many diagnostic and therapeutic services when provided in an office or outpatient setting. Following are some takeaways from this chapter:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>There are many services that may be reported for the complete or global service or for only the professional or technical component, when provided.</para>
+               </listitem>
+               <listitem>
+                  <para>The practice expense RVUs assigned to most services include the value of supplies (eg, masks, tubing, gauze, needles) that are typically required for each service.</para>
+               </listitem>
+               <listitem>
+                  <para>Laboratories and physician offices performing CLIA-waived tests should append modifier QW to the CPT code for CLIA-waived procedures except when reporting certain exempt codes (eg, <emphasis role="bold">81002</emphasis>, non-automated urinalysis without microscopy; <emphasis role="bold">81025</emphasis>, urine pregnancy test; <emphasis role="bold">82272</emphasis>, occult blood by peroxidase for other than colorectal neoplasm screening).</para>
+               </listitem>
+               <listitem>
+                  <para>Obtaining a blood specimen is separately reportable in conjunction with performing a point-of-care test and/or an E/M service.</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not report <emphasis role="bold">99211</emphasis> for services to obtain a specimen and/or perform a laboratory test in the absence of an E/M service by clinical staff.</para>
+            <para>✱ Do not include time spent in separately reported testing or therapeutic services in the time of an E/M service reported on the same date. Append modifier <emphasis role="bold">25</emphasis> to significant and separately identifiable E/M services provided on the same date as tests that include an interpretation and report or as otherwise specified in CPT.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
