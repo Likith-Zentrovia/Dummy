@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0026s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0026s0004</risprev>
+         <riscurrent>sect1.9781610028370.ch0026s0005</riscurrent>
+         <risnext>sect1.9781610028370.ch0026s0006</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>26</chapternumber>
+         <chapterid>ch0026</chapterid>
+         <chaptertitle>21. Remote Data Collection and Monitoring Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Remote Monitoring Setup and Device Supply</title>
+   <para>
+      <emphasis role="bold">#▲99453</emphasis> Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate); initial set-upand patient education on use of equipment (0.61 RVUs in a facility or non-facility setting) <emphasis role="bold">#●99445</emphasis> device(s) supply with daily recording(s) or programmed alert(s) transmission, 2–15 days in a 30-day period (RVUs not available at time of publication)</para>
+</sect1>

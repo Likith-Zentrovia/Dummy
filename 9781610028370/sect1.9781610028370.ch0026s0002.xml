@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0026s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0026s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0026s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>26</chapternumber>
+         <chapterid>ch0026</chapterid>
+         <chaptertitle>21. Remote Data Collection and Monitoring Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Remote Data Collection and Monitoring Services</title>
+   <itemizedlist>
+      <listitem>
+         <para>General documentation elements for remote data collection and monitoring services</para>
+      </listitem>
+      <listitem>
+         <para>Identification and differentiation of codes for condition-specific types of remote data collection and monitoring or management services</para>
+      </listitem>
+      <listitem>
+         <para>Codes for collection and interpretation of digitally stored physiologic data</para>
+      </listitem>
+      <listitem>
+         <para>Updates to remote physiologic monitoring treatment management services</para>
+      </listitem>
+      <listitem>
+         <para>Updates to remote therapeutic monitoring with or without therapeutic intervention</para>
+      </listitem>
+   </itemizedlist>
+   <para>This chapter reviews codes for reporting services that include collection of data over time with submission/transmission of data for review and report at the conclusion of the service period and for reporting remote monitoring of patient data with concurrent treatment management services.</para>
+   <para>Codes included describe the following related services:</para>
+   <itemizedlist>
+      <listitem>
+         <para>Device supply and data capture/transfer services</para>
+      </listitem>
+      <listitem>
+         <para>Patient education/training and device calibration</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="italics">Note:</emphasis> All relative value units (RVUs) included in this chapter are 2025 Medicare Physician Fee Schedule (MPFS) values that are unadjusted for geographic locality. The RVUs for 2026 were not available at the time of this publication. Individual payers may utilize different fee schedule methodologies or the MPFS from a different year (eg, 2023).</para>
+   <sect2 id="ch0026s0002s0001">
+      <title>Getting Paid for Remote Data Monitoring</title>
+      <para>Although some remote data collection and monitoring services have been available for decades, increased access to and advances in technology have expanded the types of data that may be collected, monitored, and used inpatient management.</para>
+      <para>According to the Center for Connected Health Policy, as of 2024, Medicaid plans in 42 states offer some form of payment for remote patient (ie, patient data) monitoring services (www.cchpca.org/resources/state-telehealth-laws-and-reimbursement-policies-report-fall-2024). Medicaid payment policies often include restrictions on the clinical indications for monitoring, types of monitoring devices used, and health care professionals paid for monitoring services (eg, only home health agencies).</para>
+      <para>Commercial health plans may or may not provide clear payment policy for remote data collection and/or monitoring services. Physicians and other qualified health care professionals (QHPs) should review local and regional payment policies (which may be included in policies for telehealth or virtual health care) prior to providing remote monitoring or remote treatment management services.</para>
+      <para>State regulations and payer policies for all types of digitally enhanced health services continue to evolve. It is important for physicians and other QHPs to research and understand local and regional payment policies for remote data collection and monitoring services before offering these services.</para>
+      <para>Refer also to the discussion of care management services in <emphasis role="bold">Chapter 9</emphasis>, as care management services may be an alternative or addition to remote data monitoring services.</para>
+   </sect2>
+   <sect2 id="ch0026s0002s0002">
+      <title>General Documentation Guidance</title>
+      <para>Documentation of all remote monitoring services should include</para>
+      <itemizedlist>
+         <listitem>
+            <para>Patient name and other identifying information (eg, patient ID number)</para>
+         </listitem>
+         <listitem>
+            <para>Documented order, including clinical indications for the services provided</para>
+         </listitem>
+      </itemizedlist>
+      <para>Payment policies published by commercial, exchange, or Medicaid plans may include required clinical indications for remote data collection or monitoring services. Verify your contractual terms regarding direct billing to patients including use of advance notice of noncoverage or waiver of liability prior to billing patients for noncovered services.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Patient/caregiver agreement to receive services (Documented notification of potential financial responsibility may also be required.)</para>
+         </listitem>
+         <listitem>
+            <para>Any accommodations used to facilitate the service (eg, language assistance services)</para>
+         </listitem>
+         <listitem>
+            <para>Dates of each episode of service (eg, start and stop dates of equipment use; dates of physician, QHP, or clinical staff communication with patients and caregivers)</para>
+         </listitem>
+         <listitem>
+            <para>Description of services provided on each date of service (DOS) (eg, patient education, review of data transmission), including type of technology used</para>
+         </listitem>
+         <listitem>
+            <para>Time, when applicable (eg, time spent inpatient/caregiver communication)</para>
+         </listitem>
+         <listitem>
+            <para>Identification and authentication by each author entering documentation into the patient's health record</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0026s0002s0003">
+      <title>Types of Remote Data Collection and/or Monitoring Services</title>
+      <para>
+         <emphasis role="italics">Current Procedural Terminology (CPT)</emphasis> describes multiple services that may include utilization of data acquired remotely by</para>
+      <itemizedlist>
+         <listitem>
+            <para>Patient self-collection and data transmission/submission to a physician for review and interpretation outside a face-to-face visit</para>
+         </listitem>
+         <listitem>
+            <para>Remote physiologic monitoring with treatment management services</para>
+         </listitem>
+         <listitem>
+            <para>Remote therapeutic monitoring of non-physiologic data (eg, level of function, adherence to treatment plan) with treatment management services</para>
+         </listitem>
+      </itemizedlist>
+      <para>Appendix R of the AMA <emphasis role="italics">CPT</emphasis> manual is a digital medicine taxonomy table for quickly identifying and differentiating digital medicine services, including clinical data monitoring services. (The taxonomy table does not include all services that may be considered digital medicine services and does not supersede specific coding guidance found elsewhere in <emphasis role="italics">CPT</emphasis>.) Devices used for digitally storing data and/or remote physiologic or therapeutic monitoring must be medical devices as defined by the US Food and Drug Administration (FDA). Medical devices may be listed as <emphasis role="italics">FDA approved</emphasis> or <emphasis role="italics">FDA cleared</emphasis>. Storage, transfer, and access of personal health information must also comply with federal and state regulations for protection of personal health information (eg, privacy provisions of the Health Insurance Portability and Accountability Act).</para>
+   </sect2>
+   <sect2 id="ch0026s0002s0004">
+      <title>Collection and Interpretation of Digitally Stored Physiologic Data</title>
+      <para>Certain codes describe specific physiological data collection/monitoring (eg, apnea monitoring), whereas other codes describe more generalized services (eg, remote monitoring of physiologic parameter[s] [eg, weight, blood pressure, pulse oximetry, respiratory flow rate]). The code that most specifically describes a service should be reported.</para>
+      <sect3 id="ch0026s0002s30001">
+         <title/>
+         <sect4 id="ch0026s0002s0004s01s01">
+            <title>Self-Measured Blood Pressure Monitoring</title>
+            <para>
+               <emphasis role="bold">#99473</emphasis> Self-measured blood pressure using a device validated for clinical accuracy; patient education/training and device calibration (RVUs: work, 0.00; total in a facility or non-facility setting, 0.43) <emphasis role="bold">#99474</emphasis> separate self-measurements of two readings one minute apart, twice daily over a 30-day period (minimum of 12 readings), collection of data reported by the patient and/or caregiver to the physician or other QHP, with report of average systolic and diastolic pressures and subsequent communication of a treatment plan to the patient (RVUs: work, 0.18; total non-facility, 0.51; total facility, 0.26).</para>
+            <para>Self-measured blood pressure monitoring is a non–face-to-face service in which the patient or caregiver uses a home blood pressure measurement device to measure and record readings that are then provided to the ordering physician on paper, digitally (eg, email), or by electronic transmission from the device to an application that allows the patient to directly share data with the ordering physician or other QHP.</para>
+            <para>The work of managing or treating the patient's blood pressure is not included in <emphasis role="bold">99474</emphasis>. But when provided on the same date as a patient visit, <emphasis role="bold">99474</emphasis> is considered part of the visit and not separately reported. The review and analysis of the patient's readings would contribute to the data to be reviewed and analyzed at the visit.</para>
+            <para>Self-measured blood pressure monitoring is used for</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Ruling out white-coat hypertension, which can prevent unnecessary treatment, adverse medication effects, and laboratory or diagnostic costs</para>
+               </listitem>
+               <listitem>
+                  <para>Identifying masked hypertension, which, if left untreated, carries a higher risk of cardiovascular disease and stroke</para>
+               </listitem>
+               <listitem>
+                  <para>Assessing control of hypertension and ensuring appropriate treatment is being ordered</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Table 21-1</emphasis> provides an overview of work included in each code.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

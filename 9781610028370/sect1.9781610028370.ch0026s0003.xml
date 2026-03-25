@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0026s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0026s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0026s0003</riscurrent>
+         <risnext>sect1.9781610028370.ch0026s0004</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>26</chapternumber>
+         <chapterid>ch0026</chapterid>
+         <chaptertitle>21. Remote Data Collection and Monitoring Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 21. REMOTE DATA COLLECTION AND MONITORING SERVICES</title>
+   <table frame="all" id="ch0026s0003ta0001">
+      <title>CHAPTER 21. REMOTE DATA COLLECTION AND MONITORING SERVICES</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>Code</entry>
+               <entry>Description</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>#99473</entry>
+               <entry>Clinical staff or physician work
+      • Patient education/training on self-measurement and reading collection
+      • Calibration of home blood pressure monitoring device
+      Report once per device.</entry>
+            </row>
+            <row>
+               <entry>#99474</entry>
+               <entry>Physician work
+      • Review the report of individual and average systolic/diastolic blood pressure readings (it must include ≥12 readings; the patient performs/documents 2 readings 1 minute apart at each measurement).
+      • Communicate the treatment plan to clinical staff or the patient/caregiver.
+      Report once per calendar month.</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> At least 12 blood pressure readings must be obtained and averaged to create a treatment plan for the patient. Code <emphasis role="bold">99474</emphasis> includes collection, analysis, and communication of treatment plan(s) within a 30-day period.</para>
+   <para>If the patient returned for an office or other outpatient E/M service to review the readings and obtain the physician's recommended care plan, an E/M service (eg, <emphasis role="bold">99214</emphasis>) would be reported in lieu of <emphasis role="bold">99474</emphasis>.</para>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; #, re-sequenced; ✱, add-on; ✱, audiovisual technology; and ♦, synchronous interactive audio.</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0026s0003s20001">
+      <title/>
+      <sect3 id="ch0026s0003s30002">
+         <title/>
+         <sect4 id="ch0026s0003s0001s01s01">
+            <title>Nonspecific Physiologic Data Collection and Interpretation</title>
+            <para>
+               <emphasis role="bold">99091</emphasis> Collection and interpretation of physiologic data (eg, electrocardiography, blood pressure, glucose monitoring) digitally stored and/or transmitted by the patient and/or caregiver to the physician or other QHP, qualified by education, training, licensure/regulation (when applicable) requiring a minimum of 30 minutes of time, each 30 days (1.10 work RVUs, 1.60 total RVUs in a facility or non-facility setting) Code <emphasis role="bold">99091</emphasis> does not require active monitoring of physiologic data or live interactive communication with the patient during the service period as required for remote physiologic monitoring treatment management service codes <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis>, and <emphasis role="bold">99458</emphasis>, discussed in the Remote Physiologic Monitoring Treatment Management Services section later in this chapter.</para>
+            <para>Code <emphasis role="bold">99091</emphasis> represents a 30-day episode of care. Time spent by a physician or QHP in the following activities is included in the time supporting <emphasis role="bold">99091</emphasis>:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Accessing, reviewing, and interpreting data</para>
+               </listitem>
+               <listitem>
+                  <para>Modifying the care plan as necessary and communicating to the patient/caregiver</para>
+               </listitem>
+               <listitem>
+                  <para>Completing associated documentation</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">99091</emphasis> for a minimum of 30 minutes (cumulative time), each 30 days.</para>
+               </listitem>
+            </itemizedlist>
+            <para>If the services described by <emphasis role="bold">99091</emphasis> are provided on the same day that the patient presents for an E/M service, these services should be considered part of the E/M service and not separately reported.</para>
+            <para>Do not report <emphasis role="bold">99091</emphasis> ✱ If other, more specific CPT codes exist (eg, <emphasis role="bold">93227</emphasis>, <emphasis role="bold">93272</emphasis> for electrocardiographic services; <emphasis role="bold">95251</emphasis> for continuous glucose monitoring)</para>
+            <para>✱ For time spent by clinical staff ✱ For transfer and interpretation of data from hospital or clinical laboratory computers</para>
+            <para>✱ For time used to meet the criteria for care plan oversight services (<emphasis role="bold">99374–99380</emphasis>), personally performed CCM (<emphasis role="bold">99437</emphasis>, <emphasis role="bold">99491</emphasis>) or PCM (<emphasis role="bold">99424–99427</emphasis>), or remote physiologic monitoring treatment management services (<emphasis role="bold">99457</emphasis>, <emphasis role="bold">99458</emphasis>) CPT does not require use of a medical device as defined by the FDA for services reported with <emphasis role="bold">99091</emphasis>. Live interactive contact during the reporting period is also not a required element of service for <emphasis role="bold">99091</emphasis>.</para>
+            <para>▶ An adolescent with cystic fibrosis transmits physiologic data (self-reported and data from a combination of FDA-approved and non–FDA-approved medical devices) to their physician. The data includes results from a hand-held spirometry device and a Bluetooth oximeter, wellness and cough scores, temperature, weight, and smartwatch measurements of heart rate, exercise, and sleep. A care coordinator in the physician's practice receives the patient's data and notifies the physician of symptoms/trends that are outside the acceptable range designated by the physician. Over a 30-day period, the physician documents 30 minutes spent in review of the patient's data, updating the patient's plan of care, and providing instructions to the patient and patient's parents (as indicated). The physician reports <emphasis role="bold">99091</emphasis> linked to a diagnosis code for the current state of the child's cystic fibrosis (eg, <emphasis role="bold">E84.0</emphasis>, cystic fibrosis with pulmonary manifestations).</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0026s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0026s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0026s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0026s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>26</chapternumber>
+         <chapterid>ch0026</chapterid>
+         <chaptertitle>21. Remote Data Collection and Monitoring Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Circadian Respiratory Pattern Recording</title>
+   <para>
+      <emphasis role="bold">94772</emphasis> Circadian respiratory pattern recording (pediatric pneumogram), 12–24-hour continuous recording, infant</para>
+   <itemizedlist>
+      <listitem>
+         <para>This code is not assigned RVUs in the MPFS (used by many payers). Allowable fees are determined by the payer.</para>
+      </listitem>
+      <listitem>
+         <para>Report <emphasis role="bold">94772</emphasis> when circadian respiratory pattern recording (pediatric pneumogram), at least 12- to 24-hour continuous recording, is performed on an infant (generally defined as a child younger than 12 months old).</para>
+      </listitem>
+      <listitem>
+         <para>Physicians may be required to append modifier <emphasis role="bold">26</emphasis> to indicate that only the professional component of this service was provided.</para>
+      </listitem>
+      <listitem>
+         <para>Report 1 unit per recording period unless otherwise instructed by a payer.</para>
+      </listitem>
+   </itemizedlist>
+   <sect2 id="ch0026s0004s20002">
+      <title/>
+      <sect3 id="ch0026s0004s30003">
+         <title/>
+         <sect4 id="ch0026s0004s0001s01s01">
+            <title>Pediatric Home Apnea Monitoring Event Recording</title>
+            <para>
+               <emphasis role="bold">94774</emphasis> Pediatric home apnea monitoring event recording including respiratory rate, pattern and heart rate per 30-day period of time; includes monitor attachment, download of data, review, interpretation, and preparation of a report by a physician or other QHP <emphasis role="bold">94775</emphasis> monitor attachment only (includes hook-up, initiation of recording and disconnection)</para>
+            <para>
+               <emphasis role="bold">94776</emphasis> monitoring, download of information, receipt of transmission(s) and analyses by computer only <emphasis role="bold">94777</emphasis> review, interpretation and preparation of report only by a physician or other QHP</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">94774–94777</emphasis> are not assigned RVUs in the MPFS (used by many payers). Allowable fees are determined by the payer.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">94775</emphasis> and <emphasis role="bold">94776</emphasis> are reported by the home health agency because there is no physician work involved.</para>
+               </listitem>
+               <listitem>
+                  <para>Report either <emphasis role="bold">94774</emphasis> or <emphasis role="bold">94777</emphasis> once per 30-day period.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Report <emphasis role="bold">94774</emphasis> when the physician or QHP orders home monitoring, chooses the monitor limits, arranges for a home health care provider to teach the parents, and, after receiving downloaded information, also provides an interpretation and report of the findings and recommendations for continuation or discontinuation of monitoring.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Report <emphasis role="bold">94777</emphasis> when the physician or QHP receives the downloaded information and provides an interpretation and report of the findings and recommendations for continuation or discontinuation of monitoring. This information is provided to the primary care physician and/or the family.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>✖ Codes <emphasis role="bold">94774–94777</emphasis> are not reported in conjunction with <emphasis role="bold">93224–93272</emphasis> (electrocardiographic monitoring).</para>
+            <para>✖ The apnea recording device cannot be reported separately.</para>
+            <para>✖ When oxygen saturation monitoring is used in addition to heart rate and respiratory monitoring, it is not reported separately.</para>
+            <para>▶ An infant born at 23 weeks' gestation, corrected age now 38 weeks old, has chronic lung disease due to bronchopulmonary dysplasia and requires prolonged low-flow oxygen. The infant continues to have occasional episodes of self-stimulated apnea lasting less than 15 seconds and goes home with heart rate and respiratory monitoring during unattended periods and sleep. The physician orders the monitor, contacts the home health agency for its provision, and instructs the home health agency to teach the parents about cardiopulmonary resuscitation, proper attachment of the monitor leads, and resetting of the monitor. The home health agency provides the physician with the downloaded recordings. The first month's data are interpreted by the physician and a written report is generated. The physician counsels the parents about the need to continue monitoring.</para>
+            <para>
+               <emphasis role="bold">Teaching Point:</emphasis> Report <emphasis role="bold">94774</emphasis> and the appropriate <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification</emphasis> codes (eg, <emphasis role="bold">P27.1</emphasis>, bronchopulmonary dysplasia originating in the perinatal period; <emphasis role="bold">P28.49</emphasis>, other apnea of newborn [apnea of prematurity]; <emphasis role="bold">P07.18</emphasis>, other low birth weight newborn, 2000-2499 grams; and <emphasis role="bold">Z99.81</emphasis>, dependence on supplemental oxygen).</para>
+            <para>In subsequent months, the physician receives the downloaded recordings, interprets them, and generates reports with recommendations for continued or discontinued monitoring. These services are reported with <emphasis role="bold">94777</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0026s0004s0001s01s02">
+            <title>Ambulatory Continuous Glucose Monitoring</title>
+            <para>
+               <emphasis role="bold">95250</emphasis> Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcutaneous sensor for a minimum of 72 hours; physician or other QHP (office) provided equipment, sensor placement, hook-up, calibration of monitor, patient training, removal of sensor, and printout of record (4.31 total facility or non-facility RVUs) <emphasis role="bold">#95249</emphasis> patient-provided equipment, sensor placement, hook-up, calibration of monitor, patient training, and printout of recording (1.98 total facility or non-facility RVUs)</para>
+            <para>
+               <emphasis role="bold">95251</emphasis> Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcutaneous sensor for a minimum of 72 hours; analysis, interpretation and report (0.70 work RVUs and 1.03 total facility or non-facility RVUs)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The supplier of the equipment (patient or physician office) determines code selection for the sensor placement, hookup, calibration of the monitor, patient training, and printout of record <emphasis role="bold">95250</emphasis> and <emphasis role="bold">95249</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">95249</emphasis> or <emphasis role="bold">95250</emphasis> only when use of an ambulatory glucose monitor is initiated and data are captured for a minimum of 72 hours.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians report <emphasis role="bold">95249</emphasis> only if the patient brings the data receiver into the physician's or other QHP's office and the entire initial data collection procedure is conducted in the office.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">95249</emphasis> only once for the entire duration that a patient has a receiver, even if the patient receives a new sensor and/or transmitter. If a patient receives a new or different model of receiver, <emphasis role="bold">95249</emphasis> may be reported again when the entire initial data collection procedure is conducted in the office.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Report <emphasis role="bold">95249</emphasis> on the date the continuous glucose monitoring recording is printed in the office.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Removal of a sensor is not a required component of <emphasis role="bold">95249</emphasis>.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Analysis, interpretation, and report (<emphasis role="bold">95251</emphasis>) may be performed with or without a face-to-face encounter on the same DOS. This service is reported only once per month when at least 72 hours of monitoring is analyzed with interpretation and report.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">95249</emphasis> and <emphasis role="bold">95250</emphasis> do not include physician work (ie, valued only for practice expense and liability). <emphasis role="bold">Table 21-2</emphasis> lists the physician and clinical staff work components of <emphasis role="bold">95249–95251</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <table frame="all" id="ch0026s0004ta0001">
+               <title>Ambulatory Continuous Glucose Monitoring</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c2" namest="c1">Table 21-2. Ambulatory Continuous Glucose Monitoring of Interstitial Tissue Fluid via a Subcutaneous Sensor</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry nameend="c2" namest="c1">A minimum of 72 hours of monitoring is required for each code.</entry>
+                     </row>
+                     <row>
+                        <entry>95251</entry>
+                        <entry>Physician work includes correlation of individual data points with the patient's daily log and interpretation and report. Do not report more than once per month.</entry>
+                     </row>
+                     <row>
+                        <entry>#95249(patient-provided equipment only)</entry>
+                        <entry>Clinical staff work includes sensor placement, hookup, calibration of the monitor, patient training, and printout of the record. Report only once during the time a patient owns a given data receiver.</entry>
+                     </row>
+                     <row>
+                        <entry>95250(physician office–provided equipment only)</entry>
+                        <entry>Clinical staff work includes sensor placement, hookup, calibration of the monitor, patient training, removal of the sensor, and printout of the record. Do not report more than once per month.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0026s0004s0002">
+      <title>Remote Physiologic Monitoring Services</title>
+      <blockquote>
+         <para>
+            <emphasis role="bold">New in 2026!</emphasis> Report device supply with daily recordings or programmed alert transmission for 2 to 15 days within a 30-day period (<emphasis role="bold">99445</emphasis>) or 16 to 30 days in a 30-day period (<emphasis role="bold">99454</emphasis>). Remote physiologic treatment management services may now be reported for 10 to 19 minutes of time in a calendar month using <emphasis role="bold">99470</emphasis>. Continue reporting codes <emphasis role="bold">99457–99458</emphasis> for 20 minutes or more of remote physiologic treatment management services in a calendar month.</para>
+      </blockquote>
+      <para>Remote physiologic monitoring services include use of a medical device approved by the FDA to record and transmit daily recordings or programmed alerts. Codes distinguish equipment setup and patient education, device supply with transmission of data, and use of results to treat a patient under a specific treatment plan.</para>
+      <itemizedlist>
+         <listitem>
+            <para>Do not report <emphasis role="bold">99453</emphasis>, <emphasis role="bold">99445</emphasis>, <emphasis role="bold">99454</emphasis>, <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis>, and <emphasis role="bold">99458</emphasis> for remote physiologic monitoring services when the parameters monitored are more specifically identified by other codes.</para>
+         </listitem>
+         <listitem>
+            <para>A physician practice may provide all components (eg, equipment supply, initial setup, calibration, training, monitoring, treatment management services) or, perhaps more frequently, only the remote physiologic monitoring treatment management component (ie, <emphasis role="bold">99470</emphasis>, <emphasis role="bold">99457</emphasis> and <emphasis role="bold">99458</emphasis>).</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+</sect1>

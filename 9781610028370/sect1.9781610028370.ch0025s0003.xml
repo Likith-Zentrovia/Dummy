@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0025s0002</risprev>
+         <riscurrent>sect1.9781610028370.ch0025s0003</riscurrent>
+         <risnext>sect1.9781610028370.</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>25</chapternumber>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>20. Outpatient Telemedicine and Online Digital Services</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>98015</title>
+   <para>Synchronous audio-only visit for the E/M of an established patient, which requires a medically appropriate history and/or examination, high medical decision making, and more than 10 minutes of medical discussion. When using total time on the date of the encounter for code selection, 40 minutes must bemet or exceeded.</para>
+   <para>
+      <emphasis role="bold">Codes 98008–98015</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>May be initiated by either the physician or QHP (eg, scheduled follow-up visit) or the patient and/or parent or caregiver.</para>
+      </listitem>
+      <listitem>
+         <para>Are reported for new or established patients as defined in <emphasis role="italics">CPT</emphasis>.</para>
+      </listitem>
+   </itemizedlist>
+   <para>Although not a face-to-face service, synchronous audio-only services are comparable with a face-to-face E/M service. It is advisable to report E/M services provided to patients who have previously received an E/M service via synchronous audio-only services by using codes for an established patient visit.</para>
+   <itemizedlist>
+      <listitem>
+         <para>Require a medically appropriate history and/or (probably rarely) examination.</para>
+      </listitem>
+      <listitem>
+         <para>Do not require a specific time interval from the last in-person or telemedicine visit.</para>
+      </listitem>
+      <listitem>
+         <para>
+            <emphasis role="italics">Must include documentation of more than 10 minutes (ie, ≥11 minutes) of medical discussion.</emphasis>
+         </para>
+         <itemizedlist>
+            <listitem>
+               <para>For established patient services with more than 5 and less than 10 minutes of medical discussion, consider whether a brief virtual check-in code (<emphasis role="bold">98016</emphasis>) may be reported. Refer to the Brief Synchronous Communication Technology Service (Virtual Check-In [<emphasis role="bold">98016</emphasis>]) section later in this chapter.</para>
+            </listitem>
+            <listitem>
+               <para>The time of medical discussion must be documented in addition to total time when a code is selected on the basis of total time.</para>
+            </listitem>
+         </itemizedlist>
+      </listitem>
+      <listitem>
+         <para>Are selected according to either MDM or total time but must always include more than 10 minutes of medical discussion.</para>
+      </listitem>
+      <listitem>
+         <para>May be reported in addition to <emphasis role="bold">99417</emphasis> (prolonged outpatient E/M service) when the code for the highest level of synchronous audio-video service (<emphasis role="bold">98002</emphasis> or <emphasis role="bold">98007</emphasis>) is selected according to total time and the total time is exceeded by 15 minutes. Report 1 unit of <emphasis role="bold">99417</emphasis> appended with an appropriate telemedicine modifier for each full 15-minute period beyond the total time of the primary service.</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">Do not report 98008–98015</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>When 10 minutes or less is spent in medical discussion with the patient and/or parent or caregiver even when the required total time has been met or exceeded.</para>
+      </listitem>
+      <listitem>
+         <para>When another E/M visit is reported on the same date</para>
+      </listitem>
+      <listitem>
+         <para>For time spent by clinical staff even when performed with a physician's or QHP's oversight</para>
+      </listitem>
+      <listitem>
+         <para>For any time counted toward chronic or principal care management services (<emphasis role="bold">99437, 99491</emphasis>, or <emphasis role="bold">99424–99425</emphasis>)</para>
+      </listitem>
+      <listitem>
+         <para>For services provided by asynchronous communication (eg, secure messaging)</para>
+      </listitem>
+      <listitem>
+         <para>During the global period of a procedure provided by the same physician or QHP or individuals of the same specialty and same group practice</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="bold">Do not report 98012–98015</emphasis>
+   </para>
+   <itemizedlist>
+      <listitem>
+         <para>When provided in the same month as complex chronic care management (<emphasis role="bold">99487, 99489</emphasis>)</para>
+      </listitem>
+   </itemizedlist>
+   <para>Refer to Table 20-1 asyou review the following examples to identify the levels of MDM and/or required total time for the services described: <emphasis role="bold">▶ A parent requests a telephone call to learn their child's test results.</emphasis> A physician speaks with the parent and advises that the test results were within reference limits and no further testing or evaluation is indicated. The patient is to return for the next well-child visit or as needed. The physician documents total time of 10 minutes.</para>
+   <para>
+      <emphasis role="bold">Teaching Point:</emphasis> The documentation of total time does not support that more than 10 minutes was spent in medical discussion. Additionally, the purpose of the call—to communicate test results in the absence of an indication for additional E/M—does not support a billable service.</para>
+   <para>When a patient- or parent-initiated call addresses abnormal results and/or need for additional testing or management, documentation of the clinical indications and time spent may support a reportable audio-only E/M service.</para>
+   <para>All communications with patient and/or parents or caregivers should be documented, even when the communication is not a separately reportable service.</para>
+   <para>▶ A 17-year-old new patient requests a telephone E/M service after a positive COVID-19 test result. The patient provides history of mild symptoms for 2 days prior to testing. Although not very ill, they are especially concerned about what precautions they should take to prevent spreading the condition to their mother, who has multiple chronic conditions. A nurse practitioner (NP) spends 12 minutes obtaining the patient's history, discussing indications for an in-person visit, asking questions about long COVID, and advising the patient on precautionary measures aimed at preventing spread of the infection. The NP documents 12 minutes of interactive medical discussion, low-complexity MDM, and a total time of 20 minutes.</para>
+   <para>Teaching Point: The NP, whose scope of practice includes E/M services, selects the code on the basis of the low-level MDM and reports <emphasis role="bold">98009</emphasis> (synchronous audio-only E/M for a new patient with &gt;10 minutes of medical discussion and either low MDM or total time of ≥30 minutes). The NP's total time would support <emphasis role="bold">98008</emphasis>, which requires at least 15 minutes of total time.</para>
+   <para>▶ A 16-year-old established patient is scheduled for a telephone appointment for reevaluation of anxiety. The physician spends 30 minutes in medical discussion with the patient during the call. After the telephone service, the physician spends another 10 minutes ordering a new medication that requires prior authorization by the patient's health plan and documenting the service. <emphasis role="italics">The physician documents the 30 minutes spent in medical discussion and the total time of 40 minutes.</emphasis>
+   </para>
+   <table frame="all" id="ch0025s0003ta0001">
+      <title>98015</title>
+      <tgroup cols="2">
+         <colspec colname="c1"/>
+         <colspec colname="c2"/>
+         <thead>
+            <row>
+               <entry>ICD-10-CM</entry>
+               <entry>CPT</entry>
+            </row>
+         </thead>
+         <tbody>
+            <row>
+               <entry>F41.9 (anxiety)</entry>
+               <entry>98015 (audio-only E/M service to an established patient, including &gt;10 minutes in medical discussion, and either high-level MDM or total time of ≥40 minutes)</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <sect2 id="ch0025s0003s20001">
+      <title/>
+      <sect3 id="ch0025s0003s30004">
+         <title/>
+         <sect4 id="ch0025s0003s0001s01s01">
+            <title>Brief Synchronous Communication Technology Service (Virtual Check-In [98016])</title>
+            <para>Code <emphasis role="bold">98016</emphasis> represents an established patient E/M service that is specifically for the purpose of determining whether a more extensive E/M service is needed.</para>
+            <para>
+               <emphasis role="bold">#●98016</emphasis> Brief communication technology-based service (eg, virtual check-in) by a physician or other QHP who can report E/M services, provided to an established patient, not originating from a related E/M service provided within the previous 7 days nor leading to an E/M service or procedure within the next 24 hours or soonest available appointment, 5–10 minutes of medical discussion</para>
+            <para>
+               <emphasis role="bold">98016</emphasis>
+            </para>
+            <para>Is reported only for a service that is initiated by the established patient and/or parent or caregiver</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Is reported according to the time of medical discussion, not total time or MDM ● Requires documentation of at least 5 and up to 10 minutes of medical discussion</para>
+               </listitem>
+               <listitem>
+                  <para>Must take place via synchronous telecommunication (ie, not asynchronous communication [eg, messaging]) but does not require video technology</para>
+               </listitem>
+            </itemizedlist>
+            <para>Do not report <emphasis role="bold">98016</emphasis> ✖ For a service provided to a new patient or for a visit that was not initiated by an established patient and/or parent or caregiver</para>
+            <para>✖ For a service with less than 5 minutes of medical discussion ✖ When the service originates from a related E/M service within the previous 7 days</para>
+            <para>✖ When the service leads to an E/M service or procedure within the next 24 hours or at the soonest available appointment ✖ During the postoperative period of a procedure When the virtual check-in leads to an E/M service provided by the same physician or QHP or an individual of the same group practice and same specialty on the same date, the time of the <emphasis role="bold">98016</emphasis> service may be added to the total time on the date of the encounter.</para>
+            <para>▶ A parent requests a telephone E/M service to discuss whether an appointment is indicated for their child's refill of medication. The patient was most recently seen by the physician 4 months ago. The physician speaks with the parent and explains that a follow-up visit is required to verify that the medication is still appropriate for the child. The total time of medical discussion is 6 minutes. The patient is scheduled for the next available in-person appointment.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Teaching Point:</emphasis> The service is not reported. Code <emphasis role="bold">98016</emphasis> is not reported when the patient is scheduled for the next available in-person appointment. The physician's time of medical discussion (6 minutes) may be added to the total time of the in-person visit when the code for the in-person visit is selected based on total time.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶ A parent requests a telephone E/M service to discuss whether an appointment is indicated for their 5-year-old's symptoms, which began with nasal congestion 3 days ago and have progressed to nasal drainage with a cough. The physician speaks with the parent and explains that the symptoms are consistent with a viral URI. The parent is advised regarding appropriate home care. The total time of medical discussion is 6 minutes. The visit is not related to a prior visit and does not lead to scheduling a visit.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Teaching Point:</emphasis> The physician's time of medical discussion (6 minutes) does not support a synchronous audio-only E/M service (which would require &gt;10 minutes of medical discussion) but does support <emphasis role="bold">98016</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0025s0003s0002">
+      <title>Online Digital Evaluation and Management Services (99421–99423)</title>
+      <para>
+         <emphasis role="bold">#99421</emphasis>    Online digital E/M service, for an established patient, for up to 7 days, cumulative time during the 7 days; 5–10 minutes</para>
+      <para>
+         <emphasis role="bold">#99422</emphasis>         11–20 minutes</para>
+      <para>
+         <emphasis role="bold">#99423</emphasis>         21 or more minutes Digital communication technology (eg, patient portal messaging, secure email) that supports only asynchronous communication is increasingly used to provide online digital E/M services.</para>
+      <para>Online digital E/M services differ from telemedicine services. The required delivery mechanism for telemedicine (ie, synchronous [real-time] audiovisual or audio-only communication) is not required for online digital E/M services. Communication for online digital E/M services may be an exchange of messages through technology such as secure email, secure text messaging, or a patient portal.</para>
+      <para>Verify individual health plan policies for payment for digital E/M services.</para>
+      <para>Codes <emphasis role="bold">99421–99423</emphasis> are reported by physicians and other QHPs whose scope of practice includes E/M services as described by <emphasis role="bold">99202–99215</emphasis>, <emphasis role="bold">99241–99245</emphasis>. Online assessment and management codes <emphasis role="bold">99970–99972</emphasis> are reported by health care professionals (eg, speech or physical therapists) whose scope of practice does not include E/M services as described by <emphasis role="bold">99008–99016</emphasis>, <emphasis role="bold">99202–99499</emphasis>.</para>
+      <para>Online digital E/M services must be patient or caregiver initiated. Online digital E/M services include</para>
+      <itemizedlist>
+         <listitem>
+            <para>Cumulative physician or other QHP time devoted to the patient's care over 7 days whether the time is spent addressing <emphasis role="italics">single or multiple different problems</emphasis> within the 7-day period</para>
+         </listitem>
+         <listitem>
+            <para>Cumulative service time beginning at the physician's personal review of the patient's initial inquiry, including</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>Review of patient records or data pertinent to assessment of the patient's problem — Physician's or QHP's personal interaction with clinical staff focused on the patient's problem</para>
+         </listitem>
+         <listitem>
+            <para>Development of management plans, including physician or QHP generation of prescriptions or ordering of tests — Subsequent communication with the patient through online, telephone, email, or other digitally supported communication that does not otherwise represent a separately reported E/M service</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>The cumulative time of multiple physicians and/or QHPs in the same group practice and same specialty and subspecialty over the course of a service period (up to 7 days from the initiating physician's initial review of the patient's inquiry)</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="bold">A physician or QHP may instruct clinical staff to relay a response to a patient and/or caregiver, but only the physician's or QHP's time is included in the service time used to select a code for the online digital E/M service.</emphasis>
+      </para>
+      <itemizedlist>
+         <listitem>
+            <para>Permanent documentation storage (electronic or hard copy) of the encounter</para>
+         </listitem>
+      </itemizedlist>
+      <para>Document but do not report online digital services</para>
+      <itemizedlist>
+         <listitem>
+            <para>Of less than 5 minutes' total time</para>
+         </listitem>
+         <listitem>
+            <para>Based on any time spent by clinical staff</para>
+         </listitem>
+         <listitem>
+            <para>During the global period of a procedure</para>
+         </listitem>
+         <listitem>
+            <para>If another E/M service (in person or via telemedicine) for the same or related problem occurred within 7 days before the online digital service</para>
+         </listitem>
+         <listitem>
+            <para>When a separately reported E/M visit occurs within 7 days of initiation of an online digital E/M service</para>
+         </listitem>
+      </itemizedlist>
+      <para>If a patient generates the initial online digital inquiry for a new problem within 7 days of a previous E/M visit that addressed a different problem, the online digital E/M service may be reported separately. <emphasis role="bold">Table 20-2</emphasis> illustrates reporting instructions for <emphasis role="bold">99421–99423</emphasis> with or without additional services within a 7-day period.</para>
+      <table frame="all" id="ch0025s0003ta0002">
+         <title>Online Digital Evaluation and Management Services (99421–99423)</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry nameend="c2" namest="c1">Table 20-2. Decision-Making Guide for Reporting Online Digital Evaluation and Management Services</entry>
+               </row>
+               <row>
+                  <entry nameend="c2" namest="c1">Use the questions and directions following each question in this table to guide reporting of online digital E/M codes 99421–99423 when using the CPT guidelines.*</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>1. Is this service related to and within the global period of a procedure provided by the same physician or other QHP or an individual in the exact same specialty and same group practice?</entry>
+                  <entry>No: Go to question 2.Yes: Stop and do not bill the online digital E/M service.</entry>
+               </row>
+               <row>
+                  <entry>2. Has the 7-day period for the online digital E/M service concluded?</entry>
+                  <entry>No: Hold the claim to determine if another E/M service within the 7-day period of the online digital E/M service will affect reporting.†Yes: Go to question 3.</entry>
+               </row>
+               <row>
+                  <entry>3. Was the cumulative time of service over the 7-day period at least 5 minutes?</entry>
+                  <entry>No: Stop and do not report the online digital E/M service. Yes: Continue to question 4.</entry>
+               </row>
+               <row>
+                  <entry>4. Did the patient receive a face-to-face E/M service (in person or via telemedicine) within the 7 days following receipt of the online digital E/M service by a physician or QHP of the exact same specialty and same group practice?</entry>
+                  <entry>No: Continue to question 5.Yes: Stop and report only the in-person or telemedicine E/M service.</entry>
+               </row>
+               <row>
+                  <entry>5. Did the patient receive the online digital E/M service within 7 days following receipt of a face-to-face E/M service (in person or via telemedicine) by a physician or QHP of the same specialty and same group practice?</entry>
+                  <entry>No: Continue to row 7.Yes: Continue to question 6.</entry>
+               </row>
+               <row>
+                  <entry>6. Did the patient receive the online digital E/M service for the same or a related problem within the 7 days following receipt of a face-to-face E/M service (in person or via telemedicine) by a physician or QHP of the same specialty and same group practice?</entry>
+                  <entry>No: Continue to row 7.Yes: Stop and report only the prior E/M service.</entry>
+               </row>
+               <row>
+                  <entry>7. Report the online digital E/M service based on the cumulative time of service by all physicians and other QHPs in the exact same specialty and same group practice over the 7-day period.‡</entry>
+                  <entry>99421 5–10 minutes99422 11–20 minutes99423 21 minutes or more (no upper limit)</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <itemizedlist>
+         <listitem>
+            <para>Refer to your CPT reference for full reporting guidelines.</para>
+         </listitem>
+      </itemizedlist>
+      <para>† CPT does not require that billing for online digital E/M services be held until completion of the 7-day service period. However, billing prior to completion of the 7-day period may result in the need to cancel a claim for an online digital E/M service and file a separate claim for another E/M service within the 7-day period.</para>
+      <para>‡ When indicated, append a modifier to indicate that an unrelated problem was addressed within 7 days following receipt of another E/M service (eg, XU, unusual non-overlapping service) or during a postoperative period (24, unrelated E/M service by the same physician or QHP during a postoperative period).</para>
+      <para>▶ On July 1, a pediatrician provides an online digital E/M service to a patient with a rash, which includes obtaining history, reviewing digital photographs of the rash, and advising the parent/caregiver on home treatment. The time of service is 10 minutes and is reportable with <emphasis role="bold">99421</emphasis>. The service is reported when the 7-day service period is complete and no face-to-face E/M service has been rendered during that period. In addition to the documented request for service and images received through the patient portal, the physician uses a template to document the service.</para>
+      <para>
+         <emphasis role="bold">Date:</emphasis> July 1, 2026 <emphasis role="bold">Service initiated and consent by:</emphasis> Ms Smith (mother) <emphasis role="bold">Provided via:</emphasis> Electronic health record portal</para>
+      <para>
+         <emphasis role="bold">History:</emphasis> Per mother, rash began 2 days ago and she thinks it may be impetigo. No known allergies or exposures. Mother has washed it with soap and water and applied neomycin.</para>
+      <para>
+         <emphasis role="bold">Examination:</emphasis> Reviewed digital images of rash. Appears to benonbullous impetigo of the skin above the mouth and right cheek.</para>
+      <para>
+         <emphasis role="bold">Response:</emphasis> Advised to keep area clean with soap and water with removal of crusts and to stop neomycin and start a prescription of mupirocin ointment at 3 times a day for 7 days. Instructed to return to office in 1 to 2 days if rash not improving because patient may need oral antibiotics. Advised that this is contagious and can spread, so may wash patient's face 2 to 3 times a day and change towels frequently.</para>
+      <para>
+         <emphasis role="bold">Total time:</emphasis> 8 minutes</para>
+      <para>Electronic signature applied <emphasis role="bold">Teaching Point:</emphasis> The time of any <emphasis role="italics">subsequent</emphasis> online E/M service within the 7-day service period is added to the time of the first service and 1 code is reported (eg, <emphasis role="bold">99422</emphasis>) for the combined services.</para>
+      <para>▶ For the same patient as in the previous example, the parent/caregiver sends a new photograph on July 3 because they are concerned that the rash is not responding to treatment. The pediatrician sees the patient in the office later that day.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> Code <emphasis role="bold">99421</emphasis> is not reported for the prior online digital E/M services. Only the appropriate code for the office visit (eg, <emphasis role="bold">99213</emphasis>) is reported.</para>
+      <para>▶ A patient is seen in the office by a pediatrician for a URI on January 9. On January 14, the same patient receives an online digital E/M service for advice on managing fear of sleeping in their own bed. Because the problem addressed by the online service is unrelated to the problem addressed at the office encounter, the online service is separately reported (eg, <emphasis role="bold">99422</emphasis>).</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> Follow payer instructions for reporting an unrelated online service within 7 days of an office E/M service (eg, append modifier <emphasis role="bold">XU</emphasis> [unusual non-overlapping service]). Append modifier <emphasis role="bold">24</emphasis> (unrelated E/M service by the same physician or other qualified health care professional during a postoperative period) when an online service occurs during a postoperative period of an unrelated procedure (eg, within a 10- or 90-day global period).</para>
+      <para>▶ A 10-year-old patient is seen in the office by a pediatrician for concern of serous otitis media on January 9. On January 11, a parent/caregiver contacts the pediatrician via secure email with concern that the patient's symptoms have worsened, so the pediatrician prescribes an antibiotic.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> Only the office encounter (eg, <emphasis role="bold">99213</emphasis>) is reported because the online digital E/M service is provided within 7 days for the same problem addressed at the in-person visit.</para>
+      <para>▶ A patient receives an online digital E/M service on January 9. The physician's total time spent providing the service is 10 minutes. On January 15, the same patient receives an online digital E/M service for an unrelated problem with a total physician time of 15 minutes.</para>
+      <para>
+         <emphasis role="bold">Teaching Point:</emphasis> The 2 services occurring within 7 days are combined, even though each service addressed different problems, and reported with <emphasis role="bold">99423</emphasis>. A practice may choose to delay billing of online services until the 7-day period of service is completed. Alternatively, if the initial service has been reported and another service is provided within 7 days such that the combined time supports a higher level of service, the initial claim may be canceled and a new claim submitted for the combined services with the code that accounts for additional time. Follow payer guidelines for the date of service, typically the date that the service was completed, although the range of dates from the first to last service may be included in the notes field on the claim.</para>
+      <para>Do not include the time of separately reported online digital E/M services in the time attributed to other services (eg, care plan oversight [99374, 99375, 99377–99380] or chronic or principal care management services [99487, 99489, 99490, #99439, 99491, 99424–99427]).</para>
+   </sect2>
+   <sect2 id="ch0025s0003s0003">
+      <title>Remote Evaluation of Recorded Video and/or Images</title>
+      <para>
+         <emphasis role="bold">G2010</emphasis> Remote evaluation of recorded video and/or images submitted by an established patient (eg, store and forward), including interpretation with follow-up with the patient within 24 business hours, not originating from a related E/M service provided within the previous 7 days nor leading to an E/M service or procedure within the next 24 hours or soonest available appointment The Centers for Medicare &amp; Medicaid Services created <emphasis role="bold">G2010</emphasis> as a virtual check-in service allowing payment for evaluation of patient images and/or recorded video sent via digital technology (eg, secure email or text messaging, patient portal) to a physician or QHP by an established patient or their caregiver and the physician's or QHP's response regarding recommended management.</para>
+      <para>
+         <emphasis role="bold">G2010</emphasis> represents a service that includes review of the patient-submitted images and/or video and communications with the patient/caregiver in response to the findings <emphasis role="italics">but is not a time-based service</emphasis>.</para>
+      <para>Report <emphasis role="bold">G2010</emphasis> when the service:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Is initiated and agreed to by an established patient (although the practice may inform the patient of the option to access care via submission of recorded video or images)</para>
+         </listitem>
+         <listitem>
+            <para>Includes interpretation and follow-up communication with the patient within <emphasis role="italics">24 business hours</emphasis>
+            </para>
+         </listitem>
+         <listitem>
+            <para>Is unrelated to a medical visit within the previous 7 days and does not lead to a medical visit within the next 24 hours (or soonest appointment available)</para>
+         </listitem>
+         <listitem>
+            <para>Is a physician or QHP service in response to receipt of images and/or video from an established patient and/or caregiver</para>
+         </listitem>
+         <listitem>
+            <para>Is reported for work personally performed by a physician or QHP, not clinical staff, in review of images and/or video and preparation of a response to the patient and/or caregiver</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ A physician receives and reviews images of a rash on a 9-month-old's trunk. The patient's mother sent the images in a secure email that included history of the patient's being feverish earlier in the week but not acting or appearing ill and not showing any signs of itching or discomfort. The mother also notes suspicion that the rash is caused by roseola. The physician agrees that the rash is likely caused by roseola and advises clinical staff to relay this information with instruction to follow up if any new symptoms develop. The service is reported to a payer that allows payment when reported with <emphasis role="bold">G2010</emphasis>.</para>
+      <para>Teaching Point: The physician's review of the images and provision of medical advice to the caregiver via clinical staff supports <emphasis role="bold">G2010</emphasis>. When the service requires an in-person or telemedicine E/M service on the same date or at the next available appointment in response to the review of images/video, <emphasis role="bold">G2010</emphasis> is not separately reported. There is no requirement for time spent providing this service.</para>
+      <para>To test your knowledge of the information presented in this chapter, complete the quiz found at the end of it, after the resources. Answers to each quiz are found in <emphasis role="bold">Appendix II</emphasis>.</para>
+      <para>Telemedicine is an evolving practice, which results infrequent changes to codes, guidelines, and payer policies. Following are some takeaways from this chapter:</para>
+      <itemizedlist>
+         <listitem>
+            <para>Codes <emphasis role="bold">98000–98007</emphasis> are reported for synchronous audio-visual visits according to either MDM or total time.</para>
+         </listitem>
+         <listitem>
+            <para>Codes <emphasis role="bold">98008–98015</emphasis> are reported for synchronous audio-only visits based on either MDM or total time but with an additional requirement of more than 10 minutes spent in medical discussion.</para>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">99417</emphasis> 95 (prolonged outpatient E/M service) may be reported in addition to <emphasis role="bold">98003</emphasis>, <emphasis role="bold">98007</emphasis>, <emphasis role="bold">98011</emphasis>, and <emphasis role="bold">98015</emphasis> when code selection is based on total time and the required total time is exceeded by 15 minutes or more.</para>
+         </listitem>
+         <listitem>
+            <para>When the video component of an audio-video E/M service is lost and the service is continued with audio-only communication, the service is reported according to the service that accounted for the majority of the time spent in interactive medical discussion and/or patient observation. A requirement of more than 10 minutes of medical discussion applies.</para>
+         </listitem>
+         <listitem>
+            <para>Code <emphasis role="bold">98016</emphasis> is reported for a brief (5- to 10-minute) synchronous communication technology visit for the purposes of determining whether a more extensive service is required.</para>
+         </listitem>
+         <listitem>
+            <para>Modifiers <emphasis role="bold">93</emphasis> and <emphasis role="bold">95</emphasis> are not appended to codes <emphasis role="bold">98000–98016</emphasis>.</para>
+         </listitem>
+         <listitem>
+            <para>Payers may require specific POS code <emphasis role="bold">02</emphasis> or <emphasis role="bold">10</emphasis> to identify where the patient received a telemedicine service.</para>
+         </listitem>
+         <listitem>
+            <para>Codes <emphasis role="bold">99421–99423</emphasis> are reported for E/M services provided via asynchronous communication technology. Limitations apply regarding services within 7 days of a previous E/M service or resulting in an appointment for another E/M service within 24 hours or at the soonest available appointment.</para>
+         </listitem>
+         <listitem>
+            <para>Codes discussed in this chapter are not reported when another E/M service is provided by the same physician or QHP or individuals of the same group practice and same exact specialty on the same date.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0025s0003s0004">
+      <title>Resources</title>
+      <sect3 id="ch0025s0003s30005">
+         <title/>
+         <sect4 id="ch0025s0003s0004s01s01">
+            <title>AAP Coding Assistance and Education</title>
+            <para>AAP Section on Telehealth Care (www.aap.org/en/community/aap-sections/telehealth-care) <emphasis role="italics">Pediatric Telehealth Best Practices</emphasis> Paperback and eBook Package (www.aap.org/Pediatric-Telehealth-Best-Practices-Paperback-and-eBook-Package)</para>
+            <para>
+               <emphasis role="italics">Pediatric Telehealth Coding: Expert Guidance for Your Practice</emphasis> (www.aap.org/Pediatric-Telehealth-Coding-Paperback)</para>
+         </sect4>
+         <sect4 id="ch0025s0003s0004s01s02">
+            <title>AAP Pediatric Coding Newsletter™</title>
+            <para>"CPT 2025: An Overview of Telemedicine Code Changes," November 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book247</emphasis> document002) "CPT 2025: Audio-Only Telemedicine Services," December 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book248</emphasis> document004)</para>
+            <para>"CPT 2025: Audio-Video Telemedicine Visits," December 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book248</emphasis> document003) "CPT 2025: Reporting a Brief Communication Technology-Based Service," December 2024 (https://doi.org/10.1542/pcco <emphasis role="italics">book248</emphasis> document002)</para>
+            <para>"Q&amp;A: Coding for Telemedicine Services in 2025," January 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book249</emphasis> document004) "Telemedicine in 2025: Beyond the New Codes," January 2025 (https://doi.org/10.1542/pcco <emphasis role="italics">book249</emphasis> document002)</para>
+            <itemizedlist>
+               <listitem>
+                  <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiosvisual technology; and ♦, synchronous interactive audio.</para>
+               </listitem>
+            </itemizedlist>
+            <orderedlist continuation="restarts" inheritnum="ignore">
+               <listitem>
+                  <para>
+                     <emphasis role="bold">True or false? Telemedicine codes 98000-98015 may be selected on the basis of either level of MDM or total time on the date of the encounter.</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>True</para>
+                     </listitem>
+                     <listitem>
+                        <para>False</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which service may be reported with synchronous audio-video telemedicine visit codes 98004-98007?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A telemedicine service provided within 7 days of an in-person visit</para>
+                     </listitem>
+                     <listitem>
+                        <para>A service that includes only communication between the patient and clinical staff who relay a physician's or QHP's instructions to the patient</para>
+                     </listitem>
+                     <listitem>
+                        <para>A synchronous audio-video telemedicine service provided to a new patient</para>
+                     </listitem>
+                     <listitem>
+                        <para>A telemedicine service that was provided via audio-only communication because the patient's video technology failed</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following is reported with audio-only telemedicine service codes 98012?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>An audio-only E/M service for answer questions relating a procedure performed by the same physician or QHP during a 10-day post-operative period.</para>
+                     </listitem>
+                     <listitem>
+                        <para>An E/M service provided to an established patient by clinical staff under a physician's direct supervision and in continuation of the physician's plan of care.</para>
+                     </listitem>
+                     <listitem>
+                        <para>An audio-only E/M service with 11 minutes spent in medical discussion and total time of 16 minutes.</para>
+                     </listitem>
+                     <listitem>
+                        <para>An audio-only E/M service with 8 minutes of medical discussion and total time of 15 minutes.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which is correct when reporting a synchronous audio-video E/M service of 20 minutes beyond the 40 minutes total time used to select code 98007?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>CPT does not allow reporting of prolonged services when a service is provided via telemedicine so only 98007 is reported.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Report 98007 and 99417 95 × 1 unit.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Report only 99417 95 with 4 units.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Report 98007 and 99417 95 × 2 units.</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Which of the following may be reported with code 98016?</emphasis>
+                  </para>
+                  <orderedlist continuation="restarts" inheritnum="ignore">
+                     <listitem>
+                        <para>A telephone call by a physician to advise a patient/parent that their health plan has denied prior authorization of a test and an alternative test has been ordered and scheduled</para>
+                     </listitem>
+                     <listitem>
+                        <para>An audio-only E/M service provided at the request of and to an established patient with 8 minutes of medical discussion</para>
+                     </listitem>
+                     <listitem>
+                        <para>An exchange of secure emails with a patient or parent that required 9 minutes of a physician's time</para>
+                     </listitem>
+                     <listitem>
+                        <para>A 3-minute E/M service provided via synchronous communication technology</para>
+                     </listitem>
+                  </orderedlist>
+               </listitem>
+            </orderedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

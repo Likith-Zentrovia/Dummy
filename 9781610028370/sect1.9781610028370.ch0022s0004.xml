@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.ch0022s0003</risprev>
+         <riscurrent>sect1.9781610028370.ch0022s0004</riscurrent>
+         <risnext>sect1.9781610028370.ch0022s0005</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>18. Common Surgical Procedures and Sedation in Facility Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Cardiovascular Procedures</title>
+   <sect2 id="ch0022s0004s20003">
+      <title/>
+      <sect3 id="ch0022s0004s30009">
+         <title/>
+         <sect4 id="ch0022s0004s0001s01s01">
+            <title>Diagnostic Studies Performed in Conjunction With Interventional Procedures</title>
+            <para>CPT provides specific guidance regarding separate reporting of radiological supervision and interpretation performed as part of a vascular or cardiac procedure (eg, fluoroscopic guidance, contrast injections, angiography performed to accomplish the intervention). It is important that these guidelines are understood and used to distinguish studies included in interventional procedures from diagnostic studies that may be performed on the same date or at the same session.</para>
+            <para>Generally, diagnostic angiography, venography, and heart catheterization performed in conjunction with an interventional procedure may be separately reported (append modifier <emphasis role="bold">59</emphasis>) only when one of the following circumstances is true:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>No prior study is available and a full diagnostic study is performed.</para>
+               </listitem>
+               <listitem>
+                  <para>A prior study is available, but as documented in the medical record, one of the following circumstances applies:</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>There is inadequate visualization of the anatomy and/or pathology.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>The patient's condition with respect to the clinical indication has changed since the prior study.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>There is a clinical change during the procedure that requires new evaluation.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not separately report diagnostic imaging that is specifically included in the code descriptor of an interventional procedure.</para>
+            <para>Predatory instructions preceding codes for interventional services should be used to guide code selection.</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s02">
+            <title>Echocardiography</title>
+            <para>For discussion of limited transthoracic echocardiography (TTE) as part of the focused assessment with sonography for trauma examination, refer to Chapter 14.</para>
+            <para>Physicians and QHPs report codes for echocardiography with modifier 26 (professional component) when the facility bears the expense of the equipment and staff to perform the technical components of echocardiography. When applicable, and when all requirements for reporting are met, ultrasonography performed with physician-owned equipment is reported without a modifier (ie, modifiers 26 and TC are not applicable).</para>
+            <para>★ Do not report echocardiography codes for a service without thorough evaluation of organ(s) or anatomical region, image documentation, and final, written report.</para>
+            <para>Multiple sets of codes describe echocardiography by type, purpose, and included components. Refer to "Echocardiography Code List" at www.aap.org/cfp2026 and your CPT reference for full code descriptors.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The standard echocardiogram is TTE, 93303–93308, or TTE with stress, 93350–93352. But when necessary to obtain different views of the heart and blood flow, transesophageal echocardiography (TEE) (93312–93318) or TEE guidance of a transcatheter intervention (93355) is performed.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Codes 93319 (3D echocardiographic imaging and postprocessing during echocardiography) and 76987–76989 (intraoperative epicardial ultrasound) are discussed in the 3D Echocardiographic Imaging and Postprocessing section and the Diagnostic Intraoperative Epicardial Cardiac Ultrasound section that follow.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Note that 93303–93304 and 93315–93317 are limited to the evaluation of congenital cardiac anomalies.</para>
+               </listitem>
+            </itemizedlist>
+            <para>★ Congenital echocardiography should not be used when congenital heart disease is suspected but not found during echocardiographic evaluation. If so, noncongenital echocardiography codes should be reported.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes for standard echocardiography are reported when congenital anomalies are limited to patent foramen ovale or bicuspid aortic valve.</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>The work of complete echocardiography, in contrast to limited or follow-up study, is fully described in CPT predatory instructions to echocardiography codes. Physicians and QHPs should document circumstances under which, despite significant effort, identification and measurement of some structures were not possible.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Where codes do not differentiate complete from limited/follow-up echocardiographic studies, modifier 52 (reduced service) or 53 (discontinued service) may be reported to indicate significantly reduced work.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Administration of sedation or hypnotic agents for echocardiography is not separately reported except when services by an anesthesiologist or another provider of deep sedation are required.</para>
+               </listitem>
+               <listitem>
+                  <para>AOCs for spectral and color flow Doppler echocardiography and myocardial strain imaging provided in conjunction with echocardiography (93320, 93321, 93325, 93350) are reported in addition to certain echocardiography codes. Refer to CPT instructions below each AOC for a list of codes to which each is additionally reported.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes for echocardiograms are not included inany of the critical care services. Separately report echocardiography when performed by the same physician or QHP providing critical care services on the same date.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s03">
+            <title>3D Echocardiographic Imaging and Postprocessing</title>
+            <para>★93319    3D echocardiographic imaging and postprocessing during TEE, or during TTE for congenital cardiac anomalies, for the assessment of cardiac structure(s) (eg, cardiac chambers and valves, left atrial appendage, interatrial septum, interventricular septum) and function, when performed (List separately in addition to code for echocardiographic imaging) When performed, report 93319 in conjunction with</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Transthoracic echocardiography for congenital cardiac anomalies (complete [93303] or follow-up/limited [93304] study) ● Transesophageal echocardiography, real time with image documentation (93312, 93314)</para>
+               </listitem>
+               <listitem>
+                  <para>Transesophageal echocardiography for congenital cardiac anomalies (93315, 93317).</para>
+               </listitem>
+            </itemizedlist>
+            <para>★ indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiosual technology; and ♦, synchronous interactive audio.</para>
+            <para>✱ Do not report <emphasis role="bold">93319</emphasis> in conjunction with 3D rendering with interpretation and reporting (<emphasis role="bold">76376, 76377</emphasis>), Doppler echocardiography color flow velocity mapping (<emphasis role="bold">93325</emphasis>), or echocardiography, transesophageal, for guidance of a transcatheter intracardiac or great vessel(s) structural intervention(s) (<emphasis role="bold">93355</emphasis>).</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s04">
+            <title>Diagnostic Intraoperative Epicardial Cardiac Ultrasound</title>
+            <para>
+               <emphasis role="bold">76987</emphasis> Intraoperative epicardial cardiac ultrasound (eg, echocardiography) for congenital heart disease, diagnostic; including placement and manipulation of transducer, image acquisition, interpretation and report <emphasis role="bold">76988</emphasis> placement, manipulation of transducer, and image acquisition only</para>
+            <para>
+               <emphasis role="bold">76989</emphasis> interpretation and report only Intraoperative epicardial cardiac ultrasound for congenital heart disease is an alternative diagnostic imaging study to TEE (<emphasis role="bold">93312–93314</emphasis>).</para>
+            <para>Code <emphasis role="bold">76987</emphasis> is reported for the combined professional and technical components of intraoperative epicardial cardiac ultrasound for congenital heart disease service. Report <emphasis role="bold">76989</emphasis> when the physician provides only the professional components of interpretation and report. Code <emphasis role="bold">76988</emphasis> is reported for the technical components provided by an entity other than the physician performing interpretation and report.</para>
+            <para>✱ Do not report intraoperative ultrasound guidance (<emphasis role="bold">76998</emphasis>) in addition to <emphasis role="bold">76987–76989</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s05">
+            <title>Cardiac Catheterization for Congenital Heart Defects</title>
+            <para>Codes <emphasis role="bold">93593–93598</emphasis> are reported <emphasis role="italics">only when cardiac catheterization is performed for evaluation of congenital cardiac defects</emphasis>.</para>
+            <para>Diagnostic heart catheterization in a patient without congenital defect (eg, any acquired heart disease, such asdilated cardiomyopathy secondary to viral myocarditis, coronary artery diagnosis, or intervention in Kawasaki disease) is reported with <emphasis role="bold">93451–93456, 93460</emphasis>, and <emphasis role="bold">93461</emphasis>.</para>
+            <para>There is noage limit for services reported with <emphasis role="bold">93593–93598</emphasis>. If there is evaluation of congenital cardiac defects, it is appropriate to report these codes. These codes take into account:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The added technical difficulty presented when structures may be in abnormal positions and locations and access is through abnormal native connections.</para>
+               </listitem>
+               <listitem>
+                  <para>Additional preservice time in both discussing the procedure with parents and reviewing noninvasive data, previous cardiac catheterizations, and previous surgical procedures.</para>
+               </listitem>
+               <listitem>
+                  <para>Procedures may be more time consuming because of small vessels, multiple measurements that must be made, hemodynamic instability of patients, frequency of multiple sites of arterial-venous admixture, and performance of other required interventions.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Heart catheterization includes ultrasound guidance of vascular access, generalized fluoroscopy to guide catheter manipulation, and any limited echocardiographic guidance when performed by the proceduralist. Echocardiography by another cardiologist during the same session is separately reported.</para>
+            <para>
+               <emphasis role="bold">93593</emphasis> Right heart catheterization for congenital heart defect(s) including imaging guidance by the proceduralist to advance the catheter to the target zone; normal native connections</para>
+            <para>
+               <emphasis role="bold">93594</emphasis> abnormal native connections For reporting purposes, when the morphological left ventricle or left atrium is in a subpulmonic position as a result of congenital heart disease (eg, transposition of the great arteries), catheter placement in either of these structures is considered part of right-sided heart catheterization and does not constitute left-sided heart catheterization.</para>
+            <para>
+               <emphasis role="bold">93595</emphasis> Left heart catheterization for congenital heart defect(s) including imaging guidance by the proceduralist to advance the catheter to the target zone, normal or abnormal native connections <emphasis role="bold">93596</emphasis> Right and left heart catheterization for congenital heart defect(s) including imaging guidance by the proceduralist to advance the catheter to the target zone(s); normal native connections</para>
+            <para>
+               <emphasis role="bold">93597</emphasis> abnormal native connections</para>
+            <para>
+               <emphasis role="bold">Codes 33745 and 33746</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Include intracardiac stent placement, target zone angioplasty preceding or following stent implantation, and <emphasis role="italics">complete diagnostic right- and left-sided heart catheterization</emphasis> (not separately reported), when performed.</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Ultrasound guidance for vascular access and fluoroscopic guidance for the intervention is included, when performed. Intracardiac echocardiography including imaging supervision and interpretation is separately reported with <emphasis role="bold">93662</emphasis>, when performed.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Includes all balloon angioplasties performed in the target lesion, including any pre-dilation or post-dilation following stent placement, or use of a smaller balloon to achieve therapeutic result.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Angioplasty in a separate and distinct intracardiac lesion may be reported separately with modifier 59 (distinct procedural service) appended to the angioplasty code.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Although diagnostic angiography (<emphasis role="bold">93563, 93565–93568, 93569, 93573–93575</emphasis>) is typically performed during <emphasis role="bold">33745</emphasis>, target vessels and chambers are highly variable and, <emphasis role="italics">when performed for an evaluation separate and distinct from the stent delivery</emphasis>, may be reported separately with modifier 59.</para>
+               </listitem>
+               <listitem>
+                  <para>When additional, different intracardiac locations are treated in the same session, <emphasis role="bold">33746</emphasis> may be reported for each additional intracardiac shunt creation by stent placement at a separate location.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Report a single code, and not a first or additional unit of <emphasis role="bold">33746</emphasis>, for placement of multiple stents in a single location.</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s06">
+            <title>Aortic Valvuloplasty</title>
+            <para>
+               <emphasis role="bold">33390</emphasis> Valvuloplasty, aortic valve, open, with cardiopulmonary bypass; simple (ie, valvotomy, debridement, debulking, and/or simple commissural resuspension) <emphasis role="bold">33391</emphasis> complex (eg, leaflet extension, leaflet resection, leaflet reconstruction, or annuloplasty)</para>
+            <para>✱ Do not report <emphasis role="bold">33391</emphasis> in conjunction with <emphasis role="bold">33390</emphasis>.</para>
+            <para>Codes for open valvuloplasty of the aortic valve</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are descriptive of currently performed valvuloplasty procedures</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Code <emphasis role="bold">33390</emphasis> is specifically for reporting valvotomy, debridement, debulking, and/or simple commissural resuspension.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Code <emphasis role="bold">33391</emphasis> represents more complex procedures not limited to the examples in the code descriptor.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>May be reported in conjunction with the code for transmyocardial revascularization (<emphasis role="bold">33141</emphasis>), operative tissue ablation and reconstruction of atria (<emphasis role="bold">33255–33259</emphasis>), and reoperation, valve procedure, more than 1 month after original operation (<emphasis role="bold">33530</emphasis>), when appropriate</para>
+               </listitem>
+            </itemizedlist>
+            <para>Open procedures for aortic valve replacement are reported with <emphasis role="bold">33405, 33406</emphasis>, and <emphasis role="bold">33410</emphasis> according to the type of replacement valve (ie, prosthetic, homograft, or stentless).</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s07">
+            <title>Transcatheter Pulmonary Valve Implantation</title>
+            <para>
+               <emphasis role="bold">33477</emphasis> Transcatheter pulmonary valve implantation, percutaneous approach, including pre-stenting of the valve delivery site, when performed The key instructions for reporting <emphasis role="bold">33477</emphasis> are that it</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Should be reported only once per session</para>
+               </listitem>
+               <listitem>
+                  <para>Includes, when performed,</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Percutaneous access, placement of the access sheath, advancement of the repair device delivery system into position, repositioning of the device as needed and deployment of the device(s), angiography, all cardiac catheterization(s) for hemodynamic measurements, intraprocedural contrast injections, radiological supervision, and interpretation performed to guide transcatheter pulmonary valve implantation — Percutaneous balloon angioplasty of the conduit or treatment zone, valvuloplasty of the pulmonary valve conduit, and stent deployment within the pulmonary conduit or an existing bioprosthetic pulmonary valve</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Do not separately report diagnostic angiography (<emphasis role="bold">93563, 93566–93568, 93569, 93573</emphasis>) or right-sided heart catheterization (<emphasis role="bold">93451–93461; 93593, 93594, 93596–93598</emphasis>) that is intrinsic to the procedure.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Other cardiac catheterization may be reported separately when performed for diagnostic purposes not intrinsic to transcatheter pulmonary valve implantation.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="bold">Does not include</emphasis> (Report separately, when performed.)</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Codes <emphasis role="bold">92997</emphasis> and <emphasis role="bold">92998</emphasis> when pulmonary artery angioplasty is performed at a site separate from the prosthetic valve delivery site ✱ Codes <emphasis role="bold">37236</emphasis> and <emphasis role="bold">37237</emphasis> when pulmonary artery stenting is performed at a site separate from the prosthetic valve delivery site</para>
+            <para>✱ Same-session/same-day <emphasis role="italics">diagnostic</emphasis> cardiac catheterization services (Refer to your <emphasis role="italics">CPT</emphasis> reference for further instruction, and append catheterization code with modifier 59.) ✱ Diagnostic coronary angiography performed at a separate session from an interventional procedure</para>
+            <para>✱ Percutaneous coronary interventional procedures</para>
+            <para>✱ Percutaneous pulmonary artery branch interventions ✱ Percutaneous ventricular assist device procedure codes (<emphasis role="bold">33990–33993</emphasis>), extracorporeal membrane oxygenation/extracorporeal life support procedure codes (<emphasis role="bold">33946–33989</emphasis>), or balloon pump insertion codes (<emphasis role="bold">33967, 33970, 33973</emphasis>)</para>
+            <para>✱ Percutaneous peripheral bypass (<emphasis role="bold">33367</emphasis>), open peripheral bypass (<emphasis role="bold">33368</emphasis>), or central bypass (<emphasis role="bold">33369</emphasis>) ✱ Ligation and takedown of a systemic to pulmonary artery shunt, performed in conjunction with a congenital heart procedure (<emphasis role="bold">33924</emphasis>)</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s08">
+            <title>Transcatheter Interventions for Revascularization/Repair for Coarctation of the Aorta</title>
+            <para>
+               <emphasis role="bold">33894</emphasis> Endovascular stent repair of coarctation of the ascending, transverse, or descending thoracic or abdominal aorta, involving stent placement; across major side branches</para>
+            <para>
+               <emphasis role="bold">33895</emphasis> not crossing major side branches <emphasis role="bold">33897</emphasis> Percutaneous transluminal angioplasty of native or recurrent coarctation of the aorta</para>
+            <para>Codes <emphasis role="bold">33894, 33895</emphasis>, and <emphasis role="bold">33897</emphasis> include all fluoroscopic guidance of the intervention, diagnostic congenital left-sided heart catheterization, all catheter and wire introductions and manipulation, and angiography of the target lesion. For additional diagnostic right-sided heart catheterization in the same setting as <emphasis role="bold">33894</emphasis> and <emphasis role="bold">33895</emphasis>, refer to <emphasis role="bold">93593</emphasis> and <emphasis role="bold">93594</emphasis>.</para>
+            <para>Code <emphasis role="bold">33897</emphasis> may be reported in addition to <emphasis role="bold">33894</emphasis> or <emphasis role="bold">33895</emphasis> for balloon angioplasty of an additional coarctation of the aorta in a segment <emphasis role="italics">separate from the treatment zone</emphasis> for the coarctation stent. Balloon angioplasty <emphasis role="italics">within the target treatment zone</emphasis>, however, either before or after stent deployment, is not separately reportable in conjunction with <emphasis role="bold">33894</emphasis> or <emphasis role="bold">33895</emphasis>. For angioplasty and other transcatheter revascularization interventions of <emphasis role="italics">additional upper or lower extremity vessels</emphasis> in the same setting as <emphasis role="bold">33897</emphasis>, use the appropriate code from the Surgery/Cardiovascular System section of <emphasis role="italics">CPT</emphasis>.</para>
+            <para>✱ Do not report <emphasis role="bold">33897</emphasis> in conjunction with open or percutaneous transluminal angioplasty (<emphasis role="bold">37246</emphasis>) or with transcatheter stent placement for occlusive disease (<emphasis role="bold">37236</emphasis>).</para>
+            <para>Codes <emphasis role="bold">33894</emphasis> and <emphasis role="bold">33895</emphasis> include stent introduction, manipulation, positioning, and deployment, as well asany additional stent delivery intandem with the initial stent for extension purposes.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">33894</emphasis> and <emphasis role="bold">33895</emphasis> are differentiated by whether stent placement crosses major side branches of the aorta. Major side branches include — Thoracic aorta: brachiocephalic, carotid, and subclavian arteries</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Abdominal aorta: celiac, superior mesenteric, inferior mesenteric, and renal arteries ● Do not separately report the following services when reporting <emphasis role="bold">33894, 33895</emphasis>, and <emphasis role="bold">33897</emphasis>:</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Insertion of temporary ventricular pacemaker (<emphasis role="bold">33210</emphasis>) to facilitate stent positioning, when performed ✱ Introduction, positioning, and deployment of anendograft for treatment of abdominal aortic pathology (<emphasis role="bold">34701–34706</emphasis>)</para>
+            <para>✱ Introduction of catheter, aorta (<emphasis role="bold">36200</emphasis>) ✱ Thoracic or abdominal aortography (<emphasis role="bold">75600, 75605, 75625</emphasis>)</para>
+            <para>✱ Left heart catheterization for congenital heart defect(s) (<emphasis role="bold">93595</emphasis>) ✱ Right and left heart catheterization for congenital heart defect(s) for normal or abnormal native connections (<emphasis role="bold">93596, 93597</emphasis>)</para>
+            <para>✱ Do not separately report balloon angioplasty of the aorta <emphasis role="italics">within the coarctation treatment zone</emphasis> (transluminal angioplasty, <emphasis role="bold">37246</emphasis>; or percutaneous angioplasty with transcatheter stent placement for occlusive disease, <emphasis role="bold">37236</emphasis>; or <emphasis role="bold">33897</emphasis>) when reporting <emphasis role="bold">33894</emphasis> and <emphasis role="bold">33895</emphasis>.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>The following services may be separately reported when performed before or after coarctation stent deployment during endovascular repair of coarctation of the aorta (<emphasis role="bold">33894, 33895</emphasis>): — Balloon angioplasty or stenting of the innominate, carotid, subclavian, visceral, iliac, or pulmonary artery</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Arterial or venous embolization — Additional atrial, ventricular, pulmonary, or coronary or bypass graft angiography with injection procedure during cardiac catheterization (<emphasis role="bold">93563–93568</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <para>For angiography of other vascular structures, use the appropriate code from the Radiology/Diagnostic Radiology section of <emphasis role="italics">CPT</emphasis>.</para>
+         </sect4>
+         <sect4 id="ch0022s0004s0001s01s09">
+            <title>Percutaneous Pulmonary Artery Revascularization</title>
+            <para>
+               <emphasis role="bold">33900</emphasis> Percutaneous pulmonary artery revascularization by stent placement, initial; normal native connections, unilateral</para>
+            <para>
+               <emphasis role="bold">33901</emphasis> normal native connections, bilateral</para>
+            <para>
+               <emphasis role="bold">33902</emphasis> abnormal connections, unilateral</para>
+            <para>
+               <emphasis role="bold">33903</emphasis> abnormal connections, bilateral <emphasis role="bold">♦33904</emphasis> Percutaneous pulmonary artery revascularization by stent placement, each additional vessel or separate lesion; normal or abnormal connections</para>
+            <para>Endovascular repair of pulmonary artery stenosis by stent placement is reported depending on normal native or abnormal connections and unilateral or bilateral procedures.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Stent placement within the pulmonary arteries via normal native connections (<emphasis role="bold">33900, 33901</emphasis>) is reported when the pathway to stent placement is through the superior vena cava/inferior vena cava to right atrium, then right ventricle, then pulmonary arteries.</para>
+               </listitem>
+               <listitem>
+                  <para>Stent placement via abnormal connections with codes <emphasis role="bold">33902</emphasis> and <emphasis role="bold">33903</emphasis> includes placement within the pulmonary arteries, the ductus arteriosus, or a surgical shunt; via abnormal connections; or through postsurgical shunts (eg, Blalock-Taussig shunt, Sano shunt, or post Glenn operation or Fontan procedure).</para>
+               </listitem>
+               <listitem>
+                  <para>Code <emphasis role="bold">33904</emphasis> is an AOC that describes placement of stent(s) in additional vessels or lesions beyond the primary vessel or lesion treated regardless of whether access occurs via normal or abnormal connections.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes <emphasis role="bold">33900–33904</emphasis> include vascular access and all catheter and guidewire manipulation; fluoroscopy to guide the intervention; any post-diagnostic angiography for the purpose of road mapping; post-implant evaluation; stent positioning and balloon inflation for stent delivery; and radiological supervision and interpretation of the intervention.</para>
+               </listitem>
+               <listitem>
+                  <para>Report <emphasis role="bold">33904</emphasis> only when also reporting <emphasis role="bold">33900–33903</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>Read the CPT instructions to determine whether diagnostic right- and left-sided heart catheterization, diagnostic coronary angiography, and diagnostic angiography performed in conjunction with <emphasis role="bold">33900–33904</emphasis> may be separately reported.</para>
+            </blockquote>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not report diagnostic cardiac catheterization and diagnostic angiography codes (<emphasis role="bold">93451–93568, 93593–93598</emphasis>) in conjunction with <emphasis role="bold">33900–33904</emphasis> for any of the following procedures:</para>
+               </listitem>
+               <listitem>
+                  <para>✱ Contrast injections, angiography, road mapping, and/or fluoroscopic guidance for the stent placement</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Pulmonary conduit angiography for guidance ✱ Right-sided heart catheterization for hemodynamic measurements before, during, and after stent placement</para>
+            <para>✱ Do not report balloon angioplasty within the same target lesion as the stent implant, either before or after stent deployment. Balloon angioplasty for a distinct lesion or in a different artery may be separately reported with <emphasis role="bold">92997</emphasis> and <emphasis role="bold">92998</emphasis> when performed at the same session.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>

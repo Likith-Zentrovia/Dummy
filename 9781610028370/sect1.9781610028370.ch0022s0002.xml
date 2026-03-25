@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781610028370.</risprev>
+         <riscurrent>sect1.9781610028370.ch0022s0002</riscurrent>
+         <risnext>sect1.9781610028370.ch0022s0003</risnext>
+         <booktitle>Coding for Pediatrics 2026</booktitle>
+         <isbn>9781610028370</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>18. Common Surgical Procedures and Sedation in Facility Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Linda D.</firstname>
+                  <surname>Parsi</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>American Academy of Pediatrics</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Linda D.</firstname>
+            <surname>Parsi</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Common Surgical Procedures and Sedation in Facility Settings</title>
+   <itemizedlist>
+      <listitem>
+         <para>indicates a new code; ▲, revised; #, re-sequenced; ✚, add-on; ✱, audiovisual technology; and ◆, synchronous interactive audio.</para>
+      </listitem>
+   </itemizedlist>
+   <itemizedlist>
+      <listitem>
+         <para>Only the care that is usually part of the surgical service for therapeutic surgical procedures (eg, suture and/or staple removal, care of incisions)</para>
+      </listitem>
+      <listitem>
+         <para>Only the care that is related to the recovery from the diagnostic procedure (eg, endoscopies, arthroscopies, injection procedures for radiography)</para>
+      </listitem>
+   </itemizedlist>
+   <para>
+      <emphasis role="italics">CPT allows separate reporting of postoperative management of complications, exacerbations, recurrence, treatment of unrelated diseases or injuries, or the presence of other diseases or injuries that require additional services in the postoperative care.</emphasis>
+      <emphasis role="bold">When Payers Adopt Medicare Policy for Reporting Postoperative Medical or Surgical Services</emphasis> When a payer adopts Medicare's policy for care during the postoperative period, it is important to recognize one significant difference from <emphasis role="italics">CPT's</emphasis> description of postoperative work, as follows:</para>
+   <itemizedlist>
+      <listitem>
+         <para>All additional medical or surgical services required of the surgeon during the postoperative period of the surgery to address complications <emphasis role="italics">that do not require additional trips to the operating/procedure room (OR) are included in the global package (not separately reported).</emphasis>
+         </para>
+      </listitem>
+   </itemizedlist>
+   <para>Like <emphasis role="italics">CPT</emphasis>, Medicare policy does not include treatment of the underlying condition or an added course of treatment that is not part of normal recovery from surgery. (Refer to discussion of related modifiers <emphasis role="bold">24</emphasis>, <emphasis role="bold">58</emphasis>, and <emphasis role="bold">79</emphasis> in the Global Periods and Modifiers for Reporting Postoperative Care section that follows.)</para>
+   <sect2 id="ch0022s0002s20001">
+      <title/>
+      <sect3 id="ch0022s0002s30001">
+         <title/>
+         <sect4 id="ch0022s0002s0001s01s01">
+            <title>Global Periods and Modifiers for Reporting Postoperative Care</title>
+            <para>The CMS-designated global periods for each <emphasis role="italics">CPT</emphasis> procedure code can be found on the Resource-Based Relative Value Scale of the Medicare Physician Fee Schedule (MPFS) at www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>It designates specific postoperative periods for certain procedure codes (ie, 0, 10, or 90 days). When determining the postoperative period, <emphasis role="italics">the day after surgery</emphasis> is day 1 of a 10- or 90-day period.</para>
+               </listitem>
+               <listitem>
+                  <para>Physicians append modifier <emphasis role="bold">78</emphasis> to the procedure code for return to the OR for a related procedure during a postoperative period. This includes return to the OR for treatment of complications of the first procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>For return to the OR for staged or more extensive procedures and therapeutic procedures following a diagnostic procedure, append modifier <emphasis role="bold">58</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Report procedures during the postoperative period that are unrelated and not caused by complications of the original procedure with modifier <emphasis role="bold">79</emphasis> and unrelated E/M services with modifier <emphasis role="bold">24</emphasis> (documentation is typically required before payment).</para>
+               </listitem>
+               <listitem>
+                  <para>Other codes are designated YYY, which means the postoperative period is set by the carrier. There are no associated postoperative days included in the payment for codes assigned with status codes XXX (the global concept does not apply) or ZZZ (assigned to anadd-on code [AOC] for a service that is always related to another service to which the global period is assigned).</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0001s01s02">
+            <title>Reporting Postoperative Care</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Report <emphasis role="bold">99024</emphasis> (postoperative follow-up visit) for follow-up care provided by the physician who performed a procedure (or the covering physician or other qualified health care professional [QHP]) during the global surgery period.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Reporting of inpatient or observation follow-up visits is typically not required.</para>
+                     </listitem>
+                     <listitem>
+                        <para>Reporting <emphasis role="bold">99024</emphasis> allows a practice to track the number of visits performed by individuals during the postoperative period of specific procedures, calculate office overhead expenses (eg, supplies, staff, physician time) associated with the procedure, and potentially use the data to negotiate higher payment rates.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>*Payers track the postoperative care provided. If a physician is not providing or reporting the postoperative care (<emphasis role="bold">99024</emphasis>) typically performed for a procedure, payers may reduce payment for the surgical service because payment includes postoperative care as part of the procedure.*</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When physicians from different practices perform part of a surgical package, the procedure should be reported with one of the following modifiers:</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">54</emphasis> (surgical care only)</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">55</emphasis> (postoperative management only)</para>
+                     </listitem>
+                     <listitem>
+                        <para>
+                           <emphasis role="bold">56</emphasis> (preoperative management only)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+            </itemizedlist>
+            <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for a more detailed description of modifiers. For critical care following surgery, refer to the Patients Critically Ill After Surgery section in <emphasis role="bold">Chapter 17</emphasis>.</para>
+            <para>These situations require communication among the surgeon, the physician providing preoperative or postoperative care, and each physician's respective billing personnel to ensure accurate reporting and payment.</para>
+            <para>✖ No modifier is required when a physician (different specialty or group practice) other than the surgeon provides unrelated services to a patient during the postoperative period.</para>
+            <para>Despite the use of different National Provider Identifiers and diagnosis codes, some payers with assigned global surgical periods will deny unrelated services provided by any physician or QHP during a postoperative period. The claim should be appealed for payment with a letter advising the payer that the service was unrelated to any surgery.</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Physicians and QHPs assuming postoperative management for a procedure performed by a physician in another group practice (eg, practicing in a different geographic area) should note payer policies for reporting these services.</emphasis>
+               </para>
+               <para>Generally, the code for the procedure is appended with modifier 55 as described in this chapter. But Medicare has established an AOC, G0559, that is reported in addition to the first office or other outpatient E/M service for postoperative management when there is no formal transfer of care and the physician who performed the procedure did not append modifier 54 to the procedure code. The following components of service are required when reporting G0559:</para>
+               <itemizedlist>
+                  <listitem>
+                     <para>Read available surgical note to understand the relative success of the procedure, the anatomy that was affected, and potential complications that could have arisen from the unique circumstances of the patient's operation.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Research the procedure to determine expected postoperative course and potential complications (in the case of providing postoperative care for a procedure outside the specialty).</para>
+                  </listitem>
+                  <listitem>
+                     <para>Evaluate and physically examine the patient to determine whether the postoperative course is progressing appropriately.</para>
+                  </listitem>
+                  <listitem>
+                     <para>Communicate with the practitioner who performed the procedure if any questions or concerns arise.</para>
+                  </listitem>
+               </itemizedlist>
+               <para>G0559 should not be billed by another physician or QHP in the same group practice as the individual who performed the surgical procedure. Report G0559 only once at the initial E/M service during the 90-day global period.</para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0022s0002s0001s01s03">
+            <title>Removal of Sutures and/or Staples</title>
+            <para>
+               <emphasis role="bold">15851</emphasis> Removal of sutures or staples requiring anesthesia (ie, general anesthesia, moderate sedation) Code 15851 is reported only when the patient requires general anesthesia or moderate sedation during suture or staple removal.</para>
+            <para>#✚<emphasis role="bold">15853</emphasis> Removal of sutures or staples not requiring anesthesia</para>
+            <para>#✚<emphasis role="bold">15854</emphasis> Removal of sutures and staples not requiring anesthesia ● Codes <emphasis role="bold">15853</emphasis> and <emphasis role="bold">15854</emphasis> are AOCs reported only in conjunction with a related E/M service in the office, emergency department (ED), or home/residence.</para>
+            <para>Do not report removal of sutures or staples ✖ In conjunction with hospital inpatient or observation E/M services</para>
+            <para>✖ Within the global period of the related procedure</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0002s0002">
+      <title>Multiple Procedures on the Same Date</title>
+      <para>Multiple, separately reportable services are often provided in 1 session or on 1 date of service (DOS). But it is important to recognize which surgical services are considered a component of another procedure and which are separately reported.</para>
+      <itemizedlist>
+         <listitem>
+            <para>It is not appropriate to report multiple Healthcare Common Procedure Coding System (HCPCS)/CPT codes when a single, comprehensive HCPCS/CPT code describes the procedures performed.</para>
+         </listitem>
+      </itemizedlist>
+      <para>
+         <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">Code 42820</emphasis> describes tonsillectomy and adenoidectomy in a patient younger than 12 years. It would not be appropriate to separately report <emphasis role="bold">42825</emphasis> (tonsillectomy) and <emphasis role="bold">42830</emphasis> (adenoidectomy).</para>
+      <itemizedlist>
+         <listitem>
+            <para>Surgical access (eg, laparotomy) is integral to more comprehensive procedures (eg, appendectomy) and not separately reported.</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist>
+         <listitem>
+            <para>When the surgical approach fails, report only the code for the approach that resulted in the completed procedure. For example, if laparoscopy fails and an open approach is used to complete the procedure, report only the open procedure.</para>
+         </listitem>
+         <listitem>
+            <para>It is recommended to adopt a process for checking the National Correct Coding Initiative (NCCI) edits or payer-specific edit tools before submitting multiple procedure codes for services on the same date. Code edit tools may be provided through a provider portal.</para>
+         </listitem>
+         <listitem>
+            <para>For Medicaid, the NCCI manual is informative regarding correct reporting and use of modifiers to override NCCI edits.</para>
+         </listitem>
+         <listitem>
+            <para>When more than one procedure/service is performed on the same date, during the same session, or during a postoperative period, several CPT modifiers may apply. Documentation must support the reason for applying a modifier (eg, indicate a separate incision).</para>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>Modifier 59 (distinct procedural service) is often appended to surgical procedure codes to override payer edits that would otherwise not allow payment for services that may be components of other services.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>It is important to carefully consider whether other modifiers are more appropriate (eg, 50, bilateral service; an anatomical modifier such as E4, lower right eyelid) to indicate a distinct service.</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+      <para>Refer to <emphasis role="bold">Chapter 2</emphasis> for more information on the NCCI.</para>
+      <sect3 id="ch0022s0002s30002">
+         <title/>
+         <sect4 id="ch0022s0002s0002s01s01">
+            <title>Separate Procedure Designation</title>
+            <para>One designation in <emphasis role="italics">CPT</emphasis> helps identify procedures that are commonly performed as an integral component of another procedure. The parenthetical comment "(separate procedure)" follows the code descriptor for these services.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Services designated as separate procedures should not be reported in addition to the code for the total procedure or service of which they are considered an integral component.</para>
+               </listitem>
+               <listitem>
+                  <para>A procedure or service that is designated as a separate procedure may be</para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Carried out independently and be the only code reported — Considered to be unrelated or distinct from other procedures/services provided at that time and reported in addition to other procedures/services by appending modifier 59 (distinct procedural service) or HCPCS modifiers XE (separate encounter), XS (separate structure), XP (separate practitioner), or XU (unusual non-overlapping service)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0002s0003">
+      <title>Modifiers Used in Reporting Procedural Services</title>
+      <sect3 id="ch0022s0002s30003">
+         <title/>
+         <sect4 id="ch0022s0002s0003s01s01">
+            <title>Increased Procedural Service</title>
+            <para>Modifier 22 (increased procedural service) may be appended to the code for a surgical procedure when the work required to provide the service was <emphasis role="italics">significantly greater</emphasis> than typically required for that procedure. To substantiate modifier 22, documentation must support that the procedure was more difficult because one or more of the following conditions were met:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Increased intensity or time</para>
+               </listitem>
+               <listitem>
+                  <para>Technical difficulty</para>
+               </listitem>
+               <listitem>
+                  <para>The severity of the patient's condition</para>
+               </listitem>
+               <listitem>
+                  <para>Significantly increased physical and mental effort</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Example</emphasis> ▶ <emphasis role="bold">A child undergoes laparoscopic surgery for acute appendicitis with rupture.</emphasis> The procedure takes 45 minutes longer than typical because of the subhepatic location and rupture of the appendix. The surgeon documents the increased work and time of the procedure and reports</para>
+            <para>
+               <emphasis role="bold">44970 22</emphasis>        Laparoscopy, surgical, appendectomy <emphasis role="bold">Teaching Point:</emphasis> The operative report should support the increased work of the procedure by detailing the increased work related to the subhepatic location and rupture of the appendix.</para>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s02">
+            <title>Reporting Terminated or Partial Procedures</title>
+            <itemizedlist>
+               <listitem>
+                  <para>When a procedure is started but cannot be completed because of extenuating circumstances, physicians should consider the individual situation, including the reason for termination of the procedure and the amount of work that was performed, when determining how to report the service rendered.</para>
+               </listitem>
+               <listitem>
+                  <para>When a procedure is performed but not entirely successful (eg, portion of foreign body removed), it may be appropriate to report the procedure code that represents the work performed without modification.</para>
+               </listitem>
+               <listitem>
+                  <para>Report reduced services (modifier 52) or a discontinued procedure (modifier 53) only when the service was significantly reduced from the typical service and as instructed in <emphasis role="italics">CPT</emphasis>.</para>
+               </listitem>
+            </itemizedlist>
+            <para>▶<emphasis role="italics">CPT</emphasis> instructs to append modifier 52 (reduced service) to 36572, 36573, or 36584 when insertion or replacement of a peripherally inserted central venous catheter (PICC) is performed without confirmation of catheter tip location (eg, via radiography or ultrasonography).</para>
+            <para>▶ A physician performs diagnostic flexible, transoral esophagogastroscopy on a patient without examination of the duodenum because it is not clinically indicated. The physician reports 43235 52.</para>
+            <para>▶ A physician performs diagnostic flexible, transoral esophagogastroscopy but cannot fully complete the examination because of concern for the patient's well-being if the procedure is continued. The physician reports 43235 53.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If the work performed before discontinuation is insignificant, it may be appropriate to not report the procedure.</para>
+               </listitem>
+               <listitem>
+                  <para>When not reporting the procedure, consider whether the level of a related E/M service was increased because of the level of medical decision making (MDM) associated with the attempted procedure, any complicating factors, and the revised management or treatment plan.</para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <emphasis role="italics">CPT</emphasis> includes specific instructions for reporting certain services when reduced or discontinued (eg, endoscopy). Be sure to verify <emphasis role="italics">CPT</emphasis> instructions before reporting reduced or terminated services.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="bold">Know Payer Policies for Modifiers 52 (Reduced Service) and 53 (Discontinued Procedure)</emphasis> Individual payer policies may specify allowed uses and reporting requirements for reduced or discontinued services. Pediatricians should be aware that some payer policies automatically reduce payment to 25% to 50% of the fee schedule amount for the service reported with modifier 52 or 53.</para>
+            <para>Documentation should support the reason for reduced or discontinued service and the extent of the service performed. Payers may audit the patient's medical record or, for facility-based services, use electronic processes to compare a physician's claim to a facility claim for the same service that was reported with modifier 73 or 74 (outpatient hospital/ambulatory surgical center discontinued service). If modifier 52 or 53 is indicated but not reported, a payer may demand return of previous payments.</para>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s03">
+            <title>Anatomical or Laterality Modifiers</title>
+            <para>Use of modifiers for anatomical sites (eg, fingers and thumbs: FA, F1–F9; toes: TA, T1–T9; or eyelids: E1–E4) or laterality (RT, LT, or bilateral 50) may prevent denial of charges. Some payers have adopted payment policies that will deny charges submitted without the appropriate anatomical or laterality modifier(s) even when a single service is reported and the associated diagnosis code indicates site and laterality. For detailed discussions of modifiers, refer to <emphasis role="bold">Chapter 2</emphasis>.</para>
+            <para>Modifiers are also important when a payer's code edits bundle certain services that were provided on the same date or limit the allowable units of service perday (eg, Medicaid NCCI edits, published at www.cms.gov/medicare/coding-billing/ncci-medicaid).</para>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s04">
+            <title>Reporting by Assistant Surgeon</title>
+            <para>An assistant surgeon is a physician or other QHP who provides active assistance in the performance of a procedure when clinically indicated (eg, technically complex procedure).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Refer to the Assistant Surgeon in a Teaching Facility section later in this chapter for guidance on reporting assistant surgeon services by a physician in a teaching facility.</para>
+               </listitem>
+               <listitem>
+                  <para>Global rules do not apply to services performed by an assistant surgeon. Payment is based on a percentage of the fee schedule amount allowed for the procedure performed (eg, Medicare allows 16%).</para>
+               </listitem>
+               <listitem>
+                  <para>Modifiers are appended to the code(s) for the procedure on the assistant's claim. Refer to <emphasis role="bold">Box 18-1</emphasis> for modifiers for reporting services by an assistant surgeon.</para>
+               </listitem>
+               <listitem>
+                  <para>Reductions for multiple procedures on the same date may apply.</para>
+               </listitem>
+               <listitem>
+                  <para>Refer to individual payer policies for an assistant at surgery, as many limit payment to only specific procedures and/or may require documentation substantiating the need for assistance.</para>
+               </listitem>
+               <listitem>
+                  <para>Follow payer policy for reporting assistant surgeon services by a QHP. Some payer policies specify that the assisting QHP must be qualified to take over the surgery should the surgeon become incapacitated. Modifier <emphasis role="bold">AS</emphasis> (physician assistant, nurse practitioner, or clinical nurse specialist services for assistant at surgery) may be required.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s05">
+            <title>Box 18-1. Modifiers for Reporting Assistant Surgeon Services</title>
+            <table frame="all" id="ch0022s0002ta0001">
+               <title/>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>80</entry>
+                        <entry>Assistant surgeon (Use for doctor of medicine or osteopathy.)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>81</entry>
+                        <entry>Minimum assistant surgeon</entry>
+                     </row>
+                     <row>
+                        <entry>82</entry>
+                        <entry>Assistant surgeon (when qualified resident surgeon not available; applicable only in teaching facility)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s06">
+            <title>Procedures Performed With or Without Imaging Guidance</title>
+            <para>Some procedures include imaging guidance. When a code descriptor for a procedure or <emphasis role="italics">CPT</emphasis> instruction indicates that the procedure includes imaging guidance, do not separately report a code for supervision and interpretation of imaging (eg, radiography, fluoroscopy, ultrasonography, magnetic resonance imaging, computed tomography, nuclear medicine).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Do not report imaging guidance when a non–imaging-guided tracking or localizing system (eg, radar, electromagnetic signals) is used.</para>
+               </listitem>
+               <listitem>
+                  <para>If you do not own or lease the equipment, append modifier <emphasis role="bold">26</emphasis> (professional component) to the procedure code to report only the professional service of interpreting the image and writing the report.</para>
+               </listitem>
+               <listitem>
+                  <para>Follow <emphasis role="italics">CPT</emphasis> instruction when reporting a procedure performed without imaging guidance when the code descriptor for the procedure includes imaging guidance.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0003s01s07">
+            <title>Procedures Performed in Infants Less Than 4 kg</title>
+            <para>Modifier <emphasis role="bold">63</emphasis> is used to identify significantly increased complexity and physician or other QHP work commonly associated with procedures performed on neonates and infants with a present body weight of up to 4 kg.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Append modifier <emphasis role="bold">63</emphasis> to codes for procedures performed in these infants only when there is no instruction prohibiting reporting.</para>
+               </listitem>
+               <listitem>
+                  <para>Services that cannot be reported with modifier <emphasis role="bold">63</emphasis> are those that have been valued according to the intensity of the service inpatients weighing less than 4 kg. Refer to "Summary of <emphasis role="italics">CPT</emphasis> Codes Exempt from Modifier <emphasis role="bold">63</emphasis>" in your <emphasis role="italics">CPT</emphasis> appendixes for a list of codes exempt from modifier <emphasis role="bold">63</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Unless otherwise stated, modifier <emphasis role="bold">63</emphasis> may be appended only to procedures or services listed in the <emphasis role="bold">20100–69999</emphasis> code series and <emphasis role="bold">92920, 92928, 92953, 92960, 92986, 92987, 92990, 92997, 92998, 93312–93318, 93452, 93505, 93593–93598, 93563, 93564, 93568, 93569, 93573–93575, 93580–93582, 93590–93592, 93615</emphasis>, and <emphasis role="bold">93616</emphasis>. Modifier <emphasis role="bold">63</emphasis> is not appended to codes from the E/M, anesthesia, radiology, or pathology/laboratory section of <emphasis role="italics">CPT</emphasis>.</para>
+               </listitem>
+               <listitem>
+                  <para>Use of modifier <emphasis role="bold">63</emphasis> may require submission of an operative note with the claim. The operative note should include the patient's weight. It is also beneficial to report the patient's weight on the claim.</para>
+               </listitem>
+               <listitem>
+                  <para>Payer acceptance of modifier <emphasis role="bold">63</emphasis> may be limited to specific procedures and increased payment allowance (above the payment for the same procedure in a patient weighing &gt;4 kg) varies. Verify policies of individual health plans for reporting this modifier.</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <emphasis role="italics">Examples</emphasis> ▶ <emphasis role="bold">A 13-day-old weighing 2.4 kg requires peripheral cannulae insertion for extracorporeal membrane oxygenation. The physician reports:</emphasis>
+            </para>
+            <para>
+               <emphasis role="bold">33951 63</emphasis>    Extracorporeal membrane oxygenation/extracorporeal life support provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age (includes fluoroscopic guidance, when performed) <emphasis role="bold">Teaching Point:</emphasis> The patient weighed less than 4 kg, and the procedure is not listed as modifier-63-exempt. Therefore, modifier <emphasis role="bold">63</emphasis> is appropriately appended to indicate the increased intensity and/or work of performing the procedure on the neonate. Note that modifier <emphasis role="bold">63</emphasis> cannot be appended to codes for initiation or daily management of extracorporeal membrane oxygenation/extracorporeal life support (<emphasis role="bold">33946–33949</emphasis>).</para>
+            <para>▶<emphasis role="bold">An infant weighing 3 kg undergoes diagnostic laryngoscopy.</emphasis> The physician reports <emphasis role="bold">31520</emphasis> _____ Laryngoscopy, direct, with or without tracheoscopy; diagnostic newborn <emphasis role="bold">Teaching Point:</emphasis> The parenthetical instruction below 31520 ("Do not report modifier 63 in conjunction with 31520") prohibits reporting modifier 63, including when this procedure is performed on an infant weighing less than 4 kg.</para>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0002s0004">
+      <title>Physicians at Teaching Hospitals Guidelines for Billing Procedures</title>
+      <para>The CMS established and maintains guidelines for documentation and billing by teaching physicians. Physicians at Teaching Hospitals guidelines for billing procedures are less complex than those for billing E/M services. Guidelines specify that</para>
+      <itemizedlist>
+         <listitem>
+            <para>When a procedure is performed by a resident, teaching physician attendance and participation are required and must be documented. For examples of appropriate documentation, refer to Table 18-1.</para>
+         </listitem>
+      </itemizedlist>
+      <table frame="all" id="ch0022s0002ta0002">
+         <title>Physicians at Teaching Hospitals Guidelines for Billing Procedures</title>
+         <tgroup cols="2">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <thead>
+               <row>
+                  <entry>Presence</entry>
+                  <entry>Documentation</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Minor procedure</entry>
+                  <entry>"Dr Teaching Physician was present during the entire procedure."—Nurse"Dr Teaching Physician observed me as I performed this procedure."—Dr Resident</entry>
+               </row>
+               <row>
+                  <entry>Interpretation of diagnostic radiological findings and other diagnostic test results</entry>
+                  <entry>"I personally reviewed the MRI with Dr Resident and agree with their findings."—Dr Teaching Physician"I personally reviewed the EEG with Dr Resident. Findings indicate [cite specifics]."—Dr Teaching Physician</entry>
+               </row>
+               <row>
+                  <entry>Endoscopy</entry>
+                  <entry>"I was present during the entire viewing of this endoscopy."—Dr Teaching Physician</entry>
+               </row>
+               <row>
+                  <entry>Surgery other than minor procedure</entry>
+                  <entry>"Dr Teaching Physician was present during the entire surgery."—Dr Resident"I was present during and observed Dr Resident perform the key portion of this surgery."—Dr Teaching Physician</entry>
+               </row>
+               <row>
+                  <entry>Complex or high-risk surgery or procedure</entry>
+                  <entry>"I was physically present during this entire procedure except for the [opening and/or closing]."—Dr Teaching Physician"Dr Y was immediately available during the overlapping portions of this case, which included [cite specifics]."—Dr Teaching Physician</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para>Abbreviations: EEG, electroencephalogram; MRI, magnetic resonance image.</para>
+      <itemizedlist>
+         <listitem>
+            <para>The level of participation required by the teaching physician depends on the type of procedure being performed as described later in this section.</para>
+         </listitem>
+         <listitem>
+            <para>A resident, nurse, or teaching physician may document the teaching physician's attendance.</para>
+         </listitem>
+      </itemizedlist>
+      <para>To obtain the rules for supervising physicians in teaching settings, refer to Chapter 12 of the <emphasis role="italics">Medicare Claims Processing Manual</emphasis> at www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/clm104c12.pdf.</para>
+      <para>
+         <emphasis role="bold">Modifier GC must be appended to procedure codes for services performed by a resident under the direction of a teaching physician.</emphasis>
+      </para>
+      <sect3 id="ch0022s0002s30004">
+         <title/>
+         <sect4 id="ch0022s0002s0004s01s01">
+            <title>Minor Procedures</title>
+            <itemizedlist>
+               <listitem>
+                  <para>The CMS defines a minor procedure asone taking <emphasis role="italics">5 minutes or less</emphasis> to complete with relatively little decision-making once the need for the procedure is determined. Minor procedures are usually assigned a 0- to 10-day global period.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0004s01s02">
+            <title>Assistant Surgeon in a Teaching Facility</title>
+            <para>Medicare will not pay for the services of assistants at surgery furnished in a teaching hospital that has a training program related to the medical specialty required for the surgical procedure and has a qualified resident available to perform the service. This policy may be applied by Medicaid and other payers.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>When the MPFS allows payment for an assistant surgeon and a physician assists a teaching physician because no qualified resident is available, modifier 82 (assistant surgeon [when qualified resident surgeon not available]) is appended to the code for the procedure performed on the assistant surgeon's claim.</para>
+               </listitem>
+               <listitem>
+                  <para>The unavailability of a qualified resident surgeon is a prerequisite for use of modifier 82. Documentation must specify that no qualified resident was available.</para>
+               </listitem>
+               <listitem>
+                  <para>This modifier is used only in teaching hospitals and only if there is no approved training program related to the medical specialty required for the surgical procedure or no qualified resident was available.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0002s0005">
+      <title>Integumentary Procedures</title>
+      <para>Refer to Chapter 13 for discussions of laceration repairs and removal of foreign bodies from integumentary or musculoskeletal tissues.</para>
+      <sect3 id="ch0022s0002s30005">
+         <title/>
+         <sect4 id="ch0022s0002s0005s01s01">
+            <title>Burn Care</title>
+            <para>CPT code 16000 (initial treatment, first-degree burn, where no more than local treatment is required) is reported when initial treatment is performed for the symptomatic relief of a first-degree burn that is characterized by erythema and tenderness.</para>
+            <para>Table 18-2 includes codes for dressings and/or debridement of partial-thickness burns.</para>
+            <table frame="all" id="ch0022s0002ta0003">
+               <title>Burn Care</title>
+               <tgroup cols="3">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <colspec colname="c3"/>
+                  <thead>
+                     <row>
+                        <entry nameend="c3" namest="c1">Table 18-2. Dressings and/or Debridement of Partial-Thickness Burns</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c3" namest="c1">Includes initial or subsequent treatment of burns with dressings and/or debridement. The percentage of TBSA involved must be calculated and documented when reporting care of second- or third-degree burns.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>16020</entry>
+                        <entry>16025</entry>
+                        <entry>16030</entry>
+                     </row>
+                     <row>
+                        <entry>small or &lt;5% TBSA (eg, finger)</entry>
+                        <entry>medium or 5%–10% TBSA (eg, whole face or whole extremity)</entry>
+                        <entry>large or &gt;10% TBSA (eg, &gt;1 extremity)</entry>
+                     </row>
+                     <row>
+                        <entry nameend="c3" namest="c1">Abbreviation: TBSA, total body surface area.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <itemizedlist>
+               <listitem>
+                  <para>An E/M visit (critical care, ED services, inpatient or outpatient E/M) may be provided for evaluation of the patient's injuries and management of complications such as dehydration, shock, infection, multiple organ dysfunction syndrome, electrolyte imbalance, cardiac arrhythmias, and respiratory distress.</para>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Report the E/M code appropriate to the setting and care provided with modifier 25 appended to indicate that the significant, separately identifiable E/M service is medically indicated, performed, and documented in addition to the burn care.</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Codes 16000–16036 do not include other services such as pulmonary testing/therapy or procedures such ashyperbaric oxygenation, grafting, or tracheotomy. Separately report other services provided on the same date as burn care.</para>
+               </listitem>
+               <listitem>
+                  <para>It is advisable to use the <emphasis role="italics">International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM)</emphasis> category T31 (burns classified according to extent of body surface involved) as an additional code for reporting purposes when there is mention of a third-degree burn involving 20% or more of the body surface.</para>
+               </listitem>
+               <listitem>
+                  <para>Codes 16020–16030 include the application of materials (eg, dressings) described in 15100–15278 (skin grafts and substitutes) or 15011–15018 (skin cell suspension autograft).</para>
+               </listitem>
+            </itemizedlist>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Category III code 0927T was implemented on July 1, 2025, to report assistive algorithmic classification of burn healing (ie, healing or nonhealing) by noninvasive multispectral imaging, including system setup and acquisition, selection, and transmission of images, with automated generation of report.</emphasis>
+               </para>
+               <para>
+                  <emphasis role="bold">Category III temporary codes may have coverage limitations. See individual payer policies prior to providing these services.</emphasis>
+               </para>
+            </blockquote>
+         </sect4>
+         <sect4 id="ch0022s0002s0005s01s02">
+            <title>Eschar Incision and Selective Enzymatic Debridement</title>
+            <para>
+               <emphasis role="bold">16035</emphasis> Escharotomy; initial incision</para>
+            <para>
+               <emphasis role="bold">+16036</emphasis> each additional incision</para>
+            <para>Codes <emphasis role="bold">16035</emphasis> and <emphasis role="bold">16036</emphasis>
+            </para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are reported per incision of eschar (dead tissue cast off from the surface of the skin in full-thickness burns).</para>
+               </listitem>
+               <listitem>
+                  <para>Are not reported according to anatomical site; report with 1 unit of <emphasis role="bold">16035</emphasis> only for the first incision and 1 unit of <emphasis role="bold">16036</emphasis> for each additional incision regardless of body area.</para>
+               </listitem>
+            </itemizedlist>
+            <para>Nonselective debridement of eschar is reported with <emphasis role="bold">97602</emphasis>.</para>
+            <para>
+               <emphasis role="bold">97602</emphasis> Removal of devitalized tissue from wound(s), non-selective debridement, without anesthesia (eg, wet-to-moist dressings, enzymatic, abrasion, larval therapy), including topical application(s), wound assessment, and instruction[s] for ongoing care, per session Category III temporary codes <emphasis role="bold">0973T–0976T</emphasis> were implemented July 1, 2025, for reporting selective enzymatic debridement of partial-thickness and/or full-thickness burn eschar under separately reported general anesthesia or moderate sedation. For the full code descriptors and reporting instructions, refer to your CPT reference. As noted previously, it is important to verify payer policies for coverage of services reported with Category III codes.</para>
+            <para>Refer to "Skin Graft Codes" at www.aap.org/cfp2026.</para>
+         </sect4>
+         <sect4 id="ch0022s0002s0005s01s03">
+            <title>Negative Pressure Wound Therapy</title>
+            <para>
+               <emphasis role="bold">97605</emphasis> Negative pressure wound therapy (eg, vacuum assisted drainage collection), utilizing durable medical equipment, including topical application(s), wound assessment, and instruction(s) for ongoing care, per session; total wound(s) surface area less than or equal to 50 square centimeters <emphasis role="bold">97606</emphasis> total wound(s) surface area greater than 50 square centimeters</para>
+            <para>
+               <emphasis role="bold">97607</emphasis> Negative pressure wound therapy (eg, vacuum assisted drainage collection), utilizing disposable, non-durable medical equipment including provision of exudate management collection system, topical application(s), wound assessment, and instructions for ongoing care, per session; total wound(s) surface area less than or equal to 50 square centimeters <emphasis role="bold">97608</emphasis> total wound(s) surface area greater than 50 square centimeters</para>
+         </sect4>
+         <sect4 id="ch0022s0002s0005s01s04">
+            <title>Negative pressure wound therapy</title>
+            <itemizedlist>
+               <listitem>
+                  <para>Requires direct (one-on-one) physician or QHP contact with the patient</para>
+               </listitem>
+               <listitem>
+                  <para>May be initiated in a hospital or surgical center setting and continued in the home setting after discharge</para>
+               </listitem>
+               <listitem>
+                  <para>Includes application of dressings</para>
+               </listitem>
+               <listitem>
+                  <para>Is separately reported when performed in conjunction with surgical debridement (<emphasis role="bold">11042–11047</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>Includes documentation of current wound assessment, including</para>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Quantitative measurements of wound characteristics (eg, site, surface area, depth)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Any previous treatment regimens</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Debridement (when performed)</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Prescribed length of treatment</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Dressing types and frequency of changes</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <itemizedlist>
+                     <listitem>
+                        <para>Other concerns that affect healing</para>
+                     </listitem>
+                  </itemizedlist>
+               </listitem>
+               <listitem>
+                  <para>Includes documentation of progress of healing and changes in the wound, including measurement, amount of exudate, and presence of granulation or necrotic tissue at encounters for ongoing negative pressure wound therapy</para>
+               </listitem>
+            </itemizedlist>
+            <para>Codes <emphasis role="bold">97605</emphasis> and <emphasis role="bold">97606</emphasis> represent negative pressure wound therapy provided via a system that includes a non-disposable suction pump and drainage collection device. Supplies, including dressings, are reportable with HCPCS codes (eg, <emphasis role="bold">A6550</emphasis>, wound care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories).</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Codes <emphasis role="bold">97607</emphasis> and <emphasis role="bold">97608</emphasis>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <itemizedlist>
+               <listitem>
+                  <para>Report negative pressure wound therapy that uses a <emphasis role="italics">disposable</emphasis> suction pump and collection system — Are not reported in conjunction with <emphasis role="bold">97605</emphasis> and <emphasis role="bold">97606</emphasis>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Require verification of coverage by the patient's health plan before provision of services, as services may be subject to payer policies limiting to care of specific types of wounds that require negative pressure wound therapy to improve granulation tissue formation and to certain types of negative pressure wound therapy equipment Supplies for a disposable system are reported with <emphasis role="bold">A9272</emphasis>, which also includes all dressings and accessories.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0022s0002s0006">
+      <title>Musculoskeletal Procedures</title>
+      <sect3 id="ch0022s0002s30006">
+         <title/>
+         <sect4 id="ch0022s0002s0006s01s01">
+            <title>Fracture and Dislocation Care Codes</title>
+            <para>Codes for fracture/dislocation care</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Are listed by anatomical location.</para>
+               </listitem>
+               <listitem>
+                  <para>Are provided (in most cases) for closed or open treatment, with or without manipulation and with or without internal fixation.</para>
+               </listitem>
+               <listitem>
+                  <para>Typically include a 90-day period of follow-up care under the Medicare global package.</para>
+               </listitem>
+            </itemizedlist>
+            <para>An E/M service to determine the need for fracture or dislocation care may be separately reportable. Append modifier <emphasis role="bold">57</emphasis> (decision for surgery) to an E/M code when the decision for the procedure is made during a visit on the day before or day of the procedure.</para>
+            <para>Apply this guidance when reporting care of a fracture or dislocation.</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Fracture care services include the initial casting, splinting, or strapping, but do not include radiographs or subsequent cast changes.</para>
+               </listitem>
+               <listitem>
+                  <para>It is appropriate to append modifier <emphasis role="bold">58</emphasis> (staged or related procedure during the postoperative period) to a code reported for a cast change (<emphasis role="bold">29000–29799 58</emphasis>). However, payer guidance on use of modifier 58 may vary.</para>
+               </listitem>
+               <listitem>
+                  <para>Report routine follow-up visits during the global period with no charge with <emphasis role="bold">99024</emphasis> (post-op follow-up visit related to the original procedure).</para>
+               </listitem>
+               <listitem>
+                  <para>Append modifier <emphasis role="bold">76</emphasis> to the usual procedure code to indicate repeated procedure or service by the same physician or other QHP for re-reduction of a fracture and/or dislocation.</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0006s01s02">
+            <title>Fracture Care by Different Physicians or Other Qualified Health Care Professionals</title>
+            <para>Append modifier <emphasis role="bold">54</emphasis> to the usual procedure code if you provide initial fracture care (with or without manipulation) but transfer to another physician for follow-up care (applies to procedures with a 10- or 90-day global period). The transfer of care should be documented (eg, "Patient to see Dr X for continuing fracture care Monday morning").</para>
+            <blockquote>
+               <para>
+                  <emphasis role="bold">Do not report a fracture care code when stabilization (eg, temporary cast/splint/strap) is performed to protect an injury and provide comfort to the patient until another physician performs initial fracture or dislocation care. Instead, report an E/M service and the application of a cast, splint, or strapping (29000–29584), as indicated.</emphasis> The physician providing follow-up care will report the same DOS and procedure code appended with modifier <emphasis role="bold">55</emphasis>. The claim will also denote the date of the transfer of care, which should be documented by both physicians.</para>
+            </blockquote>
+            <para>▶<emphasis role="bold">An orthopedic surgeon is consulted to evaluate a child in the ED for an injury to the left elbow following a fall caused by overturning her bicycle on the sidewalk. The orthopedic surgeon evaluates the child and diagnoses a displaced supracondylar humerus fracture. A decision is made to proceed with closed reduction and pinning. The surgeon's total time spent in provision and documentation of the E/M service is 40 minutes. The procedure takes place on the same date. The orthopedic surgeon provided consultation in the ED and a surgical procedure requiring an inpatient admission on the same date.</emphasis>
+            </para>
+            <para>&lt;table&gt;</para>
+            <para>&lt;/table&gt; <emphasis role="bold">Teaching Point:</emphasis> Because <emphasis role="bold">24538</emphasis> is assigned a 90-day global period in the MPFS, modifier <emphasis role="bold">57</emphasis> (decision for surgery) is appended to the E/M code reported for the same DOS. Individual payers may have different policies. The postoperative care in the hospital is not separately reported. Follow-up visits in the office should be reported with <emphasis role="bold">99024</emphasis> (postoperative follow-up visit).</para>
+            <para>▶<emphasis role="bold">An orthopedic surgeon sees a child for follow-up care after percutaneous skeletal fixation of a supracondylar fracture.</emphasis> The surgeon replaces a splint that was applied at the time of the procedure with a long-arm cast.</para>
+            <table frame="all" id="ch0022s0002ta0004">
+               <title>Fracture Care by Different Physicians or Other Qualified Health Care Professionals</title>
+               <tgroup cols="2">
+                  <colspec colname="c1"/>
+                  <colspec colname="c2"/>
+                  <thead>
+                     <row>
+                        <entry>ICD-10-CM</entry>
+                        <entry>CPT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>S42.412D (displaced simple supracondylar fracture without intercondylar fracture of left humerus, subsequent encounter for fracture with routine healing)V18.0XXD (pedal cycle driver injured in noncollision transport accident innontraffic accident, subsequent encounter)Y92.480 (sidewalk as the place of occurrence of the external cause)</entry>
+                        <entry>29065 S8 (application cast; shoulder to hand)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sect4>
+         <sect4 id="ch0022s0002s0006s01s03">
+            <title>Vertebral Body Tethering</title>
+            <para>
+               <emphasis role="bold">22836</emphasis> Anterior thoracic vertebral body tethering, including thoracoscopy, when performed; up to 7 vertebral segments</para>
+            <para>
+               <emphasis role="bold">22837</emphasis> 8 or more vertebral segments <emphasis role="bold">22838</emphasis> Revision (eg, augmentation, division of tether), replacement, or removal of thoracic vertebral body tethering, including thoracoscopy, when performed</para>
+            <para>
+               <emphasis role="bold">0656T</emphasis> Anterior lumbar or thoracolumbar vertebral body tethering; up to 7 vertebral segments</para>
+            <para>
+               <emphasis role="bold">0657T</emphasis> 8 or more vertebral segments <emphasis role="bold">0790T</emphasis> Revision (eg, augmentation, division of tether), replacement, or removal of thoracolumbar or lumbar vertebral body tethering, including thoracoscopy, when performed</para>
+            <para>Vertebral body tethering is a means to correct scoliosis without fusion. The procedures involve use of a tether or cord to compress the convex vertebral growth plates to inhibit growth while allowing concave growth plates to grow.</para>
+            <para>When 2 surgeons perform distinct parts of the service, each acting as a primary surgeon, each surgeon reports their work using <emphasis role="bold">22836–22838</emphasis> appended with modifier <emphasis role="bold">62</emphasis> (2 surgeons).</para>
+            <para>
+               <emphasis role="bold">Note that CPT Category III codes, including 0656T–0657T and 0790T, are not assigned relative value units or global periods in the MPFS. Individual payers will determine coverage and payment for these procedures. Verify benefits and requirements for prior authorization prior to these procedures.</emphasis>
+            </para>
+            <para>Do not report the following services in conjunction with <emphasis role="bold">22836–22838</emphasis>:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>✱ Anterior instrumentation (<emphasis role="bold">22845–22847</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+            <para>✱ Diagnostic thoracoscopy (<emphasis role="bold">32601</emphasis>) ● Do not report the following services in conjunction with <emphasis role="bold">0656T–0657T</emphasis>:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>✱ Arthrodesis procedures for spine deformity (<emphasis role="bold">22800–22819</emphasis>)</para>
+               </listitem>
+               <listitem>
+                  <para>✱ Anterior instrumentation (<emphasis role="bold">22845–22847</emphasis>)</para>
+               </listitem>
+            </itemizedlist>
+         </sect4>
+         <sect4 id="ch0022s0002s0006s01s04">
+            <title>Osteotomy With Insertion of Intramedullary Lengthening Device</title>
+            <para>
+               <emphasis role="bold">New in 2026! Report 27458 or 27713 for a procedure to insert an externally controlled intramedullary lengthening device into the femur or tibia.</emphasis>
+               <emphasis role="bold">●27458</emphasis> Osteotomy(ies), femur, unilateral, with insertion of an externally controlled intramedullary lengthening device, including iliotibial band release when performed, imaging, alignment assessments, computations of adjustment schedules, and management of the intramedullary lengthening device</para>
+         </sect4>
+      </sect3>
+   </sect2>
+</sect1>
