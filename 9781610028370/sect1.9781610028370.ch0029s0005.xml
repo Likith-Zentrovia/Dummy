@@ -38,7 +38,7 @@
          <para>b. Codes <emphasis role="bold">90460-90461</emphasis> and <emphasis role="bold">96380</emphasis> require counseling by a physician or other QHP. Counseling is not required to support codes <emphasis role="bold">90471-90474</emphasis> or <emphasis role="bold">90480</emphasis>, although counseling is included in code <emphasis role="bold">90480</emphasis>, when provided.</para>
       </listitem>
       <listitem>
-         <para>d. Report code <emphasis role="bold">90482</emphasis> for <emphasis role="italics">at least</emphasis> 3 minutes of counseling for one or more immunizations that are not administered in the physician's or QHP's practice on the date of counseling. Code <emphasis role="bold">90482</emphasis> includes up to 10 minutes of counseling. For more than 10 minutes of counseling, see code <emphasis role="bold">90484</emphasis>.</para>
+         <para>d. Report code <emphasis role="bold">90482</emphasis> for <emphasis role="italics">at least</emphasis> 3 minutes of counseling for one or more immunizations that are not administered in the physician's or QHP's practice on the date of counseling. Code <emphasis role="bold">90482</emphasis> includes up to 10 minutes of counseling. For more than 10 minutes of counseling, see <emphasis role="bold">90483</emphasis> or <emphasis role="bold">90484</emphasis>.</para>
       </listitem>
       <listitem>
          <para>b. False. Codes <emphasis role="bold">90482-90484</emphasis> may be reported when immunization counseling is provided for multiple immunizations and some, but not all, immunizations are administered. Do not include the time spent counseling for administered immunizations (reported with any IA code) in the time reported with codes <emphasis role="bold">90482-90484</emphasis>.</para>
@@ -53,7 +53,7 @@
    <para>5.</para>
    <orderedlist continuation="restarts" inheritnum="ignore">
       <listitem>
-         <para>Behavior change interventions involve validated interventions provided to either a new or an established patient who has a behavior often considered an illness itself. Specific time requirements are included in the code descriptors, so the midpoint rule is not applicable to 99406–99408.</para>
+         <para>Behavior change interventions involve validated interventions provided to either a new or an established patient who has a behavior that is often considered an illness itself. Specific time requirements are included in the code descriptors, so the midpoint rule is not applicable to 99406–99408.</para>
       </listitem>
    </orderedlist>
 </sect1>
